@@ -1,0 +1,170 @@
+How to Create an iPhone in Cinema 4D: Part 2
+by Jonathan Lam
+17 Dec 2018
+Difficulty: Intermediate
+Length: Medium
+Languages: English
+3D
+3D Models
+3D Rendering
+3D Games
+3D Graphics
+Cinema 4D
+Illustration
+Digital Art
+Graphic Design
+Rendering Pipelines
+Modeling
+iPhone
+Apple
+What You'll Be Creating
+Follow this tutorial step-by-step to create a 3D iPhone model to use in video games, graphic design and illustration projects whilst learning Cinema 4D quickly.
+Some of the skills you'll learn in this tutorial include creating basic 3D modelling, importing reference images, adding lighting to the scene and basic rendering techniques.
+In the first part of the two-part tutorial, I showed you how to:
+How to Import Reference Images
+How to Prepare for Modelling
+How to Model the iPhone
+In this, the second part of the the tutorial series, I'll show you how to:
+How to Create Coloured Materials
+How to Add Lighting to the Scene
+How to Render the iPhone
+9. How to Create a New Material
+Step 1
+Located near the bottom of the screen there is a material selection window. Click on Create > New Material to create a new material to use that you can edit.
+Materials are used to colour in the various objects and parts of the iPhone.
+Select New Material from the menu
+Step 2
+Double click on the new material icon (displayed as a sphere). This will bring up the Material Editor, where you can adjust the various properties of the material such as the colour, transparency and reflectance.
+For this particular style we will only be interested in flat colour (Luminance).
+Open the Material Editor
+Step 3
+Tick the button for Luminance and untick the boxes for Colour and Reflectance. This will give the cel shaded look for the final image.
+Select Luminance
+Step 4
+Colour the iPhone body by adding the material to the object. Drag and drop the material to the object using the mouse. You can also drag and drop the material onto the object listed on the right of the screen.
+Drag new material on to the 3D model
+10. How to Adjust the Material Properties
+Step 1
+In the Material Editor, click on the arrow button next to Texture and select Sketch and Toon > Cel from the menu.
+Select Sketch and Toon and Cel from the menu
+Step 2
+Click on the new Cel button that appears next to Texture to bring up a new menu.
+Click on the Cel button
+Step 3
+In this new menu, adjust the settings as follows:
+Change the Diffuse to match the image at below.
+It should be grey scale with the colour getting light from left to right.
+Untick Camera.
+Tick Lights.
+Tick Shadows
+Select Multiply from the drop down menu.
+Adjust the settings in the editor
+Step 4
+Select a colour by double-clicking on the colour option box .
+The Material Editor gives many different options for choosing and picking colours. These include RGB, HSV and so on. Choose whichever option you are most familiar with as a flat colour. Because of the Multiply shading mode, the different colour shades will also appear in the material.
+If the material has already been applied to the model, the colour of the model will automatically be adjusted to the new material colour. This is useful if you change your mind on a certain colour or a certain part of the iPhone model.
+Pick a colour
+Step 5
+Because we've already applied the material to the model, the colour of the iPhone will automatically be adjusted to the new material colour.
+11. How to Adjust the Shading
+Step 1
+To get a better idea of the shading and how our render will turn out as we work on it, click and hold on the Render Button and select Interactive Render Region from the menu.
+Select Interactive Render Region
+Step 2
+Use the mouse to adjust the window so that it fits around the iPhone model. Look for the very small arrow on the right hand side of the window and use the mouse to drag it to the top right corner of the box (this increases the resolution).
+Decrease the resolution by moving the arrow down if you find that the performance is decreasing.
+Adjust the resolution
+Step 3
+To change the way the light source is facing go to Options > Default Light.
+You can also add a light object to the scene if you are more comfortable working that way.
+Select default light
+Step 4
+Change the light source in the Default Light window. Click where you'd like the light source to come from on the sphere and it will sync with the view port. Experiment with different lighting positions to come up with a lighting situation that you like.
+This can be adjusted at anytime so you can change the lighting again if you changed your mind.
+Change the lighting direction
+Step 5
+Secondary-click on the arrow and select Alpha Mode in order to reveal the rest of the viewport. Some people may find working this way easier.
+Select Alpha Mode
+12. Other Lighting Solutions
+Step 1
+To set up the basic lighting, go to the Floor button located in the top menu bar. Primary-Click-Hold and then select Physical Sky from the menu.
+Select Physical Sky
+Step 2
+Make sure that Physical Sky is selected in the menu on the right, a new menu will appear on the bottom right of the screen. Select the Time and Location tab and choose a time using the left and right arrow keys.
+This will change the lighting of the scene (according to the time of the day). Choose a suitable time to light up the scene. You'll see how the lighting affects the scene in the viewport.
+Select a Time
+Step 3
+To add a light to the scene, select the Add Light button in the top menu bar at the top of the screen.
+This creates a Light Object which you can move around the scene. Move the light object using the Move Tool to a suitable position.
+Select the Add Light Button
+Step 4
+To customise the lighting further, experiment with the light object options in the bottom right of the screen. Here you can adjust the Intensity, Light Type and even Colour.
+Light Object adjustments
+13. How to Colour the iPhone Screen
+Step 1
+To create a new material we can duplicate the material by holding CTRL on the keyboard and then using the mouse to click and drag the material to the side.
+Duplicate material
+Step 2
+Double-click on the new material to open up the Material Editor and select Luminance. From there we can change the colour to the following:
+R: 56
+G: 47
+B: 66
+Choose a new colour
+Step 3
+Apply the new material to the screen by clicking and dragging it directly onto the object.
+Apply material to model
+14. How to Colour the iPhone Details
+Step 1
+Create a new material. You can also duplicate a previous material in order to keep the settings from before.
+Double-click on the new material to open up the Material Editor and select Luminance. From there we can change the colour to the following:
+R: 70
+G: 69
+B: 65
+Choose a new colour
+Step 2
+Apply the new material to the button objects inside the cutout group. You can also apply the material by clicking and dragging it to the object in the viewport.
+Apply material to objects in list view
+Step 3
+When the material is applied, the details will change colour to reflect the material.
+Apply new material to iPhone details
+Step 4
+Repeat the same steps for the side buttons. For the side buttons, use the same colour material which was used for the iPhone body.
+Apply new material to iPhone buttons
+Step 5
+For the back camera details, use the dark grey colour. Remember that you can change the colour of the material at a later date as well.
+Apply new material to iPhone camera
+15. How to Render the iPhone
+Step 1
+On the top menu bar, click on the Render Settings button. This brings up the render settings window.
+Click on the Render Settings button
+Step 2
+In the render settings menu, you can change the options to what you need. First, tick the Save Settings to select a file location, file format and alpha channel.
+Select Alpha Channel if you wish to keep the background see through.
+Save settings
+Step 3
+In the Output Settings choose the resolution, height and width of the image.
+Output settings
+Step 4
+To ensure that the render is nice and sharp go to the Anti-Aliasing settings. Select Cubic (Still Image) which can be found under Filter.
+Anti-Aliasing settings
+Step 5
+To create the final image, click on the Render button. Remember to select the right view in the viewport (front, right, left or perspective etc.) and that you're happy with the camera angle.
+Choose a suitable angle in the viewport by navigating around the scene.
+Click on the Render button
+Step 6
+If you want to have more control over how your final render looks, create a camera object to help. Find a suitable view using the viewport first and then click on the camera button.
+This will create a camera using the current view in the viewport. Check out the camera settings to see how they affect the final render.
+Click on the Camera button
+The End Result
+Wait for the final render to finish. Once the render is complete you can repeat the steps above and change the camera or the view port to create a new image from a different angle.
+Throughout the course of the project you have successfully learnt how to:
+Import Reference Images
+Prepare for Modelling
+Model an iPhone
+Create Materials
+Colour the Model
+Render the iPhone
+Feel free to share your own creations below. You can also export your image into Adobe Photoshop to enhance it further or to use it as part of a larger image.
+Final iPhone render
+Jonathan Lam
+Hi everyone! My name is Jonathan Lam and I'm a Digital Artist on a mission to empower, educate and inspire creative students just like you to gain the creative skills you desire! Currently I work for Ubisoft as a concept and game artist. My skills range from graphic design, illustration, animation, 3D modelling/sculpting, concept art and video editing. Some of the projects I've worked on include Hungry Shark World, Hungry Shark Evolution, Starbeard and the Kickstarter Funded Game called Eminence: Xander's Tales. I've also worked with many high profile clients including Riot Games, Sony Entertainment, Hasbro and Google as a graphic designer and illustrator.

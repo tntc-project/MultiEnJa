@@ -1,0 +1,58 @@
+Overview of Device Regulation
+Introduction
+FDA's Center for Devices and Radiological Health (CDRH) is responsible for regulating firms who manufacture, repackage, relabel, and/or import medical devices sold in the United States. In addition, CDRH regulates radiation-emitting electronic products (medical and non-medical) such as lasers, x-ray systems, ultrasound equipment, microwave ovens and color televisions.
+Radiation-emitting Electronic Products
+Medical devices are classified into Class I, II, and III. Regulatory control increases from Class I to Class III. The device classification regulation defines the regulatory requirements for a general device type. Most Class I devices are exempt from Premarket Notification 510(k); most Class II devices require Premarket Notification 510(k); and most Class III devices require Premarket Approval. A description of device classification and a link to the Product Classification Database is available at "Classification of Medical Devices."
+The basic regulatory requirements that manufacturers of medical devices distributed in the U.S. must comply with are:
+Establishment registration,
+Medical Device Listing,
+Premarket Notification 510(k), unless exempt, or Premarket Approval (PMA),
+Investigational Device Exemption (IDE) for clinical studies
+Quality System (QS) regulation,
+Labeling requirements, and
+Medical Device Reporting (MDR)
+Establishment Registration - 21 CFR Part 807
+Manufacturers (both domestic and foreign) and initial distributors (importers) of medical devices must register their establishments with the FDA. All establishment registrations must be submitted electronically unless a waiver has been granted by FDA. All registration information must be verified annually between October 1st and December 31st of each year. In addition to registration, foreign manufacturers must also designate a U.S. Agent. Beginning October 1, 2007, most establishments are required to pay an establishment registration fee.
+Establishment Registration
+U.S. Agents
+Medical Device Listing - 21CFR Part 807
+Manufacturers must list their devices with the FDA. Establishments required to list their devices include:
+manufacturers,
+contract manufacturers that commercially distribute the device,
+contract sterilizers that commercially distribute the device,
+repackagers and relabelers,
+specification developers,
+reprocessors single-use devices,
+remanufacturer
+manufacturers of accessories and components sold directly to the end user
+U.S. manufacturers of "export only" devices
+Medical Device Listing
+Premarket Notification 510(k) - 21 CFR Part 807 Subpart E
+If your device requires the submission of a Premarket Notification 510(k), you cannot commercially distribute the device until you receive a letter of substantial equivalence from FDA authorizing you to do so. A 510(k) must demonstrate that the device is substantially equivalent to one legally in commercial distribution in the United States: (1) before May 28, 1976; or (2) to a device that has been determined by FDA to be substantially equivalent.
+Premarket Notification 510(k)
+On October 26, 2002 the Medical Device User Fee and Modernization Act of 2002 became law. It authorizes FDA to charge a fee for medical device Premarket Notifcation 510(k) reviews. A small business may pay a reduced fee. The application fee applies to Traditional, Abbreviated, and Special 510(k)s. The payment of a premarket review fee is not related in any way to FDA's final decision on a submission.
+510(k) Review Fees
+Most Class I devices and some Class II devices are exempt from the Premarket Notification 510(k) submission. A list of exempt devices is located at:
+510(k) Exempt Devices
+If you plan to send a 510(k) application to FDA for a Class I or Class II device, you may find 510(k) review by an Accredited Persons beneficial. FDA accredited 12 organizations to conduct a primary review of 670 types of devices. By law, FDA must issue a final determination within 30 days after receiving a recommendation from an Accredited Person. Please note that 510(k) review by an Accredited Person is exempt from any FDA fee; however, the third-party may charge a fee for its review.
+Third Party Review
+Premarket Approval (PMA) - 21 CFR Part 814
+Product requiring PMAs are Class III devices are high risk devices that pose a significant risk of illness or injury, or devices found not substantially equivalent to Class I and II predicate through the 510(k) process. The PMA process is more involved and includes the submission of clinical data to support claims made for the device.
+Premarket Approval
+Beginning fiscal year 2003 (October 1, 2002 through September 30, 2003), medical device user fees apply to original PMAs and certain types of PMA supplements. Small businesses are eligible for reduced or waived fees.
+PMA Review Fees
+Investigational Device Exemption (IDE) - 21CFR Part 812
+An investigational device exemption (IDE) allows the investigational device to be used in a clinical study in order to collect safety and effectiveness data required to support a Premarket Approval (PMA) application or a Premarket Notification 510(k) submission to FDA. Clinical studies with devices of significant risk must be approved by FDA and by an Institutional Review Board (IRB) before the study can begin. Studies with devices of nonsignificant risk must be approved by the IRB only before the study can begin.
+Investigational Device Exemption
+Quality System Regulation (QS regulation) - 21 CFR Part 820
+The quality system regulation includes requirements related to the methods used in and the facilities and controls used for: designing, purchasing, manufacturing, packaging, labeling, storing, installing and servicing of medical devices. Manufacturing facilities undergo FDA inspections to assure compliance with the QS requirements.
+Quality System
+Labeling - 21 CFR Part 801
+Labeling includes labels on the device as well as descriptive and informational literature that accompanies the device.
+Labeling
+Medical Device Reporting - 21 CFR Part 803
+Incidents in which a device may have caused or contributed to a death or serious injury must to be reported to FDA under the Medical Device Reporting program. In addition, certain malfunctions must also be reported. The MDR regulation is a mechanism for FDA and manufacturers to identify and monitor significant adverse events involving medical devices. The goals of the regulation are to detect and correct problems in a timely manner.
+Medical Device Reporting
+Additional Information
+Code of Federal Regulations (CFR)
+CDRH Freedom of Information (FOI) Reference Sheet

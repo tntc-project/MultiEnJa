@@ -1,0 +1,43 @@
+Carrier powers and immunities
+Telecommunications companies have some powers to enter land and install and maintain some types of telecommunications facilities, and some immunities from some state and territory legislation.
+The laws are set out under Schedule 3 to the Telecommunications Act 1997 and are critical to the efficient construction and maintenance of telecommunications networks.
+In using their powers and immunities, carriers need to meet the requirements in the Telecommunications Act 1997 and the Telecommunications Code of Practice 2018.
+The laws are designed to strike the right balance between the community's need to access reliable, affordable telecommunications services and ensuring that property owners, local governments and communities have a say in the deployment of infrastructure that affects them.
+The laws can mean that telecommunications companies deploying infrastructure (known as carriers) are exempt from some state and territory laws, including planning laws, for:
+facilities that are determined to be low-impact facilities,
+temporary facilities for use by a defence organisation, or
+facilities for which the Australian Communications and Media Authority (ACMA) has granted a Facility Installation Permit.
+If a facility is not in one of these three groups, then carriers must comply with state and territory laws and planning regulations.
+It's in everyone's interests for carriers to provide services to the people who need them quickly and cost effectively. Carriers can rollout low-impact facilities infrastructure under one, national process, rather than multiple state, territory and local government requirements. This reduces the administrative burden on governments and carriers. There are strong safeguards and objection rights to protect the rights of the community and property owners.
+What are low-impact facilities?
+Low-impact facilities include some radiocommunications facilities, underground and above-ground housing, underground and some aerial cables, public payphones, emergency and co-located facilities.
+This list of the different type of facilities has been specified in the Telecommunications (Low-impact Facilities) Determination 2018.
+These low-impact facilities are needed for telecommunications networks to provide wider coverage and services. The strict type, size, colour and location limitations of low-impact facilities means that carriers can rollout networks with as little disruption to the community as possible during installation or operation.
+Some facilities installed during the rollout of the National Broadband Network, such as node cabinets, are low-impact facilities.
+Facilities can't be low-impact facilities if they're to be installed in areas of environmental significance, which includes places listed on a Commonwealth, state or territory heritage register. These facilities must meet the requirements of the usual Commonwealth, state or territory approval processes, such as the Environment Protection and Biodiversity Conservation Act 1999 or the broader telecommunications regime, including the Radiocommunications Act 1992.
+Carriers installing low-impact facilities for mobile phone networks must also comply with the additional requirements in the Industry Code for Mobile Phone Base Station Deployment C564:2011.
+What obligations do carriers have?
+There are limits on what carriers can do under the Telecommunications Act 1997 . These give land owners and occupiers the right to:
+Notification—Carriers must give 10 days' written notice before they start any work, other than in emergencies or if the owner or occupier has already waived the right to be notified. There are alternative arrangements if the carrier can't find the land owner.
+Objection—The owner or occupier can object to the carrier, but it has to be at least five business days before the carrier plans to start work. The matter can then be resolved with the carrier, or through the Telecommunications Industry Ombudsman. Parties can also settle the matter through the courts.
+More information on the objection process can be found on the Telecommunications Industry Ombudsman's website.
+The Telecommunications Code of Practice 2018 sets out further obligations on carriers. For example, carriers, and their contractors, must comply with good engineering practice and consider noise limits, the environment, and obstruction of essential services when installing or maintaining facilities.
+Compliance with the Telecommunications Act and the Telecommunications Code of Practice is a licence condition. As the regulator, the ACMA can enforce licence conditions by, for example, issuing directions to carriers, or by initiating court action in serious cases.
+Obligations on landholders and occupiers
+Carriers own any infrastructure they install, including cables.
+Property owners have certain responsibilities and a duty of care to carriers under common law. If a carrier is able to demonstrate that a property owner had deliberately or negligently caused damage to a cable, the carrier may be able to seek damages from the property owner in a court of law. Criminal offences may also apply for intentional damage to a carrier's property.
+Providing services to multi-dwelling units
+Carriers supplying telecommunications services to multi-dwelling units often need to install termination boxes and other equipment in the building. Some of these in-building facilities are low-impact facilities. This equipment is generally unobtrusive and it lets occupants of multi-dwelling units access telecommunications services.
+The Communications Alliance (formerly the Australian Communications Industry Forum) worked with carriers to find technical solutions to access issues relating to in-building subscriber equipment. These are set out in the industry guideline on building access operations and installation:
+ACIF Code G571:2002 Building access operations and installation (PDF 890KB)
+Communications Alliance website.
+Getting help to resolve a complaint
+In the first instance, concerns about a carrier's use of powers and immunities should be raised with the carrier itself.
+The Telecommunications Industry Ombudsman provides a free dispute resolution service for people who've raised a complaint with a carrier but can't reach a resolution.
+The ACMA is the Australian regulator of telecommunications carriers. The ACMA can look into carrier non-compliance with regulatory obligations.
+Contacts
+Email: powersandimmunities [at] communications.gov.au
+Post:
+Competition Branch
+Department of Communications and the Arts
+GPO Box 2154 Canberra ACT 2601

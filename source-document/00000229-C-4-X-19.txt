@@ -1,0 +1,21 @@
+License borrowing
+Share
+License borrowing is an optional feature of network licensing.
+What is License Borrowing?
+How Does Borrowing Work?
+How Long Can a License be Borrowed?
+What is License Borrowing?
+If you are using a network-licensed version of your Autodesk product and your network supports the license borrowing feature, you can borrow a product license from your network license server to use the Autodesk product for a specified time when your computer is not connected to the network. Borrowing may also be beneficial in situations where the connection to your license server may not be consistent or the license server needs to be taken down for maintenance during work hours.
+Your borrowed license is automatically returned to the license server at the end of the day on the return date you set when you borrow the license. You can also return a license early.
+Note: Borrowing only applies to Network licenses. For stand-alone licenses, you may be able to use the License Transfer Utility to transfer a license from one machine to another.
+Return to Top
+How Does Borrowing Work?
+When a license is borrowed, it reduces the count of available licenses in the network license pool. If you have a pool of 10licenses and someone borrows one, you then have a remaining pool of nine licenses available for others to use. As long as that license is borrowed, it is not available on the license server.
+Borrowing is handled on a per-user and per-computer basis and requires being on the network to do the borrowing. Only machines that can make a connection to your license server are able to borrow a license. Once a license has been borrowed, the Network License Manager will keep track of that license, for the machine that borrowed it, and for the specified period of time.
+Note: A limited number of licenses are available for borrowing. If you try to borrow a license and are notified that no licenses are available, see your network administrator for help.
+Unless returned early, borrowed licenses are automatically returned when the borrow period expires. If the defined borrow period was seven days, the borrowed license will automatically be returned to the license pool when seven days have passed. Borrowed licenses can be returned early but requires being connected to the network license server. Just as you connected to borrow a license in the first place, you have to connect to the same license server to return it early.
+Return to Top
+How Long Can a License be Borrowed?
+When borrowing a license you must specify the period of time you want to borrow the license. The maximum period of time a license can be borrowed is six months however the allowable borrow period may be much shorter if restricted by an options file. Borrowed licenses are automatically returned when the borrow period expires or upon expiration of your subscription with multi-user access, whichever is sooner. Restricting the maximum borrow period to a much shorter duration than six months helps avoid the risk of a license being out of circulation for an extended period. For example, if the license is on a laptop computer, and the computer is stolen or damaged, the license cannot be returned early.
+By using an options file, you can configure license borrowing behavior to specify the maximum amount of time a license can be borrowed, restrict the number of licenses that can be borrowed, and set up a list of specific users who are allowed to borrow licenses. See the article, Control Network License Access Using an Options File, for detailed information.
+Return to Top

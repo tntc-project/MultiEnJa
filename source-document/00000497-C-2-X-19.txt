@@ -1,0 +1,36 @@
+Equipment Authorization – RF Device
+What is an RF Device?
+The FCC regulates radio frequency (RF) devices contained in electronic-electrical products that are capable of emitting radio frequency energy by radiation, conduction, or other means. These products have the potential to cause interference to radio services operating in the radio frequency range of 9 kHz to 3000 GHz.
+Almost all electronic-electrical products (devices) are capable of emitting radio frequency energy. Most, but not all, of these products must be tested to demonstrate compliance to the FCC rules for each type of electrical function that is contained in the product. As a general rule, products that, by design, contain circuitry that operates in the radio frequency spectrum need to demonstrate compliance using the applicable FCC equipment authorization procedure (i.e., Supplier's Declaration of Conformity (SDoC) or Certification) as specified in the FCC rules depending on the type of device. A product may contain one device or multiple devices with the possibility that one or both of the equipment authorization procedures apply. An RF device must be approved using the appropriate equipment authorization procedure before it can be marketed, imported, or used in the United States.
+The following discussions and descriptions are provided to help identify whether a product is regulated by the FCC and whether it requires approval. The more difficult issue, but not covered in this document, is how to categorize an individual RF device (or multiple components or devices within an end product) to determine the specific FCC rule part(s) that apply, and the specific equipment authorization procedure or procedures that need to be used for FCC compliance purposes. This determination requires technical understanding of the product, as well as knowledge of the FCC rules.
+Some basic guidance on how to obtain an equipment authorization is provided at the Equipment Authorization Page.
+Radio Frequency Devices are grouped under the Following Categories:
+INCIDENTAL RADIATORS (Part 15, Subpart A)
+An incidental radiator (defined in Section 15.3 (n)) is an electrical device that is not designed to intentionally use, intentionally generate or intentionally emit radio frequency energy over 9 kHz. However, an incidental radiator may produce byproducts of radio emissions above 9 kHz and cause radio interference. A product that is classified as an incidental radiator device is not required to obtain an equipment authorization. Nonetheless, incidental radiator are regulated under the general operating conditions of Section 15.5 and if there is harmful interference the user must stop operation and remedy the interference. Manufacturers and importers should use good engineering judgment before they market and sell these products, to minimize possible interference (Section 15.13).
+Examples of products that are classified as incidental radiators include: AC and DC motors, mechanical light switches, basic electrical power tools (that do not contain digital logic).
+UNINTENTIONAL RADIATORS (Part 15, Subparts B and G)
+An unintentional radiator (defined in Section 15.3 (z)) is a device that by design uses digital logic, or electrical signals operating at radio frequencies for use within the product, or sends radio frequency signals by conduction to associated equipment via connecting wiring, but is not intended to emit RF energy wirelessly by radiation or induction.
+Today the majority of electronic-electrical products use digital logic, operating between 9 kHz to 3000 GHz and are regulated under 47 CFR Part 15 Subpart B.
+Examples include: coffee pots, wrist watches, cash registers, personal computers, printers, telephones, garage door receivers, wireless temperature probe receiver, RF universal remote control and thousands of other types of common electronic-electrical equipment that rely on digital technology. This also includes many traditional products that were once classified as incidental radiators – like motors and basic electrical power tools that now use digital logic.
+Products that only contain digital logic may also be specifically exempted from an equipment authorization under Section 15.103.
+INTENTIONAL RADIATORS (Part 15, Subparts C through F and H)
+An intentional radiator (defined in Section 15.3 (o)) is a device that intentionally generates and emits radio frequency energy by radiation or induction that may be operated without an individual license.
+Examples include: wireless garage door openers, wireless microphones, RF universal remote control devices, cordless telephones, wireless alarm systems, Wi-Fi transmitters, and Bluetooth radio devices.
+INDUSTRIAL, SCIENTIFIC, AND MEDICAL EQUIPMENT (Part 18)
+When electronic-electrical products are used for providing RF energy for other than telecommunications applications, such as for the production of physical, biological, or chemical effects, such as heating, ionization of gases, mechanical vibrations, and acceleration of charged particles, these devices fall under the FCC rules 47 CFR Part 18.
+Examples include: fluorescent lighting, halogen ballasts, arc welders, microwave ovens, and medical diathermy machines.
+Note:
+A general consumer medical device does not typically come under this classification; rather Part 18 applies for medical equipment only when it is designed to generate and use RF energy locally for medical or therapeutic purposes.
+EQUIPMENT OPERATING IN LICENSED RADIO SERVICES
+Products that use licensed radio spectrum, from fixed microwave links to cellular telephones to mobile broadband services, are considered RF devices and are subject to equipment authorization.
+Examples of licensed radio equipment subject to Certification include: low power TV transmitters, cell phones/smart phones, base stations, licensed point-to-point microwave radios, private land mobile transmitters, aviation and marine radios.
+For more information on licensed radio services:
+List of Wireless Services
+Wireless Telecommunications Bureau
+Public Safety and Homeland Security Bureau
+International Bureau
+Radio spectrum allocation, regulatory responsibility for the radio spectrum is divided between the Federal Communications Commission (FCC) (non-Government uses) and the National Telecommunications and Information Administration (NTIA) (Government agencies usage). At present only frequency bands between 9 kHz and 275 GHz have been allocated (i.e., designated for use by one or more terrestrial or space radiocommunication services, or for the radio astronomy service under specified conditions). OET maintains the FCC's Table of Frequency Allocations, which is a compilation of allocations. The FCC's Table of Frequency Allocations is codified at Section 2.106 of the Commission's Rules. For a more detailed description go to the Table of Frequency Allocations Chart.
+Bureau/Office:
+Engineering & Technology
+Tags:
+Devices - Devices, Engineering & Technology

@@ -1,0 +1,33 @@
+FANUC Introduces New Food Grade Delta Robot
+Posted October 17th, 2019 for FANUC America
+by FANUC America Oct 18, 2019
+FANUC's DR-3iB food-grade delta robot sets a new standard for robotic food handling in terms of payload, speed, reach and sanitation.
+ROCHESTER HILLS, MI
+(Sept. 23, 2019)
+FANUC America, the leading supplier of CNCs, robotics and ROBOMACHINEs has introduced the next generation DR-3iB food grade delta robot. The DR-3iB sets a new standard for robotic food handling in terms of payload, speed, reach and sanitation. It made its debut to the packaging industry at Pack Expo 2019, Sept. 23-25.
+FANUC DR-3iB Delta Robot Series
+The new DR-3iB delta robot is FANUC's latest solution for picking and packing primary and secondary food products. Rated IP69K, the robot meets the strictest food handling regulations. Its design features corrosion-resistant materials, an unpainted finish, and a fully enclosed body allowing it to tolerate high pressure/temperature and sanitizer wash down environments.
+A powerful four-axis design and higher wrist inertia allows the DR-3iB/8L to handle 8kg payloads at very high speeds. Improved repeatability maximizes accuracy, and a hollow wrist design keeps all gripper wires and piping tucked inside.
+A large work envelope featuring a 1600mm reach (500mm height) allows it to handle applications that require more range such as reaching into tall boxes or handling product on wide conveyors.
+The DR-3iB operates with FANUC's latest R-30iB Plus controller with integrated intelligent functions such as iRVision®, Force Sensing, Robot Link, Collision Guard and Zero Down Time (ZDT).
+Pack Expo Demonstration
+FANUC's new DR-3iB/8L delta robot uses 2D iRVision and iRPickTool line tracking software to pick randomly oriented product from a continuous infeed conveyor. Equipped with a multi-pick gripper, the robot picks three packages and places them into a box on an outfeed fixed station to simulate case packing. The products recirculate and the cycle repeats. The cell features high-speed picking/packing with product re-orientation.
+DR-3iB Delta Robot Features and Benefits for the Food Industry:
+Standard IP69K rating for the entire robot means it is waterproof and can withstand harsh environments, including high temperature and high-pressure cleaning.
+An unpainted surface prevents paint chips from falling and contaminating food.
+No springs, stickers or pocketed fasteners eliminate the potential for bacterial growth.
+Self-draining and angled surfaces prevent product or liquid collection.
+Viewing window for grease detection and easy maintenance.
+DR-3iB/8L has an 8kg payload, four-axis design optimized for high speed picking and packing.
+DR-3iB/8L features a 1600mm reach (500mm height) allowing it to easily handle applications that require more range.
+A hollow wrist enables internal cable and hose routing, minimizing wear and tear and improving sanitation.
+Food option features food grade grease and a special coating to handle acid and alkaline disinfectants.
+Ability to work with primary (unpackaged) or secondary (packaged) food products.
+Supports FANUC's latest intelligent features including iRVision and force sensing.
+Collision Guard detects robot collisions with external objects, minimizing damage to the part and robot.
+Robot Link controls and coordinates up to ten robots through a network exchange of robot positional data.
+The new DR-3iB/8L will be available Q1 2020.
+About FANUC America Corporation
+FANUC America Corporation is a subsidiary of FANUC CORPORATION in Japan, and provides industry-leading robotics, CNC systems, and factory automation. FANUC's innovative technologies and proven expertise help manufacturers in the Americas maximize productivity, reliability and profitability.
+FANUC embraces a culture of “Service First” which means that customer service is our highest priority. We are committed to supplying our customers with parts and support for the life of their FANUC products.
+FANUC America is headquartered at 3900 W. Hamlin Road, Rochester Hills, MI 48309, and has facilities in: Auburn Hills, MI; Atlanta; Boston; Charlotte; Chicago; Cincinnati; Cleveland; Houston; Huntington Beach, CA; Los Angeles; Minneapolis; Montreal; Pine Brook, NJ; Pontiac, MI; Birmingham AL; San Francisco; Seattle; Toronto; Buenos Aires, Argentina; Sao Paulo, and Manaus, Brazil; and Aguascalientes, Monterrey, and Queretaro, Mexico. For more information, please call: 888-FANUC-US (888-326-8287) or visit our website: https://www.fanucamerica.com/. Also, connect with us on YouTube, , , LinkedIn and Instagram.

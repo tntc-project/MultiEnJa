@@ -1,0 +1,54 @@
+Electronic Common Technical Document (eCTD)
+The eCTD is the standard format for submitting applications, amendments, supplements, and reports to FDA's Center for Drug Evaluation and Research (CDER) and Center for Biologics Evaluation and Research (CBER).
+Important Dates
+Reminder: Per eCTD Guidance, NDA, BLA, ANDA, and Commercial IND submissions must include a FDA fillable form (e.g. 356h, 1571, 2252). FDA plans to implement a validation check for the fillable form beginning July 27, 2018. Submissions which fail this validation will be subject to rejection. Please see the eCTD Guidance and the eCTD Validation Criteria (error code 7) for details.
+After the dates listed below, eCTD requirements for submissions to CDER and CBER will go into effect and submissions that do not use eCTD will not be filed or received.
+May 5, 2017:
+New Drug Applications (NDAs), Abbreviated NDAs (ANDAs), and Biologics License Applications (BLAs), must be submitted using eCTD format.
+May 5, 2018:
+Commercial Investigational New Drug Applications (INDs) and Master Files must be submitted using eCTD format.
+Please refer to the eCTD Guidance for the complete details to meet the eCTD requirement.
+Visit our Submit Using eCTD page to learn how to submit an application using eCTD and obtain an ESG account.
+To view all eCTD Submission Resources, visit our eCTD Resources page.
+Types of Submissions Subject to eCTD Requirement
+Electronic submission requirements will apply to the following types of submissions to CDER/CBER:
+NDAs
+ANDAs
+BLAs
+Commercial IND applications (for products that are intended to be distributed commercially)
+All subsequent submissions to these types of applications, including amendments, supplements, and reports, even if the original submission was filed before the requirements went into effect
+Master files, such as DMFs, which are considered to be submissions to an IND, an NDA, an ANDA, or a BLA
+Electronic submission standards will be optional but encouraged for the following categories:
+Noncommercial INDs, such as investigator-sponsored INDs and expanded-access INDs
+Submissions for blood and blood components, including source plasma
+Submissions for promotional materials for human prescription drug
+Current Versions and Updates
+Electronic submissions must use the version of eCTD currently supported by FDA, which is specified in the FDA Data Standards Catalog on the Study Data Standards Resources page. Updates to the standard will be announced on the FDA website and published in the Federal Register. The notices will include the date on which the new versions will go into effect.
+For a listing of Specifications, Supportive Files, M1 versions 1.3 and 2.3 documents related to eCTD, please refer to eCTD Submission Standards (XLS - 57KB) or eCTD Submission Standards (PDF - 91KB).
+Notices
+Notice 1/30/2019
+FDA Extends Compliance Date for Submitting DMF Type lll in eCTD format
+The FDA extended the compliance date for submitting DMF Type lll in eCTD format to May 5, 2020. See the FDA guidance document for additional information on the compliance date and FDA's Drug Master File page for additional information on DMFs.
+Notice 11/30/2018
+FDA plans to accept eCTD sequences with an eCTD submission type of “REMS Supplement” in the future. Implementation date is TBD. See submission-type.xml and M1 Specifications (located in the eCTD Submission Standards) for details.
+Notice 6/1/2018
+Please be advised that the FDA's eCTD Access Data Website will update ciphers and SSL protocols in Production on September 1, 2018
+Please make sure your system used to connect with the FDA's eCTD Access Data website can connect with compatible secure ciphers and SSL protocols listed below.
+SSL Protocols / Cipher Suites
+TLS 1.1 or higher
+Example links to eCTD Access Data Website:
+http://www.accessdata.fda.gov/static/eCTD/us-regional-v3-3.dtd
+http://www.accessdata.fda.gov/static/eCTD/us-regional.xsl
+What action do you need to take?
+If you want to continue to access the eCTD Access Data website, you need to ensure your browser(s)/Servers have TLS 1.1 or higher enabled. If your browser or Servers do not have TLS 1.1 or higher enabled after FDA makes this change, then you will NOT be able to access these eCTD websites.
+Backend servers that communicate with the eCTD Access Data Website links should also be communicating using TLS 1.1 or higher. Please contact your IT System Administrators or Technology Support personnel for appropriate methods to enable/upgrade your servers.
+Notice 4/24/2018
+FDA Extends Compliance Date for Submitting DMF Type lll in eCTD format
+The FDA extended the compliance date for submitting DMF Type lll in eCTD format to May 5, 2019. See the FDA guidance document for additional information on the compliance date and FDA's Drug Master File page for additional information on DMFs
+Important Notice 5/18/2016
+Third Acknowledgement for Successful eCTD Submissions
+Beginning May 31, 2016, CDER will begin issuing an acknowledgement to FDA Electronic Submissions Gateway (ESG) users when their NDA, ANDA, BLA, IND, or DMF submission has successfully completed validation and processing and is available to the assigned review division. This acknowledgement is in addition to the ESG Message Delivery Notification acknowledgement (first acknowledgement) and the Official Center acknowledgement (second acknowledgement) and is referred to as the “third acknowledgement.”
+For additional notices, please see eCTD Important Notices.
+Stay Connected
+If you have questions for CDER, please contact the CDER Electronic Submission (ESUB) Support Team at esub@fda.hhs.gov.
+If you have questions for CBER, please contact the CBER ESUB Support Team at esubprep@fda.hhs.gov.

@@ -1,0 +1,82 @@
+4.4. Collections
+Portfolio → Collections
+A collection is a set of pages that are linked to one another and have the same access permissions. You can create as many collections as you like, but a page cannot appear in more than one collection. You can create a collection from scratch or copy an existing one - either one of your own or one from another user that is copyable to you.
+4.4.1. Manage your collections
+When you are on the overview page of the collections, you can do several things.
+Collections overview page
+Create a new collection by clicking the New collection button.
+Copy an existing collection by clicking the Copy a collection button.
+Click on the collection title to go to the first page of the collection.
+Click on any title of a page within a collection to jump directly to it.
+Click the Manage button <画像> to move pages within a collection, add them to or delete them from a collection.
+Click the Edit button <画像> to change the title and description of a collection.
+Click the Delete button <画像> to delete the collection. The pages will still exist.
+When you submitted a collection to a group, you cannot edit or delete it until it has been released.
+Note
+You can see up to 10 collections on the collections overview page, and then use the pager to move to other collections.
+4.4.2. Add a collection
+Create a collection
+Click the New collection button under Portfolio → Collections.
+On the next screen…
+Collection name: Provide a title for your collection.
+Collection description: Optionally, you can write a short description about your collection.
+You do not have a visual editor, but just a plain text box.
+Tags: Enter tags to find your collection more easily at a later stage.
+Separate your tags with commas.
+If you already have tags, you can click on the link Show my tags and select the ones that you think will fit for this collection as well.
+They will be entered into the text field for you.
+Page navigation bar: Choose whether you wish to display a tabbed navigation or not.
+If you choose not to, you will have to include the navigation block for you to go from one page to the next on the individual pages that belong to this collection.
+Click the Next: Edit collection pages button or click the Cancel button if you want to abort adding your collection.
+4.4.3. Copy a collection
+4.4.3.1. Copy a collection by searching for it
+You can duplicate your own collections or collections of other users if they allowed you to do that. As every page can only be in one collection at a time, your own pages will be copied when you copy a collection.
+Copy a collection
+Click the Copy a collection button under Portfolio → Collections. On the next screen…
+Search: If there are many pages or collections from which you can choose, search here for a keyword in the page or collection title or for the name of the page owner.
+Collection title: Click on the title of a collection to preview it before copying it.
+Note
+The sort order on the screen is according to collection titles in alphabetical order.
+Page name: Click on the title of the page to see a preview of it before you copy it.
+Owner: Click on the name of the owner to view a larger profile picture and the self description if the owner provided one or to see information about a group it that is the owner.
+Click the Copy collection button to copy an entire collection with multiple pages into your portfolio. All pages within this collection are copied or
+Click the Copy page button to copy one page only into your own portfolio.
+Edit the collection and its pages as you would do any other collection and pages.
+Note
+The site administrator can decide to leave out “Copy of…” for copied pages or collections. This setting needs to be made in the config.php file. If $cfg->renamecopies = false;, copies of new pages and collections will not have “Copy of” prepended to their titles.
+See also
+You can watch a demo of this feature in action.
+4.4.3.2. <画像> Copy a collection directly from its location
+You can copy a page or collection directly when you view it by clicking the Copy button when you see it. The button is displayed on your own pages and collections as well as on pages and collections owned by others when you have the permission to copy them.
+Copy a page or collection
+Click the Copy button when you want to copy a page or collection that you can duplicate.
+If the page is part of a collection, you need to decide in the pop-up window whether you want to copy just the page that you can see currently by clicking the Page button.
+Or whether you want to copy the entire collection by clicking the Collection button.
+Edit the page or collection as you would to any other.
+4.4.4. Add collection pages
+In the next step after you have created your collection, you choose which portfolio pages you wish to include in this collection. You see all the potential pages that you can use. If you had already placed a page into another collection, it is not shown here.
+Add pages to a collection
+Click the Manage pages button <画像> under Portfolio → Collections. On the next screen…
+Put a check mark next to each page that you wish to include in your collection.
+Alternatively, you can click the All link to add all pages available to the collection or the None link to revert your selection.
+Click the Add pages button to add the pages to your collection.
+If you do not wish to click all pages, you can also drag and drop them into the collection by clicking their title and dragging them to the area Pages already in collection.
+A dotted line shows you where you can drag your page so you can already drag the pages into the collection in the order that you prefer.
+Click the Done button to finish this step.
+4.4.5. Manage collection pages
+Once you have added your pages to your collection. You can move them around or remove them.
+Manage the pages that are displayed within your collection
+If you are not already in the page management, click the Manage pages button <画像> under Portfolio → Collections. On the next screen…
+Use the Move up <画像> and Move down <画像> buttons to arrange your pages in a different order. Alternatively, you can drag and drop the pages within the list.
+Click the Remove button <画像> to take a page out of a collection. The page itself is not deleted.
+Put a check mark next to each page that you wish to include in your collection in addition to the ones already in it.
+Click the Add pages button to add the pages to your collection and then move them around with the Move up <画像> and Move down <画像> buttons. Alternatively, you can drag and drop the pages to the position where you would like to have them in the list.
+Click the Done button.
+When you add pages to your collection that have different access permissions than the collection has, the page's access permissions get added to the collection and the page is available under the same access permissions as the entire collection because it is part of the collection.
+Notice about changes in permissions
+If there is a change in access permissions, a warning will be displayed so that you are informed that changes have taken place.
+View the result of your collection by clicking on the collection title or any page that is part of your collection.
+A collection with the tabbed navigation
+4.4.6. Give others access to your collection
+See also
+Please refer to the section on sharing your pages and collections for further information.

@@ -1,0 +1,37 @@
+Online Technical Writing: Comparison Example
+by David McMurrey
+Comparison of Nuclear Reactors
+A nuclear power reactor uses fission reactions to produce thermal energy that is converted to electrical energy. One common class of nuclear reactor is the light water reactor which uses light water as a moderator and as a coolant. There are two types of light water reactors: the pressurized water reactor and the boiling water reactor.
+Note:
+This information is derived from a report written in the mid-1980s. Move your mouse pointer over the thin dotted line links to see discussion.
+Basic Operation
+Basically, the operations of the pressurized water reactor (PWR) and the boiling water reactor (BWR) are similar as Figure 1 shows. Water flows through the reactor core, steam is produced, the steam proceeds to turn a turbine-generator, electricity is produced, the steam is converted back to water, and the process is repeated.
+Figure 1.
+Basic Operation of Pressurized Water and Boiling Water Reactors
+Comparison of PWR and BWR
+The differences in the operations of the two light water reactors involve (a) the method in which the steam is produced, (b) the pressure in the system, and (c) the process through which the steam goes through after being produced.
+Steam Production.
+In a pressurized water reactor, the primary coolant, after passing through the core and absorbing heat, proceeds to a secondary system consisting of a steam generator. The primary coolant then flows through many hundreds of small stainless-steel tubes in the heat-exchangers, which are part of the steam generator. These heat-exchanger tubes are surrounded by the water of the secondary system which is heated by the primary coolant in the tubes. Wet steam is then produced [4:72].
+Unlike the pressurized water reactor, the steam in a boiling water reactor is introoduced directly into the core. Jet pumps circulate the coolant water along the individual fuel rods in each fuel assembly in the core where it boils and becomes a two-phase steam-water mixture [1:21].
+Pressure in the System..
+The pressure in a pressurized water reactor varies from the primary to the secondary system. In the primary system, the pressure is maintained at about 2250 pounds per square inch to prevent steam from forming. The pressure is then lowered for steam, at 600 pounds per square inch, to form. The pressure is controlled by a pressurizer [2:81].
+In contrast, the boiling water reactor operates at constant pressure. The primary system operates at pressure about one-half that of a pressurized water reactor's primary system while producing steam of equal quality [3:1995].
+Process of Generated Steam.
+After the wet steam is formed in a pressurized water reactor, it passes upward through the risers and enters the steam-separator portion of the steam generator. Here the moisture is removed and returned to the heat-exchanger portion of sections through the downcomers. The dry and saturated steam leaves the top of the steam separator and goes to the turbine [4:72].
+The wet steam formed in a boiling water reactor leaves the core and also goes through a steam separator. However, unlike the pressurized water reactor, the steam goes through a steam dryer, where additional moisture is removed [1:18]. The steam then proceeds to the turbine. This steam, unlike that of the pressurized water reactor, is radioactive [2:100].
+Conclusion
+Thus, even though the pressurized water reactor and the boiling water reactor are generally similar in operation, there are four main differences between the two systems.
+The steam in a pressurized water reactor is produced in a secondary system while the steam in boiling water reactor is produced directly in the reactor core. The pressure of a pressurized boiling reactor varies from the primary system to the output steam while the pressure of a boiling water reactor remains constant. The steam in a pressurized water reactor after coming out of the steam separator proceeds directly to the turbine while the steam in a boiling water reactor, after coming out of the steam separators, proceeds to a steam dryer and then to the turbine. The steam produced in a boiling water reactor is radioactive, whereas the steam produced in a pressurized water reactor is not.
+Table 1.
+Summary of Differences between the PWR and the BWR
+Pressurized Water Reactor
+Boiling Water Reactor
+Steam production
+In secondary reactor reactor core
+Directly in the system
+Pressure
+Varies, 2250 psi then lowered
+Constant, 1040 psi
+Produced steam
+Goes through steam separators then to turbine; nonradioactive.
+Goes through separators then through steam dryers then to turbine; radioactive.

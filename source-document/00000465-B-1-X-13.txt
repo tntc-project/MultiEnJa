@@ -1,0 +1,42 @@
+Electronic Health Records (EHRS) and Patient Work Information
+Standards and Data
+NIOSH has been working to establish standards and tools to support the collection and use of self-reported ODH in the medical records of EHRs. The benefits of collecting ODH include:
+Informing practitioners about their patient's work and how it could impact their patient's health
+Supporting Research-to-Practice (R2P) dissemination through clinical decision support (real-time, automated assistance with clinical decision-making tasks at the point of patient care)
+Encouraging consideration of work and health in patient care through health system quality measures that utilize ODH
+Supporting population health management tools used by health systems to improve the health outcomes of a group of patients
+Improving structured ODH data available to support occupational public health activities, including surveillance and research
+Structured ODH enables health system data analytics, supporting surveillance
+Occupational Data for Health and Interoperability Standards
+NIOSH has worked to include Occupational Data for Health (ODH) in the key data-formatting interoperability standards for health information systems. These standards include the three product lines of Health Level Seven, International (HL7®) and the technical frameworks of Integrating the Healthcare Enterprise International (IHE). EHRs and other health information systems use these standards to share information within and across healthcare organizations. Including ODH in all of these standards ensures and supports opportunities to collect the data once, then have it shared with other care providers.
+The HL7 CDA® R2 Implementation Guide: Consolidated CDA (C-CDA) R2.1 Supplemental Template for Occupational Data for Health, Release 1 – US Realm, Standard for Trial Use (STU) can be used to include ODH in the social history section of any CDA ‘document' that is electronically transmitted by an EHR or other health information system, e.g., a patient summary.
+The Normative HL7® Version 2.9 Messaging Standard (V2.9) includes segments (OH1-OH4) and vocabulary for ODH. Older Version 2 message standards (e.g., V2.5.1) are often used to share information within organizations, to report laboratory results, and to share information with public health agencies. The V2.9 ODH segments may be retrofitted into these older versions for specific purposes or included when the newer version is adopted for specific purposes.
+The HL7 FHIR Profile: Occupational Data for Health (ODH), Release 1.0 (Standard for Trial Use) is now available. FHIR, or Fast Healthcare Interoperability Resources, is the newest HL7 data-sharing standard. It can be used to make health information accessible to healthcare providers, business associates, patients, and public health. The ODH Implementation Guide is a composition of profiles on the observation resource.
+The optional ODH Section in the IHE Quality, Research and Public Health (QRPH) Technical Framework Healthy Weight (HW) Supplement for Trial Implementation has recently been updated and is being tested for use in clinical data sharing. This section is aligned with the ODH HL7® C-CDA Supplemental Template.
+More information:
+HL7 ODH CDA® templateexternal icon
+HL7® V2.9 Messaging Standardexternal icon
+HL7® ODH FHIR templateexternal icon
+Quality, Research and Public Health Technical Frameworkexternal icon
+Collaboration with HL7® to Provide Technical Guidance for Including Work Information in Electronic Health Records
+NIOSH has led an effort to develop the HL7® EHR System-Functional Model Release 2: Functional Profile; Work and Health, Release 1 – US Realm, which informs EHR system software developers about useful features for the collection, management, and use of ODH.
+The functional profile is:
+A set of technical instructions for EHR software developers. These instructions are organized by discrete sections to describe the behavior of an EHR system in user-oriented language.
+Grouped by functions a system performs. It also includes an introduction and glossary of ODH terms.
+A hierarchical framework of criteria that describe valuable system features for each function and to which an EHR system conforms in order to achieve the function. Criteria must use specified, defined action-verbs, e.g., The system SHALL provide the ability to link all data pertaining to a single job (so industries and occupations must be paired by job and separate lists of industries and occupations that do not reflect individual jobs is not acceptable).
+A way to express optionality of features. The criteria have three levels of conformance (SHALL, SHOULD, MAY) that guide developers to include at least the basic attributes in order to conform (SHALL) and also criteria that add extra value (SHOULD, MAY).
+The functional profile is NOT:
+An instructional document for health information messaging from one provider to another. Instead, NIOSH is also leading efforts to incorporate ODH in HL7 and IHE interoperability standards (see above).
+A set of definitions for the information collected as ODH data. Instead, the ODH information model outlines the definitions and value sets that developers should consider using when developing an EHR system (see vocabulary project below).
+More information:
+Work and Health Functional Profileexternal icon
+A Prototype to Demonstrate Collection of Self-Reported Occupational Data for Health (ODH) in a Standardized Way
+NIOSH is working to develop a prototype that will demonstrate the features and the necessary ODH value sets to collect self-reported ODH to be included in EHRs and other health information systems. It aligns with the instructions found in the HL7® Work and Health, EHR Functional Profile. The goal is to encourage healthcare providers and software vendors to build the functionality and include ODH vocabulary into their solutions.
+Electronic Case Reporting of Occupational Illnesses and Injuries
+NIOSH is working with CSTE and state partners to define specifications, value sets and rules logic for the electronic reporting of occupational conditions using EHRs. These have been defined for silicosis and are under development for acute pesticide poisoning, lead exposure, and work-related asthma.
+More information:
+Health Level Seven Internationalexternal icon
+Occupational Data for Health (ODH) Vocabulary
+NIOSH has prepared value sets for several data elements that are part of ODH by looking at national and international terms used to describe work. The value sets are the entry-choices (values) for ODH data elements: Employment Status, Work Schedule, Work Classification, Job Supervisory Level, Job Employment Type, Industry, and Occupation. These data elements have not previously been standardized in medical records and in EHRs. The value sets are available in the Public Health Information Network Vocabulary Distribution System (PHIN VADS) and there is an ODH “Hot Topic” on the PHIN VADS home page.
+More information:
+PHIN VADS Home Page

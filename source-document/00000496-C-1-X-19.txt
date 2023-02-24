@@ -1,0 +1,12 @@
+Equipment Authorization – Grantee Code
+Products subject to certification are required to be uniquely identified by an identifier known as FCC ID. The FCC ID consist of two parts: (1) grantee code; and (2) product code.
+The grantee code, as specified in Section 2.926, is a three or five character alphanumeric string representing the Grantee / Applicant for certified products.
+Grantee Codes that begin with an alpha character (A-Z) consist of three characters.
+Grantee Codes that begin with a number (2-9) consist of five characters.
+The grantee code does not contain the numbers “one” and/or “zero”. The grantee code is assigned by the Commission permanently to a company for use in the identification of radio frequency equipment authorized under the certification procedure.
+The product codes are uniquely established by the Grantee to identify each product approved by a Telecommunication Certification Body (TCB). The product code can be up to 14 alpha numeric characters. Hyphens (–) separated by an alpha numeric character are permitted; consecutive hyphens (-) are not permitted.
+For information on how to obtain a grantee code, manage grantee code information (company name, address and contact information), recover a lost grantee code's registration number, see KDB Publication 204515.
+Bureau/Office:
+Engineering & Technology
+Tags:
+Devices - Devices, Engineering & Technology

@@ -1,0 +1,42 @@
+電子医療記録(EHRS)および患者の勤務情報
+標準とデータ
+NIOSHは,EHRの医療記録において自己報告されたODHの収集と使用を支援するための標準とツールを確立することに取り組んできました。ODHを収集することの利点は次のとおりです。
+医療従事者に患者の業務とそれが患者の健康にどのような影響を与えるかを知らせる
+臨床意思決定支援(患者ケアの現場での臨床意思決定タスクに関するリアルタイムの自動化された支援)を通じたResearch-to-Practice(R2P)の普及支援
+ODHを活用した医療システムの品質尺度を通じて、患者ケアにおける仕事と健康への配慮を促す
+患者グループの健康上のアウトカムを改善するために医療システムが使用する集団健康管理ツールを支援する
+サーベイランスと研究を含む職業公衆衛生活動を支援するために利用可能な構造化ODHデータの改善
+構造化されたODHにより、医療システムのデータ分析が可能になり、サーベイランスがサポートされる
+Occupational Data for HealthおよびInteroperability Standards
+NIOSHは,健康情報システムのための主要なデータフォーマット相互運用性標準にOccupational Data for Health(ODH)を含めるように取り組んできました。これらの標準にはHealth Level Seven, International(HL7®)の3つの製品ラインとIntegrating the Healthcare Enterprise International(IHE)の技術的枠組みが含まれています。EHRと他の健康情報システムは、これらの標準を使用して医療組織内および医療組織間で情報を共有します。これらの標準すべてにODHを含めることで、データを一度収集して他の医療機関と共有する機会を確保し、後押しします。
+HL7 CDA® R2 Implementation Guide:Consolidated CDA(C-CDA)R2.1Supplemental Template for Occupational Data for Health,Release1-US Realm,Standard for Trial Use(STU)は、EHRまたはその他の医療情報システムによって電子的に送信されるCDA「ドキュメント」の社会歴セクションにODHを含めるために使用することができます(例:患者要約)。
+Normative HL7®Version2.9 Messaging Standard(V2.9)には、ODHのセグメント(OH1-OH4)とボキャブラリーが含まれています。古いバージョン2のメッセージ標準(例えば、V2.5.1)は、組織内での情報共有、検査結果の報告、公衆衛生機関との情報共有のためにしばしば使用されます。V2.9 ODHセグメントは、特定の目的のためにこれらの古いバージョンに後付けすることも、新しいバージョンを特定の目的のために採用する場合に含めることもできます。
+HL7 FHIR Profile:Occupational Data for Health(ODH)Release1.0(Standard for Trial Use)が利用可能になりました。FHIR(Fast Healthcare Interoperability Resources)は、最新のHL7データ共有標準です。医療機関、ビジネス関係者、患者、および公衆衛生に対して医療情報をアクセス可能にするために使用できます。ODH Implementation Guideは、観察リソースに関するプロファイルの構成です。
+IHE Quality, Research and Public Health(QRPH)Technical Framework Healthy Weight(HW)Supplement for Trial ImplementationのオプションのODHセクションが最近更新され、臨床データ共有での使用がテストされています。このセクションは、ODH HL7®C-CDA Supplemental Templateと一致しています。
+詳細情報:
+HL7 ODH CDA®template外部アイコン
+HL7®V2.9 Messaging Standard外部アイコン
+HL7®ODH FHIR template外部アイコン
+Quality,Research and Public Health Technical Framework外部アイコン
+HL7®との連携による電子カルテへの作業情報の記載に関する技術指導
+NIOSHはHL7®EHR System-Functional Model Release 2:Functional Profile;Work and Health,Release1-US Realmを開発する取り組みを主導してきた。これはEHRシステムソフトウェア開発者にODHの収集、管理、使用に役立つ機能について知らせるものである。
+機能プロファイルは次のとおりです。
+EHRソフトウェア開発者向けの技術的な指示のセット。これらの指示は、ユーザー指向言語でEHRシステムの動作を説明する個別のセクションで構成されています。
+システムが実行する機能によってグループ化されます。また、ODH用語の紹介と用語集も含まれています。
+各機能の価値あるシステムの特徴を記述し、EHRシステムがその機能を達成するために準拠する基準の階層的なフレームワーク。基準には、特定の定義された動作動詞を使用する必要があります。たとえば、システムは、1つのジョブに関連するすべてのデータをリンクする機能を提供する必要があります(したがって、産業と職業はジョブごとにペアにする必要があり、個々のジョブを反映しない産業と職業の個別のリストは受け入れられません)。
+特徴の選択性を表現する方法。基準には、3つの適合レベル(SHALL, SHOULD, MAY)があり、これは適合のため基本属性を少なくとも含めるよう開発者に促す基準(SHALL)と付加的価値を追加する基準(SHOULD, MAY)になります。
+機能プロファイルは次のとおりではありません。
+ある医療機関から別の医療機関への医療情報メッセージングのための教育文書。その代わりに,NIOSHはHL7とIHEの相互運用性標準(上記参照)にODHを組み込む取り組みを主導している。
+ODHデータとして収集された情報の定義のセット。かわりに、ODH情報モデルは、開発者がEHRシステムの開発時に使用を考慮する必要がある定義および値セットの概要を示します(次のボキャブラリー・プロジェクトを参照)。
+詳細情報:
+Work and Health Functional Profile外部アイコン
+自己報告されたODH(Occupational Data for Health)の収集を標準化された方法で実証するためのプロトタイプ
+NIOSHは,EHR及びその他の健康情報システムに含まれる自己申告のODHを収集するための特徴及び必要なODH値セットを実証するプロトタイプの開発に取り組んでいる。これはHL7®Work and Health,EHR Functional Profileにある指示と一致している。目標は、ヘルスケア提供者及びソフトウェアベンダによる機能性の構築と、ODHボキャブラリーをソリューションに含めることを奨励することである。
+職業性疾病および傷害の電子症例報告
+NIOSHはCSTE及び州のパートナーと協力して,EHRを用いた労働状況の電子的報告のための仕様,値集合及び規則論理を定義している。これらは珪肺症に対しては定義されており,急性農薬中毒,鉛ばく露及び職業性喘息に対しては開発中である。
+詳細情報:
+Health Level Seven International外部アイコン
+Occupational Data for Health(ODH)ボキャブラリー
+NIOSHは,ODHの一部であるいくつかのデータ要素について,業務を記述するために使用される国内用語及び国際用語を参照することにより,値集合を作成しました。値集合は,以下のODHデータ要素のエントリ選択(値)です:雇用状況,業務スケジュール,業務分類,職務管理レベル,職務雇用タイプ,産業及び職業。これらのデータ要素は,これまで医療記録及びEHRにおいて標準化されていませんでした。値集合は,Public Health Information Network Vocabulary Distribution System(PHIN VAADS)で利用可能であり,PHIN VAADSホームページにはODH"Hot Topic"があります。
+詳細情報:
+PHIN VADSホームページ
