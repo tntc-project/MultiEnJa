@@ -6,7 +6,7 @@ This repository contains 46 examples of English source documents (SDs) in variou
 
 ## Contents
 
-Textual data of source documents are found [here](source-document)].
+Textual data of source documents are found [here](source-document).
 
 For all of them, we have so far produced the following types of derivatives (See README.md in each directory for the details).
 * [Professional translation](human-translation)
