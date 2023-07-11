@@ -23,6 +23,7 @@ For all of them, we have so far produced the following types of derivatives (See
 
 * We collected [the source documents](source-document) manually.  See [this JSON file](source-document/license.json) for their origin and license.
 * Use and/or redistribution of this dataset, except for [the source documents](source-document), is permitted under the conditions of [Creative Commons Attribution-NonCommercial-ShareAlike License 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* Please carefully read README.md in each subdirectories and precisely confirm the attribution (BY) of each outcome.
 
 ## Acknowledgments
 
