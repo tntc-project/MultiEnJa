@@ -22,16 +22,19 @@ Due to our limited budget, we conducted only a light post-edit process, a simpli
 
 * ISO/TC37. ISO 18587:2017 [Translation Services: Post-editing of Machine Translation Output: Requirements](https://iso.org/standard/62970.html). 2017.
 
-## Precautions
+## Developer
 
-* National Institute of Information and Communications Technology (henceforth, NICT) has made the dataset publicly available under the conditions of license specified below.
-* NICT bears no responsibility for the contents of the dataset and assumes no liability for any direct or indirect damage or loss whatsoever that may be incurred as a result of using the dataset.
-* If any copyright infringement or other problems are found in the dataset, please contact us at atsushi.fujita[at]nict[dot]go[dot]jp. We will review the issue and undertake appropriate measures as necessary.
+The dataset in this directory is credited to National Institute of Information and Communications Technology (henceforth, NICT).  NICT has made the dataset publicly available under the conditions of license specified below.
 
 ## License
 
 See [README.md](../README.md) in the top directory.
 
+## Precautions
+
+* NICT bears no responsibility for the contents of the dataset and assumes no liability for any direct or indirect damage or loss whatsoever that may be incurred as a result of using the dataset.
+* If any copyright infringement or other problems are found in the dataset, please contact us at atsushi.fujita[at]nict[dot]go[dot]jp. We will review the issue and undertake appropriate measures as necessary.
+
 ## Acknowledgments
 
-Parts of this dataset were developed as a part of work at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/), [Advanced Speech Translation Research and Development Promotion Center](https://astrec.nict.go.jp/), [National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
+The dataset under this directory was developed as a part of work at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/), [Advanced Speech Translation Research and Development Promotion Center](https://astrec.nict.go.jp/), [National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
