@@ -1,6 +1,6 @@
-# Human translation for SDset-46
+# Human translation for the SDs
 
-This directory contains the English-to-Japanese translation for SDset-46 produced by professional translators at a translation service provider (TSP) following the standard translation process (ISO/TC37, 2015).  In addition to the final product, we include the translation brief (written in Japanese) prepared before starting translation and intermediate versions of translations as described below.
+This directory contains the English-to-Japanese translation for [the English SDs](../source-document) produced by professional translators at a translation service provider (TSP) following the standard translation process (ISO/TC37, 2015).  In addition to the final product, we include the translation brief (written in Japanese) prepared before starting translation and intermediate versions of translations as described below.
 
 * Result of ***Translation*** process (suffixed with v1, v4, v7) produced by translators.
 * Result of ***Check*** process (suffixed with v2, v5, v8) checked and revised by checkers who are not the above translator.
