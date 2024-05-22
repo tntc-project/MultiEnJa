@@ -1,0 +1,54 @@
+電子化コモン・テクニカル・ドキュメント（eCTD）
+eCTDは、FDAのCenter for Drug Evaluation and Research（CDER）及びCenter for Biologics Evaluation and Research（CBER）に申請、修正、追補、報告を提出するための標準書式である。
+重要な日付
+リマインダー：eCTD Guidanceにより、NDA、BLA、ANDA、及び市販INDの提出には、FDAの記入可能なフォーム（例：356h、1571、2252）を添付する必要がある。FDAは、2018年7月27日より、記入可能なフォームの検証チェックを実施する予定である。この検証に失敗した申請は拒否される可能性がある。詳細については、eCTD Guidance及びeCTD Validation Criteria（エラーコード7）を参照すること。
+下記の日付以降、CDER及びCBERへの申請に関するeCTD要件が有効になり、eCTDを使用しない申請は提出または受領されない。
+2017年5月5日：
+新薬申請（NDAs）、省略NDA（ANDAs）、及び生物製剤認可申請（BLAs）は、eCTD形式を使用して提出する必要がある。
+2018年5月5日：
+市販治験薬申請（IND）及びマスターファイルは、eCTD形式で提出する必要がある。
+eCTD要件を満たすための完全な詳細については、eCTD Guidanceを参照すること。
+eCTDを使用して申請を提出し、ESGアカウントを取得する方法については、Submit Using eCTDページにアクセスすること。
+すべてのeCTD提出資料を表示するには、eCTD Resourcesのページにアクセスすること。
+eCTD要件の対象となる提出物の種類
+電子提出要件は、CDER/CBERへの次の種類の提出に適用される。
+NDAs
+ANDAs
+BLAs
+市販IND申請（商業的に流通させることを目的とした製品）
+要件が有効になる前にオリジナルの申請が提出された場合であっても、修正、追補、及び報告を含む、これらの種類の申請へのその後のすべての提出
+IND、NDA、ANDA、BLAの申請とみなされるDMFなどのマスターファイル
+電子提出基準はオプションであるが、以下のカテゴリでは推奨される。
+治験責任医師主導INDや拡張アクセスINDなどの非営利IND
+ソース血漿を含む血液及び血液成分に関する提出
+人間の処方薬の販促資料の提出
+現在のバージョンとアップデート
+電子申請では、Study Data Standards ResourcesページのFDAData StandardsCatalogで指定されている、FDAが現在サポートしているバージョンのeCTDを使用する必要がある。規格の更新は、FDAのウェブサイトで発表され、連邦官報に掲載される。通知には、新しいバージョンが有効になる日付が含まれる。
+eCTDに関連する仕様、サポートファイル、M1バージョン1.3及び2.3のドキュメントのリストについては、eCTD Submission Standards（XLS-57KB）またはeCTD Submission Standards（PDF-91KB）を参照すること。
+通知
+通知（2019年1月30日）
+FDAはeCTD形式でDMFタイプIIIを提出するための適合日を延長する
+FDAは、eCTD形式でDMFタイプIIIを提出するための適合日を2020年5月5日に延長した。適合日に関する追加情報はFDAガイダンス文書を、及びDMFに関する追加情報はFDAのDrug Master Fileのページを参照すること。
+通知（2018年11月30日）
+将来、FDAは「REMS Supplement」のeCTD申請タイプのeCTDシーケンスを受け入れる予定である。実施日は未定である。詳細については、submission-type.xml及びM1の仕様（eCTD Submission Standardsにある）を参照すること。
+通知（2018年6月1日）
+FDAのeCTD Access Dataのウェブサイトは、2018年9月1日にProductionで暗号とSSLプロトコルを更新するので注意すること。
+FDAのeCTD Access Dataのウェブサイトへの接続に使用するシステムが、以下の互換性のあるセキュアな暗号とSSLプロトコルで接続可能であることを確認すること。
+SSLプロトコル／暗号スイート
+TLS 1.1以上
+eCTD Access Dataのウェブサイトへのリンクの例：
+http://www.accessdata.fda.gov/static/eCTD/us-regional-v3-3.dtd
+http://www.accessdata.fda.gov/static/eCTD/us-regional.xsl
+どのような対応を取る必要があるのか？
+eCTD Access Dataのウェブサイトに継続してアクセスしたい場合は、ブラウザ／サーバでTLS 1.1以上が有効になっていることを確認する必要がある。FDAがこの変更を行った後、ブラウザやサーバのTLS 1.1以上が有効になっていない場合、これらのeCTDのウェブサイトにアクセスすることはできない。
+eCTD Access Dataのウェブサイトのリンクと通信するバックエンドサーバも、TLS 1.1以上を使用して通信する必要がある。サーバを有効化／アップグレードする適切な方法については、ITシステム管理者または技術サポート担当者に連絡すること。
+通知（2018年4月24日）
+FDAはeCTD形式でDMFタイプIIIを提出するための適合日を延長する
+FDAは、eCTD形式でDMFタイプIIIを提出するための適合日を2019年5月5日に延長した。適合日に関する追加情報はFDAガイダンス文書を、及びDMFに関する追加情報はFDAのDrug Master Fileのページを参照すること。
+重要な通知（2016年5月18日）
+eCTD申請成功に対する3回目確認
+2016年5月31日より、NDA、ANDA、BLA、IND、又はDMFの提出が検証と処理を成功裏に完了し、割り当てられた審査部門で利用可能になると、CDERはFDAのElectronic Submissions Gateway（ESG）ユーザに対して確認の発行を開始する。この確認は、ESG Message Delivery Notificationの確認（1回目の確認）とOfficial Centerの通知（2回目の確認）に加えて、「3回目の確認」と呼ばれる。
+追加の通知については、eCTD Important Noticesを参照すること。
+接続を維持
+CDERに関する質問は、esub@fda.hhs.govでCDER Electronic Submission (ESUB) Support Teamまで連絡すること。
+またCBERに関する質問は、esubprep@fda.hhs.govでCBER ESUB Support Teamまで連絡すること。

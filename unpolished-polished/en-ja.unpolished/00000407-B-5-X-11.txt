@@ -1,0 +1,38 @@
+1章
+序文
+1章 - 旅行疫学
+2章 - 旅行前の相談
+視点：ガイドラインが異なる理由
+David R. Shlim
+序文
+CDC Yellow Bookを含む多くの国際的、国内的、及び専門的な組織が渡航者向けのガイドラインと勧告を発表している。渡航関連の医療提供者は、すべての場合にそれらに従うとは限らないものの、これらの勧告を把握しておくべきである。こうすることで、彼らの勧告及び患者の選択が、他の者による勧告とどのように食い違っているかもしれないかを患者に説明することができる。医療提供者から渡航関連の医学的指示、ワクチン、又は抗マラリア薬の処方を受けることは、指示又は処方の内容が他の専門家、友人、又は渡航先の国で言うべきこと矛盾していることに気付いて、不安になる可能性がある。熟練した渡航関連の医療提供者は、渡航者が一見矛盾した指示を調整するのを助けることができる。
+ガイドラインの作成方法
+米国では、Food and Drug Administration（FDA）が、用量、製品が承認される年齢、ブースターの推奨事項を含め、ワクチン又は医薬品の使用方法に関する基準を承認する。製品をいつ使用するかについての推奨事項は、Advisory Committee on Immunization Practices（ACIP）などの別の機関から出される場合がある。ACIPに勧告の根拠となる最良の情報を提供するために、専門家のワーキンググループは、文献や新しい研究を検討する会議を開催することがある。CDC Yellow Bookの渡航関連の指示は、常にACIPの勧告と互換性があるものの、場合によっては、国及び状況に固有のワクチン使用のガイドラインを提供することもある。
+世界保健機関（WHO）などの国際機関や他国の国内委員会、International Society of Travel Medicine（ISTM）やInfectious Diseases Society of Americaなどの医療組織が、それぞれ独自のガイダンスのセットを推奨している場合がある。他の専門組織は、発表された医学文献と専門家の意見に基づいて、コンセンサス臨床診療ガイドラインを作成する場合がある。渡航関連医学に固有の有料購読サービスでは、渡航関連医学の専門家を採用して、海外渡航者を診察しているもののその主題に関する専門知識が不足している可能性のある医療提供者向けのガイドラインを作成・提示している。ワクチン及びマラリア予防について提供されるガイダンスは、CDCの指示とは異なる場合がある。
+異なる国や組織によって提示されるガイドラインは、大きく異なる場合がある。その理由には、製品の認可や入手性の違い、リスクに対する文化的な認識、決定的なエビデンスの不足、専門家の意見の相違が含まれる。
+製品の入手性
+渡航関連の医療提供者は、入手可能な製品のみを使用することができる。製品の入手性は、製品の規制当局の承認状況や、より低い程度で、製造業者のマーケティング及び販売計画によって決定される。規制当局の承認プロセスは国によって大きく異なる。例えば、米国で新たなワクチン又は抗マラリア薬を登録することは、費用がかかり、厳格なプロセスである。特定の国の市場が、登録費用を正当化するのに不十分な場合、営利企業は登録を求めない可能性がある。
+許認可の基準も様々である。ある規制当局にとっては十分かもしれないが、別の規制当局にとっては十分ではないことがある。例えば、米国ではマラリア予防の選択肢であるプリマキンは、スイスでは登録又は市販されていない。アトバコン・プログアニルは、他の多くの国によりも前に米国でマラリア予防薬として使用可能であった。日本脳炎ワクチンは世界に4種類あるものの、米国では1種類しか認可されていない。
+同じ製品が入手可能な場合であっても、使用に関する推奨事項がすべての国で同じであるとは限らない。注射用の莢膜多糖体チフスワクチンと経口用のチフスワクチンがその例である。米国では、2年後に多糖類ワクチンの追加接種が推奨されているものの、欧州のほとんどの国では3年後の追加接種が推奨されている。米国では、経口用のチフスワクチンカプセル4個のパケットが調剤されるが、欧州では3回の投与が適切とみなされている。規制当局は、同じデータを検討して異なる結論を出したかもしれず、また異なるデータを別々の時期に検討したかもしれない。様々な機関への規制提出が同時に行われることはほとんどない。したがって、各機関の審査で利用できるデータは、正当な理由により同じものではない可能性がある。
+リスクの認識
+さまざまなバックグラウンドによる人々は、同じリスクデータを見て、許容可能とみなすレベルにそのリスクを最小化することのコストと利点については、大幅に異なる結論に達する可能性がある。例えば、インドへの渡航時にマラリアを予防するための推奨事項は大きく異なる。ドイツは、インドの目的地への渡航で標準的な予防法を使用することを推奨していない。スタンバイ緊急治療（SBET）又は自己治療のみが、特定されたリスクのある目的地に対する推奨事項である。英国のガイドラインでは、大都市や南北の人気のある観光目的地を含むインド亜大陸の半分以上では認識と蚊に刺されないようにすることを推奨しているが、一部の渡航者やリスクの高い地域を訪れる人には予防の考慮を提案している。対照的にCDCは、インドのすべての目的地（北部州の一部山岳地帯を除く）で、すべての渡航者に対してマラリア予防を推奨している。
+エビデンスの不足
+多くの場合、エビデンスに基づく評価を通知するために利用できるデータは限られているか全くない。そのため、渡航関連の医療提供者は専門家の意見に従うか、専門家の意見と併せて限られたデータから外挿する必要がある。渡航関連医学では、いかなる病気のリスクについても分子と分母のデータがあることはまれである。例えば、渡航者のA型肝炎のリスクに関する新たなデータは、A型肝炎ワクチンの高い接種率を説明する必要がある。このようなデータはほとんど入手できないため、渡航関連の医療提供者は実際の症例をほとんど捉えていない過去のデータに依存することが多い。
+ガイドラインを調和させることはできるのか？
+医療組織がデータを入手、評価、検証する方法の複雑な性質と、リスク認識の根本的な違いにより、複数の重複する、時には矛盾するガイドラインが存在し続ける可能性がある。ただし、複数の組織の努力により、過去10年間で矛盾するガイドラインは減少している。近年の例では、渡航者のジカ熱感染リスクの定義に一貫性と明確性を持たせるWHO、米国CDC、European Centre for Disease Prevention and Control（ECDC）の協力によって、医療提供者が渡航者のリスク、特に妊娠中又は妊娠を計画している者のリスクをより明確に伝えることが可能となった。
+要約すると、渡航関連の医療提供者の役割は、ガイドラインの様々な違いを理解し、この情報を解釈し、渡航者に対して確実かつ快適な方法で調整されて情報に基づいた指示を伝えることである。
+参考文献
+CDC. Malaria surveillance—United States, 2015. MMWR Surveill Summ. 2018 May 4;67(7):1–28.
+CDC. Advisory Committee on Immunization Practices (ACIP). Atlanta: Atlanta: CDC; 2018 [引用：2018年9月12日]. 入手先：www.cdc.gov/vaccines/acip/. 
+Chiodini PL, Field VK, Whitty CJM, Lalloo DG. Guidelines for malaria prevention in travellers from the UK: 2017. London: Public Health England; 2017 [引用：2018年9月12日]. 入手先：https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/660051/Guidelines_for_malaria_prevention_in_travellers_from_the_UK_2017.pdf. 
+Committee to Advise on Tropical Medicine and Travel (CATMAT). Canadian recommendations for the prevention and treatment of malaria. Ottawa: Public Health Agency of Canada; 2014 [引用：2018年9月12日]. 入手先：http://publications.gc.ca/collections/collection_2014/aspc-phac/HP40-102-2014-eng.pdf. 
+German Society for Tropical Medicine and International Health Association (DTG). [Recommendations for the prophylaxis and treatment of malaria of DTG 2018]. 2018 [引用：2018年9月12日]. 入手先：www.dtg.org/empfehlungen-und-leitlinien/empfehlungen/malaria.html. 
+Hill DR, Ericsson CD, Pearson RD, Keystone JS, Freedman DO, Kozarsky PE, et al. The practice of travel medicine: guidelines by the Infectious Diseases Society of America. Clin Infect Dis. 2006 Dec 15;43(12):1499–539. 
+World Health Organization. International Health Regulations (2005). Geneva: World Health Organization; 2016 [引用：2018年9月12日]. 入手先：www.who.int/ihr/publications/9789241580496/en. 
+World Health Organization. International Travel and Health. Geneva: World Health Organization; 2012 (with 2016 updates) [引用：2016年6月14日]. 入手先：www.who.int/ith/en/. 
+「視点」の項は、本書に含まれている公式な推奨事項に深みと臨床的な視点を加えるために書かれた編集上の議論である。この項で表明された見解や意見は著者のものであり、必ずしもCDCの公式見解を示すものではない。
+1章 - 旅行疫学
+2章 - 旅行前の相談
+最終確認日：2019年6月21日
+出典：National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)
+Division of Global Migration and Quarantine (DGMQ)

@@ -1,0 +1,23 @@
+GE Healthcareは、3Dトモシンセシスソリューションによる新たな乳房イメージングであるSenoClaireのFDA承認を発表する
+General Electric社のために2014年9月3日に投稿された
+2014/9/3
+Wauwatosa, WI, 2014年9月3日
+GEヘルスケア（NYSE：GE）は本日、3次元画像処理技術を用いて設計されたGE社の新たな乳房トモシンセシスソリューションであるSenoClaire*のFDA承認を発表した。Massachusetts General Hospitalと提携して、GE社は、配置した乳房周囲で低線量の短時間X線スイープを使用し、「ステップ＆シュート」方式で9回の曝露を行うことで、チューブによって生じる潜在的な動きを取り除くことで、ブラーを抑えて画像の鮮明度を向上させるSenoClaire技術を開発した。
+「本日の発表は、乳がんの早期検出のための最先端のスクリーニング技術を女性に提供するという我々の使命の重要なマイルストーンです。」と、Massachusetts General HospitalのBreast Imaging Division Department of Radiologyの上級放射線技師であるDaniel Kopans氏は述べている。「がんが早期に特定され、治療されれば、女性の生存率が向上することが判明している。」
+スクリーニングマンモグラフィを行う際の重要な課題は、放射線レベルを可能な限り低く保つことである。GE社のSenoClaireを使用すると、2Dの標準的なマンモグラムから3Dビューで線量の増加はなく、これはSenoClaireによる乳房検査中における患者の放射線量の増加がないことを意味する。「3D乳房スクリーニング技術は、臨床医が標準的な2Dマンモグラフィの制限要因となる可能性のある小細胞がんを発見するのに役立つ。放射線科医として、線量を増加させることなく高画質をもたらすこのような技術を患者に提供することは重要だ。」と、Oakland University William Beaumont School Of MedicineのProfessor of Diagnostic Radiology and Molecular Imagingであり、Beaumont Hospital（Royal Oak）のDirector of the Division of Breast Imaging and InterventionであるMurray Rebner氏（MD, FACR）は語る。「我々は、この技術が臨床医が乳がんを特定する上で大きな影響を与える可能性があると信じている。」
+さらなる鮮明度、信頼性及び低線量を提供すること加えて、SenoClaireは、全体的なワークフローの改善を支援することで、完全なソリューションを提供する。SenoClaireは、Universal Viewerを備えたCentricityTM PACSと互換性があり、有能なPACSベンダーが読み取ることができるDICOM規格をサポートしている。SenoClaireをGE Healthcare社のCentricity PACS及びCentricity Clinical Archiveソリューション2と組み合わせると、臨床医は患者の縦断的な記録にアクセスすることができ、より良い患者ケアを可能にするデータを提供することができる。
+「FDAのSenoClaireの承認により、我々はスクリーニングと診断から治療とモニタリングまでの完全なソリューションスイートを医師と患者に提供する乳房ケアの連続体を構築した。」と、GE Healthcare社Detection and Guidance SolutionsのChief Marketing OfficerであるCatherine Tabakaは述べている。「SenoClaireは、臨床医が乳がんをより適切に検出するのに役立つ新しいソリューションを患者に提供するだけでなく、低線量の放射線と高画質でそれを実現する。この新世代の技術である乳房トモシンセシスは、コントラスト強化スペクトルマンモグラフィ、自動化された乳房全体の超音波検査、分子乳房イメージングなどの革新的なソリューションとともに、乳房ケアの連続体の全体で患者を支援する包括的なツールを医療従事者に提供する。」と述べている。
+現在、GE Healthcare社は、欧州、オーストラリア、中南米、東南アジア、および中東に180台のユニットを設置している。
+GE Healthcare社について
+GE Healthcare社は、世界中のアクセスの向上、品質の改善、より手頃な価格の医療に対する需要を満たすために、変革をもたらす医療技術とサービスを提供している。GE社(NYSE: GE) は、重要な課題 - 優れた人材と技術で難題に挑んでいる。画像診断、ソフトウェア＆IT、患者モニタリング、及び診断から、創薬、バイオ医薬品製造技術、及び業績改善ソリューションまで、GE Healthcare社は医療専門家が患者に優れた医療を提供できるよう支援する。
+がんに取り組む
+GE社では、がんがもはや致命的な病気ではなくなった日を想定している。2011年9月、GE Healthcare社は、がんに対する意欲的なグローバルキャンペーンを開始し、今後5年間の総研究開発予算の10億ドルを投じて、高度ながん診断および分子イメージングの能力、またバイオ医薬品の製造及びがん研究のための先進技術を拡大する。2012年末までに3億3,500万ドルの投資が完了し、GE社は5年間のコミットメントの達成に向かっている。進歩を加速し、2020年までに1,000万人の患者に臨床医がより良いケアを提供できるようにするために、がんに対するキャンペーンは、GE社のがんテクノロジーのポートフォリオの強みと、主要パートナーとの連携から生まれたイノベーションを組み合わせる。GE社がどのようにがんに取り組んでいるかの詳細を知るには、http://www.getacklingcancer.com/を参照。
+メディア連絡先
+GE Healthcare
+Jennifer Fox
+Manager, PR & Global Communications, DGS
+jennifer.r.fox@ge.com
++1 414-721-3813
+* General Electric Companyの商標
+1 Dr. Murray Rebnerは、GE Healthcare社のSenoClaireと関連する研究を行っている。
+2 Centricity Clinical Archiveソリューションには、次の製品コンポーネントが含まれる：Centricity Enterprise Archive、Universal Viewer ZFP、Caradigm(TM) eHIE、Centricity Clinical Gateway、NextGate MatchMetrix EMPI、及びPACSGEAR PacsSCAN(TM)。

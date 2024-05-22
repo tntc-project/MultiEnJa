@@ -11,11 +11,24 @@ Textual data of source documents are found [here](source-document).
 For all of them, we have so far produced the following types of derivatives (See README.md in each directory for the details).
 * [Professional translation](human-translation)
 * [Post-edited machine translation outputs](MT-PE)
+* [Unpolished/Polished translation pairs](unpolished-polished)
+
+Figure 1 summarizes the processes of producing these heterogeneous translations and what can be analyzed by comparing some of them.
+* MT outputs vs. their post-edited version: the issues of MT
+* Human translation (HT) vs. MT+PE: the gap between what can be assured by ISO/TC37 (2015) and ISO/TC37 (2017)
+* Draft/unpolished translation vs. final/polished translation: the art in human translation (or translation strategies)
+
+<p align="center"><img src="overview.png" width="50%"><br />Fig. 1: Overview of the processes of producing translations and their purposes.</p>
 
 ## Todo
 
 * Include other types of derivatives.
 * Extend the number of documents as well as translation directions.
+
+## References
+
+* ISO/TC37. ISO 17100:2015 [Translation Services: Requirements for Translation Services](https://iso.org/standard/59149.html). 2015.
+* ISO/TC37. ISO 18587:2017 [Translation Services: Post-editing of Machine Translation Output: Requirements](https://iso.org/standard/62970.html). 2017.
 
 ## License
 
