@@ -17,7 +17,7 @@ Please refer to Yamamoto et al. (2023) for the detail of the process.
 
 * Michael Alexander Kirkwood Halliday and Ruqaiya Hasan. Cohesion in English. Longman, 1976.
 * Mayuka Yamamoto, Atsushi Fujita, and Kyo Kageura 2023. [Refinement of a Typology of Translation Strategies for English-to-Japanese Translation Based on Actual Examples and Multi-Person Discussions](https://doi.org/10.50837/its.2302). Interpreting and Translation Studies, No. 23, pages 15-35, 2023. (in Japanese).
-* Hans J. Vermeer. Skopos and Commission in Translational Cction. In Lawrence Venuti, editor, The Translation Studies Reader, pages 227–238, Routledge, 2004.
+* Hans J. Vermeer. Skopos and Commission in Translational Action. In Lawrence Venuti, editor, The Translation Studies Reader, pages 227–238, Routledge, 2004.
 
 ## Developer
 
