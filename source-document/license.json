@@ -1,253 +1,207 @@
-[
-    {
-        "id" : "00000001-A-1-X-4.txt",
+{
+    "00000001-A-1-X-4" : {
         "source_url" : "https://www.pressreleasepoint.com/the9-limited-announces-unaudited-financial-information-and-six-months-ended",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000002-A-1-X-8.txt",
+    "00000002-A-1-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/eesi-moves-100-stock-holdings-socially-responsible-funds",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000020-A-2-X-8.txt",
+    "00000020-A-2-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/berkadia-completes-sale-and-financing-rockland",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000027-A-3-X-8.txt",
+    "00000027-A-3-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/morrison-property-dismissed-lawsuit",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000032-A-4-X-7.txt",
+    "00000032-A-4-X-7" : {
         "source_url" : "https://www.prismnet.com/~hcexres/textbook/examples/complaintx4c.html",
         "license" : "CC BY 4.0"
     },
-    {
-        "id" : "00000046-A-4-X-8.txt",
+    "00000046-A-4-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/van-rates-drift-lower-winter-slump-takes-hold",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000069-B-1-X-8.txt",
+    "00000069-B-1-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/over-20-million-individuals-infected-hepatitis-e-asia-and-africa",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000074-B-1-X-9.txt",
+    "00000074-B-1-X-9" : {
         "source_url" : "https://www.ssa.gov/benefits/medicare/",
         "license_url" : "https://www.ssa.gov/policy/accessibility.html",
         "license" : "public domain"
     },
-    {
-        "id" : "00000082-B-2-X-8.txt",
+    "00000082-B-2-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/genentech-announces-fda-approval-xofluza-baloxavir-marboxil-people-high-risk-developing-influenza",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000088-B-2-X-9.txt",
+    "00000088-B-2-X-9" : {
         "source_url" : "https://www.fda.gov/drugs/electronic-regulatory-submission-and-review/electronic-common-technical-document-ectd",
         "license_url" : "https://www.fda.gov/about-fda/about-website/website-policies",
         "license" : "not copyrighted"
     },
-    {
-        "id" : "00000103-B-3-X-8.txt",
+    "00000103-B-3-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/bioo-scientific-releases-maxsignal-colistin-elisa-test-kit-rapid-quantitation-colistin-meat",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000109-B-3-X-9.txt",
+    "00000109-B-3-X-9" : {
         "source_url" : "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-necessity-use-food-product-categories-food-facility-registrations-and-updates-food",
         "license_url" : "https://www.fda.gov/about-fda/about-website/website-policies",
         "license" : "not copyrighted"
     },
-    {
-        "id" : "00000117-B-4-X-8.txt",
+    "00000117-B-4-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/ge-healthcare-announces-fda-approval-senoclaire-new-breast-imaging-3d-tomosynthesis-solution",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000124-B-4-X-9.txt",
+    "00000124-B-4-X-9" : {
         "source_url" : "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation",
         "license_url" : "https://www.fda.gov/about-fda/about-website/website-policies",
         "license" : "not copyrighted"
     },
-    {
-        "id" : "00000140-B-5-X-8.txt",
+    "00000140-B-5-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/advanced-ovarian-cancer-treatment-approved-cancer-drugs-fund",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000150-C-1-X-8.txt",
+    "00000150-C-1-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/fanuc-introduces-new-food-grade-delta-robot",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000151-C-10-X-19.txt",
+    "00000151-C-10-X-19" : {
         "source_url" : "https://www.legislation.gov.au/Details/F2018C00937",
         "license_url" : "https://www.legislation.gov.au/Content/Disclaimer",
         "license" : "CC BY 4.0"
     },
-    {
-        "id" : "00000155-C-10-X-8.txt",
+    "00000155-C-10-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/meps-call-country-origin-labelling-meat-processed-foods",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000164-C-2-X-8.txt",
+    "00000164-C-2-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/neta-reaches-across-industries-looking-advance-electrical-power-safety-and-reliability",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000189-C-3-X-8.txt",
+    "00000189-C-3-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/epri-utilities-auto-manufacturers-create-open-grid-integration-platform-plug-electric-vehicles",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000198-C-4-X-14.txt",
+    "00000198-C-4-X-14" : {
         "source_url" : "https://knowledge.autodesk.com/support/autocad/learn-explore/caas/simplecontent/content/tip-drawing-template-connstruction.html?v=2021",
         "license_url" : "https://www.autodesk.com/company/creative-commons",
         "license" : "CC BY-NC-SA 3.0"
     },
-    {
-        "id" : "00000229-C-4-X-19.txt",
+    "00000229-C-4-X-19" : {
         "source_url" : "https://knowledge.autodesk.com/customer-service/network-license-administration/managing-network-licenses/license-borrowing/about-license-borrowing",
         "license_url" : "https://www.autodesk.com/company/creative-commons",
         "license" : "CC BY-NC-SA 3.0"
     },
-    {
-        "id" : "00000239-C-4-X-8.txt",
+    "00000239-C-4-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/ge-software-solutions-makes-it-easier-manage-europe-s-grid",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000248-C-5-X-14.txt",
+    "00000248-C-5-X-14" : {
         "source_url" : "https://owasp.org/www-project-cornucopia/",
         "license" : "CC BY-SA 4.0"
     },
-    {
-        "id" : "00000258-C-5-X-17.txt",
+    "00000258-C-5-X-17" : {
         "source_url" : "https://cgi.tutsplus.com/tutorials/how-to-create-an-iphone-in-cinema-4d-part-2--cms-30578?_ga=2.114604288.629559267.1583638435-1086441147.1583406139",
         "license_url" : "https://tutsplus.com/terms-of-use",
         "license" : "fair use"
     },
-    {
-        "id" : "00000284-C-5-X-8.txt",
+    "00000284-C-5-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/nappy-cat-launches-first-title-physics-based-sling-and-capture-monster-game-dubbed-slingsters",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000302-C-6-X-14.txt",
+    "00000302-C-6-X-14" : {
         "source_url" : "https://manual.mahara.org/en/15.04/portfolio/collections.html",
         "license" : "CC BY-SA 3.0"
     },
-    {
-        "id" : "00000310-C-6-X-19.txt",
+    "00000310-C-6-X-19" : {
         "source_url" : "https://www.communications.gov.au/policy/policy-listing/carrier-powers-and-immunities",
         "license" : "CC BY 4.0"
     },
-    {
-        "id" : "00000335-C-6-X-8.txt",
+    "00000335-C-6-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/jlt-mobile-computers-expands-partnership-and-becomes-exclusive-reseller-winmate-products-us-market",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000340-C-7-X-18.txt",
+    "00000340-C-7-X-18" : {
         "source_url" : "https://www.prismnet.com/~hcexres/textbook/examples/compx1.html",
         "license" : "CC BY 4.0"
     },
-    {
-        "id" : "00000341-C-7-X-19.txt",
+    "00000341-C-7-X-19" : {
         "source_url" : "https://www.dmp.wa.gov.au/Environment/Publicly-available-information-2341.aspx",
         "license_url" : "https://www.dmirs.wa.gov.au/copyright",
         "license" : "CC BY 4.0"
     },
-    {
-        "id" : "00000364-C-7-X-8.txt",
+    "00000364-C-7-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/fact-sheet-biogas-opportunities-roadmap-voluntary-actions-reduce-methane-emissions-increase-energy-i",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000366-C-8-X-13.txt",
+    "00000366-C-8-X-13" : {
         "source_url" : "https://www.commerce.wa.gov.au/building-and-energy/building-practitioner-registration",
         "license_url" : "https://www.dmirs.wa.gov.au/copyright",
         "license" : "CC BY 4.0"
     },
-    {
-        "id" : "00000373-C-8-X-19.txt",
+    "00000373-C-8-X-19" : {
         "source_url" : "https://www.commerce.wa.gov.au/building-and-energy/building-contractor-renewal",
         "license_url" : "https://www.dmirs.wa.gov.au/copyright",
         "license" : "CC BY 4.0"
     },
-    {
-        "id" : "00000387-C-8-X-8.txt",
+    "00000387-C-8-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/honeywell-upgrade-first-ice-class-offshore-stationary-platform-sakhalin-shelf",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000399-C-9-X-8.txt",
+    "00000399-C-9-X-8" : {
         "source_url" : "https://www.pressreleasepoint.com/biotime-present-new-data-opregen-and-vision-restoration-programs-association-research-vision-and",
         "license" : "CC BY 3.0"
     },
-    {
-        "id" : "00000407-B-5-X-11.txt",
+    "00000407-B-5-X-11" : {
         "source_url" : "https://wwwnc.cdc.gov/travel/yellowbook/2020/introduction/perspectives-why-guidelines-differ",
         "license_url" : "https://www.cdc.gov/other/agencymaterials.html",
         "license" : "not subject to copyright"
     },
-    {
-        "id" : "00000450-B-5-X-13.txt",
+    "00000450-B-5-X-13" : {
         "source_url" : "https://www.cdc.gov/niosh/npptl/resources/pressrel/letters/interestedparties/lttr-02182014.html",
         "license_url" : "https://www.cdc.gov/other/agencymaterials.html",
         "license" : "not subject to copyright"
     },
-    {
-        "id" : "00000465-B-1-X-13.txt",
+    "00000465-B-1-X-13" : {
         "source_url" : "https://www.cdc.gov/niosh/topics/ehr/currentprojects.html",
         "license_url" : "https://www.cdc.gov/other/agencymaterials.html",
         "license" : "not subject to copyright"
     },
-    {
-        "id" : "00000467-A-4-X-13.txt",
+    "00000467-A-4-X-13" : {
         "source_url" : "https://www.tenders.sa.gov.au/news/downloadNewsDocument?newsId=104",
         "license_url" : "https://www.tenders.sa.gov.au/copyright",
         "license" : "Copyright Act 1968, Australia"
     },
-    {
-        "id" : "00000470-B-1-X-19.txt",
+    "00000470-B-1-X-19" : {
         "source_url" : "https://www.dhhs.vic.gov.au/sites/default/files/documents/201901/Use of restrictive interventions and compulsory treatment-information for APOs_20190125.docx",
         "license_url" : "https://www.dhhs.vic.gov.au/copyright",
         "license" : "Copyright Act 1968, Australia"
     },
-    {
-        "id" : "00000474-C-4-X-13.txt",
+    "00000474-C-4-X-13" : {
         "source_url" : "https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF",
         "license_url" : "https://www.defense.gov/Legal-Administrative/Privacy-Security/",
         "license" : "public information"
     },
-    {
-        "id" : "00000493-C-5-X-19.txt",
+    "00000493-C-5-X-19" : {
         "source_url" : "https://nt.gov.au/industry/gambling/licences/gaming-machines-in-clubs-pubs/apply-for-a-gaming-machine-licence",
         "license_url" : "https://nt.gov.au/page/copyright-disclaimer-and-privacy",
         "license" : "Copyright Act 1968, Australia"
     },
-    {
-        "id" : "00000496-C-1-X-19.txt",
+    "00000496-C-1-X-19" : {
         "source_url" : "https://www.fcc.gov/oet/ea/granteecode",
         "license_url" : "https://www.govinfo.gov/content/pkg/USCODE-2021-title17/html/USCODE-2021-title17.htm",
         "license" : "United States Code, Title 17"
     },
-    {
-        "id" : "00000497-C-2-X-19.txt",
+    "00000497-C-2-X-19" : {
         "source_url" : "https://www.fcc.gov/oet/ea/rfdevice",
         "license_url" : "https://www.govinfo.gov/content/pkg/USCODE-2021-title17/html/USCODE-2021-title17.htm",
         "license" : "United States Code, Title 17"
     },
-    {
-        "id" : "00000500-C-10-X-13.txt",
+    "00000500-C-10-X-13" : {
         "source_url" : "https://www.safework.nsw.gov.au/your-industry/agriculture,-forestry-and-fishing",
         "license_url" : "https://www.safework.nsw.gov.au/copyright",
         "license" : "CC BY 4.0"
     }
-]
+}
