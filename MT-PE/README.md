@@ -56,4 +56,5 @@ See [README.md](../README.md) in the top directory.
 
 ## Acknowledgments
 
+We are grateful to Rei Miyata for his helpful advice on the MQM-like annotation instruction and the issue typology.
 The dataset under this directory was developed as a part of work at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/), [Advanced Speech Translation Research and Development Promotion Center](https://astrec.nict.go.jp/), [National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
