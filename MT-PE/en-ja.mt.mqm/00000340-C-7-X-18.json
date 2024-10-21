@@ -1,0 +1,1285 @@
+{
+    "340.json": [
+        {
+            "src": "Online Technical Writing: Comparison Example",
+            "mt": "オンラインテクニカルライティング:比較例",
+            "MQM_score": 0
+        },
+        {
+            "src": "by David McMurrey",
+            "mt": "David McMurrey著",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "David McMurrey",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Comparison of Nuclear Reactors",
+            "mt": "原子炉の比較",
+            "MQM_score": 0
+        },
+        {
+            "src": "A nuclear power reactor uses fission reactions to produce thermal energy that is converted to electrical energy. One common class of nuclear reactor is the light water reactor which uses light water as a moderator and as a coolant. There are two types of light water reactors: the pressurized water reactor and the boiling water reactor.",
+            "mt": "原子炉は、核分裂反応により熱エネルギーを取り出して電気エネルギーに変換するもので、軽水を減速材と冷却材として使用する軽水炉が一般的であり、加圧水型と沸騰水型がある。",
+            "MQM_score": 53,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 73,
+                    "end": 111,
+                    "text": "that is converted to electrical energy",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 113,
+                    "end": 175,
+                    "text": "One common class of nuclear reactor is the light water reactor",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 232,
+                    "end": 276,
+                    "text": "There are two types of light water reactors:",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "により",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 25,
+                    "text": "取り出して",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 40,
+                    "text": "電気エネルギーに変換するもので",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 41,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 58,
+                    "text": "使用する",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 68,
+                    "text": "軽水炉が一般的であり",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 69,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 73,
+                    "text": "加圧水型",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 78,
+                    "text": "沸騰水型",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 81,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Note:",
+            "mt": "注:",
+            "MQM_score": 0
+        },
+        {
+            "src": "This information is derived from a report written in the mid-1980s. Move your mouse pointer over the thin dotted line links to see discussion.",
+            "mt": "この情報は、1980年代半ばに作成されたレポートに基づいています。マウスポインタを細い点線のリンク上に移動すると、ディスカッションが表示されます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Basic Operation",
+            "mt": "基本操作",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "操作",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Basically, the operations of the pressurized water reactor (PWR) and the boiling water reactor (BWR) are similar as Figure 1 shows. Water flows through the reactor core, steam is produced, the steam proceeds to turn a turbine-generator, electricity is produced, the steam is converted back to water, and the process is repeated.",
+            "mt": "基本的には、加圧水型原子炉(PWR)と沸騰水型原子炉(BWR)の運転は、図1に示すように、炉心に水を流して蒸気を発生させ、その蒸気でタービン発電機を回転させて発電し、その蒸気を水に戻して繰り返す。",
+            "MQM_score": 31,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 101,
+                    "end": 112,
+                    "text": "are similar",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 130,
+                    "end": 131,
+                    "text": ".",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 304,
+                    "end": 315,
+                    "text": "the process",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 34,
+                    "text": "運転",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 53,
+                    "text": "水を流して",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 93,
+                    "text": "戻して",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 97,
+                    "text": "繰り返す",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Figure 1.",
+            "mt": "図1.",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 3,
+                    "text": ".",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Basic Operation of Pressurized Water and Boiling Water Reactors",
+            "mt": "加圧水型及び沸騰水型原子炉の基本運転",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "運転",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Comparison of PWR and BWR",
+            "mt": "PWRとBWRの比較",
+            "MQM_score": 0
+        },
+        {
+            "src": "The differences in the operations of the two light water reactors involve (a) the method in which the steam is produced, (b) the pressure in the system, and (c) the process through which the steam goes through after being produced.",
+            "mt": "二つの軽水炉の運転の違いは、(a)蒸気の製造方法、(b)系内の圧力、(c)蒸気が製造された後に通過するプロセスである。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 66,
+                    "end": 73,
+                    "text": "involve",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "運転",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 22,
+                    "text": "製造",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 45,
+                    "text": "製造された",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 58,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Steam Production.",
+            "mt": "蒸気製造。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 2,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "製造",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In a pressurized water reactor, the primary coolant, after passing through the core and absorbing heat, proceeds to a secondary system consisting of a steam generator. The primary coolant then flows through many hundreds of small stainless-steel tubes in the heat-exchangers, which are part of the steam generator. These heat-exchanger tubes are surrounded by the water of the secondary system which is heated by the primary coolant in the tubes. Wet steam is then produced [4:72].",
+            "mt": "加圧水型原子炉では、一次冷却材は炉心を通過して熱を吸収した後、蒸気発生器からなる二次系に進み、蒸気発生器の一部である熱交換器内の数百本もの小さなステンレス管を流れる。これらの熱交換器管は、管内の一次冷却材によって加熱された二次系の水によって取り囲まれ、湿り蒸気が発生する[4:72]。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 168,
+                    "end": 192,
+                    "text": "The primary coolant then",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 460,
+                    "end": 464,
+                    "text": "then",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "進み",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 47,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 82,
+                    "text": "流れる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 91,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 120,
+                    "end": 125,
+                    "text": "取り囲まれ",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 126,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 135,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Unlike the pressurized water reactor, the steam in a boiling water reactor is introoduced directly into the core. Jet pumps circulate the coolant water along the individual fuel rods in each fuel assembly in the core where it boils and becomes a two-phase steam-water mixture [1:21].",
+            "mt": "加圧水型原子炉と異なり、沸騰水型原子炉の蒸気は炉心に直接導入され、ジェットポンプは炉心内の各燃料集合体の個々の燃料棒に沿って冷却水を循環させ、沸騰して二相の蒸気-水混合体となる[1:21]。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 217,
+                    "end": 222,
+                    "text": "where",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 32,
+                    "text": "導入され",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 33,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 88,
+                    "text": "なる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Pressure in the System..",
+            "mt": "システム内の圧力.",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "システム",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": ".",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The pressure in a pressurized water reactor varies from the primary to the secondary system. In the primary system, the pressure is maintained at about 2250 pounds per square inch to prevent steam from forming. The pressure is then lowered for steam, at 600 pounds per square inch, to form. The pressure is controlled by a pressurizer [2:81].",
+            "mt": "加圧水型原子炉の圧力は一次系から二次系まで様々であるが、一次系では蒸気が発生しないように約2250ポンド/平方インチの圧力を維持し、次に圧力を下げて蒸気を発生させ、600ポンド/平方インチの圧力にする。圧力は加圧器で制御される[2:81]。",
+            "MQM_score": 39,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 27,
+                    "text": "一次系から二次系まで様々であるが",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 58,
+                    "text": "約2250ポンド/平方インチ",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 59,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 65,
+                    "text": "維持し",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 66,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 82,
+                    "text": "発生させ、",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 94,
+                    "text": "600ポンド/平方インチ",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 95,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 100,
+                    "text": "圧力にする",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 113,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In contrast, the boiling water reactor operates at constant pressure. The primary system operates at pressure about one-half that of a pressurized water reactor's primary system while producing steam of equal quality [3:1995].",
+            "mt": "一方、沸騰水型原子炉は一定の圧力で運転され、一次系は加圧水型原子炉の一次系の約半分の圧力で運転され、同じ質の蒸気を生成する[3:1995]。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 21,
+                    "text": "運転され",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 22,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 49,
+                    "text": "運転され",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "生成",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 61,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Process of Generated Steam.",
+            "mt": "生成蒸気のプロセス。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "生成",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 10,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "After the wet steam is formed in a pressurized water reactor, it passes upward through the risers and enters the steam-separator portion of the steam generator. Here the moisture is removed and returned to the heat-exchanger portion of sections through the downcomers. The dry and saturated steam leaves the top of the steam separator and goes to the turbine [4:72].",
+            "mt": "湿り蒸気は加圧水型原子炉で生成された後、上昇管を通って蒸気発生器の蒸気分離部に入り、ここで水分が除去され、ダウンカマーを通って各セクションの熱交換部に戻され、乾燥し飽和した蒸気は蒸気分離部の頂部からタービン[4:72]に送られる。",
+            "MQM_score": 47,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 72,
+                    "end": 78,
+                    "text": "upward",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 297,
+                    "end": 303,
+                    "text": "leaves",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 18,
+                    "text": "生成された",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 23,
+                    "text": "上昇管",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 41,
+                    "text": "入り",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 42,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 59,
+                    "text": "ダウンカマー",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 78,
+                    "text": "戻され",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 79,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 88,
+                    "text": "乾燥し飽和した蒸気",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 110,
+                    "end": 114,
+                    "text": "送られる",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The wet steam formed in a boiling water reactor leaves the core and also goes through a steam separator. However, unlike the pressurized water reactor, the steam goes through a steam dryer, where additional moisture is removed [1:18]. The steam then proceeds to the turbine. This steam, unlike that of the pressurized water reactor, is radioactive [2:100].",
+            "mt": "沸騰水型原子炉で生成された湿り蒸気は、炉心から分離器を経て分離されるが、加圧水型原子炉とは異なり、蒸気乾燥器を経てさらに水分が除去され(1:18)、タービンに送られる。この蒸気は、加圧水型原子炉とは異なり、放射性を有する(2:100)。",
+            "MQM_score": 56,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 48,
+                    "end": 54,
+                    "text": "leaves",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 68,
+                    "end": 72,
+                    "text": "also",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 152,
+                    "end": 161,
+                    "text": "the steam",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 190,
+                    "end": 195,
+                    "text": "where",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 294,
+                    "end": 301,
+                    "text": "that of",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 13,
+                    "text": "生成された",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 35,
+                    "text": "分離器を経て分離されるが",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 36,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 57,
+                    "text": "経て",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 67,
+                    "text": "除去され",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 74,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 110,
+                    "text": "有する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Conclusion",
+            "mt": "まとめ",
+            "MQM_score": 0
+        },
+        {
+            "src": "Thus, even though the pressurized water reactor and the boiling water reactor are generally similar in operation, there are four main differences between the two systems.",
+            "mt": "したがって、加圧水型原子炉と沸騰水型原子炉の運転は概して類似しているが、2つのシステムには4つの主な違いがある。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "したがって",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 24,
+                    "text": "運転",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 43,
+                    "text": "システム",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 55,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The steam in a pressurized water reactor is produced in a secondary system while the steam in boiling water reactor is produced directly in the reactor core. The pressure of a pressurized boiling reactor varies from the primary system to the output steam while the pressure of a boiling water reactor remains constant. The steam in a pressurized water reactor after coming out of the steam separator proceeds directly to the turbine while the steam in a boiling water reactor, after coming out of the steam separators, proceeds to a steam dryer and then to the turbine. The steam produced in a boiling water reactor is radioactive, whereas the steam produced in a pressurized water reactor is not.",
+            "mt": "加圧水型原子炉の蒸気は二次系で生成され、沸騰水型原子炉の蒸気は炉心で直接生成されるが、加圧水型原子炉の圧力は一次系から出力蒸気まで変化し、沸騰水型原子炉の圧力は一定である。加圧水型原子炉の蒸気は、蒸気分離器を出た後、タービンに直接送られ、沸騰水型原子炉の蒸気は、蒸気分離器を出た後、蒸気乾燥器を経てタービンに送られる。沸騰水型原子炉で生成される蒸気は放射性であるが、加圧水型原子炉で生成される蒸気は放射性でない。",
+            "MQM_score": 73,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 75,
+                    "end": 80,
+                    "text": "while",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 255,
+                    "end": 260,
+                    "text": "while",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 301,
+                    "end": 308,
+                    "text": "remains",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 433,
+                    "end": 438,
+                    "text": "while",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 549,
+                    "end": 553,
+                    "text": "then",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 19,
+                    "text": "生成され",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 41,
+                    "text": "生成される",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 42,
+                    "text": "が",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 43,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 85,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 115,
+                    "end": 118,
+                    "text": "送られ",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 149,
+                    "text": "を経て",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 158,
+                    "text": "送られる",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 167,
+                    "end": 172,
+                    "text": "生成される",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 181,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 191,
+                    "end": 196,
+                    "text": "生成される",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 202,
+                    "end": 205,
+                    "text": "でない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Table 1.",
+            "mt": "表1.",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 3,
+                    "text": ".",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Summary of Differences between the PWR and the BWR",
+            "mt": "PWRとBWRの相違点のまとめ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 11,
+                    "text": "相違点",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Pressurized Water Reactor",
+            "mt": "加圧水型軽水炉",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "加圧水型軽水炉",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Boiling Water Reactor",
+            "mt": "沸騰水型原子炉",
+            "MQM_score": 0
+        },
+        {
+            "src": "Steam production",
+            "mt": "蒸気製造",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 2,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "製造",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "In secondary reactor reactor core",
+            "mt": "二次原子炉炉心に",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 5,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": "に",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Directly in the system",
+            "mt": "システム内で直接",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "システム",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Pressure",
+            "mt": "圧力",
+            "MQM_score": 0
+        },
+        {
+            "src": "Varies, 2250 psi then lowered",
+            "mt": "可変、その後2250psi低下",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 15,
+                    "text": "その後2250psi低下",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Constant, 1040 psi",
+            "mt": "一定、1040psi",
+            "MQM_score": 0
+        },
+        {
+            "src": "Produced steam",
+            "mt": "発生蒸気",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "発生",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Goes through steam separators then to turbine; nonradioactive.",
+            "mt": "蒸気分離器を経てタービンに至り、非放射性である。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 30,
+                    "end": 34,
+                    "text": "then",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "経て",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 15,
+                    "text": "至り",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 23,
+                    "text": "非放射性である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 24,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Goes through separators then through steam dryers then to turbine; radioactive.",
+            "mt": "分離器を経て蒸気乾燥機を経てタービンに送られる;放射性。",
+            "MQM_score": 26,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 24,
+                    "end": 28,
+                    "text": "then",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 50,
+                    "end": 54,
+                    "text": "then",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "経て",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "経て",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 23,
+                    "text": "送られる",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

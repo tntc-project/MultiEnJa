@@ -1,0 +1,772 @@
+{
+    "069.json": [
+        {
+            "src": "Over 20 Million Individuals Infected with Hepatitis E in Asia and Africa",
+            "mt": "アジアとアフリカで20,000,000人以上がE型肝炎に感染",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 19,
+                    "text": "20,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted March 27th, 2012 for NORC at the University of Chicago",
+            "mt": "シカゴ大学NORC2012年3月27日投稿",
+            "MQM_score": 6.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "シカゴ大学NORC",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 9,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 21,
+                    "text": "投稿",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Over 20 Million Infected with Hepatitis E in Asia and Africa",
+            "mt": "アジアとアフリカで20,000,000人以上がE型肝炎に感染",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 19,
+                    "text": "20,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "70,000 Deaths and 3,000 Stillbirths Caused by Infections",
+            "mt": "70000死亡及び3000死産感染症によるもの",
+            "MQM_score": 31,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 7,
+                    "end": 13,
+                    "text": "Deaths",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 24,
+                    "end": 35,
+                    "text": "Stillbirths",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 36,
+                    "end": 56,
+                    "text": "Caused by Infections",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "70000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "死亡",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "及び",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 23,
+                    "text": "死産感染症によるもの",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "New research funded by the World Health Organization (WHO) estimates that 20.1 million individuals were infected with hepatitis E virus (HEV) genotypes 1 and 2 across 9 world regions in 2005. According to findings available in the April issue of Hepatology, a journal published by Wiley-Blackwell on behalf of the American Association for the Study of Liver Diseases, there were 3.4 million symptomatic cases, 70,000 deaths, and 3,000 stillbirths from HEV that year in countries throughout Asia and Africa.",
+            "mt": "世界保健機関(WHO)が資金提供した新たな研究によると、2005年に世界9地域で20,100,000人がE型肝炎ウイルス(HEV)遺伝子型1および2に感染したと推定されている。米国肝臓学会議のためにWiley-Blackwellが発行したHepatologyの4月号に発表された知見によると、同年にアジアとアフリカの国々でHEVによる症状のある症例が3,400,000人、死亡が70000人、死産が3000人であった。",
+            "MQM_score": 32,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 214,
+                    "end": 226,
+                    "text": "available in",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 258,
+                    "end": 267,
+                    "text": "a journal",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "世界保健機関(WHO)",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 50,
+                    "text": "20,100,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 87,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 95,
+                    "text": "米国肝臓学会議",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 99,
+                    "text": "のために",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 141,
+                    "text": "知見",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 175,
+                    "end": 184,
+                    "text": "3,400,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 186,
+                    "end": 188,
+                    "text": "死亡",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 194,
+                    "text": "70000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 204,
+                    "end": 208,
+                    "text": "であった",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Unlike hepatitis virus B and C strains that lead to chronic disease states, HEV causes acute illness. Previous studies show HEV genotypes 1 and 2 specifically infect humans, and are associated with large outbreaks in developing countries where sanitation conditions are poor. There is evidence that HEV increases mortality risk among pregnant women. While a safe and effective HEV vaccine has been developed, it has not been widely implemented.",
+            "mt": "慢性病態をもたらすB型およびC型肝炎ウイルス株とは異なり、HEVは急性疾患を引き起こす。以前の研究では、HEV遺伝子型1および2はヒトに特異的に感染し、衛生状態が不良な発展途上国で大規模なアウトブレイクを引き起こすことが示されている。HEVが妊婦の死亡リスクを高めるという証拠がある。安全で効果的なHEVワクチンが開発されているが、広く実施されているわけではない。",
+            "MQM_score": 14,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 43,
+                    "text": "す",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 107,
+                    "text": "を引き起こす",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 116,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 141,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 164,
+                    "text": "開発されている",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 179,
+                    "end": 181,
+                    "text": "ない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“Our study represents the first attempt to estimate the annual global impact of hepatitis E,” said lead author Dr. David Rein of the social science research organization NORC at the University of Chicago. Estimates were created by modeling the disease burden of HEV genotypes 1 and 2 in the 9 regions, representing 71% of the world's population. Based on published evidence the team—a collaboration between researchers from NORC, WHO and RTI International—also estimated annual incidence of infection to determine symptomatic, asymptomatic, and mortality cases.",
+            "mt": "「われわれの研究は、E型肝炎の世界的な年間影響を推定する最初の試みです」と筆頭著者であるシカゴ大学社会科学研究組織NORCのDr.David Rein氏は述べた。推定値は、世界人口の71%に相当する9地域におけるHEV遺伝子型1および2の疾病負荷をモデル化して作成された。公表された証拠に基づき、NORC、WHO、RTI Internationalの研究者らの共同研究チームは、症候性、無症候性、および死亡率の症例を決定するために年間感染率を推定した。",
+            "MQM_score": 40,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 11,
+                    "end": 21,
+                    "text": "represents",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 456,
+                    "end": 460,
+                    "text": "also",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 61,
+                    "text": "シカゴ大学社会科学研究組織NORC",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 75,
+                    "text": "Dr.David Rein",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 76,
+                    "text": "氏",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 80,
+                    "text": "た",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 130,
+                    "end": 134,
+                    "text": "作成され",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 134,
+                    "end": 135,
+                    "text": "た",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 201,
+                    "end": 204,
+                    "text": "死亡率",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 208,
+                    "end": 212,
+                    "text": "決定する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 215,
+                    "end": 220,
+                    "text": "年間感染率",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 223,
+                    "end": 225,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The team determined that the prevalence pattern of HEV was consistent across the regions, with the largest incident increase occurring in those between the ages of 5 and 20 years. The average age of infection was 17 years with the lowest age of infection in North Africa (8 years) and highest in East Asia (21 years).",
+            "mt": "研究チームは、HEVの流行パターンは地域間で一貫しており、5~20歳の年齢層で最も大きな増加がみられることを明らかにした。平均感染年齢は17歳で、北アフリカでは最低(8歳)、東アジアでは最高(21歳)であった。",
+            "MQM_score": 28,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 116,
+                    "end": 124,
+                    "text": "increase",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 238,
+                    "end": 254,
+                    "text": "age of infection",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 13,
+                    "text": "流行",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 34,
+                    "text": "5~20歳",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 60,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 82,
+                    "text": "は最低",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 95,
+                    "text": "は最高",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 104,
+                    "text": "であった",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Of the more than 20 million people infected with HEV, 61% of the cases occurred in East and South Asia, two regions which also accounted for 65% of deaths from HEV. Researchers also noted that North Africa accounted for 14% of all global HEV infections, but only 8.3% of symptomatic cases and 8% of deaths, which the authors attribute to the younger average age of infection in that region.",
+            "mt": "HEVに感染した20,000,000人以上のうち、61%の症例が東アジアと南アジアで発生しており、2つの地域でHEVによる死亡の65%を占めていた。研究者らはまた、北アフリカは世界の全HEV感染の14%を占めていたが、症状のある症例の8.3%と死亡の8%しか占めていなかったことを指摘した。著者らは、この地域の平均感染年齢が若いことが原因であるとしている。",
+            "MQM_score": 29,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 307,
+                    "end": 312,
+                    "text": "which",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 18,
+                    "text": "20,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 63,
+                    "text": "死亡",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 73,
+                    "text": "いた",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 107,
+                    "text": "いた",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 124,
+                    "text": "死亡",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 144,
+                    "text": "した",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 145,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 175,
+                    "end": 177,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The authors caution there are limitation to the study which only estimated incidence of HEV genotypes 1 and 2, leaving out genotype 3 which is prevalently occurs in Europe and the U.S. and genotype 4. “Future HEV estimates should include genotypes 3 and 4 to provide a complete picture of the global burden of HEV,” concludes Rein.",
+            "mt": "著者らは、欧米でよくみられる遺伝子型3と遺伝子型4を除いて、HEV遺伝子型1および2の発生率のみを推定する研究には限界があると警告している。「将来のHEV推定値には、HEVの世界的な負荷の全体像を把握するために遺伝子型3および4を含めるべきである」とReinは結論付けている。",
+            "MQM_score": 7.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 69,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 77,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 80,
+                    "text": "推定値",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 137,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "About Hepatology",
+            "mt": "肝臓学について",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "肝臓学",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Hepatology is the premier publication in the field of liver disease, publishing original, peer-reviewed articles concerning all aspects of liver structure, function and disease. Each month, the distinguished Editorial Board monitors and selects only the best articles on subjects such as immunology, chronic hepatitis, viral hepatitis, cirrhosis, genetic and metabolic liver diseases and their complications, liver cancer, and drug metabolism.",
+            "mt": "肝臓病学は、肝臓病の分野における主要な出版物であり、肝臓の構造、機能および病気のすべての側面に関する独創的なピアレビュー論文を出版している。毎月、著名な編集委員会が、免疫疾患、慢性肝炎、ウイルス性肝炎、肝硬変、遺伝性および代謝性の肝疾患とその合併症、肝癌、および薬物代謝などの主題に関する最良の論文のみをモニターし、選択する。",
+            "MQM_score": 27.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "肝臓病学",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 19,
+                    "text": "主要な",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 34,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 62,
+                    "text": "独創的なピアレビュー論文",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 67,
+                    "text": "出版して",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 69,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 87,
+                    "text": "免疫疾患",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 160,
+                    "end": 162,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "About NORC",
+            "mt": "NORCについて",
+            "MQM_score": 0
+        },
+        {
+            "src": "NORC at the University of Chicago is an independent research organization headquartered in downtown Chicago with additional offices on the University of Chicago's campus and in the D.C. Metro area. NORC also supports a nationwide field staff as well as international research operations. With clients throughout the world, NORC collaborates with government agencies, foundations, educational institutions, nonprofit organizations, and businesses to provide data and analysis that support informed decision making in key areas including health, education, economics, crime, justice, energy, security, and the environment. NORC's 70 years of leadership and experience in data collection, analysis, and dissemination—coupled with deep subject matter expertise—provides the foundation for effective solutions.",
+            "mt": "シカゴ大学のNORCは、シカゴのダウンタウンに本部を置く独立した研究機関であり、シカゴ大学のキャンパスおよびD.C.メトロエリアにもオフィスを設置しています。NORCは、全国規模のフィールド・スタッフおよび国際的な研究業務をサポートしています。世界中のクライアントと協力して、データと分析を提供し、医療、教育、経済、犯罪、司法、エネルギー、セキュリティ、環境などの主要分野における情報に基づく意思決定をサポートしています。NORCは、データ収集、分析、普及における70年間のリーダーシップと経験に、豊富な専門知識を組み合わせて、効果的なソリューションの基盤を提供しています。",
+            "MQM_score": 43.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 323,
+                    "end": 327,
+                    "text": "NORC",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 328,
+                    "end": 445,
+                    "text": "collaborates with government agencies, foundations, educational institutions, nonprofit organizations, and businesses",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 446,
+                    "end": 479,
+                    "text": "to provide data and analysis that",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "シカゴ大学のNORC",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 15,
+                    "text": "シカゴ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 45,
+                    "text": "シカゴ大学",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 100,
+                    "text": "フィールド・スタッフ",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 137,
+                    "text": "協力して",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 149,
+                    "text": "データと分析を提供し、",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 151,
+                    "text": "医療",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 170,
+                    "end": 176,
+                    "text": "セキュリティ",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 205,
+                    "end": 210,
+                    "text": "しています",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1764 @@
+{
+    "258.json": [
+        {
+            "src": "How to Create an iPhone in Cinema 4D: Part 2",
+            "mt": "Cinema4DでiPhoneを作成する:パート2",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 6,
+                    "text": "How to",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "by Jonathan Lam",
+            "mt": "Jonathan Lam著",
+            "MQM_score": 0
+        },
+        {
+            "src": "17 Dec 2018",
+            "mt": "2018年12月17日",
+            "MQM_score": 0
+        },
+        {
+            "src": "Difficulty: Intermediate",
+            "mt": "難易度:中間",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "中間",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Length: Medium",
+            "mt": "長さ:中",
+            "MQM_score": 0
+        },
+        {
+            "src": "Languages: English",
+            "mt": "言語:英語",
+            "MQM_score": 0
+        },
+        {
+            "src": "3D",
+            "mt": "3D",
+            "MQM_score": 0
+        },
+        {
+            "src": "3D Models",
+            "mt": "3Dモデル",
+            "MQM_score": 0
+        },
+        {
+            "src": "3D Rendering",
+            "mt": "3Dレンダリング",
+            "MQM_score": 0
+        },
+        {
+            "src": "3D Games",
+            "mt": "3Dゲーム",
+            "MQM_score": 0
+        },
+        {
+            "src": "3D Graphics",
+            "mt": "3Dグラフィックス",
+            "MQM_score": 0
+        },
+        {
+            "src": "Cinema 4D",
+            "mt": "シネマ4D",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "シネマ4D",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Illustration",
+            "mt": "イラストレーション",
+            "MQM_score": 0
+        },
+        {
+            "src": "Digital Art",
+            "mt": "デジタルアート",
+            "MQM_score": 0
+        },
+        {
+            "src": "Graphic Design",
+            "mt": "グラフィックデザイン",
+            "MQM_score": 0
+        },
+        {
+            "src": "Rendering Pipelines",
+            "mt": "パイプラインのレンダリング",
+            "MQM_score": 0
+        },
+        {
+            "src": "Modeling",
+            "mt": "モデリング",
+            "MQM_score": 0
+        },
+        {
+            "src": "iPhone",
+            "mt": "アイフォン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "アイフォン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apple",
+            "mt": "アップル",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "アップル",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What You'll Be Creating",
+            "mt": "お客様が作成するもの",
+            "MQM_score": 0
+        },
+        {
+            "src": "Follow this tutorial step-by-step to create a 3D iPhone model to use in video games, graphic design and illustration projects whilst learning Cinema 4D quickly.",
+            "mt": "Cinema4Dをすばやく学習しながら、ビデオゲーム、グラフィックデザイン、イラストレーションプロジェクトで使用する3D iPhoneモデルを作成するには、このチュートリアルの手順に従ってください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 90,
+                    "text": "手順",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Some of the skills you'll learn in this tutorial include creating basic 3D modelling, importing reference images, adding lighting to the scene and basic rendering techniques.",
+            "mt": "このチュートリアルで学習するスキルには、基本的な3Dモデリングの作成、参照イメージの読み込み、シーンへのライティングの追加、基本的なレンダリングテクニックなどがあります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the first part of the two-part tutorial, I showed you how to:",
+            "mt": "2部構成のチュートリアルの最初の部分では、次の操作方法を説明しました。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "How to Import Reference Images",
+            "mt": "参照イメージを読み込む方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "How to Prepare for Modelling",
+            "mt": "モデリングの準備方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "How to Model the iPhone",
+            "mt": "iPhoneのモデリング方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "In this, the second part of the the tutorial series, I'll show you how to:",
+            "mt": "このチュートリアル・シリーズの第2部では、次の操作方法について説明します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "How to Create Coloured Materials",
+            "mt": "色付きマテリアルを作成する方法",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "How to Add Lighting to the Scene",
+            "mt": "シーンに照明を追加する方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "How to Render the iPhone",
+            "mt": "iPhoneをレンダリングする方法",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "9. How to Create a New Material",
+            "mt": "9.新しいマテリアルを作成する方法",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 10,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 1",
+            "mt": "ステップ1",
+            "MQM_score": 0
+        },
+        {
+            "src": "Located near the bottom of the screen there is a material selection window. Click on Create > New Material to create a new material to use that you can edit.",
+            "mt": "画面下部には、材料選択ウィンドウがあります。編集可能な新しい材料を作成するには、作成>新規材料をクリックします。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "材料",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "材料",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 47,
+                    "text": "材料",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Materials are used to colour in the various objects and parts of the iPhone.",
+            "mt": "マテリアルは、iPhoneのさまざまなオブジェクトやパーツの色付けに使用されます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Select New Material from the menu",
+            "mt": "メニューから新規材料を選択します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "材料",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 2",
+            "mt": "ステップ2",
+            "MQM_score": 0
+        },
+        {
+            "src": "Double click on the new material icon (displayed as a sphere). This will bring up the Material Editor, where you can adjust the various properties of the material such as the colour, transparency and reflectance.",
+            "mt": "新しいマテリアルアイコン(球として表示)をダブルクリックします。マテリアルエディタが表示され、色、透明度、反射率などのマテリアルのさまざまなプロパティを調整できます。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 37,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 75,
+                    "text": "プロパティ",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For this particular style we will only be interested in flat colour (Luminance).",
+            "mt": "この特定のスタイルでは、フラットカラー(輝度)のみに注目します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Open the Material Editor",
+            "mt": "マテリアルエディタを開く",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 3",
+            "mt": "ステップ3",
+            "MQM_score": 0
+        },
+        {
+            "src": "Tick the button for Luminance and untick the boxes for Colour and Reflectance. This will give the cel shaded look for the final image.",
+            "mt": "[輝度]ボタンをクリックし、[色]ボックスと[反射率]ボックスのチェックマークを外します。これにより、最終的なイメージがセルシェーディングされた外観になります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Select Luminance",
+            "mt": "輝度を選択",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 4",
+            "mt": "ステップ4",
+            "MQM_score": 0
+        },
+        {
+            "src": "Colour the iPhone body by adding the material to the object. Drag and drop the material to the object using the mouse. You can also drag and drop the material onto the object listed on the right of the screen.",
+            "mt": "オブジェクトにマテリアルを追加して、iPhone本体に色を付けます。マウスを使用してオブジェクトにマテリアルをドラッグアンドドロップします。マテリアルを画面の右側に表示されているオブジェクトにドラッグアンドドロップすることもできます。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 54,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 75,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Drag new material on to the 3D model",
+            "mt": "新しいマテリアルを3Dモデルにドラッグする",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "10. How to Adjust the Material Properties",
+            "mt": "10.材料特性の調整方法",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 5,
+                    "text": "材料",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "特性",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 1",
+            "mt": "ステップ1",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the Material Editor, click on the arrow button next to Texture and select Sketch and Toon > Cel from the menu.",
+            "mt": "マテリアルエディタで、テクスチャの横にある矢印ボタンをクリックし、メニューからスケッチとトゥーン>セル(Sketch and Toon>Cel)を選択します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Select Sketch and Toon and Cel from the menu",
+            "mt": "メニューからスケッチとトゥーンとセルを選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 2",
+            "mt": "ステップ2",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click on the new Cel button that appears next to Texture to bring up a new menu.",
+            "mt": "Textureの横に表示される新しいCelボタンをクリックして、新しいメニューを表示します。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "Texture",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 21,
+                    "text": "Cel",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click on the Cel button",
+            "mt": "Celボタンをクリックする",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "Cel",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 3",
+            "mt": "ステップ3",
+            "MQM_score": 0
+        },
+        {
+            "src": "In this new menu, adjust the settings as follows:",
+            "mt": "この新しいメニューで、設定を次のように調整します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Change the Diffuse to match the image at below.",
+            "mt": "[拡散反射光]を下のイメージに合わせて変更します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "It should be grey scale with the colour getting light from left to right.",
+            "mt": "左から右に光が明るくなるグレースケールです。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Untick Camera.",
+            "mt": "[カメラを選択解除]:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "[カメラを選択解除]:",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Tick Lights.",
+            "mt": "[ティックライト]:",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "[ティックライト]:",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Tick Shadows",
+            "mt": "ティックシャドウ",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "ティックシャドウ",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Select Multiply from the drop down menu.",
+            "mt": "ドロップダウンメニューから[乗算]を選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Adjust the settings in the editor",
+            "mt": "エディタで設定を調整する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 4",
+            "mt": "ステップ4",
+            "MQM_score": 0
+        },
+        {
+            "src": "Select a colour by double-clicking on the colour option box .",
+            "mt": "色オプションボックスをダブルクリックして色を選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "The Material Editor gives many different options for choosing and picking colours. These include RGB, HSV and so on. Choose whichever option you are most familiar with as a flat colour. Because of the Multiply shading mode, the different colour shades will also appear in the material.",
+            "mt": "マテリアルエディタには、色を選択したり選択したりするためのさまざまなオプションが用意されています。たとえば、RGB、HSVなどです。フラットカラーとして最もよく使用するオプションを選択します。[乗算]シェーディングモードのため、異なる色のシェードもマテリアルに表示されます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 129,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If the material has already been applied to the model, the colour of the model will automatically be adjusted to the new material colour. This is useful if you change your mind on a certain colour or a certain part of the iPhone model.",
+            "mt": "マテリアルが既にモデルに適用されている場合、モデルの色は自動的に新しいマテリアルの色に調整されます。これは、iPhoneモデルの特定の色または特定の部分に変更を加える場合に便利です。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 40,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Pick a colour",
+            "mt": "色の選択",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 5",
+            "mt": "ステップ5",
+            "MQM_score": 0
+        },
+        {
+            "src": "Because we've already applied the material to the model, the colour of the iPhone will automatically be adjusted to the new material colour.",
+            "mt": "既にモデルにマテリアルが適用されているため、iPhoneの色は自動的に新しいマテリアルの色に調整されます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 11,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 43,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "11. How to Adjust the Shading",
+            "mt": "11.シェーディングを調整する方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 1",
+            "mt": "ステップ1",
+            "MQM_score": 0
+        },
+        {
+            "src": "To get a better idea of the shading and how our render will turn out as we work on it, click and hold on the Render Button and select Interactive Render Region from the menu.",
+            "mt": "シェーディングと、作業中にレンダーがどのように表示されるかするには、レンダーボタンをクリックしたままメニューからインタラクティブレンダー領域(Interactive Render Region)を選択します。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 38,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 68,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Select Interactive Render Region",
+            "mt": "インタラクティブレンダ領域を選択",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 11,
+                    "text": "レンダ",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 2",
+            "mt": "ステップ2",
+            "MQM_score": 0
+        },
+        {
+            "src": "Use the mouse to adjust the window so that it fits around the iPhone model. Look for the very small arrow on the right hand side of the window and use the mouse to drag it to the top right corner of the box (this increases the resolution).",
+            "mt": "マウスを使用して、iPhoneモデルの周囲に収まるようにウィンドウを調整します。ウィンドウの右側にある非常に小さな矢印を探し、マウスを使用してボックスの右上隅にドラッグします(解像度が上がります)。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Decrease the resolution by moving the arrow down if you find that the performance is decreasing.",
+            "mt": "パフォーマンスが低下している場合は、矢印を下に移動して解像度を下げます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Adjust the resolution",
+            "mt": "解像度を調整する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 3",
+            "mt": "ステップ3",
+            "MQM_score": 0
+        },
+        {
+            "src": "To change the way the light source is facing go to Options > Default Light.",
+            "mt": "光源の向きを変更するには、オプション>デフォルトライト(Options>Default Light)を選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "You can also add a light object to the scene if you are more comfortable working that way.",
+            "mt": "ライトオブジェクトをシーンに追加することもできます(ライトオブジェクトをシーンに追加する方が作業しやすい場合)。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 44,
+                    "text": "ライトオブジェクトをシーンに追加する",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Select default light",
+            "mt": "デフォルトライトを選択",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 4",
+            "mt": "ステップ4",
+            "MQM_score": 0
+        },
+        {
+            "src": "Change the light source in the Default Light window. Click where you'd like the light source to come from on the sphere and it will sync with the view port. Experiment with different lighting positions to come up with a lighting situation that you like.",
+            "mt": "Default Lightウィンドウで光源を変更します。球上で光源を配置する場所をクリックすると、ビューポートと同期されます。さまざまな照明位置を試して、希望の照明状況を見つけてください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Default Light",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "This can be adjusted at anytime so you can change the lighting again if you changed your mind.",
+            "mt": "いつでも調整できるので、気が変わったらまた照明を変えることができます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Change the lighting direction",
+            "mt": "照明方向を変更する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 5",
+            "mt": "ステップ5",
+            "MQM_score": 0
+        },
+        {
+            "src": "Secondary-click on the arrow and select Alpha Mode in order to reveal the rest of the viewport. Some people may find working this way easier.",
+            "mt": "矢印を2次クリックして[アルファモード](Alpha Mode)を選択すると、ビューポートの残りの部分が表示されます。こういうやり方のほうが簡単だと感じる人もいるかもしれない。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 87,
+                    "text": "かもしれない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Select Alpha Mode",
+            "mt": "アルファモードを選択",
+            "MQM_score": 0
+        },
+        {
+            "src": "12. Other Lighting Solutions",
+            "mt": "12.その他の照明ソリューション",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 1",
+            "mt": "ステップ1",
+            "MQM_score": 0
+        },
+        {
+            "src": "To set up the basic lighting, go to the Floor button located in the top menu bar. Primary-Click-Hold and then select Physical Sky from the menu.",
+            "mt": "基本的なライティングを設定するには、上部のメニューバーにある[フロア]ボタンをクリックします。Primary-Click-HoldメニューからPhysical Skyを選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Select Physical Sky",
+            "mt": "物理空を選択",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "物理空",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 2",
+            "mt": "ステップ2",
+            "MQM_score": 0
+        },
+        {
+            "src": "Make sure that Physical Sky is selected in the menu on the right, a new menu will appear on the bottom right of the screen. Select the Time and Location tab and choose a time using the left and right arrow keys.",
+            "mt": "右側のメニューで[Physical Sky]が選択されていることを確認します。新しいメニューが画面の右下に表示されます。[Time and Location]タブを選択し、左右の矢印キーを使用して時間を選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "This will change the lighting of the scene (according to the time of the day). Choose a suitable time to light up the scene. You'll see how the lighting affects the scene in the viewport.",
+            "mt": "これにより、シーンのライティングが(1日の時間に応じて)変更されます。シーンを照らす適切な時間を選択してください。ライティングがシーンにどのように影響するかは、ビューポートで確認できます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Select a Time",
+            "mt": "時間を選択",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 3",
+            "mt": "ステップ3",
+            "MQM_score": 0
+        },
+        {
+            "src": "To add a light to the scene, select the Add Light button in the top menu bar at the top of the screen.",
+            "mt": "シーンにライトを追加するには、画面上部のトップメニューバーにあるライトの追加(Add Light)ボタンを選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "This creates a Light Object which you can move around the scene. Move the light object using the Move Tool to a suitable position.",
+            "mt": "これによりライトオブジェクトが作成され、シーン内を移動できます。移動ツール(Move Tool)を使用してライトオブジェクトを適切な位置に移動します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Select the Add Light Button",
+            "mt": "[ライトを追加]ボタンを選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 4",
+            "mt": "ステップ4",
+            "MQM_score": 0
+        },
+        {
+            "src": "To customise the lighting further, experiment with the light object options in the bottom right of the screen. Here you can adjust the Intensity, Light Type and even Colour.",
+            "mt": "ライティングをさらにカスタマイズするには、画面右下のライトオブジェクトオプションを試してみてください。ここでは、強度、ライトタイプ、カラーを調整できます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Light Object adjustments",
+            "mt": "ライトオブジェクトの調整",
+            "MQM_score": 0
+        },
+        {
+            "src": "13. How to Colour the iPhone Screen",
+            "mt": "13.iPhone画面に色を付ける方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 1",
+            "mt": "ステップ1",
+            "MQM_score": 0
+        },
+        {
+            "src": "To create a new material we can duplicate the material by holding CTRL on the keyboard and then using the mouse to click and drag the material to the side.",
+            "mt": "新しいマテリアルを作成するには、キーボードの[Ctrl]を押したまま、マウスを使用してマテリアルをクリックして横にドラッグし、マテリアルを複製します。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 48,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 68,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Duplicate material",
+            "mt": "重複したマテリアル",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 9,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 2",
+            "mt": "ステップ2",
+            "MQM_score": 0
+        },
+        {
+            "src": "Double-click on the new material to open up the Material Editor and select Luminance. From there we can change the colour to the following:",
+            "mt": "新しいマテリアルをダブルクリックしてマテリアルエディタを開き、[輝度](Luminance)を選択します。ここで、色を次のように変更できます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 23,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "R: 56",
+            "mt": "右:56",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "右",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "G: 47",
+            "mt": "ト:47",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "ト",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "B: 66",
+            "mt": "乙:66",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "乙",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Choose a new colour",
+            "mt": "新しい色の選択",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 3",
+            "mt": "ステップ3",
+            "MQM_score": 0
+        },
+        {
+            "src": "Apply the new material to the screen by clicking and dragging it directly onto the object.",
+            "mt": "新しいマテリアルをクリックしてオブジェクト上に直接ドラッグし、スクリーンに適用します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply material to model",
+            "mt": "モデルへの材料の適用",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "材料",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "14. How to Colour the iPhone Details",
+            "mt": "14.iPhoneの詳細に色を付ける方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 1",
+            "mt": "ステップ1",
+            "MQM_score": 0
+        },
+        {
+            "src": "Create a new material. You can also duplicate a previous material in order to keep the settings from before.",
+            "mt": "新しいマテリアルを作成します。以前の設定を保持するために、以前のマテリアルを複製することもできます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 37,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Double-click on the new material to open up the Material Editor and select Luminance. From there we can change the colour to the following:",
+            "mt": "新しいマテリアルをダブルクリックしてマテリアルエディタを開き、[輝度](Luminance)を選択します。ここで、色を次のように変更できます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 23,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "R: 70",
+            "mt": "右:70",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "右",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "G: 69",
+            "mt": "ト:69",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "ト",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "B: 65",
+            "mt": "乙:65",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "乙",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Choose a new colour",
+            "mt": "新しい色の選択",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 2",
+            "mt": "ステップ2",
+            "MQM_score": 0
+        },
+        {
+            "src": "Apply the new material to the button objects inside the cutout group. You can also apply the material by clicking and dragging it to the object in the viewport.",
+            "mt": "カットアウトグループ内のボタンオブジェクトに新しいマテリアルを適用します。マテリアルをビューポート内のオブジェクトにクリックアンドドラッグして適用することもできます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 30,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 42,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply material to objects in list view",
+            "mt": "リストビューでオブジェクトにマテリアルを適用する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 19,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 3",
+            "mt": "ステップ3",
+            "MQM_score": 0
+        },
+        {
+            "src": "When the material is applied, the details will change colour to reflect the material.",
+            "mt": "マテリアルを適用すると、マテリアルを反映して詳細の色が変わります。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 17,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply new material to iPhone details",
+            "mt": "新しいマテリアルをiPhoneの詳細に適用する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 4",
+            "mt": "ステップ4",
+            "MQM_score": 0
+        },
+        {
+            "src": "Repeat the same steps for the side buttons. For the side buttons, use the same colour material which was used for the iPhone body.",
+            "mt": "サイドボタンについても同じ手順を繰り返します。サイドボタンについては、iPhone本体と同じカラー素材を使用してください。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 15,
+                    "text": "手順",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 51,
+                    "text": "素材",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply new material to iPhone buttons",
+            "mt": "iPhoneボタンに新しいマテリアルを適用する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 18,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 5",
+            "mt": "ステップ5",
+            "MQM_score": 0
+        },
+        {
+            "src": "For the back camera details, use the dark grey colour. Remember that you can change the colour of the material at a later date as well.",
+            "mt": "バックカメラの詳細については、ダークグレーを使用してください。マテリアルの色は後で変更することもできます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 36,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply new material to iPhone camera",
+            "mt": "新しいマテリアルをiPhoneカメラに適用する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 8,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "15. How to Render the iPhone",
+            "mt": "15.iPhoneをレンダリングする方法",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 16,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 1",
+            "mt": "ステップ1",
+            "MQM_score": 0
+        },
+        {
+            "src": "On the top menu bar, click on the Render Settings button. This brings up the render settings window.",
+            "mt": "トップメニューバーでレンダー設定(Render Settings)ボタンをクリックします。レンダー設定ウィンドウが表示されます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 14,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 49,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click on the Render Settings button",
+            "mt": "レンダー設定(Render Settings)ボタンをクリックします。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 2",
+            "mt": "ステップ2",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the render settings menu, you can change the options to what you need. First, tick the Save Settings to select a file location, file format and alpha channel.",
+            "mt": "レンダー設定(Render Settings)メニューで、必要に応じてオプションを変更できます。まず、保存設定(Save Settings)を選択して、ファイルの場所、ファイルフォーマット、アルファチャンネルを選択します。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 104,
+                    "text": "アルファチャンネル",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Select Alpha Channel if you wish to keep the background see through.",
+            "mt": "背景が透けて見えるようにする場合は、アルファチャンネル(Alpha Channel)を選択します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 42,
+                    "text": "アルファチャンネル(Alpha Channel)",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Save settings",
+            "mt": "設定を保存する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 3",
+            "mt": "ステップ3",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the Output Settings choose the resolution, height and width of the image.",
+            "mt": "出力設定で、イメージの解像度、高さ、幅を選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Output settings",
+            "mt": "出力設定",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 4",
+            "mt": "ステップ4",
+            "MQM_score": 0
+        },
+        {
+            "src": "To ensure that the render is nice and sharp go to the Anti-Aliasing settings. Select Cubic (Still Image) which can be found under Filter.",
+            "mt": "レンダーの質とシャープさを確保するには、アンチエイリアシング(Anti-Aliasing)設定に進みます。フィルタ(Filter)の下にあるキュービック(静止画)(Cubic(Still Image))を選択します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "レンダー",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Anti-Aliasing settings",
+            "mt": "アンチエイリアシングの設定",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 5",
+            "mt": "ステップ5",
+            "MQM_score": 0
+        },
+        {
+            "src": "To create the final image, click on the Render button. Remember to select the right view in the viewport (front, right, left or perspective etc.) and that you're happy with the camera angle.",
+            "mt": "最終的なイメージを作成するには、[レンダリング]ボタンをクリックします。ビューポートで右側のビュー(正面、右、左、パースビューなど)を選択し、カメラの角度問題がないことを確認します。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 24,
+                    "text": "[レンダリング]",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 63,
+                    "text": "パースビュー",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Choose a suitable angle in the viewport by navigating around the scene.",
+            "mt": "シーンをナビゲートして、ビューポートで適切な角度を選択します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click on the Render button",
+            "mt": "Renderボタンをクリックする",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Render",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 6",
+            "mt": "ステップ6",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you want to have more control over how your final render looks, create a camera object to help. Find a suitable view using the viewport first and then click on the camera button.",
+            "mt": "最終的なレンダリングの外観をより細かく制御したい場合は、カメラオブジェクトを作成すると便利です。まずビューポートを使用して適切なビューを見つけ、カメラボタンをクリックします。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 10,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "This will create a camera using the current view in the viewport. Check out the camera settings to see how they affect the final render.",
+            "mt": "これにより、ビューポート内の現在のビューを使用してカメラが作成されます。カメラ設定が最終レンダリングにどのように影響するかを確認するには、カメラ設定を確認してください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 50,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click on the Camera button",
+            "mt": "Cameraボタンをクリックする",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Camera",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The End Result",
+            "mt": "最終結果",
+            "MQM_score": 0
+        },
+        {
+            "src": "Wait for the final render to finish. Once the render is complete you can repeat the steps above and change the camera or the view port to create a new image from a different angle.",
+            "mt": "最終レンダリングが終了するまで待ちます。レンダリングが完了したら、上記の手順を繰り返してカメラまたはビューポートを変更し、別の角度から新しいイメージを作成できます。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 8,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 26,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "手順",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Throughout the course of the project you have successfully learnt how to:",
+            "mt": "プロジェクトの全過程を通じて、次のことを学習しました。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Import Reference Images",
+            "mt": "参照イメージを読み込む",
+            "MQM_score": 0
+        },
+        {
+            "src": "Prepare for Modelling",
+            "mt": "モデリングの準備をする",
+            "MQM_score": 0
+        },
+        {
+            "src": "Model an iPhone",
+            "mt": "iPhoneをモデリングする",
+            "MQM_score": 0
+        },
+        {
+            "src": "Create Materials",
+            "mt": "マテリアルを作成",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Colour the Model",
+            "mt": "モデルに色を付ける",
+            "MQM_score": 0
+        },
+        {
+            "src": "Render the iPhone",
+            "mt": "iPhoneのレンダリング",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Feel free to share your own creations below. You can also export your image into Adobe Photoshop to enhance it further or to use it as part of a larger image.",
+            "mt": "自分で作った作品は下に掲載している。イメージをAdobe Photoshopに書き出して、さらに拡張したり、大きなイメージの一部として使用したりすることもできます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Final iPhone render",
+            "mt": "iPhoneの最終レンダリング",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 15,
+                    "text": "レンダリング",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Jonathan Lam",
+            "mt": "ジョナサン・ラム",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "ジョナサン・ラム",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Hi everyone! My name is Jonathan Lam and I'm a Digital Artist on a mission to empower, educate and inspire creative students just like you to gain the creative skills you desire! Currently I work for Ubisoft as a concept and game artist. My skills range from graphic design, illustration, animation, 3D modelling/sculpting, concept art and video editing. Some of the projects I've worked on include Hungry Shark World, Hungry Shark Evolution, Starbeard and the Kickstarter Funded Game called Eminence: Xander's Tales. I've also worked with many high profile clients including Riot Games, Sony Entertainment, Hasbro and Google as a graphic designer and illustrator.",
+            "mt": "皆さんこんにちは!私の名前はJonathan Lamです。私はデジタルアーティストです。あなたと同じようにクリエイティブな学生たちに力を与え、教育し、刺激を与えて、あなたが望むクリエイティブなスキルを身につけさせることを使命としています。現在、コンセプトアーティスト兼ゲームアーティストとしてUbisoftで働いています。私のスキルには、グラフィックデザイン、イラストレーション、アニメーション、3Dモデリング/スカルプト、コンセプトアート、ビデオ編集などがあります。私が取り組んだプロジェクトには、HungryShark World、HungryShark Evolution、Starbeard、Kickstarter Funded GameのEminence:Xander's Talesなどがあります。また、グラフィックデザイナー兼イラストレーターとして、Riot Games、ソニー・エンタテインメント、Hasbro、Googleなど、多くの有名クライアントと仕事をしています。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 393,
+                    "end": 406,
+                    "text": "ソニー・エンタテインメント",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

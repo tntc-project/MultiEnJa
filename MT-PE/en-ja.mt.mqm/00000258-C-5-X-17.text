@@ -1,0 +1,170 @@
+1	<ER54>How to</ER54> Create an iPhone in Cinema 4D: Part 2	Cinema4DでiPhoneを作成する:パート2
+2	by Jonathan Lam	Jonathan Lam著
+3	17 Dec 2018	2018年12月17日
+4	Difficulty: Intermediate	難易度:<ER01>中間</ER01>
+5	Length: Medium	長さ:中
+6	Languages: English	言語:英語
+7	3D	3D
+8	3D Models	3Dモデル
+9	3D Rendering	3Dレンダリング
+10	3D Games	3Dゲーム
+11	3D Graphics	3Dグラフィックス
+12	Cinema 4D	<ER04>シネマ4D</ER04>
+13	Illustration	イラストレーション
+14	Digital Art	デジタルアート
+15	Graphic Design	グラフィックデザイン
+16	Rendering Pipelines	パイプラインのレンダリング
+17	Modeling	モデリング
+18	iPhone	<ER02>アイフォン</ER02>
+19	Apple	<ER03>アップル</ER03>
+20	What You'll Be Creating	お客様が作成するもの
+21	Follow this tutorial step-by-step to create a 3D iPhone model to use in video games, graphic design and illustration projects whilst learning Cinema 4D quickly.	Cinema4Dをすばやく学習しながら、ビデオゲーム、グラフィックデザイン、イラストレーションプロジェクトで使用する3D iPhoneモデルを作成するには、このチュートリアルの<ER49>手順</ER49>に従ってください。
+22	Some of the skills you'll learn in this tutorial include creating basic 3D modelling, importing reference images, adding lighting to the scene and basic rendering techniques.	このチュートリアルで学習するスキルには、基本的な3Dモデリングの作成、参照イメージの読み込み、シーンへのライティングの追加、基本的なレンダリングテクニックなどがあります。
+23	In the first part of the two-part tutorial, I showed you how to:	2部構成のチュートリアルの最初の部分では、次の操作方法を説明しました<ER05>。</ER05>
+24	How to Import Reference Images	参照イメージを読み込む方法
+25	How to Prepare for Modelling	モデリングの準備方法
+26	How to Model the iPhone	iPhoneのモデリング方法
+27	In this, the second part of the the tutorial series, I'll show you how to:	このチュートリアル・シリーズの第2部では、次の操作方法について説明します。
+28	How to Create Coloured Materials	色付き<ER47>マテリアル</ER47>を作成する方法
+29	How to Add Lighting to the Scene	シーンに照明を追加する方法
+30	How to Render the iPhone	iPhoneを<ER61>レンダリング</ER61>する方法
+31	9. How to Create a New Material	9.新しい<ER48>マテリアル</ER48>を作成する方法
+32	Step 1	ステップ1
+33	Located near the bottom of the screen there is a material selection window. Click on Create > New Material to create a new material to use that you can edit.	画面下部には、<ER09>材料</ER09>選択ウィンドウがあります。編集可能な新しい<ER10>材料</ER10>を作成するには、作成>新規<ER11>材料</ER11>をクリックします。
+34	Materials are used to colour in the various objects and parts of the iPhone.	<ER06>マテリアル</ER06>は、iPhoneのさまざまなオブジェクトやパーツの色付けに使用されます。
+35	Select New Material from the menu	メニューから新規<ER12>材料</ER12>を選択します。
+36	Step 2	ステップ2
+37	Double click on the new material icon (displayed as a sphere). This will bring up the Material Editor, where you can adjust the various properties of the material such as the colour, transparency and reflectance.	新しい<ER07>マテリアル</ER07>アイコン(球として表示)をダブルクリックします。<ER08>マテリアル</ER08>エディタが表示され、色、透明度、反射率などのマテリアルのさまざまな<ER52>プロパティ</ER52>を調整できます。
+38	For this particular style we will only be interested in flat colour (Luminance).	この特定のスタイルでは、フラットカラー(輝度)のみに注目します。
+39	Open the Material Editor	<ER15>マテリアル</ER15>エディタを開く
+40	Step 3	ステップ3
+41	Tick the button for Luminance and untick the boxes for Colour and Reflectance. This will give the cel shaded look for the final image.	[輝度]ボタンをクリックし、[色]ボックスと[反射率]ボックスのチェックマークを外します。これにより、最終的なイメージがセルシェーディングされた外観になります。
+42	Select Luminance	輝度を選択
+43	Step 4	ステップ4
+44	Colour the iPhone body by adding the material to the object. Drag and drop the material to the object using the mouse. You can also drag and drop the material onto the object listed on the right of the screen.	オブジェクトに<ER16>マテリアル</ER16>を追加して、iPhone本体に色を付けます。マウスを使用してオブジェクトに<ER17>マテリアル</ER17>をドラッグアンドドロップします。<ER18>マテリアル</ER18>を画面の右側に表示されているオブジェクトにドラッグアンドドロップすることもできます。
+45	Drag new material on to the 3D model	新しい<ER19>マテリアル</ER19>を3Dモデルにドラッグする
+46	10. How to Adjust the Material Properties	10.<ER13>材料</ER13><ER53>特性</ER53>の調整方法
+47	Step 1	ステップ1
+48	In the Material Editor, click on the arrow button next to Texture and select Sketch and Toon > Cel from the menu.	<ER20>マテリアル</ER20>エディタで、テクスチャの横にある矢印ボタンをクリックし、メニューからスケッチとトゥーン>セル(Sketch and Toon>Cel)を選択します。
+49	Select Sketch and Toon and Cel from the menu	メニューからスケッチとトゥーンとセルを選択します。
+50	Step 2	ステップ2
+51	Click on the new Cel button that appears next to Texture to bring up a new menu.	<ER55>Texture</ER55>の横に表示される新しい<ER56>Cel</ER56>ボタンをクリックして、新しいメニューを表示します。
+52	Click on the Cel button	<ER57>Cel</ER57>ボタンをクリックする
+53	Step 3	ステップ3
+54	In this new menu, adjust the settings as follows:	この新しいメニューで、設定を次のように調整します。
+55	Change the Diffuse to match the image at below.	[拡散反射光]を下のイメージに合わせて変更します。
+56	It should be grey scale with the colour getting light from left to right.	左から右に光が明るくなるグレースケールです。
+57	Untick Camera.	<ER58>[カメラを選択解除]:</ER58>
+58	Tick Lights.	<ER59>[ティックライト]:</ER59>
+59	Tick Shadows	<ER60>ティックシャドウ</ER60>
+60	Select Multiply from the drop down menu.	ドロップダウンメニューから[乗算]を選択します。
+61	Adjust the settings in the editor	エディタで設定を調整する
+62	Step 4	ステップ4
+63	Select a colour by double-clicking on the colour option box .	色オプションボックスをダブルクリックして色を選択します。
+64	The Material Editor gives many different options for choosing and picking colours. These include RGB, HSV and so on. Choose whichever option you are most familiar with as a flat colour. Because of the Multiply shading mode, the different colour shades will also appear in the material.	<ER21>マテリアル</ER21>エディタには、色を選択したり選択したりするためのさまざまなオプションが用意されています。たとえば、RGB、HSVなどです。フラットカラーとして最もよく使用するオプションを選択します。[乗算]シェーディングモードのため、異なる色のシェードも<ER22>マテリアル</ER22>に表示されます。
+65	If the material has already been applied to the model, the colour of the model will automatically be adjusted to the new material colour. This is useful if you change your mind on a certain colour or a certain part of the iPhone model.	<ER23>マテリアル</ER23>が既にモデルに適用されている場合、モデルの色は自動的に新しい<ER24>マテリアル</ER24>の色に調整されます。これは、iPhoneモデルの特定の色または特定の部分に変更を加える場合に便利です。
+66	Pick a colour	色の選択
+67	Step 5	ステップ5
+68	Because we've already applied the material to the model, the colour of the iPhone will automatically be adjusted to the new material colour.	既にモデルに<ER25>マテリアル</ER25>が適用されているため、iPhoneの色は自動的に新しい<ER26>マテリアル</ER26>の色に調整されます。
+69	11. How to Adjust the Shading	11.シェーディングを調整する方法
+70	Step 1	ステップ1
+71	To get a better idea of the shading and how our render will turn out as we work on it, click and hold on the Render Button and select Interactive Render Region from the menu.	シェーディングと、作業中に<ER62>レンダー</ER62>がどのように表示されるかするには、<ER63>レンダー</ER63>ボタンをクリックしたままメニューからインタラクティブ<ER64>レンダー</ER64>領域(Interactive Render Region)を選択します。
+72	Select Interactive Render Region	インタラクティブ<ER65>レンダ</ER65>領域を選択
+73	Step 2	ステップ2
+74	Use the mouse to adjust the window so that it fits around the iPhone model. Look for the very small arrow on the right hand side of the window and use the mouse to drag it to the top right corner of the box (this increases the resolution).	マウスを使用して、iPhoneモデルの周囲に収まるようにウィンドウを調整します。ウィンドウの右側にある非常に小さな矢印を探し、マウスを使用してボックスの右上隅にドラッグします(解像度が上がります)。
+75	Decrease the resolution by moving the arrow down if you find that the performance is decreasing.	パフォーマンスが低下している場合は、矢印を下に移動して解像度を下げます。
+76	Adjust the resolution	解像度を調整する
+77	Step 3	ステップ3
+78	To change the way the light source is facing go to Options > Default Light.	光源の向きを変更するには、オプション>デフォルトライト(Options>Default Light)を選択します。
+79	You can also add a light object to the scene if you are more comfortable working that way.	ライトオブジェクトをシーンに追加することもできます(<ER93>ライトオブジェクトをシーンに追加する</ER93>方が作業しやすい場合)。
+80	Select default light	デフォルトライトを選択
+81	Step 4	ステップ4
+82	Change the light source in the Default Light window. Click where you'd like the light source to come from on the sphere and it will sync with the view port. Experiment with different lighting positions to come up with a lighting situation that you like.	<ER80>Default Light</ER80>ウィンドウで光源を変更します。球上で光源を配置する場所をクリックすると、ビューポートと同期されます。さまざまな照明位置を試して、希望の照明状況を見つけてください。
+83	This can be adjusted at anytime so you can change the lighting again if you changed your mind.	いつでも調整できるので、気が変わったらまた照明を変えることができます。
+84	Change the lighting direction	照明方向を変更する
+85	Step 5	ステップ5
+86	Secondary-click on the arrow and select Alpha Mode in order to reveal the rest of the viewport. Some people may find working this way easier.	矢印を2次クリックして[アルファモード](Alpha Mode)を選択すると、ビューポートの残りの部分が表示されます。こういうやり方のほうが簡単だと感じる人もいる<ER94>かもしれない</ER94>。
+87	Select Alpha Mode	アルファモードを選択
+88	12. Other Lighting Solutions	12.その他の照明ソリューション
+89	Step 1	ステップ1
+90	To set up the basic lighting, go to the Floor button located in the top menu bar. Primary-Click-Hold and then select Physical Sky from the menu.	基本的なライティングを設定するには、上部のメニューバーにある[フロア]ボタンをクリックします。Primary-Click-HoldメニューからPhysical Skyを選択します。
+91	Select Physical Sky	<ER81>物理空</ER81>を選択
+92	Step 2	ステップ2
+93	Make sure that Physical Sky is selected in the menu on the right, a new menu will appear on the bottom right of the screen. Select the Time and Location tab and choose a time using the left and right arrow keys.	右側のメニューで[Physical Sky]が選択されていることを確認します。新しいメニューが画面の右下に表示されます。[Time and Location]タブを選択し、左右の矢印キーを使用して時間を選択します。
+94	This will change the lighting of the scene (according to the time of the day). Choose a suitable time to light up the scene. You'll see how the lighting affects the scene in the viewport.	これにより、シーンのライティングが(1日の時間に応じて)変更されます。シーンを照らす適切な時間を選択してください。ライティングがシーンにどのように影響するかは、ビューポートで確認できます。
+95	Select a Time	時間を選択
+96	Step 3	ステップ3
+97	To add a light to the scene, select the Add Light button in the top menu bar at the top of the screen.	シーンにライトを追加するには、画面上部のトップメニューバーにあるライトの追加(Add Light)ボタンを選択します。
+98	This creates a Light Object which you can move around the scene. Move the light object using the Move Tool to a suitable position.	これによりライトオブジェクトが作成され、シーン内を移動できます。移動ツール(Move Tool)を使用してライトオブジェクトを適切な位置に移動します。
+99	Select the Add Light Button	[ライトを追加]ボタンを選択します。
+100	Step 4	ステップ4
+101	To customise the lighting further, experiment with the light object options in the bottom right of the screen. Here you can adjust the Intensity, Light Type and even Colour.	ライティングをさらにカスタマイズするには、画面右下のライトオブジェクトオプションを試してみてください。ここでは、強度、ライトタイプ、カラーを調整できます。
+102	Light Object adjustments	ライトオブジェクトの調整
+103	13. How to Colour the iPhone Screen	13.iPhone画面に色を付ける方法
+104	Step 1	ステップ1
+105	To create a new material we can duplicate the material by holding CTRL on the keyboard and then using the mouse to click and drag the material to the side.	新しい<ER27>マテリアル</ER27>を作成するには、キーボードの[Ctrl]を押したまま、マウスを使用して<ER28>マテリアル</ER28>をクリックして横にドラッグし、<ER29>マテリアル</ER29>を複製します。
+106	Duplicate material	重複した<ER30>マテリアル</ER30>
+107	Step 2	ステップ2
+108	Double-click on the new material to open up the Material Editor and select Luminance. From there we can change the colour to the following:	新しいマテリアルをダブルクリックして<ER31>マテリアル</ER31>エディタを開き、[輝度](Luminance)を選択します。ここで、色を次のように変更できます。
+109	R: 56	<ER82>右</ER82>:56
+110	G: 47	<ER83>ト</ER83>:47
+111	B: 66	<ER84>乙</ER84>:66
+112	Choose a new colour	新しい色の選択
+113	Step 3	ステップ3
+114	Apply the new material to the screen by clicking and dragging it directly onto the object.	新しい<ER32>マテリアル</ER32>をクリックしてオブジェクト上に直接ドラッグし、スクリーンに適用します。
+115	Apply material to model	モデルへの<ER14>材料</ER14>の適用
+116	14. How to Colour the iPhone Details	14.iPhoneの詳細に色を付ける方法
+117	Step 1	ステップ1
+118	Create a new material. You can also duplicate a previous material in order to keep the settings from before.	新しい<ER33>マテリアル</ER33>を作成します。以前の設定を保持するために、以前の<ER34>マテリアル</ER34>を複製することもできます。
+119	Double-click on the new material to open up the Material Editor and select Luminance. From there we can change the colour to the following:	新しい<ER35>マテリアル</ER35>をダブルクリックして<ER36>マテリアル</ER36>エディタを開き、[輝度](Luminance)を選択します。ここで、色を次のように変更できます。
+120	R: 70	<ER85>右</ER85>:70
+121	G: 69	<ER86>ト</ER86>:69
+122	B: 65	<ER87>乙</ER87>:65
+123	Choose a new colour	新しい色の選択
+124	Step 2	ステップ2
+125	Apply the new material to the button objects inside the cutout group. You can also apply the material by clicking and dragging it to the object in the viewport.	カットアウトグループ内のボタンオブジェクトに新しい<ER37>マテリアル</ER37>を適用します。<ER38>マテリアル</ER38>をビューポート内のオブジェクトにクリックアンドドラッグして適用することもできます。
+126	Apply material to objects in list view	リストビューでオブジェクトに<ER39>マテリアル</ER39>を適用する
+127	Step 3	ステップ3
+128	When the material is applied, the details will change colour to reflect the material.	<ER40>マテリアル</ER40>を適用すると、<ER41>マテリアル</ER41>を反映して詳細の色が変わります。
+129	Apply new material to iPhone details	新しい<ER42>マテリアル</ER42>をiPhoneの詳細に適用する
+130	Step 4	ステップ4
+131	Repeat the same steps for the side buttons. For the side buttons, use the same colour material which was used for the iPhone body.	サイドボタンについても同じ<ER50>手順</ER50>を繰り返します。サイドボタンについては、iPhone本体と同じカラー<ER88>素材</ER88>を使用してください。
+132	Apply new material to iPhone buttons	iPhoneボタンに新しい<ER43>マテリアル</ER43>を適用する
+133	Step 5	ステップ5
+134	For the back camera details, use the dark grey colour. Remember that you can change the colour of the material at a later date as well.	バックカメラの詳細については、ダークグレーを使用してください。<ER44>マテリアル</ER44>の色は後で変更することもできます。
+135	Apply new material to iPhone camera	新しい<ER45>マテリアル</ER45>をiPhoneカメラに適用する
+136	15. How to Render the iPhone	15.iPhoneを<ER66>レンダリング</ER66>する方法
+137	Step 1	ステップ1
+138	On the top menu bar, click on the Render Settings button. This brings up the render settings window.	トップメニューバーで<ER67>レンダー</ER67>設定(Render Settings)ボタンをクリックします。<ER68>レンダー</ER68>設定ウィンドウが表示されます。
+139	Click on the Render Settings button	<ER69>レンダー</ER69>設定(Render Settings)ボタンをクリックします。
+140	Step 2	ステップ2
+141	In the render settings menu, you can change the options to what you need. First, tick the Save Settings to select a file location, file format and alpha channel.	<ER70>レンダー</ER70>設定(Render Settings)メニューで、必要に応じてオプションを変更できます。まず、保存設定(Save Settings)を選択して、ファイルの場所、ファイルフォーマット、<ER95>アルファチャンネル</ER95>を選択します。
+142	Select Alpha Channel if you wish to keep the background see through.	背景が透けて見えるようにする場合は、<ER96>アルファチャンネル(Alpha Channel)</ER96>を選択します。
+143	Save settings	設定を保存する
+144	Step 3	ステップ3
+145	In the Output Settings choose the resolution, height and width of the image.	出力設定で、イメージの解像度、高さ、幅を選択します。
+146	Output settings	出力設定
+147	Step 4	ステップ4
+148	To ensure that the render is nice and sharp go to the Anti-Aliasing settings. Select Cubic (Still Image) which can be found under Filter.	<ER71>レンダー</ER71>の質とシャープさを確保するには、アンチエイリアシング(Anti-Aliasing)設定に進みます。フィルタ(Filter)の下にあるキュービック(静止画)(Cubic(Still Image))を選択します。
+149	Anti-Aliasing settings	アンチエイリアシングの設定
+150	Step 5	ステップ5
+151	To create the final image, click on the Render button. Remember to select the right view in the viewport (front, right, left or perspective etc.) and that you're happy with the camera angle.	最終的なイメージを作成するには、<ER72>[レンダリング]</ER72>ボタンをクリックします。ビューポートで右側のビュー(正面、右、左、<ER89>パースビュー</ER89>など)を選択し、カメラの角度問題がないことを確認します。
+152	Choose a suitable angle in the viewport by navigating around the scene.	シーンをナビゲートして、ビューポートで適切な角度を選択します。
+153	Click on the Render button	<ER73>Render</ER73>ボタンをクリックする
+154	Step 6	ステップ6
+155	If you want to have more control over how your final render looks, create a camera object to help. Find a suitable view using the viewport first and then click on the camera button.	最終的な<ER74>レンダリング</ER74>の外観をより細かく制御したい場合は、カメラオブジェクトを作成すると便利です。まずビューポートを使用して適切なビューを見つけ、カメラボタンをクリックします。
+156	This will create a camera using the current view in the viewport. Check out the camera settings to see how they affect the final render.	これにより、ビューポート内の現在のビューを使用してカメラが作成されます。カメラ設定が最終<ER75>レンダリング</ER75>にどのように影響するかを確認するには、カメラ設定を確認してください。
+157	Click on the Camera button	<ER90>Camera</ER90>ボタンをクリックする
+158	The End Result	最終結果
+159	Wait for the final render to finish. Once the render is complete you can repeat the steps above and change the camera or the view port to create a new image from a different angle.	最終<ER76>レンダリング</ER76>が終了するまで待ちます。<ER77>レンダリング</ER77>が完了したら、上記の<ER51>手順</ER51>を繰り返してカメラまたはビューポートを変更し、別の角度から新しいイメージを作成できます。
+160	Throughout the course of the project you have successfully learnt how to:	プロジェクトの全過程を通じて、次のことを学習しました。
+161	Import Reference Images	参照イメージを読み込む
+162	Prepare for Modelling	モデリングの準備をする
+163	Model an iPhone	iPhoneをモデリングする
+164	Create Materials	<ER46>マテリアル</ER46>を作成
+165	Colour the Model	モデルに色を付ける
+166	Render the iPhone	iPhoneの<ER78>レンダリング</ER78>
+167	Feel free to share your own creations below. You can also export your image into Adobe Photoshop to enhance it further or to use it as part of a larger image.	自分で作った作品は下に掲載している。イメージをAdobe Photoshopに書き出して、さらに拡張したり、大きなイメージの一部として使用したりすることもできます。
+168	Final iPhone render	iPhoneの最終<ER79>レンダリング</ER79>
+169	Jonathan Lam	<ER91>ジョナサン・ラム</ER91>
+170	Hi everyone! My name is Jonathan Lam and I'm a Digital Artist on a mission to empower, educate and inspire creative students just like you to gain the creative skills you desire! Currently I work for Ubisoft as a concept and game artist. My skills range from graphic design, illustration, animation, 3D modelling/sculpting, concept art and video editing. Some of the projects I've worked on include Hungry Shark World, Hungry Shark Evolution, Starbeard and the Kickstarter Funded Game called Eminence: Xander's Tales. I've also worked with many high profile clients including Riot Games, Sony Entertainment, Hasbro and Google as a graphic designer and illustrator.	皆さんこんにちは!私の名前はJonathan Lamです。私はデジタルアーティストです。あなたと同じようにクリエイティブな学生たちに力を与え、教育し、刺激を与えて、あなたが望むクリエイティブなスキルを身につけさせることを使命としています。現在、コンセプトアーティスト兼ゲームアーティストとしてUbisoftで働いています。私のスキルには、グラフィックデザイン、イラストレーション、アニメーション、3Dモデリング/スカルプト、コンセプトアート、ビデオ編集などがあります。私が取り組んだプロジェクトには、HungryShark World、HungryShark Evolution、Starbeard、Kickstarter Funded GameのEminence:Xander's Talesなどがあります。また、グラフィックデザイナー兼イラストレーターとして、Riot Games、<ER92>ソニー・エンタテインメント</ER92>、Hasbro、Googleなど、多くの有名クライアントと仕事をしています。

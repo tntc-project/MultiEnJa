@@ -1,0 +1,297 @@
+{
+    "229.json": [
+        {
+            "src": "License borrowing",
+            "mt": "ライセンス借用",
+            "MQM_score": 0
+        },
+        {
+            "src": "Share",
+            "mt": "共有する",
+            "MQM_score": 0
+        },
+        {
+            "src": "License borrowing is an optional feature of network licensing.",
+            "mt": "ライセンス借用は、ネットワークライセンスのオプション機能です。",
+            "MQM_score": 0
+        },
+        {
+            "src": "What is License Borrowing?",
+            "mt": "ライセンス借用とは",
+            "MQM_score": 0
+        },
+        {
+            "src": "How Does Borrowing Work?",
+            "mt": "借用の仕組み",
+            "MQM_score": 0
+        },
+        {
+            "src": "How Long Can a License be Borrowed?",
+            "mt": "ライセンスはどれくらい借りられますか?",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 4,
+                    "end": 8,
+                    "text": "Long",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "What is License Borrowing?",
+            "mt": "ライセンス借用とは",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you are using a network-licensed version of your Autodesk product and your network supports the license borrowing feature, you can borrow a product license from your network license server to use the Autodesk product for a specified time when your computer is not connected to the network. Borrowing may also be beneficial in situations where the connection to your license server may not be consistent or the license server needs to be taken down for maintenance during work hours.",
+            "mt": "ネットワークライセンスバージョンのオートデスク製品を使用していて、ネットワークがライセンス借用機能をサポートしている場合は、ネットワークライセンスサーバから製品ライセンスを借用して、コンピュータがネットワークに接続されていないときに、指定した期間オートデスク製品を使用できます。借用は、ライセンスサーバへの接続が一貫していない場合や、業務時間中にメンテナンスのためにライセンスサーバを停止する必要がある場合にも便利です。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 303,
+                    "end": 306,
+                    "text": "may",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 23,
+                    "text": "オートデスク",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 129,
+                    "text": "オートデスク",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Your borrowed license is automatically returned to the license server at the end of the day on the return date you set when you borrow the license. You can also return a license early.",
+            "mt": "借用したライセンスは、ライセンスを借用したときに設定した返却日の最終日に自動的にライセンスサーバに返却されます。また、ライセンスを期限前に返却することもできます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 35,
+                    "text": "最終日",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Note: Borrowing only applies to Network licenses. For stand-alone licenses, you may be able to use the License Transfer Utility to transfer a license from one machine to another.",
+            "mt": "注:借用はネットワークライセンスにのみ適用されます。スタンドアロンライセンスの場合は、ライセンス転送ユーティリティを使用して、あるマシンから別のマシンにライセンスを転送できます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 80,
+                    "end": 83,
+                    "text": "may",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Return to Top",
+            "mt": "先頭に戻る",
+            "MQM_score": 0
+        },
+        {
+            "src": "How Does Borrowing Work?",
+            "mt": "借用の仕組み",
+            "MQM_score": 0
+        },
+        {
+            "src": "When a license is borrowed, it reduces the count of available licenses in the network license pool. If you have a pool of 10licenses and someone borrows one, you then have a remaining pool of nine licenses available for others to use. As long as that license is borrowed, it is not available on the license server.",
+            "mt": "ライセンスを借用すると、ネットワークライセンスプールで使用可能なライセンスの数が減ります。10ライセンスのプールがあり、誰かが1ライセンスを借用すると、残りの9ライセンスのプールが他のユーザが使用できるようになります。そのライセンスが借用されている限り、ライセンスサーバでは使用できません。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Borrowing is handled on a per-user and per-computer basis and requires being on the network to do the borrowing. Only machines that can make a connection to your license server are able to borrow a license. Once a license has been borrowed, the Network License Manager will keep track of that license, for the machine that borrowed it, and for the specified period of time.",
+            "mt": "借用はユーザ単位およびコンピュータ単位で処理され、借用を実行するにはネットワークに接続する必要があります。ライセンスを借用できるのは、ライセンスサーバに接続できるマシンだけです。ライセンスが借用されると、Network License Managerは、そのライセンスを借用したマシンについて、指定された期間、そのライセンスを追跡します。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 45,
+                    "text": "に接続する",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 125,
+                    "text": "Network License Manager",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Note: A limited number of licenses are available for borrowing. If you try to borrow a license and are notified that no licenses are available, see your network administrator for help.",
+            "mt": "注意:借用できるライセンスの数には制限があります。ライセンスを借用しようとして、使用できるライセンスがないことが通知された場合は、ネットワーク管理者に問い合わせてください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "注意",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Unless returned early, borrowed licenses are automatically returned when the borrow period expires. If the defined borrow period was seven days, the borrowed license will automatically be returned to the license pool when seven days have passed. Borrowed licenses can be returned early but requires being connected to the network license server. Just as you connected to borrow a license in the first place, you have to connect to the same license server to return it early.",
+            "mt": "借用したライセンスは、期限前に返却されない限り、借用期間が終了すると自動的に返却されます。定義された借用期間が7日間の場合、借用したライセンスは、7日が経過すると自動的にライセンスプールに返却されます。借用したライセンスは期限前に返却することができますが、ネットワークライセンスサーバに接続する必要があります。最初にライセンスを借用するために接続したように、期限前に返却するには、同じライセンスサーバに接続する必要があります。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 346,
+                    "end": 350,
+                    "text": "Just",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 145,
+                    "end": 147,
+                    "text": "する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Return to Top",
+            "mt": "先頭に戻る",
+            "MQM_score": 0
+        },
+        {
+            "src": "How Long Can a License be Borrowed?",
+            "mt": "ライセンスはどれくらい借りられますか?",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 4,
+                    "end": 8,
+                    "text": "Long",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "When borrowing a license you must specify the period of time you want to borrow the license. The maximum period of time a license can be borrowed is six months however the allowable borrow period may be much shorter if restricted by an options file. Borrowed licenses are automatically returned when the borrow period expires or upon expiration of your subscription with multi-user access, whichever is sooner. Restricting the maximum borrow period to a much shorter duration than six months helps avoid the risk of a license being out of circulation for an extended period. For example, if the license is on a laptop computer, and the computer is stolen or damaged, the license cannot be returned early.",
+            "mt": "ライセンスを借用する場合は、ライセンスを借用する期間を指定する必要があります。ライセンスを借用できる最大期間は6か月ですが、オプションファイルによって制限されている場合は、借用できる期間が大幅に短くなることがあります。借用したライセンスは、借用期間が終了するか、マルチユーザーアクセスのサブスクリプションが期限切れになるか、どちらか早い方の時点で自動的に返却されます。最長借用期間を6か月よりもはるかに短い期間に制限すると、ライセンスが長期間にわたって配布されなくなるリスクを回避できます。たとえば、ライセンスがラップトップコンピュータ上にあり、コンピュータが盗難または破損した場合、ライセンスを期限前に返却することはできません。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 65,
+                    "end": 72,
+                    "text": "want to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 632,
+                    "end": 635,
+                    "text": "the",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 134,
+                    "end": 138,
+                    "text": "ユーザー",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 184,
+                    "end": 186,
+                    "text": "最長",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "By using an options file, you can configure license borrowing behavior to specify the maximum amount of time a license can be borrowed, restrict the number of licenses that can be borrowed, and set up a list of specific users who are allowed to borrow licenses. See the article, Control Network License Access Using an Options File, for detailed information.",
+            "mt": "オプションファイルを使用すると、ライセンス借用動作を構成して、ライセンスを借用できる最大時間を指定したり、借用できるライセンス数を制限したり、ライセンスの借用を許可する特定のユーザーの一覧を設定したりできます。詳細については、「オプションファイルを使用してネットワークライセンスアクセスを制御する」を参照してください。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 266,
+                    "end": 278,
+                    "text": "the article,",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 28,
+                    "text": "構成",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 91,
+                    "text": "ユーザー",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 114,
+                    "text": "「",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 148,
+                    "end": 149,
+                    "text": "」",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Return to Top",
+            "mt": "先頭に戻る",
+            "MQM_score": 0
+        }
+    ]
+}

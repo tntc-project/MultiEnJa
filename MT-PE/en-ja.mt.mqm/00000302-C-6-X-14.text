@@ -1,0 +1,82 @@
+1	4.4. Collections	4.4.コレクション
+2	Portfolio → Collections	ポートフォリオ→コレクション
+3	A collection is a set of pages that are linked to one another and have the same access permissions. You can create as many collections as you like, but a page cannot appear in more than one collection. You can create a collection from scratch or copy an existing one - either one of your own or one from another user that is copyable to you.	コレクションは、相互にリンクされ、同じアクセス許可を持つ一連のページです。コレクションはいくつでも作成できますが、1つのページを複数のコレクションに表示することはできません。コレクションを最初から作成することも、既存のコレクションをコピーすることもできます。<ER01>既存のコレクションは、</ER01><ER02>自分で作成することも</ER02>、コピー可能な他のユーザー<ER03>から作成することもできます</ER03>。
+4	4.4.1. Manage your collections	4.4.1.コレクションを管理する
+5	When you are on the overview page of the collections, you can do several things.	コレクションの概要ページでは、いくつかの<ER04>操作を行う</ER04>ことができます。
+6	Collections overview page	<ER05>収集</ER05>の概要ページ
+7	Create a new collection by clicking the New collection button.	[新しいコレクション]ボタンをクリックして、新しいコレクションを作成します。
+8	Copy an existing collection by clicking the Copy a collection button.	<ER06>「</ER06><ER67>収集</ER67>のコピー<ER68>」</ER68>ボタンをクリックして、既存の<ER07>収集</ER07>をコピーします。
+9	Click on the collection title to go to the first page of the collection.	コレクションのタイトルをクリックすると、コレクションの最初のページに移動します。
+10	Click on any title of a page within a collection to jump directly to it.	コレクション内のページのタイトルをクリックすると、そのページに直接ジャンプします。
+11	Click the Manage button <画像> to move pages within a collection, add them to or delete them from a collection.	[管理]ボタン<画像>をクリックして、コレクション内のページを移動したり、コレクションに追加したり、コレクションから削除したりします。
+12	Click the Edit button <画像> to change the title and description of a collection.	[編集]ボタン<画像>をクリックして、コレクションのタイトルと説明を変更します。
+13	Click the Delete button <画像> to delete the collection. The pages will still exist.	[削除]ボタン<画像>をクリックしてコレクションを削除します。ページは引き続き存在します。
+14	When you submitted a collection to a group, you cannot edit or delete it until it has been released.	コレクションをグループに送信した場合、そのコレクションがリリースされるまで編集または削除できません。
+15	Note	注:
+16	You can see up to 10 collections on the collections overview page, and then use the pager to move to other collections.	<ER08>収集</ER08>の概要ページには最大10個の<ER09>収集</ER09>が表示され、ポケットベルを使用して他の<ER69>収集</ER69>に移動できます。
+17	4.4.2. Add a collection	4.4.2.コレクションを追加する
+18	Create a collection	コレクションを作成する
+19	Click the New collection button under Portfolio → Collections.	<ER70>「</ER70>ポートフォリオ<ER71>」</ER71>→<ER72>「</ER72>コレクション<ER73>」</ER73>の下にある<ER10>「</ER10><ER74>新規コレクション</ER74><ER75>」</ER75>ボタンをクリックします。
+20	On the next screen…	次の画面では…
+21	Collection name: Provide a title for your collection.	コレクション名:コレクションのタイトルを指定します。
+22	Collection description: Optionally, you can write a short description about your collection.	<ER11>収集</ER11>の説明:必要に応じて、<ER12>収集</ER12>に関する簡単な説明を記述できます。
+23	You do not have a visual editor, but just a plain text box.	ビジュアルエディタはなく、プレーンテキストボックスだけです。
+24	Tags: Enter tags to find your collection <ER13>more</ER13> easily at a later stage.	タグ:タグを入力すると、後で簡単にコレクションを検索できます。
+25	Separate your tags with commas.	タグはコンマで区切ります。
+26	If you already have tags, you can click on the link Show my tags and select the ones that you think will fit for this collection <ER15>as well</ER15>.	既にタグがある場合は、[<ER14>Show my tags</ER14>]リンクをクリックして、このコレクションに適合すると思われるタグを選択できます。
+27	<ER16>They</ER16> will be entered into the text field for you.	テキストフィールドに入力されます。
+28	Page navigation bar: Choose whether you wish to display a tabbed navigation or not.	<ER66>ページ・ナビゲーション・バー</ER66>:<ER17>タブ・</ER17>ナビゲーションを表示するかどうかを選択します。
+29	If you choose not to, you will have to include the navigation block for you to go from one page to the next on the individual pages that belong to this collection.	<ER18>選択しない</ER18>場合は、このコレクションに属する個々のページ上で、あるページから次のページに移動するためのナビゲーションブロックを含める必要があります。
+30	Click the Next: Edit collection pages button or click the Cancel button if you want to abort adding your collection.	コレクションの追加を中止する場合は、[次へ:コレクションページの編集]ボタンをクリックするか、[キャンセル]ボタンをクリックします。
+31	4.4.3. Copy a collection	4.4.3.コレクションをコピーする
+32	4.4.3.1. Copy a collection by searching for it	4.4.3.1.コレクションを検索してコピーします。
+33	You can duplicate your own collections or collections of other users if they allowed you to do that. As every page can only be in one collection at a time, your own pages will be copied when you copy a collection.	自分のコレクションまたは他のユーザーのコレクションを複製できます(複製が許可されている場合)。各ページは一度に1つのコレクションにしか入れることができないため、コレクションをコピーすると自分のページがコピーされます。
+34	Copy a collection	コレクションをコピーする
+35	Click the Copy a collection button under Portfolio → Collections. On the next screen…	<ER76>「</ER76>ポートフォリオ<ER77>」</ER77>→<ER78>「</ER78>コレクション<ER79>」</ER79>の下にある<ER19>「</ER19>コレクションのコピー<ER80>」</ER80>ボタンをクリックします。次の画面では…
+36	Search: If there are many pages or collections from which you can choose, search here for a keyword in the page or collection title or for the name of the page owner.	検索:選択できるページまたはコレクションが多数ある場合は、ここでページまたはコレクションのタイトルのキーワードまたはページ所有者の名前を検索します。
+37	Collection title: Click on the title of a collection to preview it before copying it.	コレクションタイトル:<ER20>コピーする前にプレビューするコレクションのタイトルをクリックします</ER20>。
+38	Note	注:
+39	The sort order on the screen is according to collection titles in alphabetical order.	画面上のソート順は、コレクションタイトルのアルファベット順です。
+40	Page name: Click on the title of the page to see a preview of it before you copy it.	ページ名:ページのタイトルをクリックすると、コピーする前にプレビューが表示されます。
+41	Owner: Click on the name of the owner to view a larger profile picture and the self description if the owner provided one or to see information about a group <ER21>it</ER21> that is the owner.	所有者:所有者の名前をクリックすると、より大きな画像と、所有者が提供した場合はその説明が表示されます。または、所有者であるグループに関する情報が表示されます。
+42	Click the Copy collection button to copy an entire collection with multiple pages into your portfolio. All pages within this collection are copied or	複数ページのコレクション全体をポートフォリオにコピーするには、<ER22>「コレクションのコピー」</ER22>ボタンをクリックします。このコレクション内のすべてのページがコピーされるか
+43	Click the Copy page button to copy one page only into your own portfolio.	[ページのコピー]ボタンをクリックして、1ページだけを自分のポートフォリオにコピーします。
+44	Edit the collection and its pages as you would do any other collection and pages.	他のコレクションおよびページと同様に、コレクションおよびそのページを編集します。
+45	Note	注:
+46	The site administrator can <ER24>decide to</ER24> leave out “Copy of…” for copied pages or collections. This setting needs to be made in the config.php file. If $cfg->renamecopies = false;, copies of new pages and collections will not have “Copy of” prepended to their titles.	サイト管理者は、コピーされたページまたはコレクションに対して「<ER23>コピー.</ER23>」を省略することができます。この設定はconfig.phpファイルで行う必要があります。$cfg->renamecopies=false;の場合、新しいページおよびコレクションのコピーのタイトル前に「<ER25>コピー.</ER25>」が付きません。
+47	See also	<ER26>「」</ER26>も参照
+48	You can watch a demo of this feature in action.	この機能のデモを実際に見ることができます。
+49	4.4.3.2. <画像> Copy a collection directly from its location	4.4.3.2.<画像>コレクションをその場所から直接コピーする
+50	You can copy a page or collection directly when you view it by clicking the Copy button when you see it. The button is displayed on your own pages and collections as well as on pages and collections owned by others when you have the permission to copy them.	ページまたはコレクションが表示されているときに<ER27>「コピー」</ER27>ボタンをクリックすると、そのページまたはコレクションを直接コピーできます。このボタンは、自分のページおよびコレクションと、他の<ER28>ユーザー</ER28>が所有するページおよびコレクションをコピーする<ER58>権限</ER58>があるときにそれらに表示されます。
+51	Copy a page or collection	ページまたはコレクションをコピーする
+52	Click the Copy button when you want to copy a page or collection that you can duplicate.	複製可能なページまたはコレクションをコピーする場合は、[コピー]ボタンをクリックします。
+53	If the page is part of a collection, you need to decide in the pop-up window whether you want to copy just the page that you can see currently by clicking the Page button.	ページがコレクションの一部である場合は、[ページ]ボタンをクリックして現在<ER29>表示されている</ER29>ページだけをコピー<ER30>するか</ER30>どうかをポップアップウィンドウで決定する必要があります。
+54	Or whether you want to copy the entire collection by clicking the Collection button.	または、[コレクション]ボタンをクリックしてコレクション全体をコピー<ER31>するか</ER31>どうかを指定します。
+55	Edit the page or collection as you would to any other.	他の<ER32>ユーザー</ER32>と同様にページまたはコレクションを編集します。
+56	4.4.4. Add collection pages	4.4.4.<ER33>収集</ER33>ページの追加
+57	In the next step after you have created your collection, you choose which portfolio pages you wish to include in this collection. You see all the <ER35>potential</ER35> pages that you can use. If you had already placed a page into another collection, it is not shown <ER36>here</ER36>.	コレクションを作成した後の次の手順では、このコレクションに含め<ER34>る</ER34>ポートフォリオページを選択します。使用可能なすべてのページが表示されます。既に別のコレクションにページを配置している場合、そのページは表示されません。
+58	Add pages to a collection	ページをコレクションに追加する
+59	Click the Manage pages button <画像> under Portfolio → Collections. On the next screen…	[ポートフォリオ]→[コレクション]の下にある[ページの管理]ボタン<画像>をクリックします。次の画面では…
+60	Put a check mark next to each page that you wish to include in your collection.	コレクションに含め<ER37>る</ER37>各ページの横にチェックマークを付けます。
+61	Alternatively, you can click the All link to add all pages available to the collection or the None link to revert your selection.	または、<ER39>「すべて」</ER39><ER38>(All)</ER38>リンクをクリックして使用可能なすべてのページをコレクションに追加するか、「なし」(None)リンクをクリックして選択を元に戻すこともできます。
+62	Click the Add pages button to add the pages to your collection.	ページをコレクションに追加するには、[ページの追加]ボタンをクリックします。
+63	If you do not wish to click all pages, you can also drag and drop them into the collection by clicking their title and dragging them to the area Pages already in collection.	すべてのページをクリック<ER40>し</ER40>ない場合は、タイトルをクリックして、[<ER42>Pages already in collection</ER42>]領域にドラッグ<ER41>アンドドロップ</ER41>することで、<ER43>ページ</ER43>をコレクションにドラッグアンドドロップすることもできます。
+64	A dotted line shows you where you can drag your page so you can already drag the pages into the collection in the order that you prefer.	点線は、ページをドラッグできる場所を示しています<ER44>。</ER44>これにより、ページをコレクションに好きな順序でドラッグ<ER45>できるようになります</ER45>。
+65	Click the Done button to finish this step.	[完了]ボタンをクリックして、この手順を終了します。
+66	4.4.5. Manage collection pages	4.4.5.<ER46>コレクション・ページ</ER46>の管理
+67	Once you have added your pages to your collection<ER47>.</ER47> You can move them around or remove them.	コレクションにページを追加したら、ページを移動または削除できます。
+68	Manage the pages that are displayed within your collection	コレクション内に表示されるページを管理する
+69	If you are not already in the page management, click the Manage pages button <画像> under Portfolio → Collections. On the next screen…	<ER48>ページ管理をまだ行っていない</ER48>場合は、[ポートフォリオ]->[コレクション]の下にある[ページの管理]ボタン<画像>をクリックします。次の画面では…
+70	Use the Move up <画像> and Move down <画像> buttons to arrange your pages in a different order. Alternatively, you can drag and drop the pages within the list.	<ER49>「上へ移動<画像>」および「下へ移動<画像>」</ER49>ボタンを使用して、ページを異なる順序で配置します。または、リスト内でページを<ER50>ドラッグ・アンド・ドロップ</ER50>できます。
+71	Click the Remove button <画像> to take a page out of a collection. The page itself is not deleted.	<ER51>「</ER51><ER81>削除</ER81><ER82>」</ER82>ボタン<画像>をクリックして、コレクションからページを取り出します。ページ自体は削除されません。
+72	Put a check mark next to each page that you wish to include in your collection <ER52>in addition to the ones already in it</ER52>.	コレクションに<ER53>追加する</ER53>ページの横にチェックマークを付けます。
+73	Click the Add pages button to add the pages to your collection and then move them around with the Move up <画像> and Move down <画像> buttons. Alternatively, you can drag and drop the pages to the position where you would like to have them in the list.	<ER54>「ページの追加」</ER54>ボタンをクリックしてページをコレクションに追加し、<ER55>「上へ移動<画像>」および「下へ移動<画像>」</ER55>ボタンを使用してページを移動します。または、ページをリスト内の<ER56>目的の</ER56>位置に<ER57>ドラッグ・アンド・ドロップ</ER57>できます。
+74	Click the Done button.	[完了]ボタンをクリックします。
+75	When you add pages to your collection that have different access permissions than the collection has, the page's access permissions get added to the collection and the page is <ER59>available</ER59> under the same access permissions as the entire collection because it is part of the collection.	コレクションとは異なるアクセス許可を持つページをコレクションに追加すると、ページのアクセス許可がコレクションに追加され、ページはコレクションの一部であるため、コレクション全体と同じアクセス許可の下でます。
+76	Notice about changes in permissions	<ER60>権限</ER60>の変更に関する通知
+77	If there is a change in access permissions, a warning will be displayed so that you are informed that changes have taken place.	アクセス<ER61>権</ER61>が変更された場合は、<ER62>警告が表示され、変更が行われたことが通知されます</ER62>。
+78	View the result of your collection by clicking on the collection title or any page that is part of your collection.	コレクションのタイトルまたはコレクションの一部であるページをクリックして、コレクションの結果を表示します。
+79	A collection with the tabbed navigation	<ER63>タブ・</ER63>ナビゲーション付きのコレクション
+80	4.4.6. Give others access to your collection	4.4.6.他の<ER64>ユーザー</ER64>に自分のコレクションへのアクセスを許可する
+81	See also	<ER65>「」</ER65>も参照
+82	Please refer to the section on sharing your pages and collections for further information.	詳細については、ページおよびコレクションの共有に関するセクションを参照してください。

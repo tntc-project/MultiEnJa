@@ -1,0 +1,634 @@
+{
+    "088.json": [
+        {
+            "src": "Electronic Common Technical Document (eCTD)",
+            "mt": "電子コモン・テクニカル・ドキュメント(eCTD)",
+            "MQM_score": 0
+        },
+        {
+            "src": "The eCTD is the standard format for submitting applications, amendments, supplements, and reports to FDA's Center for Drug Evaluation and Research (CDER) and Center for Biologics Evaluation and Research (CBER).",
+            "mt": "eCTDは、FDAの医薬品評価研究センター(CDER)および生物製剤評価研究センター(CBER)に申請、修正、補足および報告を提出するための標準フォーマットである。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 81,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Important Dates",
+            "mt": "重要な日付",
+            "MQM_score": 0
+        },
+        {
+            "src": "Reminder: Per eCTD Guidance, NDA, BLA, ANDA, and Commercial IND submissions must include a FDA fillable form (e.g. 356h, 1571, 2252). FDA plans to implement a validation check for the fillable form beginning July 27, 2018. Submissions which fail this validation will be subject to rejection. Please see the eCTD Guidance and the eCTD Validation Criteria (error code 7) for details.",
+            "mt": "注意:eCTDガイダンスに従い、NDA、BLA、ANDAおよびCommercial IND申請にはFDA記入可能フォーム(例:356h、1571、2252)を含める必要があります。FDAは2018年7月27日から記入可能フォームの検証チェックを実施する予定です。この検証に合格しない申請は却下の対象となります。詳細については、eCTDガイダンスおよびeCTD検証基準(エラーコード7)を参照してください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 41,
+                    "text": "Commercial",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "After the dates listed below, eCTD requirements for submissions to CDER and CBER will go into effect and submissions that do not use eCTD will not be filed or received.",
+            "mt": "以下の日付以降は、CDERおよびCBERへの申請に対するeCTD要件が有効となり、eCTDを使用しない申請は提出または受領されない。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 65,
+                    "text": "されない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "May 5, 2017:",
+            "mt": "2017年5月5日:",
+            "MQM_score": 0
+        },
+        {
+            "src": "New Drug Applications (NDAs), Abbreviated NDAs (ANDAs), and Biologics License Applications (BLAs), must be submitted using eCTD format.",
+            "mt": "新薬申請(NDA)、簡略化されたNDA(ANDA)、生物学的製剤承認申請(BLA)は、eCTD形式で提出しなければならない。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 61,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "May 5, 2018:",
+            "mt": "2018年5月5日:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Commercial Investigational New Drug Applications (INDs) and Master Files must be submitted using eCTD format.",
+            "mt": "商用治験薬申請(IND)およびマスター・ファイルはeCTD形式で提出しなければならない。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 43,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Please refer to the eCTD Guidance for the complete details to meet the eCTD requirement.",
+            "mt": "eCTD要件を満たすための詳細については、eCTDガイダンスを参照のこと。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 36,
+                    "text": "のこと",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Visit our Submit Using eCTD page to learn how to submit an application using eCTD and obtain an ESG account.",
+            "mt": "eCTDを使用したアプリケーションの提出方法とESGアカウントの取得方法については、eCTDを使用した提出ページを参照してください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "To view all eCTD Submission Resources, visit our eCTD Resources page.",
+            "mt": "すべてのeCTD申請資料を表示するには、eCTD資料ページにアクセスしてください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Types of Submissions Subject to eCTD Requirement",
+            "mt": "eCTD要件の対象となる申請の種類",
+            "MQM_score": 0
+        },
+        {
+            "src": "Electronic submission requirements will apply to the following types of submissions to CDER/CBER:",
+            "mt": "電子提出要件は、以下の種類のCDER/CBERへの提出に適用する:",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 27,
+                    "text": "提出",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "NDAs",
+            "mt": "NDA",
+            "MQM_score": 0
+        },
+        {
+            "src": "ANDAs",
+            "mt": "ANDA社",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "ANDA社",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "BLAs",
+            "mt": "ブラス",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "ブラス",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Commercial IND applications (for products that are intended to be distributed commercially)",
+            "mt": "市販のIND申請(市販されることを意図した製品)",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "市販の",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "申請",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "All subsequent submissions to these types of applications, including amendments, supplements, and reports, even if the original submission was filed before the requirements went into effect",
+            "mt": "最初の提出物が要件の施行前に提出された場合であっても,補正,補足及び報告を含めて,これらの種類の出願その後の全ての提出物",
+            "MQM_score": 0.30000000000000004,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 27,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 30,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 41,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Master files, such as DMFs, which are considered to be submissions to an IND, an NDA, an ANDA, or a BLA",
+            "mt": "DM Fなど、IND、NDA、ANDAとみなされるDMFなどのマスター・ファイル",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "DM F",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Electronic submission standards will be optional but encouraged for the following categories:",
+            "mt": "電子申請基準は任意であるが、以下のカテゴリーについては推奨される。",
+            "MQM_score": 2.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "あるが",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 32,
+                    "text": "される",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 33,
+                    "text": "。",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Noncommercial INDs, such as investigator-sponsored INDs and expanded-access INDs",
+            "mt": "治験責任医師が治験を依頼するINDや拡大アクセスINDなどの非営利IND",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 33,
+                    "text": "非営利",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Submissions for blood and blood components, including source plasma",
+            "mt": "原血漿を含む血液及び血液成分の提出",
+            "MQM_score": 0
+        },
+        {
+            "src": "Submissions for promotional materials for human prescription drug",
+            "mt": "医療用医薬品の販売促進資料の提出",
+            "MQM_score": 0
+        },
+        {
+            "src": "Current Versions and Updates",
+            "mt": "現在のバージョンと更新",
+            "MQM_score": 0
+        },
+        {
+            "src": "Electronic submissions must use the version of eCTD currently supported by FDA, which is specified in the FDA Data Standards Catalog on the Study Data Standards Resources page. Updates to the standard will be announced on the FDA website and published in the Federal Register. The notices will include the date on which the new versions will go into effect.",
+            "mt": "電子申請には、FDAが現在サポートしているバージョンのeCTDを使用する必要がある。eCTDは、Study Data Standards ResourcesページのFDA Data Standards Catalogに指定されている。規格の更新は、FDAのウェブサイトで発表され、官報に掲載される。通知には、新しいバージョンが有効になる日付が含まれる。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 41,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 116,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 145,
+                    "end": 148,
+                    "text": "される",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 172,
+                    "end": 175,
+                    "text": "まれる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For a listing of Specifications, Supportive Files, M1 versions 1.3 and 2.3 documents related to eCTD, please refer to eCTD Submission Standards (XLS - 57KB) or eCTD Submission Standards (PDF - 91KB).",
+            "mt": "eCTDに関連する仕様書、サポートファイル、M1バージョン1.3および2.3文書の一覧については、eCTD申請基準(XLS - 57 KB)またはeCTD申請基準(PDF - 91 KB)を参照のこと。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 100,
+                    "text": "のこと",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Notices",
+            "mt": "注意事項",
+            "MQM_score": 0
+        },
+        {
+            "src": "Notice 1/30/2019",
+            "mt": "通知2019年1月30日",
+            "MQM_score": 0
+        },
+        {
+            "src": "FDA Extends Compliance Date for Submitting DMF Type lll in eCTD format",
+            "mt": "FDA、DMFタイプIIIのeCTD提出期限を延長",
+            "MQM_score": 0
+        },
+        {
+            "src": "The FDA extended the compliance date for submitting DMF Type lll in eCTD format to May 5, 2020. See the FDA guidance document for additional information on the compliance date and FDA's Drug Master File page for additional information on DMFs.",
+            "mt": "FDAは、DMF Type lllのeCTD形式による提出期限を2020年5月5日に延長した。DMFに関する追加情報についてはFDAガイダンス文書を、DMFに関する追加情報についてはFDAのDrug Master Fileページを参照のこと。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 120,
+                    "text": "のこと",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Notice 11/30/2018",
+            "mt": "通知2018年11月30日",
+            "MQM_score": 0
+        },
+        {
+            "src": "FDA plans to accept eCTD sequences with an eCTD submission type of “REMS Supplement” in the future. Implementation date is TBD. See submission-type.xml and M1 Specifications (located in the eCTD Submission Standards) for details.",
+            "mt": "FDAは、submission-type.xmlおよびM1Specifications(eCTD申請基準に含まれている)を参照のこと。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 99,
+                    "text": "FDA plans to accept eCTD sequences with an eCTD submission type of “REMS Supplement” in the future.",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 43,
+                    "text": "M1Specifications",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 66,
+                    "text": "のこと",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Notice 6/1/2018",
+            "mt": "2018年年6月1日",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Notice",
+                    "type": 3,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Please be advised that the FDA's eCTD Access Data Website will update ciphers and SSL protocols in Production on September 1, 2018",
+            "mt": "FDAのeCTDアクセスデータウェブサイトは、2018年9月1日に製造段階の暗号およびSSLプロトコルを更新することお知らせします。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 65,
+                    "text": "お知らせします",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Please make sure your system used to connect with the FDA's eCTD Access Data website can connect with compatible secure ciphers and SSL protocols listed below.",
+            "mt": "FDAのeCTDアクセスデータウェブサイトに接続するために使用しているシステムが、下記の互換性のある安全な暗号とSSLプロトコルで接続できることを確認してください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "SSL Protocols / Cipher Suites",
+            "mt": "SSLプロトコル/暗号スイート",
+            "MQM_score": 0
+        },
+        {
+            "src": "TLS 1.1 or higher",
+            "mt": "TLS1.1以降",
+            "MQM_score": 0
+        },
+        {
+            "src": "Example links to eCTD Access Data Website:",
+            "mt": "eCTDアクセスデータウェブサイトへのリンク例:",
+            "MQM_score": 0
+        },
+        {
+            "src": "http://www.accessdata.fda.gov/static/eCTD/us-regional-v3-3.dtd",
+            "mt": "http://www.accessdata.fda.gov/static/eCTD/us-地域-v3 - 3.dtd",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 58,
+                    "text": "http://www.accessdata.fda.gov/static/eCTD/us-地域-v3 - 3.dtd",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "http://www.accessdata.fda.gov/static/eCTD/us-regional.xsl",
+            "mt": "http://www.accessdata.fda.gov/static/eCTD/us-regional.xsl",
+            "MQM_score": 0
+        },
+        {
+            "src": "What action do you need to take?",
+            "mt": "どのような対応が必要ですか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you want to continue to access the eCTD Access Data website, you need to ensure your browser(s)/Servers have TLS 1.1 or higher enabled. If your browser or Servers do not have TLS 1.1 or higher enabled after FDA makes this change, then you will NOT be able to access these eCTD websites.",
+            "mt": "eCTDアクセス・データのWebサイトへのアクセスを継続する場合は、ブラウザ/サーバでTLS1.1以上が有効になっていることを確認する必要があります。FDAがこの変更を行った後、ブラウザ/サーバでTLS1.1以上が有効になっていない場合、これらのeCTD Webサイトにアクセスできなくなります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Backend servers that communicate with the eCTD Access Data Website links should also be communicating using TLS 1.1 or higher. Please contact your IT System Administrators or Technology Support personnel for appropriate methods to enable/upgrade your servers.",
+            "mt": "eCTDアクセスデータウェブサイトのリンクと通信するバックエンドサーバも、TLS1.1以上を使用して通信する必要があります。サーバを有効化/アップグレードする適切な方法については、ITシステム管理者またはテクノロジーサポート担当者にお問い合わせください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Notice 4/24/2018",
+            "mt": "通知2018年4月24日",
+            "MQM_score": 0
+        },
+        {
+            "src": "FDA Extends Compliance Date for Submitting DMF Type lll in eCTD format",
+            "mt": "FDA、DMFタイプIIIのeCTD提出期限を延長",
+            "MQM_score": 0
+        },
+        {
+            "src": "The FDA extended the compliance date for submitting DMF Type lll in eCTD format to May 5, 2019. See the FDA guidance document for additional information on the compliance date and FDA's Drug Master File page for additional information on DMFs",
+            "mt": "FDAは、DMF Type lllのeCTD形式による提出期限を2019年5月5日に延長した。DMFに関する追加情報についてはFDAガイダンス文書を、DMFに関する追加情報についてはFDAのDrug Master Fileページを参照のこと。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 120,
+                    "text": "のこと",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Important Notice 5/18/2016",
+            "mt": "重要なお知らせ2016年5月18日",
+            "MQM_score": 0
+        },
+        {
+            "src": "Third Acknowledgement for Successful eCTD Submissions",
+            "mt": "eCTD申請の成功に対する3回目の承認",
+            "MQM_score": 0
+        },
+        {
+            "src": "Beginning May 31, 2016, CDER will begin issuing an acknowledgement to FDA Electronic Submissions Gateway (ESG) users when their NDA, ANDA, BLA, IND, or DMF submission has successfully completed validation and processing and is available to the assigned review division. This acknowledgement is in addition to the ESG Message Delivery Notification acknowledgement (first acknowledgement) and the Official Center acknowledgement (second acknowledgement) and is referred to as the “third acknowledgement.”",
+            "mt": "2016年5月31日以降、CDERは、NDA、ANDA、BLA、INDまたはDMFの提出が正常に検証および処理を完了し、割り当てられた審査部門が使用できるようになった時点で、FDA Electronic Submissions Gateway(ESG)ユーザーに対して承認の発行を開始します。この承認は、ESG Message Delivery Notification承認(第1承認)およびOfficial Center承認(第2承認)に追加され、「第3承認」と呼ばれます。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 121,
+                    "text": "Electronic Submissions Gateway",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 156,
+                    "end": 185,
+                    "text": "Message Delivery Notification",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 196,
+                    "end": 211,
+                    "text": "Official Center",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For additional notices, please see eCTD Important Notices.",
+            "mt": "その他の通知については、eCTD重要通知を参照のこと。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 26,
+                    "text": "のこと",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Stay Connected",
+            "mt": "常時接続",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you have questions for CDER, please contact the CDER Electronic Submission (ESUB) Support Team at esub@fda.hhs.gov.",
+            "mt": "CDERに関するご質問は、CDER電子申請(ESUB)サポートチーム(esub@fda.hhs.gov)までお問い合わせください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you have questions for CBER, please contact the CBER ESUB Support Team at esubprep@fda.hhs.gov.",
+            "mt": "CBERに関するご質問は、CBER ESUBサポートチーム(esubprep@fda.hhs.gov)までお問い合わせください。",
+            "MQM_score": 0
+        }
+    ]
+}

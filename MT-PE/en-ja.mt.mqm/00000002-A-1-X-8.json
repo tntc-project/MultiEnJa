@@ -1,0 +1,1017 @@
+{
+    "002.json": [
+        {
+            "src": "EESI Moves 100% of Stock Holdings to Socially Responsible Funds",
+            "mt": "EESI、株式100%を社会的責任ファンドに移管",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "株式",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "100%",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Posted May 25th, 2016 for Environmental and Energy Study Institute",
+            "mt": "環境・エネルギー研究所2016年5月25日投稿",
+            "MQM_score": 2.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "環境・エネルギー研究所",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 11,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 23,
+                    "text": "投稿",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Investments to Focus on Clean Energy, Exclude Fossil Fuels",
+            "mt": "クリーンエネルギーに焦点を当てた投資、化石燃料を除く",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 26,
+                    "text": "化石燃料を除く",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "May 25, 2016",
+            "mt": "2016年5月25日",
+            "MQM_score": 0
+        },
+        {
+            "src": "The Environmental and Energy Study Institute (EESI), a not-for-profit organization dedicated to promoting environmentally sustainable societies, will complete moving its stock holdings to socially responsible funds by December 2016. Half of EESI's holdings are already in such funds.",
+            "mt": "環境・エネルギー研究所(EESI)は、環境的に持続可能な社会の促進に特化した非営利の組織であるが、2016年12月までに株式の社会的責任ファンドへの移行を完了する予定であり、EESIの株式の半分はすでにこうしたファンドに組み入れられている。",
+            "MQM_score": 19,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "環境・エネルギー研究所",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 49,
+                    "text": "環境的に持続可能な社会の促進に特化した非営利の組織であるが、",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 62,
+                    "text": "株式",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 76,
+                    "text": "移行",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 87,
+                    "text": "であり、",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 94,
+                    "text": "株式",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 119,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "\"Aligning our investments with our mission is essential to walk our talk,\" said EESI board member Claudine Schneider, a former Republican Member of Congress (RI, 1980-1990) who spearheaded EESI's move to socially responsible investing. \"Making investment decisions on the basis of environmental, social, and governance criteria helps EESI continue its work advancing clean energy and addressing climate change.\"",
+            "mt": "EESIの理事会メンバーで、元共和党議員(RI, 1980-1990)のクローディン・シュナイダー氏は、EESIの社会的責任投資への移行を主導した。EESIの理事会メンバーで、環境、社会、ガバナンスの基準に基づいて投資判断を下すことは、EESIがクリーンエネルギーを推進し、気候変動に対処する作業を継続するのに役立つ」と述べた。",
+            "MQM_score": 30,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 74,
+                    "text": "\"Aligning our investments with our mission is essential to walk our talk,\"",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 236,
+                    "end": 237,
+                    "text": "\"",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 49,
+                    "text": "クローディン・シュナイダー",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 50,
+                    "text": "氏",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 74,
+                    "text": "EESIの社会的責任投資への移行を主導した。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 88,
+                    "text": "EESIの理事会メンバーで、",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 148,
+                    "text": "作業",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 155,
+                    "text": "のに",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 155,
+                    "end": 158,
+                    "text": "役立つ",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 160,
+                    "end": 163,
+                    "text": "述べた",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "EESI's commitment extends beyond mere avoidance of companies whose policies conflict with our mission statement: it emphasizes a positive search for companies that are in line with our organizational values and vision. In particular, EESI will preferentially invest in companies that have demonstrated a commitment to environmental stewardship, energy efficiency, and clean renewable energy; EESI will also divest from companies that extract energy from fossil fuels.",
+            "mt": "EESIのコミットメントは、方針がミッションステートメントと矛盾する企業を単に回避するだけにとどまらず、組織の価値観やビジョンに沿った企業を積極的に探すことを強調している。特に、EESIは環境管理、エネルギー効率、クリーンな再生可能エネルギーへのコミットメントを実証した企業に優先的に投資する。EESIは化石燃料からエネルギーを抽出する企業からも撤退する。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 402,
+                    "end": 406,
+                    "text": "also",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 34,
+                    "text": "方針がミッションステートメントと矛盾する",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 63,
+                    "text": "組織の価値観やビジョン",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 81,
+                    "text": "強調",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 85,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 135,
+                    "text": "した",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 146,
+                    "text": "する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 175,
+                    "text": "撤退",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 175,
+                    "end": 177,
+                    "text": "する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The decision to divest from fossil fuels was driven by both mission-related and financial considerations. Because of EESI's longtime work on climate change, it understands that holding fossil fuel stocks carries significant risk, as many fossil fuels assets will likely remain in the ground, becoming stranded and worthless.",
+            "mt": "EESIは長年にわたって気候変動に関する研究を行ってきたため、化石燃料資源の保有には重大なリスクが伴うことを理解している。多くの化石燃料資産が地中に残り、取り残されて無価値になる可能性が高いからである。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 105,
+                    "text": "The decision to divest from fossil fuels was driven by both mission-related and financial considerations.",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 37,
+                    "text": "資源",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 60,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 100,
+                    "text": "である",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "To mark its fossil-free commitment, EESI signed the Divest Invest Pledge, joining more than 500 organizations with more than $3.4 trillion in assets. These organizations have all agreed to stop investing in the top 200 fossil fuel producers, and to instead direct at least 5 percent of their portfolios to renewable energy, energy efficiency, or clean energy access.",
+            "mt": "EESIは、化石資源のないコミットメントを示すため、Divest Invest Pledgeに署名し、3,400,000,000,000ドル以上の資産を持つ500以上の組織に参加しました。これらの組織はすべて、上位200の化石燃料生産者への投資を停止し、その代わりに、ポートフォリオの少なくとも5%を自然エネルギー、エネルギー効率、クリーンエネルギーへのアクセスに振り向けることに合意しました。",
+            "MQM_score": 23,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 13,
+                    "text": "化石資源のない",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 68,
+                    "text": "3,400,000,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 70,
+                    "text": "ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 78,
+                    "text": "資産を持つ",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 84,
+                    "text": "以上の",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 89,
+                    "text": "参加",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 104,
+                    "text": "すべて",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 118,
+                    "text": "上位200の化石燃料生産者",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 150,
+                    "end": 157,
+                    "text": "自然エネルギー",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 166,
+                    "end": 181,
+                    "text": "クリーンエネルギーへのアクセス",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 192,
+                    "end": 196,
+                    "text": "しました",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "EESI's Board of Directors made the unanimous decision to invest 100 percent of EESI's stock holdings in a socially responsible manner at its May meeting. The Board had previously decided to move a portion of EESI's stock holdings to socially responsible investing (SRI) in August 2013. This phased approach allowed EESI to explore its options and make sure socially responsible investments provided acceptable rates of return. In fact, EESI's initial SRI fund has outperformed its benchmark, the MSCI EAFE, by 2.6 percent on an annualized basis.",
+            "mt": "EESIの取締役会は、5月の会合において、EESIが保有する株式の100%を社会的責任投資に投資することを全会一致で決定した。EESIは以前、2013年8月にEESIの株式の一部を社会的責任投資(SRI)に移行することを決定していた。この段階的アプローチにより、EESIはオプションを検討し、社会的責任投資が許容可能な収益率を提供することを確認することができた。実際、EESIの初期のSRIファンドは、そのベンチマークであるMSCI EAFEを年率換算で2.6%上回っている。",
+            "MQM_score": 27,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 9,
+                    "text": "取締役会",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 37,
+                    "text": "保有する株式の100%",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 46,
+                    "text": "社会的責任投資に",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 62,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 70,
+                    "text": "以前",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 79,
+                    "text": "2013年8月に",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 86,
+                    "text": "株式",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 116,
+                    "text": "いた",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 141,
+                    "text": "オプション",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 177,
+                    "end": 180,
+                    "text": "できた",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 235,
+                    "end": 237,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "\"The Board is concerned with our fiduciary responsibilities: EESI's investments contribute to our operating budget, enabling us to fulfill our mission,\" explained EESI Board Chair Jared Blum. \"Confirming our initial research, we found that investing in socially responsible funds was a sound investment. We are also thrilled to be investing in renewable energy and energy efficiency; moving to an economy based on clean energy is an important part of our mission.\"",
+            "mt": "EESI理事会議長のジャレド・ブルムは、次のように説明しています。「理事会は、受託者責任に関心を持っています。EESIの投資は運営予算に貢献し、我々の使命を果たすことができます。最初の調査結果を確認すると、社会的に責任のあるファンドへの投資は健全な投資であることがわかりました。また、再生可能エネルギーとエネルギー効率に投資することに興奮しています。クリーンエネルギーに基づく経済への移行は、我々の使命の重要な部分です」。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 304,
+                    "end": 306,
+                    "text": "We",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 18,
+                    "text": "ジャレド・ブルム",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 88,
+                    "text": "我々の使命を果たすことができます",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 116,
+                    "text": "社会的に責任のあるファンド",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Several studies have confirmed that socially responsible investing does not mean foregoing returns and may in fact reduce investment risk. Divesting from fossil fuel companies, for instance, helps EESI avoid oil and gas sector volatility. It also helps avoid climate risk, which is the risk that companies face from climate change and policies to address climate change. Oil and coal companies are especially vulnerable: the upcoming implementation of the Paris Climate agreement means the international community is expected to clamp down on harmful carbon emissions; nations throughout the world are expected to promote energy efficiency and clean energy sources, making these a better investment.",
+            "mt": "いくつかの研究では、社会的責任投資は前述のリターンを意味するものではなく、実際に投資リスクを低減する可能性があることが確認されている。例えば、化石燃料企業からの撤退は、EESIが石油・ガス部門の不安定性を回避するのに役立つ。また、企業が気候変動や気候変動に対処するための政策によって直面するリスクである気候リスクの回避にも役立つ。石油・石炭企業は特に脆弱である。パリ気候協定の近く実施されるということは、国際社会が有害な炭素排出を抑制することを意味する。世界中の国々がエネルギー効率とクリーンなエネルギー源を促進し、これらをより良い投資にすることが期待されている。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 40,
+                    "text": "実際に",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 66,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 82,
+                    "text": "撤退",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 111,
+                    "text": "役立つ",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 164,
+                    "text": "役立つ",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 177,
+                    "end": 180,
+                    "text": "である",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 187,
+                    "end": 188,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 224,
+                    "end": 226,
+                    "text": "する",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 278,
+                    "end": 281,
+                    "text": "ている",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "EESI's move has helped spur the ever-burgeoning market for socially responsible funds. \"In 2013, we expressed our commitment to socially responsible and fossil fuel-free investing to one of our long-time fund managers. In response, the firm established an environmental fund that not only meets our goals—an investment product that is socially responsible and fossil fuel-free—but that is also open to other institutional investors,\" said EESI Executive Director Carol Werner. \"It's exciting that we were able to drive change to help grow the market of investment options for sustainable, socially responsible, and fossil fuel free investing.\"",
+            "mt": "EESIのエグゼクティブ・ディレクター、キャロル・ワーナー氏は、「2013年に、当社は長年のファンド・マネージャーの一人に対して、社会的責任があり化石燃料を使わない投資へのコミットメントを表明しました。それに応えて、同社は当社の目標を達成するだけでなく、他の機関投資家にも開かれた環境ファンドを設立しました。持続可能で社会的責任があり化石燃料を使わない投資のための投資オプションの市場を成長させるために変化を推し進めることができたことは、エキサイティングです」と語った。",
+            "MQM_score": 36,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 86,
+                    "text": "EESI's move has helped spur the ever-burgeoning market for socially responsible funds.",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 304,
+                    "end": 377,
+                    "text": "—an investment product that is socially responsible and fossil fuel-free—",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 497,
+                    "end": 499,
+                    "text": "we",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 529,
+                    "end": 533,
+                    "text": "help",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 29,
+                    "text": "キャロル・ワーナー",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 30,
+                    "text": "氏",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 42,
+                    "text": "当社",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 60,
+                    "text": "一人",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 84,
+                    "text": "社会的責任があり化石燃料を使わない投資",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 113,
+                    "text": "当社",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 159,
+                    "end": 178,
+                    "text": "社会的責任があり化石燃料を使わない投資",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 231,
+                    "end": 234,
+                    "text": "語った",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Werner noted that \"EESI has offered SRI funds for the staff retirement plan for many years, and in July 2013, we began to provide employees with the option to invest in fossil-free funds. For so many of us, workplace retirement plans are the primary way we invest, so it was important for us to offer sustainable investment options to our staff, since we all are working for sustainability at EESI.\"",
+            "mt": "Werner氏は次のように述べている。「EESIは長年にわたって従業員の退職プランのためにSRIファンドを提供してきた。そして2013年7月に、私たちは従業員に化石のないファンドに投資するオプションを提供し始めた。私たちの多くにとって、職場の退職プランは私たちが投資する主要な方法である。だから、私たち全員がEESIで持続可能性のために働いているので、私たちが従業員に持続可能な投資オプションを提供することが重要だった」",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 7,
+                    "text": "氏",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 13,
+                    "text": "次のように",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 18,
+                    "text": "述べている",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "きた",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 85,
+                    "text": "化石のない",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 106,
+                    "text": "始めた",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 127,
+                    "end": 140,
+                    "text": "私たちが投資する主要な方法",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 175,
+                    "text": "ので",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 176,
+                    "end": 179,
+                    "text": "私たち",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 206,
+                    "end": 209,
+                    "text": "だった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Socially Responsible Investing has become a large market, accounting for more than one out of every six dollars under professional management in the United States, according to the Forum for Sustainable and Responsible Investment. Not all SRI funds are fossil-free, however. Several organizations can help investors identify fossil-free, socially responsible funds, including Fossil Free Funds and the US SIF - the Forum for Sustainable and Responsible Investment.",
+            "mt": "Forum for Sustainable and Responsible Investmentによると、社会的責任投資は大規模な市場となっており、米国では専門的な管理の下で6ドルに1ドル以上の割合を占めています。しかし、すべてのSRIファンドが化石燃料を使用していないわけではありません。Fossil Free FundsやUS SIF(Forum for Sustainable and Responsible Investment)など、いくつかの組織が、投資家が化石燃料を使用していない社会的責任ファンドをしています。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 297,
+                    "end": 305,
+                    "text": "can help",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 316,
+                    "end": 324,
+                    "text": "identify",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 87,
+                    "text": "専門的な管理の下で",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 135,
+                    "text": "化石燃料を使用していない",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 235,
+                    "end": 247,
+                    "text": "化石燃料を使用していない",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "EESI developed a Policy for Socially Responsible Investment to guide its investments when it began shifting them in 2013. In addition to traditional financial analysis, EESI considers environmental criteria, employment and workplace practices, workforce diversity, community relations, human rights, and corporate governance. One of EESI's goals is to invest in companies that have demonstrated a commitment to sustainability by either minimizing their environmental and carbon footprint or by producing products and services that have a direct environmental benefit (such as renewable energy). EESI's policy excludes companies that extract or generate energy from fossil fuels. EESI also emphasizes investments in companies with exceptional workplace safety records; innovative programs promoting diversity in the workplace; positive relations with their communities; strong policies protecting human rights; and transparent corporate governance structures—among many other criteria.",
+            "mt": "EESIは、2013年に投資をシフトし始めた際に、その指針となる社会的責任投資政策を策定した。従来の財務分析に加えて、EESIは環境基準、雇用および職場慣行、労働力の多様性、地域社会との関係、人権、コーポレート・ガバナンスを考慮する。EESIの目標の1つは、環境および二酸化炭素排出量を最小限に抑えるか、または直接的な環境便益(再生可能エネルギーなど)を有する製品およびサービスを生産することによって持続可能性へのコミットメントを示した企業に投資することである。EESIの政策では、化石燃料からエネルギーを抽出または生成する企業は除外される。EESIはまた、例外的な職場安全記録、職場の多様性を促進する革新的プログラム、地域社会との良好な関係、人権を保護する強力な政策、透明性の高いコーポレート・ガバナンス構造などの多くの基準を持つ企業への投資も重視している。",
+            "MQM_score": 24,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 429,
+                    "end": 435,
+                    "text": "either",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 116,
+                    "text": "する",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 129,
+                    "end": 142,
+                    "text": "環境および二酸化炭素排出量",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 150,
+                    "end": 151,
+                    "text": "か",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 163,
+                    "end": 176,
+                    "text": "(再生可能エネルギーなど)",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 217,
+                    "end": 218,
+                    "text": "た",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 227,
+                    "end": 230,
+                    "text": "である",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 236,
+                    "end": 238,
+                    "text": "政策",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 267,
+                    "end": 270,
+                    "text": "される",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 279,
+                    "end": 283,
+                    "text": "例外的な",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 377,
+                    "end": 379,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "EESI is proud to further its mission through its investments, as part of a broader trend toward socially responsible and sustainable investing.",
+            "mt": "EESIは、社会的に責任のある持続可能な投資へのより広いトレンドの一部として、投資を通じてその使命を推進することを誇りに思う。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 35,
+                    "text": "広いトレンドの一部",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 62,
+                    "text": "思う",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

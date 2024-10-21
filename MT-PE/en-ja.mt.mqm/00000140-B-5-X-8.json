@@ -1,0 +1,501 @@
+{
+    "140.json": [
+        {
+            "src": "Advanced ovarian cancer treatment approved for Cancer Drugs Fund",
+            "mt": "Cancer Drugs Fundで承認された進行卵巣癌治療",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 43,
+                    "text": "Cancer Drugs Fund<ER01>で</ER01>承認された進行卵巣癌治療",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 18,
+                    "text": "で",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted October 11th, 2019 for Cancer Research UK",
+            "mt": "Cancer Research UK2019年10月11日投稿",
+            "MQM_score": 0.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 18,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In collaboration with the Press Association",
+            "mt": "プレス協会と連携して",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "プレス協会と連携して",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "cross_section_fallopiantube_edutham.jpg",
+            "mt": "cross_section_hoidizetube_edutham.jpg",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 37,
+                    "text": "cross_section_hoidizetube_edutham.jpg",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "A targeted treatment for advanced ovarian cancer has been approved for use on the NHS in England and will be paid for by the Cancer Drugs Fund.",
+            "mt": "進行性卵巣癌の標的治療薬が英国のNHSにおいて使用が承認されており、Cancer Drugs Fundが支払いを行う。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "進行性",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 58,
+                    "text": "行う",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The drug, rucaparib (Rubraca), is designed to help maintain the effects of chemotherapy and will be available for women with ovarian, fallopian tube or peritoneal cancer that has come back and responded to chemotherapy.",
+            "mt": "rucaparib(Rubraca)は、化学療法の効果を維持するために設計された薬剤で、再発して化学療法に反応した卵巣癌、卵管癌、腹膜癌の女性に使用できる。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 68,
+                    "text": "再発して化学療法に反応した卵巣癌、卵管癌、腹膜癌",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The National Institute of Health and Care Excellence (NICE) said the decision could benefit around 1,350 people in England living with ovarian cancer.",
+            "mt": "National Institute of Health and Care Excellence(NICE)によると、この決定は英国で卵巣癌を患っている約1350人に利益をもたらす可能性があるという。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Dr Yvette Drew, a consultant medical oncologist from Newcastle University, was a Cancer Research UK-funded scientist on the first clinical trial that tested rucaparib against ovarian cancer. She said it was “fantastic news” that the drug will be more widely available.",
+            "mt": "ニューカッスル大学のコンサルタント腫瘍内科医であるイヴェットDrew博士は、Cancer Research UKから資金提供を受け、卵巣がんに対してrucaparibを試験する最初の臨床試験に参加した科学者であり、この薬剤がより広く使用可能になることは「素晴らしいニュース」であると述べた。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "ニューカッスル大学",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 22,
+                    "text": "コンサルタント腫瘍内科医",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 30,
+                    "text": "イヴェット",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 107,
+                    "text": "卵巣がんに対してrucaparibを試験する最初の臨床試験に参加した科学者であり、",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“Rucaparib is a very well-tolerated oral treatment giving women quality of life for longer and helps them to avoid the sometimes-debilitating side effects of chemotherapy,” said Drew.",
+            "mt": "「drew氏は次のように述べている。「Rucaparibは非常に忍容性の高い経口剤であり、女性の生活の質を長期にわたって維持することができ、化学療法によるときに衰弱させる副作用を回避することができる。」",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 5,
+                    "text": "drew",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 17,
+                    "text": "述べている",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 85,
+                    "text": "衰弱させる",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "She said trials have shown that the drug significantly delays the progression of a person's cancer after they have responded to chemotherapy and delays the need for them to have subsequent chemotherapy treatments.",
+            "mt": "臨床試験では、この薬剤が化学療法に反応した後の癌の進行を有意に遅らせ、その後の化学療法の必要性を遅らせることが示されたという。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 8,
+                    "text": "She said",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 21,
+                    "text": "に反応した",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Slowing progression",
+            "mt": "進行の遅延",
+            "MQM_score": 0
+        },
+        {
+            "src": "Rucaparib is a type of cancer drug called a PARP inhibitor.",
+            "mt": "rucaparibはPARP阻害剤と呼ばれるがん治療薬の一種である。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 24,
+                    "text": "がん",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "It slows the progression of the disease by preventing cancer cells from repairing.",
+            "mt": "がん細胞の修復を妨げ、病気の進行を遅らせます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 22,
+                    "text": "ます",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Rucaparib kills cancer cells by blocking the activity of a molecule called PARP, which helps repair damage to DNA.",
+            "mt": "Rucaparibは、DNA損傷の修復を助けるPARPと呼ばれる分子の活性を阻害することで癌細胞を殺す。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "Rucaparib",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Clinical trial results suggest that rucaparib extends the time before cancer progresses to 10.8 months, compared with 5.4 months with routine care.",
+            "mt": "臨床試験の結果から、rucaparibは癌が進行するまでの期間を10.8カ月に延長することが示唆されケアでは5.4カ月に延長することが示唆されている。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 104,
+                    "end": 117,
+                    "text": "compared with",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 134,
+                    "end": 141,
+                    "text": "routine",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 74,
+                    "text": "に延長することが示唆されている",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "However, there is uncertainty over exactly how much longer people may live after taking the drug, because those taking part in the trial have not been studied for long enough.",
+            "mt": "しかし、この試験に参加した人たちは十分な期間研究されていないため、この薬を服用してからどれくらい長く生きることができるのか、正確な予測はできません。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 67,
+                    "text": "予測",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 73,
+                    "text": "できません",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "NICE added the treatment to the Cancer Drugs Fund so eligible patients could benefit from rucaparib while long-term data is collected from an ongoing clinical trial.",
+            "mt": "NICEはこの治療をCancer Drugs Fundに追加したので、適格な患者は、進行中の臨床試験から長期データを収集しながらrucaparibの恩恵を受けることができる。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 52,
+                    "text": "から",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 64,
+                    "text": "しながら",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "NICE change their initial decision",
+            "mt": "NICEが最初の決定を変更",
+            "MQM_score": 0
+        },
+        {
+            "src": "Rucaparib was initially rejected for routine use on the NHS due to uncertainties surrounding the trial evidence and the cost of the drug.",
+            "mt": "Rucaparibは当初、臨床試験の証拠と薬剤のコストに関する不確実性のため、NHSでのルーチン使用が拒否された。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "Rucaparib",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Following the initial decision, NICE and the drug manufacturer negotiated a lower treatment price. NICE concluded that the drug could offer value for money at this lower price, if long-term data from the clinical trial show the drug is effective at extending patients' lives.",
+            "mt": "NICE従い、NICEと製薬会社はより低い治療価格で交渉し、臨床試験の長期データが患者の延命に有効であることを示した場合、NICEはこのより低い価格で金銭的価値を提供できると結論付けた。",
+            "MQM_score": 20.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 10,
+                    "end": 30,
+                    "text": "the initial decision",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "NICE",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "従い",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 29,
+                    "text": "より低い治療価格で交渉し",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 30,
+                    "text": "、",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Meindert Boysen, director of the NICE Centre for Health Technology Evaluation, said the health watchdog was pleased with the positive response from the company that has led to rucaparib being approved for use in the Cancer Drugs Fund.",
+            "mt": "NICE Centre for Health Technology EvaluationのディレクターであるMeinert Boysen氏によると、Health Watchdogは、Cancer Drugs Fundでrucaparibの使用が承認されるまでに至った同社の前向きな反応に満足しているという。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 61,
+                    "text": "Meinert",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“This will allow patients to access the treatment immediately, while more evidence can be collected on its overall survival benefit.”",
+            "mt": "「これにより患者は治療にすぐにアクセスできるようになり、同時に全生存期間の延長に関するより多くの証拠を収集できるようになる」",
+            "MQM_score": 0
+        },
+        {
+            "src": "Medicines on the Cancer Drugs Fund in England are also usually made available to patients in Wales and Northern Ireland.",
+            "mt": "英国のCancer Drugs Fundに掲載されている薬剤は、ウェールズおよび北アイルランドの患者にも通常提供されている。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Decisions over which drugs should be funded by the NHS in Scotland are made separately by the Scottish Medicines Consortium.",
+            "mt": "スコットランドのNHSがどの薬剤に資金を提供すべきかについては、Scottish Medicines Consortiumが個別に決定している。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Michelle Mitchell, Cancer Research UK's chief executive, added that this approval is the result of many years of hard work by Cancer Research UK scientists based at Newcastle University, who developed this drug in the 1990s in collaboration with industry partners.",
+            "mt": "Cancer Research UKの最高経営責任者であるMichelle Mitchell氏は、この承認はニューカッスル大学に拠点を置くCancer Research UKのこの薬剤を開発したに拠点を置くCancer Research UKの科学者たちによる長年にわたる懸命研究の結果であると付け加えた。1990",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 224,
+                    "end": 263,
+                    "text": "in collaboration with industry partners",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 26,
+                    "text": "最高経営責任者",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 122,
+                    "text": "に拠点を置くCancer Research UKの",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 157,
+                    "text": "1990",
+                    "type": 3,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "“Rucaparib could bring new hope for those affected by this type of ovarian cancer, giving them a better quality of life for longer and with fewer side-effects than other types of treatment.”",
+            "mt": "「Rucaparibは、このタイプの卵巣癌患者に新たな希望をもたらすことができ、他のタイプの治療よりも長期間にわたって良好な生活の質をもたらし、副作用も少なくなる可能性がある」",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 10,
+                    "text": "Rucaparib",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Mitchell said more trials are underway to discover whether this drug could also benefit people with other types of cancer and that “we await those results with interest.”",
+            "mt": "Mitchell氏は、この薬剤が他のタイプの癌患者にも利益をもたらすかどうかを明らかにするため、さらに試験が進行中であり、「われわれは興味を持ってこれらの結果を待っている」と述べた。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 51,
+                    "text": "さらに",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

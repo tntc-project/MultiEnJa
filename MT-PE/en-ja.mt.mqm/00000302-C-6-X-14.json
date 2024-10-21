@@ -1,0 +1,1152 @@
+{
+    "302.json": [
+        {
+            "src": "4.4. Collections",
+            "mt": "4.4.コレクション",
+            "MQM_score": 0
+        },
+        {
+            "src": "Portfolio → Collections",
+            "mt": "ポートフォリオ→コレクション",
+            "MQM_score": 0
+        },
+        {
+            "src": "A collection is a set of pages that are linked to one another and have the same access permissions. You can create as many collections as you like, but a page cannot appear in more than one collection. You can create a collection from scratch or copy an existing one - either one of your own or one from another user that is copyable to you.",
+            "mt": "コレクションは、相互にリンクされ、同じアクセス許可を持つ一連のページです。コレクションはいくつでも作成できますが、1つのページを複数のコレクションに表示することはできません。コレクションを最初から作成することも、既存のコレクションをコピーすることもできます。既存のコレクションは、自分で作成することも、コピー可能な他のユーザーから作成することもできます。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 129,
+                    "end": 140,
+                    "text": "既存のコレクションは、",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 140,
+                    "end": 150,
+                    "text": "自分で作成することも",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 163,
+                    "end": 176,
+                    "text": "から作成することもできます",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "4.4.1. Manage your collections",
+            "mt": "4.4.1.コレクションを管理する",
+            "MQM_score": 0
+        },
+        {
+            "src": "When you are on the overview page of the collections, you can do several things.",
+            "mt": "コレクションの概要ページでは、いくつかの操作を行うことができます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 25,
+                    "text": "操作を行う",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Collections overview page",
+            "mt": "収集の概要ページ",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Create a new collection by clicking the New collection button.",
+            "mt": "[新しいコレクション]ボタンをクリックして、新しいコレクションを作成します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Copy an existing collection by clicking the Copy a collection button.",
+            "mt": "「収集のコピー」ボタンをクリックして、既存の収集をコピーします。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 3,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 24,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Click on the collection title to go to the first page of the collection.",
+            "mt": "コレクションのタイトルをクリックすると、コレクションの最初のページに移動します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click on any title of a page within a collection to jump directly to it.",
+            "mt": "コレクション内のページのタイトルをクリックすると、そのページに直接ジャンプします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click the Manage button <画像> to move pages within a collection, add them to or delete them from a collection.",
+            "mt": "[管理]ボタン<画像>をクリックして、コレクション内のページを移動したり、コレクションに追加したり、コレクションから削除したりします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click the Edit button <画像> to change the title and description of a collection.",
+            "mt": "[編集]ボタン<画像>をクリックして、コレクションのタイトルと説明を変更します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click the Delete button <画像> to delete the collection. The pages will still exist.",
+            "mt": "[削除]ボタン<画像>をクリックしてコレクションを削除します。ページは引き続き存在します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "When you submitted a collection to a group, you cannot edit or delete it until it has been released.",
+            "mt": "コレクションをグループに送信した場合、そのコレクションがリリースされるまで編集または削除できません。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Note",
+            "mt": "注:",
+            "MQM_score": 0
+        },
+        {
+            "src": "You can see up to 10 collections on the collections overview page, and then use the pager to move to other collections.",
+            "mt": "収集の概要ページには最大10個の収集が表示され、ポケットベルを使用して他の収集に移動できます。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 39,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "4.4.2. Add a collection",
+            "mt": "4.4.2.コレクションを追加する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Create a collection",
+            "mt": "コレクションを作成する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click the New collection button under Portfolio → Collections.",
+            "mt": "「ポートフォリオ」→「コレクション」の下にある「新規コレクション」ボタンをクリックします。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 11,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 18,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 24,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 32,
+                    "text": "新規コレクション",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 33,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "On the next screen…",
+            "mt": "次の画面では…",
+            "MQM_score": 0
+        },
+        {
+            "src": "Collection name: Provide a title for your collection.",
+            "mt": "コレクション名:コレクションのタイトルを指定します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Collection description: Optionally, you can write a short description about your collection.",
+            "mt": "収集の説明:必要に応じて、収集に関する簡単な説明を記述できます。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 15,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "You do not have a visual editor, but just a plain text box.",
+            "mt": "ビジュアルエディタはなく、プレーンテキストボックスだけです。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Tags: Enter tags to find your collection more easily at a later stage.",
+            "mt": "タグ:タグを入力すると、後で簡単にコレクションを検索できます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 41,
+                    "end": 45,
+                    "text": "more",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Separate your tags with commas.",
+            "mt": "タグはコンマで区切ります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you already have tags, you can click on the link Show my tags and select the ones that you think will fit for this collection as well.",
+            "mt": "既にタグがある場合は、[Show my tags]リンクをクリックして、このコレクションに適合すると思われるタグを選択できます。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 129,
+                    "end": 136,
+                    "text": "as well",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 24,
+                    "text": "Show my tags",
+                    "type": 3,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "They will be entered into the text field for you.",
+            "mt": "テキストフィールドに入力されます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 4,
+                    "text": "They",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Page navigation bar: Choose whether you wish to display a tabbed navigation or not.",
+            "mt": "ページ・ナビゲーション・バー:タブ・ナビゲーションを表示するかどうかを選択します。",
+            "MQM_score": 1.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "ページ・ナビゲーション・バー",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 18,
+                    "text": "タブ・",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If you choose not to, you will have to include the navigation block for you to go from one page to the next on the individual pages that belong to this collection.",
+            "mt": "選択しない場合は、このコレクションに属する個々のページ上で、あるページから次のページに移動するためのナビゲーションブロックを含める必要があります。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "選択しない",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Click the Next: Edit collection pages button or click the Cancel button if you want to abort adding your collection.",
+            "mt": "コレクションの追加を中止する場合は、[次へ:コレクションページの編集]ボタンをクリックするか、[キャンセル]ボタンをクリックします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "4.4.3. Copy a collection",
+            "mt": "4.4.3.コレクションをコピーする",
+            "MQM_score": 0
+        },
+        {
+            "src": "4.4.3.1. Copy a collection by searching for it",
+            "mt": "4.4.3.1.コレクションを検索してコピーします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "You can duplicate your own collections or collections of other users if they allowed you to do that. As every page can only be in one collection at a time, your own pages will be copied when you copy a collection.",
+            "mt": "自分のコレクションまたは他のユーザーのコレクションを複製できます(複製が許可されている場合)。各ページは一度に1つのコレクションにしか入れることができないため、コレクションをコピーすると自分のページがコピーされます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Copy a collection",
+            "mt": "コレクションをコピーする",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click the Copy a collection button under Portfolio → Collections. On the next screen…",
+            "mt": "「ポートフォリオ」→「コレクション」の下にある「コレクションのコピー」ボタンをクリックします。次の画面では…",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 11,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 18,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 24,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Search: If there are many pages or collections from which you can choose, search here for a keyword in the page or collection title or for the name of the page owner.",
+            "mt": "検索:選択できるページまたはコレクションが多数ある場合は、ここでページまたはコレクションのタイトルのキーワードまたはページ所有者の名前を検索します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Collection title: Click on the title of a collection to preview it before copying it.",
+            "mt": "コレクションタイトル:コピーする前にプレビューするコレクションのタイトルをクリックします。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 44,
+                    "text": "コピーする前にプレビューするコレクションのタイトルをクリックします",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Note",
+            "mt": "注:",
+            "MQM_score": 0
+        },
+        {
+            "src": "The sort order on the screen is according to collection titles in alphabetical order.",
+            "mt": "画面上のソート順は、コレクションタイトルのアルファベット順です。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Page name: Click on the title of the page to see a preview of it before you copy it.",
+            "mt": "ページ名:ページのタイトルをクリックすると、コピーする前にプレビューが表示されます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Owner: Click on the name of the owner to view a larger profile picture and the self description if the owner provided one or to see information about a group it that is the owner.",
+            "mt": "所有者:所有者の名前をクリックすると、より大きな画像と、所有者が提供した場合はその説明が表示されます。または、所有者であるグループに関する情報が表示されます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 158,
+                    "end": 160,
+                    "text": "it",
+                    "type": 16,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Click the Copy collection button to copy an entire collection with multiple pages into your portfolio. All pages within this collection are copied or",
+            "mt": "複数ページのコレクション全体をポートフォリオにコピーするには、「コレクションのコピー」ボタンをクリックします。このコレクション内のすべてのページがコピーされるか",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 43,
+                    "text": "「コレクションのコピー」",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click the Copy page button to copy one page only into your own portfolio.",
+            "mt": "[ページのコピー]ボタンをクリックして、1ページだけを自分のポートフォリオにコピーします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Edit the collection and its pages as you would do any other collection and pages.",
+            "mt": "他のコレクションおよびページと同様に、コレクションおよびそのページを編集します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Note",
+            "mt": "注:",
+            "MQM_score": 0
+        },
+        {
+            "src": "The site administrator can decide to leave out “Copy of…” for copied pages or collections. This setting needs to be made in the config.php file. If $cfg->renamecopies = false;, copies of new pages and collections will not have “Copy of” prepended to their titles.",
+            "mt": "サイト管理者は、コピーされたページまたはコレクションに対して「コピー.」を省略することができます。この設定はconfig.phpファイルで行う必要があります。$cfg->renamecopies=false;の場合、新しいページおよびコレクションのコピーのタイトル前に「コピー.」が付きません。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 27,
+                    "end": 36,
+                    "text": "decide to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 35,
+                    "text": "コピー.",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 139,
+                    "text": "コピー.",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "See also",
+            "mt": "「」も参照",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "「」",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "You can watch a demo of this feature in action.",
+            "mt": "この機能のデモを実際に見ることができます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "4.4.3.2. <画像> Copy a collection directly from its location",
+            "mt": "4.4.3.2.<画像>コレクションをその場所から直接コピーする",
+            "MQM_score": 0
+        },
+        {
+            "src": "You can copy a page or collection directly when you view it by clicking the Copy button when you see it. The button is displayed on your own pages and collections as well as on pages and collections owned by others when you have the permission to copy them.",
+            "mt": "ページまたはコレクションが表示されているときに「コピー」ボタンをクリックすると、そのページまたはコレクションを直接コピーできます。このボタンは、自分のページおよびコレクションと、他のユーザーが所有するページおよびコレクションをコピーする権限があるときにそれらに表示されます。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 28,
+                    "text": "「コピー」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 95,
+                    "text": "ユーザー",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 120,
+                    "text": "権限",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Copy a page or collection",
+            "mt": "ページまたはコレクションをコピーする",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click the Copy button when you want to copy a page or collection that you can duplicate.",
+            "mt": "複製可能なページまたはコレクションをコピーする場合は、[コピー]ボタンをクリックします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "If the page is part of a collection, you need to decide in the pop-up window whether you want to copy just the page that you can see currently by clicking the Page button.",
+            "mt": "ページがコレクションの一部である場合は、[ページ]ボタンをクリックして現在表示されているページだけをコピーするかどうかをポップアップウィンドウで決定する必要があります。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 44,
+                    "text": "表示されている",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 56,
+                    "text": "するか",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Or whether you want to copy the entire collection by clicking the Collection button.",
+            "mt": "または、[コレクション]ボタンをクリックしてコレクション全体をコピーするかどうかを指定します。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 37,
+                    "text": "するか",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Edit the page or collection as you would to any other.",
+            "mt": "他のユーザーと同様にページまたはコレクションを編集します。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "ユーザー",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "4.4.4. Add collection pages",
+            "mt": "4.4.4.収集ページの追加",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "収集",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "In the next step after you have created your collection, you choose which portfolio pages you wish to include in this collection. You see all the potential pages that you can use. If you had already placed a page into another collection, it is not shown here.",
+            "mt": "コレクションを作成した後の次の手順では、このコレクションに含めるポートフォリオページを選択します。使用可能なすべてのページが表示されます。既に別のコレクションにページを配置している場合、そのページは表示されません。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 146,
+                    "end": 155,
+                    "text": "potential",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 254,
+                    "end": 258,
+                    "text": "here",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 32,
+                    "text": "る",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Add pages to a collection",
+            "mt": "ページをコレクションに追加する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Click the Manage pages button <画像> under Portfolio → Collections. On the next screen…",
+            "mt": "[ポートフォリオ]→[コレクション]の下にある[ページの管理]ボタン<画像>をクリックします。次の画面では…",
+            "MQM_score": 0
+        },
+        {
+            "src": "Put a check mark next to each page that you wish to include in your collection.",
+            "mt": "コレクションに含める各ページの横にチェックマークを付けます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 10,
+                    "text": "る",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Alternatively, you can click the All link to add all pages available to the collection or the None link to revert your selection.",
+            "mt": "または、「すべて」(All)リンクをクリックして使用可能なすべてのページをコレクションに追加するか、「なし」(None)リンクをクリックして選択を元に戻すこともできます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 9,
+                    "text": "「すべて」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 14,
+                    "text": "(All)",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click the Add pages button to add the pages to your collection.",
+            "mt": "ページをコレクションに追加するには、[ページの追加]ボタンをクリックします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you do not wish to click all pages, you can also drag and drop them into the collection by clicking their title and dragging them to the area Pages already in collection.",
+            "mt": "すべてのページをクリックしない場合は、タイトルをクリックして、[Pages already in collection]領域にドラッグアンドドロップすることで、ページをコレクションにドラッグアンドドロップすることもできます。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 13,
+                    "text": "し",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 59,
+                    "text": "Pages already in collection",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 74,
+                    "text": "アンドドロップ",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 83,
+                    "text": "ページ",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "A dotted line shows you where you can drag your page so you can already drag the pages into the collection in the order that you prefer.",
+            "mt": "点線は、ページをドラッグできる場所を示しています。これにより、ページをコレクションに好きな順序でドラッグできるようになります。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 25,
+                    "text": "。",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 62,
+                    "text": "できるようになります",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click the Done button to finish this step.",
+            "mt": "[完了]ボタンをクリックして、この手順を終了します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "4.4.5. Manage collection pages",
+            "mt": "4.4.5.コレクション・ページの管理",
+            "MQM_score": 0.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 16,
+                    "text": "コレクション・ページ",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Once you have added your pages to your collection. You can move them around or remove them.",
+            "mt": "コレクションにページを追加したら、ページを移動または削除できます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 49,
+                    "end": 50,
+                    "text": ".",
+                    "type": 16,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Manage the pages that are displayed within your collection",
+            "mt": "コレクション内に表示されるページを管理する",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you are not already in the page management, click the Manage pages button <画像> under Portfolio → Collections. On the next screen…",
+            "mt": "ページ管理をまだ行っていない場合は、[ポートフォリオ]->[コレクション]の下にある[ページの管理]ボタン<画像>をクリックします。次の画面では…",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "ページ管理をまだ行っていない",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Use the Move up <画像> and Move down <画像> buttons to arrange your pages in a different order. Alternatively, you can drag and drop the pages within the list.",
+            "mt": "「上へ移動<画像>」および「下へ移動<画像>」ボタンを使用して、ページを異なる順序で配置します。または、リスト内でページをドラッグ・アンド・ドロップできます。",
+            "MQM_score": 1.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 23,
+                    "text": "「上へ移動<画像>」および「下へ移動<画像>」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 74,
+                    "text": "ドラッグ・アンド・ドロップ",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click the Remove button <画像> to take a page out of a collection. The page itself is not deleted.",
+            "mt": "「削除」ボタン<画像>をクリックして、コレクションからページを取り出します。ページ自体は削除されません。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 1,
+                    "text": "「",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 3,
+                    "text": "削除",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 4,
+                    "text": "」",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Put a check mark next to each page that you wish to include in your collection in addition to the ones already in it.",
+            "mt": "コレクションに追加するページの横にチェックマークを付けます。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 79,
+                    "end": 116,
+                    "text": "in addition to the ones already in it",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "追加する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Click the Add pages button to add the pages to your collection and then move them around with the Move up <画像> and Move down <画像> buttons. Alternatively, you can drag and drop the pages to the position where you would like to have them in the list.",
+            "mt": "「ページの追加」ボタンをクリックしてページをコレクションに追加し、「上へ移動<画像>」および「下へ移動<画像>」ボタンを使用してページを移動します。または、ページをリスト内の目的の位置にドラッグ・アンド・ドロップできます。",
+            "MQM_score": 7.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "「ページの追加」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 56,
+                    "text": "「上へ移動<画像>」および「下へ移動<画像>」",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 90,
+                    "text": "目的の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 106,
+                    "text": "ドラッグ・アンド・ドロップ",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Click the Done button.",
+            "mt": "[完了]ボタンをクリックします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "When you add pages to your collection that have different access permissions than the collection has, the page's access permissions get added to the collection and the page is available under the same access permissions as the entire collection because it is part of the collection.",
+            "mt": "コレクションとは異なるアクセス許可を持つページをコレクションに追加すると、ページのアクセス許可がコレクションに追加され、ページはコレクションの一部であるため、コレクション全体と同じアクセス許可の下でます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 176,
+                    "end": 185,
+                    "text": "available",
+                    "type": 5,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Notice about changes in permissions",
+            "mt": "権限の変更に関する通知",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "権限",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If there is a change in access permissions, a warning will be displayed so that you are informed that changes have taken place.",
+            "mt": "アクセス権が変更された場合は、警告が表示され、変更が行われたことが通知されます。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "権",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 39,
+                    "text": "警告が表示され、変更が行われたことが通知されます",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "View the result of your collection by clicking on the collection title or any page that is part of your collection.",
+            "mt": "コレクションのタイトルまたはコレクションの一部であるページをクリックして、コレクションの結果を表示します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "A collection with the tabbed navigation",
+            "mt": "タブ・ナビゲーション付きのコレクション",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "タブ・",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "4.4.6. Give others access to your collection",
+            "mt": "4.4.6.他のユーザーに自分のコレクションへのアクセスを許可する",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 12,
+                    "text": "ユーザー",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "See also",
+            "mt": "「」も参照",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "「」",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Please refer to the section on sharing your pages and collections for further information.",
+            "mt": "詳細については、ページおよびコレクションの共有に関するセクションを参照してください。",
+            "MQM_score": 0
+        }
+    ]
+}

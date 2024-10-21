@@ -1,0 +1,235 @@
+1	OWASP Cornucopia	OWASP<ER01>コルヌコピア</ER01>
+2	OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic.	OWASP Cornucopiaは、ソフトウェア開発チームが<ER05>アジャイル</ER05>、従来型、そして正式な開発プロセスにおけるセキュリティ要件を特定するのを支援するための、カードゲーム形式のメカニズムです。言語、プラットフォーム、技術にとらわれません。
+3	Introduction	はじめに
+4	The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories. Although the idea had been waiting for enough time to progress it, the final motivation came when SAFECode published its Practical Security Stories and Security Tasks for Agile Development Environments in July 2012.	Cornucopiaの背後にあるアイデアは、開発チーム、特に<ER06>アジャイル</ER06>方法論を使用するチームがアプリケーションのセキュリティ要件を特定し、セキュリティベースのユーザストーリーを開発するのを支援することです。アイデアはそれを進めるのに十分な時間を待っていましたが、最終的な動機はSAFECodeが2012年7月に<ER09>アジャイル</ER09>開発環境のための実践的セキュリティストーリーとセキュリティタスクを公開した時に来ました。
+5	The Microsoft SDL team had already published its super Elevation of Privilege: The Threat Modeling Game (EoP) but that did not seem to address the most appropriate kind of issues that web application development teams mostly have to address. EoP is a great concept and game strategy, and was published under a Creative Commons Attribution License. Cornucopia Ecommerce Website Edition is based the concepts and game ideas in EoP, but those have been modified to be more relevant to the types of issues ecommerce website developers encounter. It attempts to introduce threat-modelling ideas into development teams that use Agile methodologies, or are more focused on web application weaknesses than other types of software vulnerabilities <ER19>or are not familiar with STRIDE and DREAD.</ER19>	Microsoft SDLチームはすでに、スーパーElevation of Privilege:The Threat Modeling Game(<ER10>EOP</ER10>)を公開していましたが、Webアプリケーション開発チームが主に対処する必要がある最も適切な種類の問題に対応していないようでした。<ER11>EOP</ER11>は優れたコンセプトとゲーム戦略であり、<ER18>クリエイティブコモンズ帰属ライセンス</ER18>の下で公開されました。Cornucopia Ecommerce Website Editionは、<ER12>EOP</ER12>のコンセプトとゲームのアイデアをベースにしていますが、Ecommerce Webサイトの開発者が遭遇する問題のタイプにより関連性があるように修正されています。Ecommerce Website Editionは、<ER07>アジャイル</ER07>方法論を使用する開発チームに脅威モデリングのアイデアを導入しようとします。または、他のタイプのソフトウェアの脆弱性よりもWebアプリケーションの脆弱性に焦点を当ててい
+6	To start using Cornucopia:	Cornucopiaの使用を開始するには:
+7	Download the document	<ER210>ドキュメント</ER210>の<ER20>ダウンロード</ER20>
+8	Print the cards onto plain paper or pre-scored card	カードを普通紙またはスコアカードに印刷<ER21>します。</ER21>
+9	Cut/separate the individual cards	個々のカードを切断/分離する
+10	Identify an application, module or component to assess	評価するアプリケーション、モジュール、またはコンポーネント<ER22>の特定</ER22>
+11	Invite business owners, architects, developers, testers along for a card game	ビジネスオーナー、アーキテクト、開発者、テスターを招待してカードゲームをする
+12	<ER23>Get those infosec folk</ER23> to provide chocolate, pizza, beer, flowers or all four as prizes	チョコレート、ピザ、ビール、花、またはその4つを賞品として提供するよう
+13	Select a portion of the deck to start with	デッキの開始位置を選択<ER24>してください</ER24>
+14	Play the game to discuss & document security requirements (and to win rounds)	セキュリティ要件について議論し、<ER25>文書</ER25>、<ER26>ラウンドを勝ち取るために</ER26>ゲームをプレイする
+15	Remember, points make prizes!	ポイントが賞品になることを忘れないでください!
+16	The Card Decks	カードデッキ
+17	Ecommerce Website Edition	Ecommerce <ER199>Webサイト版</ER199>
+18	Instead of EoP's STRIDE suits, Cornucopia suits were selected based on the structure of the OWASP Secure Coding Practices - Quick Reference Guide (SCP), but with additional consideration of sections in the OWASP Application Security Verification Standard, the OWASP Web Security Testing Guide and David Rook's Principles of Secure Development. These provided five suits, and a sixth called “Cornucopia” was created for everything else:	<ER13>EOP</ER13>のSTRIDEスーツの代わりに,OWASP Secure Coding Practices-Quick Reference Guide(SCP)の構造に基づいてCornucopiaスーツが選択され<ER27>たが</ER27>,OWASP Application安全確認Standard,OWASP Web Security Testing Guide,David Rook氏のPrinciples of Secure Developmentのセクションも考慮されて<ER28>いた</ER28>。これらは5つのスーツを提供し,"Cornucopia"と呼ばれる6番目のスーツが他ののもののために作ら<ER29>れた</ER29>。
+19	Data validation and encoding	データの検証とエンコード
+20	Authentication	認証
+21	Session management	セッション管理
+22	Authorization	認証
+23	Cryptography	暗号
+24	Cornucopia	<ER02>コルヌコピア</ER02>
+25	Each suit contains 13 cards (Ace, 2-10, Jack, Queen and King) but, unlike EoP, there are also two Joker cards. The content was mainly drawn from the SCP. Full Wiki Deck.	各スーツには13枚のカード(エース、2-10、ジャック、クイーン、キング)が含まれていますが、<ER14>EOP</ER14>とは異なり、ジョーカーカードも2枚あります。コンテンツは主にSCPから作成されました。完全なWikiデック<ER30>。</ER30>
+26	Other Decks	その他のデッキ
+27	Future editions such as for mobile app development will use different sources of information and suits.	モバイルアプリ開発のような将来のバージョンでは、異なる情報源とスーツを使用する<ER31>だろう</ER31>。
+28	Mappings	マッピング
+29	The other driver for Cornucopia is to link the attacks with requirements and verification techniques. An initial aim had been to reference CWE weakness IDs, but these proved too numerous, and instead it was decided to map each card to CAPEC software attack pattern IDs which themselves are mapped to CWEs, so the desired result is achieved.	Cornucopiaのもう1つの推進力は、攻撃を要件や検証技術とリンクさせることです。当初の目的はCWEの脆弱性IDを参照することでしたが、これらの脆弱性IDが多すぎることが判明したため、代わりに各カードをCAPECソフトウェアの攻撃パターンIDにマッピングすることにしました。この攻撃パターンID自体が<ER32>CWEs</ER32>にマッピングされるため、目的の結果が得られます。
+30	Each card is also mapped to the 36 primary security stories in the SAFECode document, as well as to the OWASP SCP v2, ASVS v3.0.1 and AppSensor (application attack detection and response) to help teams create their own security-related stories for use in Agile processes.	各カードは、SAFECode<ER211>文書</ER211>の36の主要なセキュリティ<ER33>ストーリ</ER33>と、OWASP SCP v2、ASVS v3.0.1、AppSensor(アプリケーション攻撃の検出と応答)にマップされ、チームが<ER08>アジャイル</ER08>プロセスで使用するための独自のセキュリティ関連<ER34>ストーリ</ER34>を作成できるようにします。
+31	Licensing	ライセンス
+32	OWASP Snakes and Ladders is free to use. It is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.	OWASP Snakes and Ladderは自由に使用できます。Creative Commons Attribution-ShareAlike3.0ライセンスの下でライセンスされているので、作品をコピー、配布、転送し、それを<ER35>適合</ER35>させて商業的に使用することができます。ただし、作品の属性を指定し、この作品を変更、変換、または構築した場合は、この作品と同一または類似のライセンスの下でのみ結果の作品を配布できます。
+33	© OWASP Foundation	©OWASP<ER36>財団</ER36>
+34	Other Security Gamification	その他のセキュリティ<ER287>・</ER287>ゲーミフィケーション
+35	If you are interested in using gaming for security, also see Elevation of Privilege: The Threat Modeling Game, Security Cards from the University of Washington, the commercial card game Control-Alt-Hack (presentation), OWASP Snakes and Ladders, and web application security training tools incorporating gamification such as OWASP Hackademic Challenges Project, OWASP Security Shepherd and ITSEC Games.	セキュリティのためにゲームを使うことに興味がある人は、Elevation of Privilege:The Threat Modeling Game,Security Cards from the University of Washington,<ER37>the commercial card game Control-Alt-Hack(presentation)</ER37>,OWASP Snakes and Ladder,<ER38>and web application security training tools including incorporated gamification</ER38>,例えばOWASP Hackademic<ER39>チャレンジプロジェクト</ER39>,OWASP Security Shepherd,ITSEC Gamesも参照してください。
+36	Additionally, Adam Shostack maintains a list of tabletop security games and related resources at security games.	さらに、Adam Shostack氏は、卓上セキュリティゲームとセキュリティゲームの関連リソースのリストを管理して<ER40>いる</ER40>。
+37	Get the Cards	カードを入手する
+38	The primary source document is a Word document. However, pre-printed card decks may be more useful, or there are links to the source design files for the cards themselves.	主なソース<ER212>ドキュメント</ER212>はWord<ER213>ドキュメント</ER213>です。ただし、あらかじめ印刷されたカードデッキの方が便利な場合もあれば、カード自体のソースデザインファイルへのリンクがある場合もあります。
+39	Printed	<ER41>印刷</ER41>
+40	Professionally printed decks are available by two methods:	専門的に印刷されたデッキは、次の2つの方法で利用できます。
+41	Single decks or in bulk from OWASP (v1.20)	OWASP(v1.20)のシングルデッキまたはバルク
+42	As promotion items by OWASP Leaders from their own chapter budgets using the Chapter and Project Merchandise Request form	「Chapter and Project Merchandise Request」フォームを使用して、<ER42>OWASPリーダー</ER42>が各自の章予算から推進項目として
+43	For other individuals, organisations and companies, please email lisa.jones@owasp.com with purchase inquiries.	その他の個人、組織、企業のお客様は、メール(<ER43>lisa.jones@owasp.com)com</ER43>)でお願いします。
+44	Request a free deck of cards gifted by Blackfoot UK Limited:	<ER44>ブラックフットUKリミテッド</ER44>が提供する無料のカードをご請求ください。
+45	Request a free pack of cards (v1.10) (gifted by Blackfoot UK)	カードの無料パックをリクエスト(v1.10)(<ER45>ブラックフット</ER45>UK提供)
+46	Source files	ソースファイル
+47	Cornucopia - Ecommerce Website Edition:	Cornucopia-Ecommerce Website Edition:
+48	v1.20 (current version)	v1.20(現在のバージョン)
+49	EN DOC, FR DOC, PT-BR DOC	EN DOC、FR DOC、PT-BR DOC
+50	EN PDF	<ER46>PDF形式</ER46>
+51	Print-Ready design files 24Mb zip	印刷可能な設計ファイル(zip形式24Mb)
+52	v1.1 EN	v1.1EN
+53	DOC - see current version link above for previous versions of DOC including with track changes	<ER47>デルテレフォンアドバイザー</ER47>-変更履歴を含む旧バージョンの<ER48>デルテレフォンアドバイザー</ER48>については、上記の最新バージョンのリンクを参照してください。
+54	Wiki	<ER49>ウィキ</ER49>
+55	Print-Ready design files 24Mb zip	印刷可能な設計ファイル(zip形式24Mb)
+56	v1.04 EN	v1.04EN
+57	DOC - see current version link above for previous versions of DOC including with track changes	<ER50>デルテレフォンアドバイザー</ER50>-変更履歴を含む旧バージョンの<ER51>デルテレフォンアドバイザー</ER51>については、上記の最新バージョンのリンクを参照してください。
+58	Print-Ready design files (gifted by Blackfoot UK) 47Mb Zip	印刷用設計ファイル(<ER52>ブラックフット</ER52>UKより提供)47Mb Zip
+59	The current version of Cornucopia Ecommerce Website Edition cards (v1.20 with updated mapping to ASVS v3.0.1 and CAPEC v2.8, and has some minor text changes on the cards) can be printed using the following methods:	現在のバージョンのCornucopia Ecommerce Website Editionカード(ASVS v3.0.1およびCAPEC v2.8へのマッピングが更新されたv1.20で、カードに若干のテキスト変更があります)は、次の方法で印刷できます。
+60	Download the free Adobe Illustrator files (EN) and get them professionally printed	無料のAdobe Illustratorファイル(EN)をダウンロードして、<ER53>プロ仕様</ER53>で印刷してください。
+61	Download and self-print the free document word-processing (EN, FR) or PDF (EN)	無料の<ER214>ドキュメント</ER214>ワープロ(EN, FR)またはPDF(EN)をダウンロードして<ER54>自己印刷</ER54>
+62	Print the document onto business card blank cards; <ER55>or</ER55>	<ER215>文書</ER215>を名刺の白紙の名刺に印刷<ER56>する</ER56>。
+63	Print the document onto normal card and cut the cards out individually using the guide; or	<ER216>ドキュメント</ER216>を通常のカードに印刷し、ガイドを使用してカードを個別に切り取ります。または
+64	Generate your own cards from the free source XML data file	フリーのソースXMLデータファイルから独自のカードを生成する
+65	There are also other ways to obtain particular versions:	特定のバージョンを取得する方法は他にもあります<ER57>。</ER57>
+66	Download the free PDF (v1.03) (gifted by Travelex)	無料のPDF(v1.03)を<ER58>ダウンロード</ER58>(<ER59>トラベレックスジャパン</ER59>提供)
+67	Have the cards commercially printed; <ER60>or</ER60>	カードを商業的に印刷<ER61>する。</ER61>
+68	Import into your own files (such as this way suggested by Cam Morris via the mailing list)	独自のファイルにインポートする(Cam Morrisがメーリングリストを通じて提案した方法など)
+69	OWASP does not <ER62>endorse or</ER62> recommend commercial products or services.	OWASPは、商用製品またはサービスを推奨しません。
+70	Twitter	<ER63>ツイッター</ER63>
+71	Collect/share/use the pseudo-random cards <ER64>tweeted</ER64> twice daily @OWASPCornucopia	疑似ランダムカードを収集/共有/使用することが1日2回@OWASPCornucopia
+72	How to Play	遊び方
+73	It is possible to play Cornucopia in many different ways. Here is one way, and explained in a YouTube video.	Cornucopiaにはいろいろな遊び方があるの<ER65>ですが、</ER65>こちらYouTubeの動画で説明されている方法です。
+74	Primary method	主な方法
+75	A - Preparations	A調製品
+76	A1. Obtain a deck, or print your own Cornucopia deck and <ER66>separate/cut</ER66> out the cards	A1.デッキを入手するか、独自のCornucopiaデッキを印刷してカードを切り離<ER87>します。</ER87>
+77	A2. Identify an application or application process to review; this might be a concept, design or an actual implementation	A2.レビューするアプリケーションまたはアプリケーションプロセスを特定します。これは、概念、設計、または実際の実装の場合が<ER88>あります。</ER88>
+78	A3. Create a data flow diagram	A3.データフロー図を作成<ER89>する</ER89>
+79	A4. Identify and invite a group of 3-6 architects, developers, testers and other business stakeholders together and sit around a table (try to include someone fairly familiar with application security)	A4.3-6のアーキテクト、開発者、テスター、その他のビジネス関係者のグループを特定して招待し、テーブルを囲んで<ER90>ください</ER90>(アプリケーションのセキュリティにかなり詳しい人を同席させてください)<ER91>。</ER91>
+80	A5. Have some prizes to hand (gold stars, chocolate, pizza, beer or flowers depending upon your office culture)	A5.いくつかの賞品を用意<ER92>します</ER92>(オフィス文化に応じて、ゴールドスター、チョコレート、ピザ、ビール、花など)<ER67>。</ER67>
+81	B - Play	B-プレイ
+82	One suit - Cornucopia - acts as trumps. Aces are high (i.e. they beat Kings). It helps if there is someone dedicated to documenting the results who is not playing.	1つのスーツ-<ER03>コルヌコピア</ER03>-は切り札としての役割を果た<ER68>す</ER68>。エースは高い(すなわち、<ER69>彼ら</ER69>はKingsを負かします)。<ER70>プレイしていない</ER70>結果を記録することに専念している人がいれば役に立ちます。
+83	B1. Remove the Jokers and a few low-score (2, 3, 4) cards from Cornucopia suit to ensure each player will have the same number of cards	B1.各<ER147>プレーヤー</ER147>が同じ数のカードを持つことを<ER71>保証する</ER71>ために、ジョーカーといくつかの<ER72>低スコア</ER72>(2, 3, 4)カードを<ER73>コーヌコピア</ER73>のスーツから取り<ER75>除く</ER75>。
+84	B2. Shuffle the pack and deal all the cards	B2.パックをシャッフルしてすべてのカードを<ER93>配る</ER93>
+85	B3. To begin, choose a player randomly who will play the first card - they can play any card from their hand except from the trump suit - Cornucopia	B3.最初のカードをプレイする<ER148>プレーヤー</ER148>をランダムに選択します。<ER77>トランプのスーツ</ER77>以外の任意のカードを<ER76>手</ER76>からプレイ<ER94>できます。</ER94><ER74>コーヌコピア</ER74>
+86	B4. To play a card, each player must read it out aloud, and explain how (or not) the <ER78>threat</ER78> could apply (the player gets a point for attacks that work, and the group thinks it is an actionable bug) - don't try to think of mitigations at this stage, and don't exclude a threat just because it is believed it is already mitigated - someone record the card on the score sheet	B4.カードをプレイするには、各<ER149>プレイヤー</ER149>がカードを声に出して読み上げ、適用されるか(または適用されないか)を説明する必要があります(プレイヤーは有効な攻撃のポイントを取得し、グループはそれが実行可能なバグであると考えます)<ER95>。</ER95>この段階で軽減策を考えたり、すでに軽減されていると思われるという理由だけで脅威を除外したりしないでください<ER96>。</ER96>誰かがカードをスコアシートに記録<ER97>します。</ER97>
+87	B5. Play clockwise, each person must play a card in the same way; if you have any card of the matching lead suit you must play one of those, otherwise they can play a card from any other suit. Only a higher card of the same suit, or the highest card in the trump suit Cornucopia, wins the hand.	B5.時計回りにプレイ<ER79>する場合</ER79>、各ユーザーは同じ方法でカードをプレイする必要があります。一致するリードスーツのカードを持っている場合は、それらのカードのいずれかをプレイする必要があります。そうでない場合は、他のスーツのカードをプレイできます。同じスーツの上位のカード、または<ER80>トランプスーツ</ER80>Cornucopiaの最上位のカードのみが<ER81>手を取り</ER81><ER98>ます。</ER98>
+88	B6. The person who wins the round, leads the next round (i.e. they play first), and thus defines the next lead suit	B6.ラウンドに勝った人が次のラウンドをリードし(つまり、最初にプレーする)、次のリードスーツを<ER82>定義</ER82><ER99>します。</ER99>
+89	B7. Repeat until all the cards are played	B7.すべてのカードが<ER83>再生</ER83>されるまで繰り返<ER100>します。</ER100>
+90	C - Scoring	C-スコアリング
+91	The objective is to identify applicable threats, and <ER84>win hands (rounds)</ER84>:	目的は、該当する脅威を特定し、勝利することです<ER101>。</ER101>
+92	C1. Score +1 for each card you can identify as a valid threat to the application under consideration	C1.対象のアプリケーションに対する有効な脅威として識別できる各カード<ER85>のスコア+1</ER85>
+93	C2. Score +1 if you win a round	C2.あなたがラウンドに勝った場合、<ER86>スコア+1</ER86>
+94	C3. Once all cards have been played, whoever has the most points wins	C3.すべてのカードがプレイされると、最も多くのポイントを持つ人が勝<ER102>ちます。</ER102>
+95	D - Closure	D-クロージャ
+96	D1. Review all the applicable threats and the matching security requirements	D1.該当するすべての脅威および対応するセキュリティ要件を確認<ER103>します。</ER103>
+97	D2. Create user stories, specifications and test cases as required for your development methodology	D2.開発方法論に必要なユーザーストーリー、仕様、テストケースを作成<ER104>する</ER104>
+98	See Márk Vinkovits leading a threat modelling talk and group session playing Cornucopia in the OWASP track @hacktivityconf 1510.	<ER105>OWASPトラック@hacktivityconf1510</ER105>でCornucopiaをプレイして、脅威モデリングトークとグループセッションをリードするMárk Vinkovitsを<ER106>参照。</ER106>
+99	Alternative game rules	代替ゲームルール
+100	If you are new to the game, remove the two Joker cards to begin with. Add the Joker cards back in once people become more familiar with the process. Apart from the “trumps card game” rules described above which are very similar to the EoP, the deck can also be played as the “twenty-one card game” (also known as “pontoon” or “blackjack”) which normally reduces the number of cards played in each round.	ゲームに慣れていない場合は、まず2枚のジョーカーカードを<ER107>削除します</ER107>。プロセスに慣れてきたら、ジョーカーカードを<ER108>追加し直します</ER108>。上述した<ER15>EOP</ER15>と非常に類似した「トランプカードゲーム」ルールとは別に、デッキは、通常、各ラウンドでプレイされるカードの数を減らす「21カードゲーム」(「ポンツーン」または「ブラックジャック」としても知られる)としてプレイすることも<ER109>できる。</ER109>
+101	Practice on an imaginary application, or even a future planned application, rather than trying to find fault with existing applications until the participants are happy with the usefulness of the game.	参加者がゲームの有用性に満足するまで、既存のアプリケーションの欠点を見つけようとするのではなく、想像上のアプリケーション、あるいは将来計画されたアプリケーションで練習<ER110>する。</ER110>
+102	Consider just playing with one suit to make a shorter session – but try to cover all the suits for every project. Or even better just play one hand with some pre-selected cards, and score only on the ability to identify security requirements. Perhaps have one game of each suit each day for a week or so, if the participants cannot spare long enough for a full deck.	セッションを短縮するために、1つのスーツでプレイすることを検討してください<ER111>。</ER111>ただし、すべてのプロジェクトのスーツをすべてカバーするようにしてください。あるいは、あらかじめ選択されたカードで<ER112>片手</ER112>でプレイし、セキュリティ要件を識別する能力のみを評価することをお勧めします。参加者がフルデッキのために十分な時間を割くことができない場合は、1週間ほど毎日1つのスーツでゲームを行うことも<ER113>できます。</ER113>
+103	Some teams have preferred to play a full hand of cards, and then discuss what is on the cards after each round (instead of after each person plays a card).	いくつかのチームは、カードを<ER114>フルハンド</ER114>でプレイし、(それぞれの人がカードをプレイした後ではなく)各ラウンドの後にカードの内容を議論することを<ER115>好む。</ER115>
+104	Another suggestion is that if a player fails to identify the card is relevant, allow other players to suggest ideas, and potentially let them gain the point for the card. Consider allowing extra points for especially good contributions.	もう1つの提案は、<ER150>プレーヤー</ER150>がカードが適切であることを識別できない場合、他の<ER151>プレーヤー</ER151>にアイデアを提案させ、<ER116>潜在的に</ER116>カードのポイントを獲得させることです。特に優れた貢献<ER117>をするために</ER117>、追加ポイントを認めることを検討<ER118>してください。</ER118>
+105	You can even play by yourself. Just use the cards to act as thought-provokers. Involving more people will be beneficial though.	一人で遊ぶこともできます。カードを使って思考<ER119>provokers</ER119>として行動するだけです。<ER120>より多くの人を参加させることは有益ですが。</ER120>
+106	In Microsoft's EoP guidance, they recommend cheating as a good game strategy.	Microsoftの<ER16>EOP</ER16>ガイダンスでは、優れたゲーム戦略として<ER121>不正行為</ER121>を推奨して<ER122>いる。</ER122>
+107	Frequently Asked Questions	よくある質問
+108	Can I copy or edit the game?	ゲームをコピーまたは編集できますか?
+109	Yes of course. All OWASP materials are free to do with as you like provided you comply with the Creative Commons Attribution-ShareAlike 3.0 license. Perhaps if you create a new version, you might donate it to the OWASP Cornucopia Project?	もちろんです。Creative Commons Attribution-ShareAlike3.0<ER124>license</ER124>に準拠していれば、すべてのOWASP<ER166>資料</ER166>は自由に使用できます。新しいバージョンを作成した場合、OWASP Cornucopiaプロジェクトに寄付することはできますか?
+110	How can I get involved?	どうすれば参加できますか?
+111	Please send ideas or offers of help to the project's mailing list.	プロジェクトのメーリングリストにアイデアや<ER125>アドバイス</ER125>を送ってください。
+112	How were the attackers' names chosen?	攻撃者の名前はどのように選ばれましたか?
+113	EoP begins every description with words like “An attacker <ER126>can</ER126>…”. These have to be phrased as an attack but I was not keen on the anonymous terminology, wanting something more engaging, and therefore used personal names. These can be thought of as external or internal people or aliases for computer systems. But instead of just random names, I thought how they might reflect the OWASP community aspect. Therefore, apart from “Alice and Bob”, I use the given (first) names of current and recent OWASP employees and Board members (assigned in no order), and then randomly selected the remaining 50 or so names from the current list of paying individual OWASP members. No name was used more than once, and where people had provided two personal names, I dropped one part to try to ensure no-one can be easily identified. Names were not deliberately allocated to any particular attack, defence or requirement. The cultural and gender mix simply reflects theses sources of names, and is not meant to be world-representative.	<ER17>EOP</ER17>はすべての記述を「攻撃者は.」のような言葉で始めます。これらは攻撃と表現する必要がありますが、私は匿名の用語には関心がなく、より<ER127>魅力的</ER127>なものを求めて、個人名を使用していました。これらは、外部または内部の人、またはコンピュータ<ER288>・</ER288>システムの別名と考えることができます。しかし、ランダムな名前ではなく、OWASPコミュニティの側面をどのように反映するかを考えました。したがって、「Alice and Bob」とは別に、現在および最近のOWASP従業員および役員(<ER128>順番に割り当てられていない</ER128>)の名前を使用し、残りの50人ほどの名前を現在の有料個人OWASPメンバーのリストからランダムに選択しました。複数回使用された名前はなく、2人の個人名が提供されていた<ER129>場所</ER129>で、誰も容易に識別できないようにするために1つの部分を削除しました。名前は、特定の攻撃、防御または要件に意図的に割り当てられたものではありません。文化的およびジェンダーの組み合わせは、単にこれらの名前の出所を反映したものであり、世界を代表するものではありません。
+114	Why aren't there any images on the card faces?	どうしてカードの<ER130>顔</ER130>に画像が<ER131>ないんですか</ER131>?
+115	There is quite a lot of text on the cards, and the cross-referencing takes up space too. But it would be great to have additional design elements included. Any volunteers?	カードにはかなり多くのテキストがあり、相互参照もスペースを取ります。しかし、追加の設計要素が含まれていることは素晴らしいことです。<ER132>ボランティアは?</ER132>
+116	Are the <ER133>attacks</ER133> ranked by the number on the card?	カードに書かれた数字で順位がつけ<ER134>られるんですか?</ER134>
+117	Only approximately. The risk will be application and organisation dependent, due to varying security and compliance requirements, so your own severity rating may place the cards in some other order than the numbers on the cards.	おおよそです。リスクは、さまざまなセキュリティおよびコンプライアンス要件<ER135>のために</ER135>、アプリケーションおよび組織に依存します。したがって、<ER136>お客様</ER136>自身の重要度では、カードに記載されている番号以外の順序でカードが配置される場合があります。
+118	How long does it take to play a round of cards using the full deck?	フルデッキでカードを1ラウンドプレイすると、どのくらいの時間がかかりますか?
+119	This depends upon the amount of discussion and how familiar the players are with application security concepts. But perhaps allow 1.5 to 2.0 hours for 4-6 people.	これは、議論の量と、<ER152>プレーヤー</ER152>がアプリケーションセキュリティの概念にどの程度精通しているかに依存します。しかし、おそらく4-6の人々には1.5時間から2.0時間の<ER137>余裕があります</ER137>。
+120	What sort of people should play the game?	どんな人が<ER138>試合</ER138>を<ER139>するんですか</ER139>?
+121	Always try to have a mix of roles who can contribute alternative perspectives. But include someone who has a reasonable knowledge of application vulnerability terminology. Otherwise try to include a mix of architects, developers, testers and a relevant project manager or business owner.	常に、<ER140>代替的な</ER140>視点を提供できる役割を混在させるようにしてください。ただし、アプリケーションの脆弱性に関する用語について合理的な知識を持っている人を含めてください。そうでない場合は、アーキテクト、開発者、テスター、および関連するプロジェクトマネージャまたはビジネスを混在させるようにしてください。
+122	Who should take notes and record scores?	誰がメモを取って、スコアを記録するのですか?
+123	It is better if that someone else, not playing the game, takes notes about the requirements identified and issues discussed. This could be used as training for a more junior developer, or performed by the project manager. Some organisations have made a recording to review afterwards when the requirements are written up more formally.	ゲームをプレイしているのでは<ER141>なく</ER141>、他の誰かが、特定された要件や議論された問題についてメモを取るとよいでしょう。これは、より経験の浅い開発者のためのトレーニングとして使用することも、プロジェクトマネージャが行うこともできます。一部の組織では、要件がより正式に記述された後でレビューするために記録を作成しています。
+124	Should we always use the full deck of cards?	カードはいつもフルデッキを使うべきですか?
+125	No. A smaller deck is quicker to play. Start your first game with only enough cards for two or three rounds. Always consider removing cards that are not appropriate at all of the target application or function being reviewed. For the first few times people play the game it is also usually better to remove the Aces and the two Jokers. It is also usual to play the game without any trumps suit until people are more familiar with the idea.	いいえ。小さいデッキの方が早くプレイできます。最初のゲームは、2、3ラウンドに十分な数のカードだけで開始します。レビューする対象のアプリケーションまたは機能のすべてに適していないカードは<ER156>削除する</ER156>ことを常に検討してください。最初の数回は、通常、エースと<ER142>2人</ER142>のジョーカーを<ER143>削除</ER143><ER144>方が</ER144>よいでしょう。また、このアイデアに慣れるまでは、切り札のないゲームをするのが普通です。
+126	What should players do when they have an Ace card that says “invented a new X attack”?	「新しいX攻撃を発明した」というエースカードがあったら、<ER145>選手</ER145>はどうすればいいの<ER146>だろうか。</ER146>
+127	The player can make up any attack they think is valid, but must match the suit of the card e.g. data validation and encoding). With players new to the game, it can be better to remove these to begin with.	<ER153>プレイヤー</ER153>は、有効だと思う攻撃をすべて打ち消すことができます。ただし、データの検証やエンコードなど、カードの組み合わせに一致する必要があります。ゲームに慣れていない<ER154>プレイヤー</ER154>は、まずこれらを<ER157>削除した</ER157>方がよい場合があります。
+128	I don't understand what the attack means on each card - is there <ER158>more</ER158> detailed information?	各カードに対する攻撃の意味がわかりません。詳細な情報はありますか?
+129	Yes, the Wiki Deck at was created to help <ER155>players</ER155> understand the attacks. See Wiki Deck.	はい。のWiki Deckは、攻撃を理解するために作成されました。Wiki Deckを参照してください。
+130	My company wants to print its own version of OWASP Cornucopia - what license do we need to refer to?	私の会社は、独自バージョンのOWASP Cornucopiaを印刷したいと考えています<ER159>。</ER159>どのようなライセンスを参照する必要がありますか?
+131	What is required/reasonable might depend upon how you propose to use the source Cornucopia material. See fuller answer immediately below.Some examples of re-using or reproducing Cornucopia are:	何が必要か、何が妥当かは、Cornucopiaの<ER160>資料</ER160>をどのように使用するかによって異なります。次の詳細な回答を参照してください。Cornucopiaを再利用または再生する例を次に示します<ER161>。</ER161>
+132	Print some decks and give them away to customers	デッキを印刷して顧客に提供する
+133	Reproduce the game exactly but with a corporate-branded package	企業ブランドのパッケージを使用してゲームを正確に再現する
+134	Use the idea and/or source files to produce a similar game but with different attacks/mappings	アイデアやソースファイルを使用して、<ER162>類似したゲームを作成しますが、攻撃やマッピングが異なります</ER162><ER163>。</ER163>
+135	Distribute modified design files	変更した設計ファイルを配布する
+136	If option 1 above, you can order these in bulk from OWASP and attach your own details below the “compliments of” section on the boxes. There are three aspects to consider for options 2, 3 or 4, or combinations of those - see below. The existing printed decks (and their boxes and leaflets include such text).	上記のオプション1の場合は、OWASPにまとめて注文し、箱の"compliments of"セクションの下にあなた自身の詳細を添付することができます。オプション2、3、4、またはそれらの<ER164>組み合わせ考慮すべき</ER164>3つの側面があります<ER165>。</ER165>以下を参照してください。既存の印刷されたデッキ(およびそれらの箱とリーフレットには、そのようなテキストが含まれています)。
+137	A - Cornucopia License	A-Cornucopiaライセンス
+138	The precise wording will depend how the material is being used or reproduced. Under Creative Commons Attribution-ShareAlike 3.0 license it is necessary to attribute all previous contributions (in this case, Microsoft, Boeing, Mitre, etc). The easiest place to put the wording is on the leaflet (folded inside, or separate booklet). The current required long-form wording is:	正確な表現は、<ER167>資料</ER167>がどのように使用または複製されているかによって異なります。Creative Commons Attribution-ShareAlike3.0<ER170>license</ER170>の下では、これまでのすべての投稿(この場合は、Microsoft、Boeing、Mitreなど)を帰属させる必要があります。最も簡単に表現できるのはリーフレット上(折り込み、または別の小冊子)です。現在必要な長い形式の表現は次のとおりです。
+139	OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license http://creativecommons.org/licenses/by-sa/3.0/	OWASP Cornucopiaは、Creative Commons Attribution-ShareAlike3.0<ER171>license</ER171> http://creativecommons.org/licenses/by-sa/3.0/の下でライセンスされています。
+140	The files used to create these materials were created from the OWASP project and are also open source, and are licensed under the same conditions.	これらの<ER123>マテリアル</ER123>の作成に使用されるファイルは、OWASPプロジェクトから作成されたオープンソースファイルであり、同じ条件でライセンスされます。
+141	OWASP Cornucopia can be downloaded for free from the OWASP website and printed yourself.	OWASP CornucopiaはOWASPの<ER200>ウェブサイト</ER200>から無料でダウンロードでき、自分で印刷することが<ER172>できる</ER172>。
+142	The OWASP Cornucopia project source <ER173>in vendor neutral and unbranded.</ER173>	OWASP CorOW ASP Cornucopiaプロジェクトソース。
+143	OWASP does not <ER174>endorse or</ER174> recommend commercial products or services.	OWASPは、商用製品またはサービスを推奨しません。
+144	© 2012-2018 OWASP Foundation	©2012 - 2018OW ASP Foundation
+145	This document is licensed under the Creative Commons Attribution-ShareAlike 3.0 license.	本<ER217>書</ER217>はCreative Commons Attribution-ShareAlike3.0<ER176>license</ER176>の下でライセンスされています。
+146	Acknowledgments:	謝辞:
+147	Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game, published under a Creative Commons Attribution license, as the inspiration for Cornucopia and from which many ideas, especially the game theory, were copied.	Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game(Creative Commons Attribution <ER177>license</ER177>の下、Cornucopiaのインスピレーションとして出版され、多くのアイデア、特にゲーム理論がコピーされました)。
+148	Keith Turpin and contributors to the “OWASP Secure Coding Practices - Quick Reference Guide”, originally donated to OWASP by Boeing, which is used as the primary source of security requirements information to formulate the content of the cards.	Keith<ER178>トルパン</ER178>と"OWASP Secure Coding Practices-Quick Reference Guide"の<ER179>コントリビュータ</ER179>は、もともとBoeingからOWASPに寄贈されたもので、カードの内容を定式化するためのセキュリティ要件情報の主要なソースとして使用されています。
+149	Contributors, supporters, sponsors and volunteers to the OWASP ASVS, AppSensor and Web Framework Security Matrix projects, Mitre's Common Attack Pattern Enumeration and Classification (CAPEC), and SAFECode's “Practical Security Stories and Security Tasks for Agile Development Environments” which are all used in the cross-references provided.	OWASP ASVS、AppSensorとWeb Framework Security Matrixプロジェクト、MitreのCommon Attack Pattern Enumeration and Classification(CAPEC)、そしてSAFECodeの"Practical Security Stories and Security Tasks for Agile Development Environments"の<ER180>コントリビュータ</ER180>、サポーター、スポンサー、そしてボランティアは、提供されている相互参照の中ですべて<ER184>使われている</ER184>。
+150	Playgen for providing an illuminating afternoon seminar on task gamification, and tartanmaker.com for the online tool to help create the card back pattern.	Playgenはタスクゲーミフィケーションに関する明るい午後のセミナーを提供し、tartanmaker.comはカードバックパターンの作成を支援するオンラインツールを提供<ER185>した</ER185>。
+151	Blackfoot UK Limited for creating and donating print-ready design files, Tom Brennan and the OWASP Foundation for instigating the creation of an OWASP-branded box and leaflet, and OWASP employees, especially Kate Hartmann<ER188>, for managing the ordering, stocking and despatch of printed card decks.</ER188>	<ER186>ブラックフット</ER186>UK Limited<ER187>:印刷可能なデザインファイルの作成と寄贈、Tom Brennan:OWASPブランドの箱とリーフレットの作成を推進、OWASP Foundation:OWASPブランドの箱とリーフレットの作成を推進</ER187>、OWASP従業員、特にKate Hartmann:<ER288>印刷されたカードデッキの注文、保管、発送を管理。</ER288>
+152	Oana Cornea and other participants at the AppSec EU 2015 project summit for their help in creating the demonstration video.	AppSec <ER191>EU2015</ER191>プロジェクトサミットに参加した<ER189>大穴</ER189>Cornea氏らは、デモンストレーションビデオの制作に協力<ER190>した</ER190>。
+153	Colin Watson as author and co-project leader with Darío De Filippis, along with other OWASP volunteers who have helped in many ways.	作家であり、<ER192>ダリオ・デ・フィリピス</ER192>の共同プロジェクトリーダーである<ER193>コリン・ワトスン</ER193>と、さまざまな方法で支援してきた他のOWASP<ER194>ボランティア</ER194>。
+154	The box/container for the cards must have the wording:	カードの箱/容器には以下の文言を記載しなければ<ER195>ならない</ER195>:
+155	Created by Colin Watson.	<ER196>コリン・ワトスン</ER196>作。
+156	Contains: One pack of Cornucopia Ecommerce Website playing cards. OWASP Cornucopia is open source and can be downloaded free of charge from the OWASP website.	<ER197>Contains</ER197>:Cornucopia Ecommerce Website <ER198>playing cards</ER198>1パック。OWASP Cornucopiaはオープンソースであり、OWASPのWebサイトから無料でダウンロードできます。
+157	OWASP Cornucopia is free to use. It is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build <ER203>upon</ER203> this work, you may distribute the resulting work only under the same or similar license to this one.	OWASP Cornucopiaは<ER201>自由に</ER201>使用することができます。Creative Commons Attribution-ShareAlike3.0ライセンスの下でライセンスされているため、作品をコピー、配布、転送することができ、それを調整して商業的に使用することができます<ER202>。ただし</ER202>、作品の属性を指定し、この作品を変更、変換、または構築した場合は、結果の作品をこの<ER204>作品</ER204>と同じまたは類似のライセンスの下でのみ配布することができます。
+158	The following short-form wording must also appear on any materials referencing the outputs (e.g. press releases, leaflets, reports, blog posts):	アウトプットを参照する<ER168>資料</ER168><ER205>(例えば、プレスリリース、リーフレット、報告書、ブログ投稿)</ER205>には、以下の簡潔な表現記載しなければ<ER206>ならない</ER206>。
+159	OWASP does not <ER175>endorse or</ER175> recommend commercial products or services.	OWASPは、商用製品またはサービスを推奨しません。
+160	OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license and is © 2012-2016 OWASP Foundation.	OWASP CornucopiaはCreative Commons Attribution-ShareAlike3.0<ER207>license</ER207>の下でライセンスされており、©2012 - 2016OW ASP Foundationです。
+161	If any files are distributed electronically, the long-form wording should also be aded in a license.txt file within the distribution.	ファイルが電子的に配布される場合は、長い形式の表現も配布物内のlicense.txtファイルに追加する必要があります。
+162	If the intention is to use the idea only (option 3 above), the long-form, box and short-form wording might be different, and probably simpler. And it might make more sense to start with the Microsoft-provided Elevation of Privilege files (and open source license).	アイデアのみを使用することを意図している場合(上記のオプション3)、長い形式、ボックス形式、短い形式の表現は異なる可能性があり、おそらく<ER208>より単純</ER208>です。また、Microsoft提供のElevation of Privilegeファイル(およびオープンソースライセンス)から始める方が理にかなっているかもしれません。
+163	B - Upcoming update to Cornucopia	B-Cornucopiaの近日の<ER209>アップデート</ER209>
+164	Note that the current print design files are v1.04, and the current Word document is v1.10, but we are in the process of updating all of these to v1.20.	現在の印刷デザインファイルはv1.04で、現在のWord<ER218>文書</ER218>はv1.10ですが、これらすべてをv1.20に更新中です。
+165	Whatever is used as a starting point, please state the source version, for example:	出発点として使用するものが何であれ、ソースバージョンを記述してください<ER222>。</ER222>例:
+166	Based on OWASP Cornucopia Ecommerce Website Edition v1.04	OWASP Cornucopia Ecommerce Website Edition v1.04に基づく
+167	C - OWASP brand usage	C-OWASPブランドの使用
+168	Additionally individuals, companies and other organisations must not breach OWASP's brand usage guidelines.	さらに、個人、企業、その他の組織はOWASPのブランド使用ガイドラインに違反してはなりません。
+169	https://www.owasp.org/www-policy/operational/branding.html	https://www.owasp.org/www-policy/operational/branding.html
+170	In the case of Cornucopia, in 2014 Blackfoot Limited produced some printed decks of cards.	Cornucopiaのケースでは、2014年に<ER223>ブラックフット</ER223>がいくつかの印刷されたカードデッキを製造<ER224>した</ER224>。
+171	Blackfoot's name and logo did not appear anywhere on the OWASP-branded cards, and the OWASP logo did not appear on the Blackfoot-branded box and leaflet. In fact there is no OWASP logo on any part of the Blackfoot branded decks.	OWASPブランドのカードには<ER225>ブラックフット</ER225>の名称とロゴが、<ER226>ブラックフット</ER226>ブランドの箱とリーフレットにはOWASPロゴが掲載されておらず、<ER227>ブラックフット</ER227>ブランドのデッキにはOWASPロゴが掲載されていない。
+172	Acknowledgements	謝辞
+173	Volunteers	ボランティア
+174	Cornucopia is developed, maintained, updated and promoted by a worldwide team of volunteers. The contributors to date have been:	Cornucopiaは、世界中のボランティア<ER289>・</ER289>チームによって開発、保守、更新、促進されています。これまでの<ER181>貢献者</ER181>は次のとおりです。
+175	Simon Bennetts	<ER228>サイモン・ベネッツ</ER228>
+176	Thomas Berson	<ER229>トーマス・バーソン</ER229>
+177	Tom Brennan	<ER230>トム・ブレナン</ER230>
+178	Fabio Cerullo	<ER231>ファビオ・Cerullo</ER231>
+179	Oana Cornea	<ER232>大穴角膜</ER232>
+180	Johanna Curiel	<ER233>ヨハンナ・キューリー</ER233>
+181	Todd Dahl	<ER234>トッド・ダール</ER234>
+182	Luis Enriquez	<ER235>ルイス・エンリケ</ER235>
+183	Ken Ferris	<ER236>ケン・フェリス</ER236>
+184	Darío De Filippis	<ER237>ダリオ・デ・フィリピス</ER237>
+185	Sebastien Gioria	<ER238>セバスチャン・Gioria</ER238>
+186	Tobias Gondrom	<ER239>トビアス・Gondrom</ER239>
+187	Timo Goosen	<ER240>ティモ・グーセン</ER240>
+188	Anthony Harrison	<ER241>アンソニー・ハリソン</ER241>
+189	Martin Haslinger	<ER242>マーティン・ハスリンガー</ER242>
+190	John Herrlin	<ER243>ジョン・Herrlin</ER243>
+191	Jerry Hoff	<ER244>ジェリー・ホフ</ER244>
+192	Marios Kourtesis	<ER245>マリオスKourtesis</ER245>
+193	Franck Lacosta	<ER246>フランクLacosta</ER246>
+194	Mathias Lemaire	<ER247>マティーアス・ルメール</ER247>
+195	Antonis Manaras	<ER248>アントニスManaras</ER248>
+196	Jim Manico	<ER249>ジム・Manico</ER249>
+197	Mark Miller	<ER250>マーク・ミラー</ER250>
+198	Cam Morris	<ER251>カム・モリス</ER251>
+199	Susana Romaniz	<ER252>スサーナ・Romaniz</ER252>
+200	Ravishankar Sahadevan	<ER253>ラビシャンカル・シャデバン</ER253>
+201	Tao Sauvage	<ER254>タオ・サウヴァージュ</ER254>
+202	Wagner Voltz	<ER255>ワグネル・ヴォルツ</ER255>
+203	Stephen de Vries	<ER256>スティーヴン・ド・フリース</ER256>
+204	Colin Watson	<ER257>コリン・ワトスン</ER257>
+205	Also:	<ER258>また</ER258>
+206	Attendees at OWASP London, OWASP Manchester and OWASP Netherlands chapter meetings, the London Gamification meetup, and the training at AppSec USA 2015 in san Francisco who made helpful suggestions and asked challenging questions	OWASP London、OWASP Manchester、OWASP Netherlandsのチャプターミーティング、London Gamification meetup、<ER259>サンフランシスコ</ER259>で開催されたAppSec USA2015でのトレーニングに参加し、有益な提案<ER260>を</ER260>難しい質問を行った<ER261>参加者</ER261>
+207	Others	その他
+208	Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game, published under a Creative Commons Attribution license, as the inspiration for Cornucopia and from which many ideas, especially the game theory, were copied.	Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game(Creative Commons Attribution <ER262>license</ER262>の下、Cornucopiaのインスピレーションとして出版され、多くのアイデア、特にゲーム理論がコピーされました)。
+209	Keith Turpin and contributors to the “OWASP Secure Coding Practices - Quick Reference Guide”, originally donated to OWASP by Boeing, which is used as the primary source of security requirements information to formulate the content of the cards.	<ER263>Keithトルパン</ER263>と"OWASP Secure Coding Practices-Quick Reference Guide"の<ER182>コントリビュータ</ER182>は、もともとBoeingからOWASPに寄贈されたもので、カードの内容を定式化するためのセキュリティ要件情報の主要なソースとして使用されています。
+210	Contributors, supporters, sponsors and volunteers to the OWASP ASVS, AppSensor and Web Framework Security Matrix projects, Mitre's Common Attack Pattern Enumeration and Classification (CAPEC), and SAFECode's “Practical Security Stories and Security Tasks for Agile Development Environments” which are all used in the cross-references provided.	OWASP ASVS、AppSensorとWeb Framework Security Matrixプロジェクト、MitreのCommon Attack Pattern Enumeration and Classification(CAPEC)、そしてSAFECodeの"Practical Security Stories and Security Tasks for Agile Development Environments"の<ER183>コントリビュータ</ER183>、サポーター、スポンサー、そしてボランティアは、提供されている相互参照の中ですべて<ER264>使われている</ER264>。
+211	Playgen for providing an illuminating afternoon seminar on task gamification, and tartanmaker.com for the online tool to help create the card back pattern.	Playgenはタスクゲーミフィケーションに関する明るい午後のセミナーを提供し、tartanmaker.comはカードバックパターンの作成を支援するオンラインツールを提供<ER265>した</ER265>。
+212	Blackfoot UK Limited for creating and donating print-ready design files, Tom Brennan and the OWASP Foundation for instigating the creation of an OWASP-branded box and leaflet, and OWASP employees, especially Kate Hartmann, for managing the ordering, stocking and despatch of printed card decks.	<ER266>ブラックフット</ER266>UK Limited:印刷可能なデザインファイルの作成と寄贈、Tom Brennan:OWASPブランドの箱とリーフレットの作成を推進、OWASP Foundation:OWASPブランドの箱とリーフレットの作成を推進、OWASP従業員、特にKate Hartmann<ER267>:</ER267><ER268>印刷されたカードデッキの注文、保管、発送を管理</ER268>。
+213	Oana Cornea and other participants at the AppSec EU 2015 project summit for their help in creating the demonstration video.	AppSec <ER269>EU2015</ER269>プロジェクトサミットに参加した<ER270>大穴Cornea</ER270>氏らは、デモンストレーションビデオの制作に協力<ER271>した</ER271>。
+214	Colin Watson as author and co-project leader with Darío De Filippis, along with other OWASP volunteers who have helped in many ways.	作家であり、<ER272>ダリオ・デ・フィリピス</ER272>の共同プロジェクトリーダーである<ER273>コリン・ワトスン</ER273>と、さまざまな方法で支援してきた他のOWASP<ER274>ボランティア</ER274>。
+215	Road Map and Getting Involved	ロードマップと関わり方
+216	Involvement in the development and promotion of Cornucopia is actively encouraged! You do not have to be a security expert in order to contribute. Some of the ways you can help are listed below.	Cornucopiaの開発・推進に積極的に参画します!貢献するためにセキュリティの専門家である必要はありません。支援の方法の一部を次に示します。
+217	Localization	ローカリゼーション
+218	Are you fluent in another language?	他の言語に堪能ですか?
+219	Can you help translate Cornucopia into that language? Niote tthis is a very large task due to the number of documents involved.	<ER04>コルヌコピア</ER04>をその言語に翻訳するのを手伝ってもらえますか?<ER275>Niote</ER275>これは、関連する<ER219>文書</ER219>の数のために非常に大きなタスクです。
+220	Use and Promote the Cornucopia Card Decks	Cornucopiaカードデッキの活用・普及
+221	Please help raise awareness of Cornucopia by printing cards:	カードを印刷して、Cornucopiaの認知度を<ER276>上げる</ER276>のを手伝ってください:
+222	Use Cornucopia with specifiers, architects, designers, developers, testers and others, in part to train them, but also to solicit feedback on their usability, practicality and appropriateness for their work	Cornucopiaを指定者、設計者、設計者、開発者、テスターなどと共に使用することで、部分的には<ER276>それら</ER276>を訓練するだけでなく、<ER277>それら</ER277>の作業に対する有用性、実用性、適切性についてのフィードバックを集めることができます。
+223	Create video about how to play the game	ゲームのプレイ方法に関するビデオを作成する
+224	Develop a mobile app to play the game	ゲームをプレイするためのモバイルアプリを開発する
+225	Feedback	フィードバック
+226	Please use the friendly project Google Group <ER278>for feedback</ER278>:	Google Groupの友好的なプロジェクトをご利用ください<ER279>。</ER279>
+227	What <ER280>do like</ER280>?	<ER281>どんなことですか?</ER281>
+228	What don't you like?	何が嫌いですか<ER282>。</ER282>
+229	What cards don't make sense?	意味のないカードは何ですか?
+230	How <ER284>could</ER284> the guidance be improved?	どのように<ER283>指導</ER283>を改善するのですか?
+231	What other decks would you like to see?	ほかにはどんなデッキを<ER285>ご覧になりたい</ER285>ですか?
+232	Keep the Cards Updated	カードを最新の状態に保つ
+233	As the source referenced documents change, we have to update the decks. You may also find errors and omissions. In the first instance, please send a message to the project's Google Group if you have identified errors & omissions, have some time to maintain the source documents, or can help in other ways.	ソース参照<ER220>ドキュメント</ER220>が変更されたため、デッキを更新する必要があります。また、エラーや欠落が見つかる場合もあります。最初に、エラーや欠落を特定した場合、ソース<ER221>ドキュメント</ER221>を保守する時間がある場合、または他の方法で支援できる場合は、プロジェクトのGoogle Groupにメッセージを送信してください。
+234	Create a New Deck	新しいデッキを作成する
+235	The only version currently available is the Cornucopia Ecommerce Website Edition in English. We would like to create a new mobile app specific deck, probably using the wonderful OWASP Mobile Security Project as inspiration for the card source materials. Do you have an idea for your own application security requirements card deck? Perhaps for mobile apps or something else?	現在入手可能な唯一のバージョンは、英語のCornucopia Ecommerce Website Editionです。私たちは、おそらく素晴らしいOWASPモバイルセキュリティプロジェクトをカードソース<ER169>資料</ER169>のインスピレーションとして使用して、新しいモバイルアプリ専用デッキを作成したいと思っています。あなた自身のアプリケーションセキュリティ要件カードデッキのアイデアはありますか?おそらくモバイルアプリか何かの<ER286>ために</ER286>?

@@ -1,0 +1,58 @@
+1	Overview of Device Regulation	<ER01>デバイス</ER01>規制の概要
+2	Introduction	はじめに
+3	FDA's Center for Devices and Radiological Health (CDRH) is responsible for regulating firms who manufacture, repackage, relabel, <ER03>and/or</ER03> import medical devices sold in the United States. In addition, CDRH regulates radiation-emitting electronic products (medical and non-medical) such as lasers, x-ray systems, ultrasound equipment, microwave ovens and color televisions.	FDAの医療機器・放射線保健センター(CDRH<ER02>:Center for Devices and Radiological Health</ER02>)は、米国で販売される医療機器の製造、再包装、再<ER112>ラベル付け</ER112>、輸入を行う企業を規制する責任を負っています。また、CDRHは、レーザー、X線システム、超音波<ER04>機器</ER04>、電子レンジ、カラーテレビなどの放射線を放出する電子製品(医療用および非医療用)を規制します。
+4	Radiation-emitting Electronic Products	放射線を放出する電子製品
+5	Medical devices are classified into Class I, II, and III. Regulatory control increases from Class I to Class III. The device classification regulation defines the regulatory requirements for a general device type. Most Class I devices are exempt from Premarket Notification 510(k); most Class II devices require Premarket Notification 510(k); and most Class III devices require Premarket Approval. A description of device classification and a link to the Product Classification Database is available at "Classification of Medical Devices."	医療機器はクラスI、IIおよびIIIに分類されます。規制管理はクラスIからクラスIII<ER05>に</ER05><ER06>増加します</ER06>。デバイス分類<ER07>規則</ER07>は、一般的な<ER08>デバイス・タイプ</ER08>の規制要件を定義します。ほとんどのクラスI<ER09>デバイス</ER09>は市販前通知510(k)の対象外<ER10>です。</ER10>ほとんどのクラスII<ER11>デバイス</ER11>には市販前通知510(k)が必要<ER12>です。</ER12>ほとんどのクラスIII<ER13>デバイス</ER13>には市販前承認が必要です。デバイス分類の説明と製品分類データベースへのリンクは、「医療機器の分類」で参照できます。
+6	The basic regulatory requirements that manufacturers of medical devices distributed in the U.S. must comply with are:	米国で流通する医療機器の製造業者が遵守しなければならない基本的な規制要件は以下の通り<ER14>である</ER14>。
+7	Establishment registration,	<ER15>設立登記</ER15>
+8	Medical Device Listing,	医療機器リスト
+9	Premarket Notification 510(k), unless exempt, or Premarket Approval (PMA),	<ER16>免除されている場合を除き、市販前通知510(k)</ER16>または市販前認可(PMA)
+10	Investigational Device Exemption (IDE) for clinical studies	臨床<ER102>試験</ER102>のための治験<ER17>装置</ER17>免除(IDE)
+11	Quality System (QS) regulation,	品質システム(QS)<ER18>規則</ER18>
+12	Labeling requirements, and	ラベリング要件、および
+13	Medical Device Reporting (MDR)	<ER124>医療機器レポート</ER124>(MDR)
+14	Establishment Registration - 21 CFR Part 807	<ER19>設立登録</ER19>-21CFR Part807
+15	Manufacturers (both domestic and foreign) and initial distributors (importers) of medical devices must register their establishments with the FDA. All establishment registrations must be submitted electronically unless a waiver has been granted by FDA. All registration information must be verified annually between October 1st and December 31st of each year. In addition to registration, foreign manufacturers must also designate a U.S. Agent. Beginning October 1, 2007, most establishments are required to pay an establishment registration fee.	医療機器の製造業者(国内および<ER20>外国</ER20>)および初期販売業者(輸入業者)は、その<ER21>施設</ER21>をFDAに登録する必要があります。すべての<ER22>施設</ER22>登録は、FDAから<ER23>権利放棄</ER23>が承認されていない限り、電子的に提出する必要があります。すべての登録情報は、毎年10月1日から12月31日までの間に毎年確認する必要があります。<ER24>外国</ER24>製造業者は、登録に加えて<ER25>U.S.エージェント</ER25>も指定する必要があります。2007年10月1日以降、ほとんどの<ER26>施設</ER26>は<ER27>施設</ER27>登録料を支払う必要があります。
+16	Establishment Registration	<ER28>設立の登記</ER28>
+17	U.S. Agents	<ER29>米国エージェント</ER29>
+18	Medical Device Listing - 21CFR Part 807	医療機器リスト-21CFR Part807
+19	Manufacturers must list their devices with the FDA. Establishments required to list their devices include:	製造業者は、自らの機器をFDAに<ER30>登録</ER30>しなければならない。自らの機器を<ER31>登録</ER31>することが要求される<ER32>施設</ER32>には以下が<ER33>含まれる</ER33>:
+20	manufacturers,	<ER34>メーカー</ER34>
+21	contract manufacturers that commercially distribute the device,	<ER35>装置</ER35>を商業的に販売する契約<ER36>メーカー</ER36>
+22	contract sterilizers that commercially distribute the device,	<ER37>装置</ER37>を商業的に<ER38>流通させる</ER38>契約<ER39>滅菌器</ER39>
+23	repackagers and relabelers,	<ER40>リパッケージャ</ER40>や<ER41>relabelers</ER41>
+24	specification developers,	<ER42>仕様開発者</ER42>
+25	reprocessors single-use devices,	<ER43>使い捨てデバイス</ER43>の<ER44>リプロセッサー</ER44>
+26	remanufacturer	<ER45>再製造者</ER45>
+27	manufacturers of accessories and components sold directly to the end user	<ER46>エンドユーザー</ER46>に直接販売されるアクセサリーや部品の<ER47>メーカー</ER47>
+28	U.S. manufacturers of "export only" devices	「輸出専用」<ER48>デバイス</ER48>の米国<ER49>メーカー</ER49>
+29	Medical Device Listing	医療機器リスト
+30	Premarket Notification 510(k) - 21 CFR Part 807 Subpart E	市販前通知510(k)-21CFR<ER50>パート</ER50>807<ER51>サブパート</ER51>E
+31	If your device requires the submission of a Premarket Notification 510(k), you cannot commercially distribute the device until you receive a letter of substantial equivalence from FDA <ER55>authorizing you to do so</ER55>. A 510(k) must demonstrate that the device is substantially equivalent to one legally in commercial distribution in the United States: (1) before May 28, 1976; or (2) to a device that has been determined by FDA to be substantially equivalent.	<ER52>お客様</ER52>の<ER53>デバイス</ER53>が<ER54>Premarket Notification</ER54>510(k)の提出を必要とする場合、FDAから実質的同等性の通知を受け取るまで、その<ER56>デバイス</ER56>を商業的に<ER57>配布する</ER57>ことはできません。<ER58>A</ER58>510(k)は、(1)1976年5月28日より前に、または(2)FDAが実質的に同等であると判断した<ER59>デバイス</ER59>に対して、その<ER60>デバイス</ER60>が米国内で合法的に商業的に<ER61>配布</ER61>されているものと実質的に同等であることを証明する必要があります。
+32	Premarket Notification 510(k)	市販前通知510(k)
+33	On October 26, 2002 the Medical Device User Fee and Modernization Act of 2002 became law. It authorizes FDA to charge a fee for medical device Premarket Notifcation 510(k) reviews. A small business may pay a reduced fee. The application fee applies to Traditional, Abbreviated, and Special 510(k)s. The payment of a premarket review fee is not related in any way to FDA's final decision on a submission.	2002年10月26日、2002年医療機器使用料および近代化法が<ER62>法律となりました</ER62>。この法律は、FDAに医療機器の<ER63>市販前届出</ER63>510(k)審査の手数料を請求する権限を与えています。小規模企業は、減額された手数料を支払うことができます。申請手数料は、従来型、<ER64>簡略型</ER64>および<ER65>特殊</ER65>510(k)に適用されます。市販前審査手数料の支払いは、FDAの提出に関する最終決定には一切関係ありません。
+34	510(k) Review Fees	510(k)審査手数料
+35	Most Class I devices and some Class II devices are exempt from the Premarket Notification 510(k) submission. A list of exempt devices is located at:	ほとんどのクラスI<ER66>デバイス</ER66>および一部のクラスII<ER67>デバイス</ER67>は、<ER68>Premarket Notification</ER68>510(k)提出の対象外です。対象外<ER69>デバイス</ER69>のリストは、次の場所にあります。
+36	510(k) Exempt Devices	510(k)免除<ER70>デバイス</ER70>
+37	If you plan to send a 510(k) application to FDA for a Class I or Class II device, you may find 510(k) review by an Accredited Persons beneficial. FDA accredited 12 organizations to conduct a primary review of 670 types of devices. By law, FDA must issue a final determination within 30 days after receiving a recommendation from an Accredited Person. <ER84>Please note that</ER84> 510(k) review by an Accredited Person is exempt from any FDA fee; however, the third-party may charge a fee for its review.	クラスIまたはクラスII<ER71>デバイス</ER71>の510(k)<ER72>アプリケーション</ER72>をFDAに<ER73>送信する</ER73>予定がある場合、<ER74>認定担当者</ER74>による510(k)<ER75>レビュー</ER75>が有益であることがわかります。670種類の<ER76>デバイス</ER76>の一次<ER77>レビュー</ER77>を実施する12の組織がFDAにより認定されています。法律により、FDAは<ER78>認定担当者</ER78>からの推薦を受けてから30日以内に最終決定を<ER79>発行する</ER79>必要があります。<ER80>認定担当者</ER80>による510(k)<ER81>レビュー</ER81>はFDAの手数料を免除されますが、第三者が<ER82>レビュー</ER82>の手数料を請求する場合が<ER83>あります</ER83>。
+38	Third Party Review	第三者審査
+39	Premarket Approval (PMA) - 21 CFR Part 814	市販前承認(PMA)-21CFR Part814
+40	Product requiring PMAs are Class III devices are high risk devices that pose a significant risk of illness or injury, or devices found not substantially equivalent to Class I and II predicate through the 510(k) process. The PMA process is more involved and includes the submission of clinical data to support claims made for the device.	PMAを必要とする製品は、クラスIIIの<ER83>デバイス</ER83>であり、疾病や負傷の重大なリスクをもたらす高リスクの<ER84>デバイス</ER84>、または510(k)プロセスを通じてクラスIおよびIIの<ER85>述語</ER85>と実質的に同等でないことが判明した<ER86>デバイス</ER86><ER87>である</ER87>。PMAプロセスはより複雑であり、<ER88>デバイス</ER88>に対して行われた主張を裏付ける臨床データの提出を<ER89>含む</ER89>。
+41	Premarket Approval	<ER90>市販前の承認</ER90>
+42	Beginning fiscal year 2003 (October 1, 2002 through September 30, 2003), medical device user fees apply to original PMAs and certain types of PMA supplements. Small businesses are eligible for reduced or waived fees.	2003年度(2002年10月1日から2003年9月30日まで)から、医療機器使用料は、元のPMAおよび一部の種類のPMA<ER91>サプリメント</ER91>に適用されます。小規模企業は、手数料の減額または免除を受けることができます。
+43	PMA Review Fees	PMA審査手数料
+44	Investigational Device Exemption (IDE) - 21CFR Part 812	治験<ER92>装置</ER92>免除(IDE)-21CFR<ER93>パート</ER93>812
+45	An investigational device exemption (IDE) allows the investigational device to be used in a clinical study in order to collect safety and effectiveness data required <ER98>to support</ER98> a Premarket Approval (PMA) application or a Premarket Notification 510(k) submission <ER99>to FDA</ER99>. Clinical studies with devices of significant risk must be approved by FDA and by an Institutional Review Board (IRB) before the study can begin. Studies with devices of nonsignificant risk must be approved by the IRB only before the study can begin.	<ER94>Investigational Device Exemption</ER94>(IDE)とは、<ER95>Premarket Approval</ER95>(PMA<ER96>;市販前承認</ER96>)申請または<ER97>Premarket Notification</ER97>510(k)<ER100>のFDAへの</ER100>提出に必要な安全性および有効性データを収集するために、治験<ER101>薬</ER101>を臨床<ER103>試験</ER103>で使用できるようにすることです。重大なリスクを有する機器を用いた臨床<ER104>試験</ER104>は、<ER105>試験</ER105>開始前にFDAおよび治験審査委員会(IRB)の承認を受けなければなりません。重大でないリスクを有する機器を用いた<ER106>試験</ER106>は、<ER107>試験</ER107>開始前にのみIRBの承認を受けなければなりません。
+46	Investigational Device Exemption	<ER108>治験装置の免除</ER108>
+47	Quality System Regulation (QS regulation) - 21 CFR Part 820	品質システム<ER109>規則</ER109>(QS<ER110>規則</ER110>)-21CFR<ER111>パート</ER111>820
+48	The quality system regulation includes requirements related to the methods used in and the facilities and controls used for: designing, purchasing, manufacturing, packaging, labeling, storing, installing and servicing of medical devices. Manufacturing facilities undergo FDA inspections to assure compliance with the QS requirements.	品質システム<ER112>規則</ER112>には、医療機器の設計、購入、製造、包装、<ER113>表示</ER113>、保管、設置<ER114>及び</ER114>サービスに使用される方法並びに施設<ER115>及び</ER115>管理に関連する要件が<ER116>含まれる</ER116>。製造施設は、QS要件への適合性を保証するためにFDA検査を<ER117>受ける</ER117>。
+49	Quality System	品質システム
+50	Labeling - 21 CFR Part 801	ラベリング-21CFR<ER118>パート</ER118>801
+51	Labeling includes labels on the device as well as descriptive and informational literature that accompanies the device.	<ER119>ラベル付け</ER119>には、<ER120>デバイス</ER120>上のラベルと、<ER121>デバイス</ER121>に付随する<ER122>記述的および情報的な文献</ER122>が含まれます。
+52	Labeling	<ER123>ラベル付け</ER123>
+53	Medical Device Reporting - 21 CFR Part 803	医療機器報告-21CFR Part803
+54	Incidents in which a device may have caused or contributed to a death or serious injury must to be reported to FDA under the Medical Device Reporting program. In addition, certain malfunctions must also be reported. The MDR regulation is a mechanism for FDA and manufacturers to identify and monitor significant adverse events involving medical devices. The goals of the regulation are to detect and correct problems in a timely manner.	<ER124>医療</ER124>機器が死亡または重篤な傷害を引き起こした、またはその一因となった可能性のある事故は、医療機器報告プログラムに基づいてFDAに報告する必要があります。さらに、特定の不具合も報告する必要があります。<ER125>多剤耐性</ER125>規制は、医療機器に関連する重大な有害事象をFDAおよび製造業者が<ER126>識別</ER126>および監視するための<ER127>メカニズム</ER127>です。規制の目的は、問題をタイムリーに検出して<ER128>修正</ER128>することです。
+55	Medical Device Reporting	<ER129>医療機器レポート</ER129>
+56	Additional Information	その他の情報
+57	Code of Federal Regulations (CFR)	<ER130>連邦規則集</ER130>(CFR)
+58	CDRH Freedom of Information (FOI) Reference Sheet	CDRH <ER131>Freedom of Information</ER131>(FOI)リファレンスシート

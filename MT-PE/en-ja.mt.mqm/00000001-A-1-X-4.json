@@ -1,0 +1,2348 @@
+{
+    "001.json": [
+        {
+            "src": "The9 Limited Announces Unaudited Financial Information As Of and For the Six Months Ended",
+            "mt": "9Limitedは、当第2四半期会計期間末までの未監査の財務情報を公表します。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "9Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "は",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 23,
+                    "text": "当第2四半期会計期間末まで",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 35,
+                    "text": "公表",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 38,
+                    "text": "します",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 39,
+                    "text": "。",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted January 1st, 2015 for The9",
+            "mt": "The9のために2015年1月1日投稿",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "The9",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 8,
+                    "text": "のために",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 19,
+                    "text": "投稿",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Shanghai,China",
+            "mt": "上海(中国)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "上海(中国)",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "March 26,2015.",
+            "mt": "262015年3月",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "26",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "The9 Limited (NASDAQ: NCTY) (“The9”), an online game developer and operator, announced its unaudited financial results for the six months ended December 31, 2014 today.",
+            "mt": "オンラインゲームの開発・運営会社であるThe9Limited(NASDAQ: NCTY)(以下「The9」)は、2014年12月31日に終了した6ヶ月間の未監査の業績を本日発表しました。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 30,
+                    "text": "The9Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 31,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 37,
+                    "text": "NASDAQ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 44,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 45,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 52,
+                    "text": "The9",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 54,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 76,
+                    "text": "に終了した6ヶ月間",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 83,
+                    "text": "の業績",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Financial Highlights:",
+            "mt": "財務ハイライト:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Net revenues in the second half of 2014 amounted to RMB36.9 million (US$5.9 million), representing an increase of 34.4% from RMB27.4 million (US$4.4 million) in the first half of 2014 and a decrease of 37.2% from RMB58.7 million (US$9.5 million) in the second half of 2013.",
+            "mt": "2014年後半の純収益は36,900,000人民元(5,900,000米ドル)であり、2014年前半の27,400,000人民元(4,400,000米ドル)から34.4%増加し、2013年後半の58,700,000人民元(9,500,000米ドル)から37.2%減少した。",
+            "MQM_score": 28,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 22,
+                    "text": "36,900,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 26,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 38,
+                    "text": "5,900,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 39,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 50,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 61,
+                    "text": "27,400,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 65,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 77,
+                    "text": "4,400,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 78,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 96,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 107,
+                    "text": "58,700,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 110,
+                    "end": 111,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 123,
+                    "text": "9,500,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 124,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 135,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In the second half of 2014, net profit attributable to holders of ordinary shares was RMB34.2 million (US$5.5 million). In the first half of 2014 and the second half of 2013, net loss attributable to holders of ordinary shares was RMB141.9 million (US$22.9 million) and RMB244.4 million (US$39.4 million), respectively.",
+            "mt": "2014年後半の普通株主に帰属する純利益は34,200,000人民元(5,500,000米ドル)、2014年前半の普通株主に帰属する純損失は141,900,000人民元(22,900,000米ドル)、2013年後半の普通株主に帰属する純損失は244,400,000人民元(39,400,000米ドル)であった。",
+            "MQM_score": 28,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 31,
+                    "text": "34,200,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 47,
+                    "text": "5,500,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 48,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 56,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 81,
+                    "text": "141,900,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 85,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 98,
+                    "text": "22,900,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 99,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 107,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 132,
+                    "text": "244,400,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 136,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 149,
+                    "text": "39,400,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 150,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 150,
+                    "end": 154,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Management Comments:",
+            "mt": "経営陣のコメント:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Jun Zhu, Chairman and Chief Executive Officer of The9, said, \"Red 5 launched Firefall in July 2014 in North America and Europe. We have high expectations for Firefall in the China market. In August 2014, Shanghai Oriental Pearl Culture Development Co. Ltd., a wholly-owned subsidiary of Shanghai Oriental Pearl (Group) Co., Ltd. (SH: 600832), closed its investment in Red 5 and became a minority shareholder of Red 5. Also in August 2014, Qihoo 360 Technology Co., Ltd. (QIHU) and us established a 50-50 joint venture System Link Corporation Limited to publish and operate Firefall in China for a five-year term. Under this license agreement, System Link is expected to pay to us no less than an aggregate of US$160 million including license fee and royalties during the term of the agreement. All these show the great potential of Firefall in China. We are dedicating our best resources to prepare for the launch of Firefall in China and we target to launch Firefall in China in the second half of 2015. In addition, we are also planning to launch several mobile games in 2015. In August 2014, we sold Huopu Cloud, a subsidiary which developed and held a proprietary web game, for a total consideration of RMB200 million. This sale has proven our in-house game development capability has been recognized by the market.\"",
+            "mt": "The9のJun Zhu会長Jun Zhu氏は、次のように述べています。「Red5は、2014年7月に北米および欧州でFirefallを発売しました。当社は、中国市場でのFirefallに高い期待を持っています。2014年8月には、Shanghai Oriental Pearl Culture Development Co.Ltd.(SH: 600832)の完全子会社であるShanghai Oriental Pearl Culture Development Co.Ltd.がRed5への投資を終了し、Red5の少数株主となりました。また、2014年8月には、奇虎360Technology Co.,Ltd.(QIHU)と当社との間で、50-50でFirefallを5年間にわたって発行・運営する合弁会社System Link Corporation Limitedを設立しました。これらはすべて、Firefallの大きな可能性を示しています。当社は、Firefallの発売に向けて全力を尽くしており、2015年後半にFirefallを発売することを目標としています。さらに、2015年にいくつかのモバイルゲームを発売することも計画しています。2014年8月には、独自のウェブゲームを開発・保有する子会社であるHuopu Cloudを総額200,000,000元で販売しました。この販売により、当社のゲーム開発能力が市場に認められたことが証明されました。」160,000,000",
+            "MQM_score": 92,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 18,
+                    "end": 45,
+                    "text": "and Chief Executive Officer",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 582,
+                    "end": 590,
+                    "text": "in China",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 613,
+                    "end": 793,
+                    "text": "Under this license agreement, System Link is expected to pay to us no less than an aggregate of US$160 million including license fee and royalties during the term of the agreement.",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 841,
+                    "end": 849,
+                    "text": "in China",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 926,
+                    "end": 934,
+                    "text": "in China",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 968,
+                    "end": 976,
+                    "text": "in China",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "The9",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 12,
+                    "text": "Jun Zhu",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 22,
+                    "text": "Jun Zhu氏",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 35,
+                    "text": "述べています",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 41,
+                    "text": "Red5",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 42,
+                    "text": "は",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 67,
+                    "text": "Firefall",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 93,
+                    "text": "Firefall",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 167,
+                    "text": "Shanghai Oriental Pearl Culture Development Co.Ltd.",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 188,
+                    "end": 239,
+                    "text": "Shanghai Oriental Pearl Culture Development Co.Ltd.",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 240,
+                    "end": 244,
+                    "text": "Red5",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 246,
+                    "end": 252,
+                    "text": "投資を終了し",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 253,
+                    "end": 257,
+                    "text": "Red5",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 287,
+                    "end": 306,
+                    "text": "Technology Co.,Ltd.",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 320,
+                    "end": 326,
+                    "text": "50-50で",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 326,
+                    "end": 334,
+                    "text": "Firefall",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 354,
+                    "end": 385,
+                    "text": "System Link Corporation Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 401,
+                    "end": 409,
+                    "text": "Firefall",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 428,
+                    "end": 436,
+                    "text": "Firefall",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 461,
+                    "end": 469,
+                    "text": "Firefall",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 557,
+                    "end": 568,
+                    "text": "Huopu Cloud",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 571,
+                    "end": 583,
+                    "text": "200,000,000元",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 584,
+                    "end": 586,
+                    "text": "販売",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 593,
+                    "end": 595,
+                    "text": "販売",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 595,
+                    "end": 628,
+                    "text": "により、当社のゲーム開発能力が市場に認められたことが証明されました",
+                    "type": 13,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 630,
+                    "end": 641,
+                    "text": "160,000,000",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Discussion of The9's Unaudited 2014 Second Half Results",
+            "mt": "2014年度下期業績(未監査)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "業績",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Net Revenues",
+            "mt": "純収益",
+            "MQM_score": 0
+        },
+        {
+            "src": "Our net revenues in the second half of 2014 amounted to RMB36.9 million (US$5.9 million), representing an increase of 34.4% from RMB27.4 million (US$4.4 million) in the first half of 2014 and a decrease of 37.2% from RMB58.7 million (US$9.5 million) in the second half of 2013. The increase over the first half of 2014 was mainly due to increase of revenue from Firefall in North America and Europe, and partly offset by decrease of revenue from various MMO, web and social games in China. The decrease from the second half of 2013 was mainly due to the decrease of revenue from Planetside 2.",
+            "mt": "2014年後半の純収益は36,900,000人民元(5,900,000米ドル)で、2014年前半の27,400,000人民元(4,400,000米ドル)から34.4%増加し、2013年後半の58,700,000人民元(9,500,000米ドル)から37.2%減少しました。2014年前半からの増加は、主に北米と欧州のFirefallからの収益の増加によるものであり、一部は中国の様々なMMO、ウェブ、ソーシャルゲームからの収益の減少です。2013年後半からの減少は、主にPlanetside2からの収益の減少によるものです。",
+            "MQM_score": 36,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 404,
+                    "end": 420,
+                    "text": "partly offset by",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 22,
+                    "text": "36,900,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 26,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 38,
+                    "text": "5,900,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 39,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 48,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 59,
+                    "text": "27,400,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 63,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 75,
+                    "text": "4,400,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 76,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 94,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 105,
+                    "text": "58,700,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 109,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 121,
+                    "text": "9,500,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 122,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 143,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 158,
+                    "end": 166,
+                    "text": "Firefall",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 224,
+                    "end": 226,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 235,
+                    "end": 246,
+                    "text": "Planetside2",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Gross Loss",
+            "mt": "グロス・ロス",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "グロス・ロス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Our gross loss in the second half of 2014 amounted to RMB7.2 million (US$1.2 million), compared with RMB14.3 million (US$2.3 million) and RMB5.2 million (US$0.8 million) in the first half of 2014 and in the second half of 2013, respectively. The gross loss in the second half of 2014 reflected lower level of revenue generated coupled with the continued incurrence of a relatively fixed portion of our costs, such as overhead, depreciation and rental charges.",
+            "mt": "当社の2014年後半の総損失額は7,200,000人民元(1,200,000米ドル)であり、2014年前半の14,300,000人民元(2,300,000米ドル)および2013年後半の5,200,000人民元(80万米ドル)と比較すると、2014年後半の総損失額は、間接費、減価償却費、賃貸料などの比較的固定されたれた部分が引き続き発生していることに加え、発生した収益のレベルが低いことを反映しています。",
+            "MQM_score": 42,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 294,
+                    "end": 299,
+                    "text": "lower",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 15,
+                    "text": "額",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 25,
+                    "text": "7,200,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 29,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 41,
+                    "text": "1,200,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 42,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 53,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 64,
+                    "text": "14,300,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 68,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 80,
+                    "text": "2,300,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 81,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 91,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 101,
+                    "text": "5,200,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 105,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 111,
+                    "text": "80万米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 112,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 119,
+                    "text": "と比較すると、",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 126,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 130,
+                    "end": 131,
+                    "text": "額",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 152,
+                    "end": 159,
+                    "text": "固定されたれた",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 196,
+                    "end": 201,
+                    "text": "しています",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Operating Expenses",
+            "mt": "営業費用",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the second half of 2014, our operating expenses, excluding gain from disposal of subsidiaries, were RMB151.8 million (US$24.5 million), which decrease by 0.8% from RMB153.0 million (US$24.7 million) in the first half of 2014 and decrease by 39.9% from RMB252.6 million (US$40.7 million) in the second half of 2013. The decrease compared to the first half of 2014 was primarily due to the net effect of the increase in marketing expenses in the second half relating to the launch of Firefall in the North America and Europe, and reversal of an allowance provided on a long-term receivable from a supplier recognized in the second half of 2013. The decrease compared to the second half of 2013 was primarily due to the cost cutting on product development, marketing expenses and general and administrative expenses, and the reversal of an allowance provided on a long-term receivable from a supplier recognized in the second half of 2013. In addition, in the first half of 2014, we also recorded a gain on disposal of subsidiaries of RMB165.4 million (US$26.7 million) in the second half of 2014 in connection with the disposal of Huopu Cloud Computing Terminal Technology Co., Ltd., a wholly-owned subsidiary, as well as certain other subsidiary, which was recorded as a deduction to operating expense.",
+            "mt": "2014年度下期の営業費用(子会社の売却益を除く)は、2014年度上期の153,000,000人民元(24,700,000米ドル)から0.8%減少し、2013年度下期の252,600,000人民元(40,700,000米ドル)から39.9%減少して151,800,000人民元(24,500,000米ドル)となりました。2014年度上期と比較して減少した主な要因は、製品開発費、販売費及び一般管理費のコスト削減と、2013年度下期に計上した仕入先長期売掛金引当金の戻入によるものです。2013年度下期と比較して減少した主な要因は、製品開発費、販売費及び一般管理費のコスト削減と、2013年度下期に計上した仕入先長期売掛金引当金の戻入によるものです。また、2014年度上期には、完全子会社であるHuopuクラウドコンピューティングターミナルテクノロジー(株)の売却に伴う子会社の売却益165,400,000人民元(26,700,000米ドル)を2014年度下期に計上し、営業費用の控除項目として計上しました。",
+            "MQM_score": 51,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 387,
+                    "end": 525,
+                    "text": "the net effect of the increase in marketing expenses in the second half relating to the launch of Firefall in the North America and Europe",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 1212,
+                    "end": 1247,
+                    "text": "as well as certain other subsidiary",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 47,
+                    "text": "153,000,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 51,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 64,
+                    "text": "24,700,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 65,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 74,
+                    "text": "し",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 95,
+                    "text": "252,600,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 99,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 112,
+                    "text": "40,700,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 113,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 135,
+                    "text": "151,800,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 139,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 152,
+                    "text": "24,500,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 152,
+                    "end": 153,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 183,
+                    "end": 205,
+                    "text": "製品開発費、販売費及び一般管理費のコスト削減",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 346,
+                    "end": 351,
+                    "text": "Huopu",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 384,
+                    "end": 391,
+                    "text": "子会社の売却益",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 391,
+                    "end": 402,
+                    "text": "165,400,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 405,
+                    "end": 406,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 406,
+                    "end": 419,
+                    "text": "26,700,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 419,
+                    "end": 420,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 434,
+                    "end": 452,
+                    "text": "営業費用の控除項目として計上しました",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Interest Income",
+            "mt": "受取利息",
+            "MQM_score": 0
+        },
+        {
+            "src": "Interest income in the second half of 2014 was RMB1.9 million (US$0.3 million), compared to RMB1.5 million (US$0.2 million) in the first half of 2014 and RMB2.6 million (US$0.4 million) in the second half of 2013. The fluctuation of interest income was typically in line with our cash balances.",
+            "mt": "2014年後半の受取利息は1,900,000人民元(30万米ドル)であったが、2014年前半は1,500,000人民元(20万米ドル)、2013年後半は2,600,000人民元(40万米ドル)であり、受取利息の変動は通常、当社の現金残高と一致していた。",
+            "MQM_score": 30,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 22,
+                    "text": "1,900,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 26,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 32,
+                    "text": "30万米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 33,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 37,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 56,
+                    "text": "1,500,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 60,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 66,
+                    "text": "20万米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 67,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 75,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 85,
+                    "text": "2,600,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 89,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 95,
+                    "text": "40万米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 96,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 111,
+                    "text": "通常、",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 125,
+                    "text": "していた",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Other Income (Expenses), Net",
+            "mt": "その他の収益(費用)、純額",
+            "MQM_score": 0
+        },
+        {
+            "src": "Other expenses in the second half of 2014 was RMB5.4 million (US$0.9 million), compared to other income of RMB3.3 million (US$0.5 million) in the first half of 2014 and other income of RMB7.0 million (US$1.1 million) in the second half of 2013. Other expenses in the second half of 2014 mainly represented foreign exchange losses. Other income in the first half of 2014 mainly represented foreign exchange gains. Other income in the second half of 2013 mainly represented a refund of game license fee.",
+            "mt": "2014年後半のその他の費用は5,400,000人民元(90万米ドル)であったが、2014年前半のその他の収益は3,300,000人民元(50万米ドル)、2013年後半のその他の収益は7,000,000人民元(1,100,000米ドル)であった。2014年後半のその他の費用は主に為替差損であり、2014年前半のその他の収益は主に為替差益であり、2013年後半のその他の収益は主にゲームライセンス料の返還であった。",
+            "MQM_score": 34,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 24,
+                    "text": "5,400,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 34,
+                    "text": "90万米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 39,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 48,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 65,
+                    "text": "3,300,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 69,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 75,
+                    "text": "50万米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 76,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 84,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 101,
+                    "text": "7,000,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 105,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 117,
+                    "text": "1,100,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 118,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 122,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 128,
+                    "end": 130,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 148,
+                    "text": "であり、",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 155,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 180,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 202,
+                    "end": 206,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Net Profit (Loss) attributable to holders of ordinary shares",
+            "mt": "普通株主に帰属する当期純利益(損失)",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the second half of 2014, net profit attributable to holders of ordinary shares was RMB34.2 million (US$5.5 million). In the first half of 2014 and the second half of 2013, net loss attributable to holders of ordinary shares was RMB141.9 million (US$22.9 million) and RMB244.4 million (US$39.4 million), respectively.",
+            "mt": "2014年後半の普通株主に帰属する純利益は34,200,000人民元(5,500,000米ドル)、2014年前半の普通株主に帰属する純損失は141,900,000人民元(22,900,000米ドル)、2013年後半の普通株主に帰属する純損失は244,400,000人民元(39,400,000米ドル)であった。",
+            "MQM_score": 29,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 31,
+                    "text": "34,200,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 47,
+                    "text": "5,500,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 48,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 49,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 56,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 81,
+                    "text": "141,900,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 85,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 98,
+                    "text": "22,900,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 99,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 107,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 132,
+                    "text": "244,400,000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 136,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 149,
+                    "text": "39,400,000米ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 150,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 150,
+                    "end": 154,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Basic net profit per share and per ADS in the second half of 2014 was RMB1.48 (US$0.25), compared to basic net loss per share of RMB6.13 (US$0.99) in the first half of 2014 and basic net loss per share of RMB10.64 (US$1.71) in the second half of 2013.",
+            "mt": "2014年後半の基本的1株当たり純利益及びADSは1.48人民元(US$0.25)であったが、2014年前半の基本的1株当たり純損失は6.13人民元(US$0.99)、2013年後半の基本的1株当たり純損失は10.64人民元(US$1.71)であった。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 24,
+                    "text": "基本的1株当たり純利益及びADS",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 45,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 54,
+                    "text": "前半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 91,
+                    "text": "後半",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 125,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Currency Convenience Translation",
+            "mt": "通貨の簡易換算",
+            "MQM_score": 0
+        },
+        {
+            "src": "The translation of Renminbi (RMB) into US dollars (US$) in this press release are presented solely for the convenience of the readers at the noon buying rate in the City of New York for cable transfers in Renminbi per U.S. dollar as certified for customs purposes by the H.10 weekly statistical release of the Federal Reserve Board as of December 31, 2014, which was RMB 6.2046 to US$1.00. Such translations should not be construed as representations that the RMB amounts represents, or have been or could be converted into, US$ at that or any other rate. The percentages stated in this press release are calculated based on the RMB amounts.",
+            "mt": "本プレスリリースにおける人民元(RMB)から米ドル(US$)への換算は、読者の便宜のため、2014年12月31日現在の連邦準備理事会のH.10週次統計発表により関税目的で認証された、1米ドル当たりの人民元による電信送金のニューヨーク市における正午の購入レートで表示されており、これは6.2046人民元から1.00米ドルであった。かかる換算は、人民元額が当該レートまたはその他のレートで米ドルを表している、または既に米ドルに換算されている、または換算される可能性があることを表すものと解釈されるべきではない。本プレスリリースに記載されているパーセンテージは、人民元額に基づいて計算されている。",
+            "MQM_score": 31,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 92,
+                    "end": 98,
+                    "text": "solely",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 66,
+                    "text": "連邦準備理事会",
+                    "type": 15,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 129,
+                    "text": "1米ドル当たりの人民元による電信送金のニューヨーク市における正午の購入レート",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 141,
+                    "text": "これは",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 159,
+                    "text": "6.2046人民元から1.00米ドル",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 159,
+                    "end": 163,
+                    "text": "であった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 181,
+                    "text": "レート",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 188,
+                    "end": 191,
+                    "text": "レート",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 191,
+                    "end": 192,
+                    "text": "で",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 195,
+                    "end": 201,
+                    "text": "を表している",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 211,
+                    "end": 213,
+                    "text": "換算",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 218,
+                    "end": 222,
+                    "text": "、または",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 222,
+                    "end": 224,
+                    "text": "換算",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 250,
+                    "end": 252,
+                    "text": "ない",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 292,
+                    "end": 294,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "About The9 Limited",
+            "mt": "The9Limitedについて",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "The9Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The9 Limited is an online game developer and operator in China. The9 develops and operates, directly or through its affiliates, its proprietary MMO, web and mobile games including Firefall, TianTianWanDiaoChan and Dao Feng. In 2010, The9 established its wireless business unit to focus on mobile internet business. In 2013, The9 formed a joint venture with Shanghai ZTE to develop and operate home entertainment set top box business.",
+            "mt": "The9Limitedは、中国のオンラインゲーム開発・運営会社です。The9Limitedは、Firefall、TianTianWanDiaoChan、Dao Fengなどの独自のMMO、Web、およびモバイルゲームを、直接または関連会社を通じて開発・運営しています。The9Limitedは2010年にモバイルインターネット事業に特化するためにワイヤレス事業部門を設立しました。2013年には、The9LimitedはShanghai ZTEとの合弁会社を設立し、家庭用エンターテイメントセットトップボックス事業を開発・運営しています。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "The9Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 45,
+                    "text": "The9Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 84,
+                    "text": "Firefall、TianTianWanDiaoChan、Dao Feng",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 101,
+                    "text": "、および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 134,
+                    "end": 145,
+                    "text": "The9Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 166,
+                    "end": 170,
+                    "text": "特化する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 198,
+                    "end": 209,
+                    "text": "The9Limited",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 210,
+                    "end": 222,
+                    "text": "Shanghai ZTE",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Safe Harbor Statement",
+            "mt": "セーフハーバー宣言",
+            "MQM_score": 0
+        },
+        {
+            "src": "This announcement contains forward-looking statements. These statements are made under the “safe harbor” provisions of the U.S. Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terminology such as “will,” “expects,” “anticipates,” “future,” “intends,” “plans,” “believes,” “estimates” and similar statements. Among other things, the business outlook and quotations from management in this press release contain forward-looking statements. The9 may also make written or oral forward-looking statements in its periodic reports to the U.S. Securities and Exchange Commission on Forms 20-F and 6-K, etc., in its annual report to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to third parties. Statements that are not historical facts, including statements about The9's beliefs and expectations, are forward-looking statements. Forward-looking statements involve inherent risks and uncertainties. A number of important factors could cause actual results to differ materially from those contained in any forward-looking statement. Potential risks and uncertainties include, but are not limited to, political and economic policies of the Chinese government, the laws and regulations governing the online game industry, information disseminated over the Internet and Internet content providers in China, intensified government regulation of Internet cafes, The9's ability to retain existing players and attract new players, license, develop or acquire additional online games that are appealing to users, anticipate and adapt to changing consumer preferences and respond to competitive market conditions, and other risks and uncertainties outlined in The9's filings with the U.S. Securities and Exchange Commission, including its annual reports on Form 20-F. The9 does not undertake any obligation to update any forward-looking statement, except as required under applicable law.",
+            "mt": "この発表には、将来に関する記述が含まれています。これらの記述は、1995年の米国証券民事訴訟改革法の「セーフハーバー」条項に基づいて作成されています。これらの将来に関する記述は、「will」、「expectations」、「anticipes」、「future」、「intend」、「plans」、「belief」などの用語で識別できます。このプレスリリースに記載されている経営見通しおよび経営陣からの引用には、将来に関する記述が含まれています。また、9は、米国証券取引委員会への定期的な報告書(フォーム20-Fおよび6-Kなど)、株主への年次報告書、プレスリリースおよびその他の資料、ならびに役員、取締役または従業員が第三者に対して行う口頭の記述において、書面または口頭による将来に関する記述を作成することができます。9の信念および期待に関する記述を含む歴史的事実でない記述は、将来に関する記述です。将来に関する記述には、固有のリスクと不確実性が含まれています。実際の結果は、将来に関する記述に含まれているものとは大きく異なる場合があります。潜在的なリスクと不確実性には、中国政府の政治経済政策、オンラインゲーム業界を支配する法律および規制、中国のインターネットおよびインターネットコンテンツプロバイダを通じて発信される情報、インターネットカフェに対する政府の規制の強化、既存のプレイヤーを維持して新たなプレイヤーを獲得するための9の能力、ユーザーの嗜好の変化を予測して適応し、競争市場の状況に対応するための9の能力、および米国証券取引委員会への9の提出書類(フォーム20-Fに関する年次報告書を含む)に記載されているその他のリスクと不確実性が含まれますが、適用される法律で要求される場合を除き、将来に関する記述を更新する義務は一切ありません。",
+            "MQM_score": 71,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 364,
+                    "end": 383,
+                    "text": "Among other things,",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 1029,
+                    "end": 1070,
+                    "text": "A number of important factors could cause",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 1205,
+                    "end": 1228,
+                    "text": "but are not limited to,",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 1553,
+                    "end": 1632,
+                    "text": "license, develop or acquire additional online games that are appealing to users",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 1888,
+                    "end": 1892,
+                    "text": "The9",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "将来",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 49,
+                    "text": "1995年の米国証券民事訴訟改革法",
+                    "type": 15,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 157,
+                    "text": "「will」、「expectations」、「anticipes」、「future」、「intend」、「plans」、「belief」",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 206,
+                    "end": 208,
+                    "text": "将来",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 226,
+                    "end": 227,
+                    "text": "9",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 256,
+                    "end": 259,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 283,
+                    "end": 286,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 339,
+                    "end": 341,
+                    "text": "将来",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 352,
+                    "end": 359,
+                    "text": "ことができます",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 360,
+                    "end": 361,
+                    "text": "9",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 362,
+                    "end": 364,
+                    "text": "信念",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 364,
+                    "end": 367,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 390,
+                    "end": 392,
+                    "text": "将来",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 401,
+                    "end": 403,
+                    "text": "将来",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 439,
+                    "end": 441,
+                    "text": "将来",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 464,
+                    "end": 466,
+                    "text": "場合",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 509,
+                    "end": 514,
+                    "text": "を支配する",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 532,
+                    "end": 535,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 556,
+                    "end": 561,
+                    "text": "発信される",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 613,
+                    "end": 616,
+                    "text": "ための",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 616,
+                    "end": 617,
+                    "text": "9",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 652,
+                    "end": 655,
+                    "text": "ための",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 655,
+                    "end": 656,
+                    "text": "9",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 660,
+                    "end": 663,
+                    "text": "および",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 689,
+                    "end": 693,
+                    "text": "に関する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 749,
+                    "end": 751,
+                    "text": "将来",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

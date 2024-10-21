@@ -1,0 +1,673 @@
+{
+    "239.json": [
+        {
+            "src": "GE Software Solutions Makes It Easier to Manage Europe's Grid",
+            "mt": "GE Software Solutions、ヨーロッパのグリッド管理を容易に",
+            "MQM_score": 0
+        },
+        {
+            "src": "Posted August 21st, 2014 for General Electric",
+            "mt": "General Electric、2014年8月21日掲載",
+            "MQM_score": 0
+        },
+        {
+            "src": "August 21, 2014",
+            "mt": "2014年8月21日",
+            "MQM_score": 0
+        },
+        {
+            "src": "GE's PowerOn(TM) Advantage ADMS Helps Utilities Deliver a More Productive, Efficient and Reliable Electrical Grid",
+            "mt": "GEのPowerOn(TM)Advantage ADMSにより、ユーティリティがより生産、効率性、信頼性に優れた電力グリッドを提供",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 32,
+                    "end": 37,
+                    "text": "Helps",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 31,
+                    "text": "により",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 39,
+                    "text": "ユーティリティ",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 44,
+                    "text": "生産",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 63,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Proven GE Technology Provides Immediate Access to Information Across the Network",
+            "mt": "実証済みのGEテクノロジーにより、ネットワークを介した情報への迅速なアクセスが可能",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 13,
+                    "text": "GEテクノロジー",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 41,
+                    "text": "が可能",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "GE Will Address Grid Congestion, Asset Optimization and Grid Resiliency at CIGRE 2014—Booth #246",
+            "mt": "GE、CIGRE2014でグリッド輻輳、資産最適化、グリッド耐障害性に対応ブース#246",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 34,
+                    "text": "グリッド耐障害性",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "ATLANTA",
+            "mt": "アトランタ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "アトランタ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "August 21, 2014",
+            "mt": "2014年8月21日",
+            "MQM_score": 0
+        },
+        {
+            "src": "As Europe drives towards greater energy efficiency and increased grid complexity, GE (NYSE: GE) continues its mission to help utilities build a modern grid to meet electricity demands. Similarly, empowered consumers are driving the integration of solar, wind and electric vehicles—driving grid operators to seek new solutions to upgrade their situation's awareness.",
+            "mt": "欧州がエネルギー効率の向上とグリッドの複雑化を推進する中、GE(NYSE: GE)は電力会社が電力需要を満たす近代的なグリッドを構築するのを支援する使命を続けています。同様に、権限を与えられた消費者が太陽光、風力、電気自動車の統合を推進し、グリッド・オペレーターが状況認識を向上させるための新しい解決策を模索しています。",
+            "MQM_score": 12.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 281,
+                    "end": 288,
+                    "text": "driving",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "欧州",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 31,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 96,
+                    "text": "権限を与えられた",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 120,
+                    "end": 131,
+                    "text": "グリッド・オペレーター",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Designed from the utilities' perspective, the latest release of GE's PowerOn(TM) Advantage Advanced Distribution Management System (ADMS) offers the region an upgrade in grid technology, providing grid operators a centralized view of the network in a modular system built on a single platform.",
+            "mt": "電力会社の観点から設計されたGEのPowerOn(TM)Advantage Advanced Distribution Management System(ADMS)の最新リリースは、グリッド技術のアップグレードを地域に提供し、単一プラットフォーム上に構築されたモジュラーシステム内のネットワークの集中ビューをグリッドオペレータに提供します。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 24,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 28,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 77,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 106,
+                    "text": "アップグレード",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "PowerOn Advantage ADMS is a powerful tool for utilities to manage the complexity of an active network. GE's PowerOn Advantage ADMS can provide the visualization of work processes across the grid to help optimize the network's performance. In addition, PowerOn Advantage ADMS supports the need for increased stakeholder engagement—delivering productivity, reliability and efficiency improvements to a utility's electrical grid.",
+            "mt": "PowerOn Advantage ADMSは、ユーティリティがアクティブなネットワークの複雑さを管理するための強力なツールです。GEのPowerOn Advantage ADMSを使用すると、グリッド全体のワークプロセスを視覚化して、ネットワークのパフォーマンスを最適化することができます。さらに、PowerOn Advantage ADMSは、ユーティリティの電力グリッドに生産性、信頼性、および効率性の向上をもたらす、関係者の関与を強化する必要性をサポートします。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 198,
+                    "end": 202,
+                    "text": "help",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 31,
+                    "text": "ユーティリティ",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 96,
+                    "text": "を使用すると",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 174,
+                    "end": 181,
+                    "text": "ユーティリティ",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "“Utilities need upgraded technologies to meet higher performance targets as demanded by the growing pressure to optimize operations,” said Keith Grassi, product line leader—software solutions, GE's Digital Energy business. “Our PowerOn Advantage ADMS provides the industry with our best-in-class outage management system (OMS) and distribution management system (DMS) capabilities to meet the ongoing commitment to manage a more active network due to grid complexity.”",
+            "mt": "GEのデジタル・エナジー事業部門で製品ラインのリーダーを務めるソフトウェア・ソリューション部門のKeith Grassi氏は、次のように述べています。「電力会社は、運用を最適化するというプレッシャーの高まりに応じて、より高いパフォーマンス目標を達成するために、アップグレードされたテクノロジーを必要としています。PowerOn Advantage ADMSは、クラス最高の停止管理システム(OMS)と配電管理システム(DMS)の機能を業界に提供し、グリッドの複雑に起因するよりアクティブなネットワークを管理するという継続的な取り組みに対応します。」",
+            "MQM_score": 28,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 132,
+                    "end": 221,
+                    "text": "” said Keith Grassi, product line leader—software solutions, GE's Digital Energy business",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 223,
+                    "end": 227,
+                    "text": "“Our",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 75,
+                    "text": "GEのデジタル・エナジー事業部門で製品ラインのリーダーを務めるソフトウェア・ソリューション部門のKeith Grassi氏は、次のように述べています。",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 107,
+                    "text": "応じて",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 130,
+                    "end": 140,
+                    "text": "アップグレードされた",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 140,
+                    "end": 146,
+                    "text": "テクノロジー",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 186,
+                    "end": 194,
+                    "text": "停止管理システム",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 229,
+                    "end": 231,
+                    "text": "複雑",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "As situational awareness and visibility become more critical, PowerOn Advantage ADMS specifically supports grid operators through a unique and easy-to-use user interface, where data finds the user via a predefined dashboard with user-configurable widgets. PowerOn Advantage ADMS provides immediate access to information and a centralized view of the entire distribution network in real time. Through guided work pages and streamlined and robust workflows, GE's intuitive PowerOn Advantage ADMS provides the advanced situational awareness utility professionals require, helping to guide decision making during critical situations.",
+            "mt": "状況把握と可視性がますます重要になるにつれて、PowerOn Advantage ADMSは、独自の使いやすいユーザインタフェースを通じてグリッドオペレータをサポートします。ユーザは、ユーザ設定可能なウィジェットを備えた定義済みのダッシュボードからデータを検索できます。PowerOn Advantage ADMSは、情報への迅速なアクセスと、配信ネットワーク全体の一元化されたビューをリアルタイムで提供します。GEの直感的なPowerOn Advantage ADMSは、ガイド付きの作業ページと合理化された堅牢なワークフローを通じて、高度な状況把握ユーティリティの専門家が必要とする機能を提供し、重要な状況での意思決定を支援します。",
+            "MQM_score": 55,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 85,
+                    "end": 97,
+                    "text": "specifically",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 171,
+                    "end": 181,
+                    "text": "where data",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 577,
+                    "end": 585,
+                    "text": "to guide",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 87,
+                    "text": "ます。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 92,
+                    "text": "ユーザは、",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 127,
+                    "text": "データ",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 130,
+                    "end": 134,
+                    "text": "できます",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 172,
+                    "end": 180,
+                    "text": "配信ネットワーク",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 183,
+                    "end": 192,
+                    "text": "一元化されたビュー",
+                    "type": 12,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 269,
+                    "end": 295,
+                    "text": "高度な状況把握ユーティリティの専門家が必要とする機能",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 300,
+                    "end": 303,
+                    "text": "重要な",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "PowerOn Advantage's modular design enables it to be offered as a standalone OMS or DMS as well as an integrated ADMS. The upgraded technology joins GE's PowerOn platform of grid management solutions, which includes products such as its PowerOn Reliance energy management system and PowerOn Precision demand response management system. PowerOn Advantage ADMS is a part of GE's portfolio of Industrial Internet solutions, which establish a constant flow of communication between a business operation and its machines. The Industrial Internet enables big data to be converted into real-time analytical insight, improving grid reliability and efficiency. Click here to view GE's PowerOn solutions in action.",
+            "mt": "PowerOn Advantageのモジュラー設計により、スタンドアロンのOMSまたはDMS、および統合されたADMSとして提供されます。アップグレードされたテクノロジーは、PowerOn Relianceエネルギー管理システムやPowerOn Precisionデマンドレスポンス管理システムなどの製品を含む、グリッド管理ソリューションのGE PowerOnプラットフォームに加わります。PowerOn Advantage ADMSは、GEの産業用インターネットソリューションのポートフォリオの一部です。産業用インターネットソリューションは、ビジネスオペレーションとマシン間の通信の一定の流れを確立します。産業用インターネットは、ビッグデータをリアルタイムの分析情報に変換し、グリッドの信頼性と効率を向上させます。ここをクリックすると、GEのPowerOnソリューションの実際の動作が表示されます。",
+            "MQM_score": 36,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 35,
+                    "end": 42,
+                    "text": "enables",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 43,
+                    "end": 45,
+                    "text": "it",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 118,
+                    "end": 121,
+                    "text": "The",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 502,
+                    "end": 505,
+                    "text": "its",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 76,
+                    "text": "アップグレード",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 85,
+                    "text": "テクノロジー",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 222,
+                    "end": 239,
+                    "text": "産業用インターネットソリューション",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 239,
+                    "end": 240,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 253,
+                    "end": 270,
+                    "text": "産業用インターネットソリューション",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 288,
+                    "end": 289,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 304,
+                    "end": 314,
+                    "text": "産業用インターネット",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 330,
+                    "end": 334,
+                    "text": "分析情報",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "GE's Digital Energy business is a global leader in transmission and distribution solutions that manage and move power from the power plant to the consumer. Its products and services increase the reliability of electrical power networks and critical equipment for utility, industrial and large commercial customers. From protecting and optimizing assets such as generators, transmission lines and motors, to delivering analytic tools to help manage the power grid, GE's Digital Energy business delivers industry-leading technologies to solve the unique challenges of each customer. For more information, visit http://www.gedigitalenergy.com/.",
+            "mt": "GEのデジタル・エナジー・ビジネスは、発電所から消費者への電力の管理と移動を行う送配電ソリューションの世界的リーダーです。GEの製品とサービスは、電力ネットワークの信頼性を向上させ、公益事業、産業、および大規模な商業のお客様にとって重要な機器を提供します。発電機、送電線、モーターなどの資産の保護と最適化から、電力網の管理を支援する分析ツールの提供まで、GEのデジタル・エナジー・ビジネスは、各お客様の固有の課題を解決するするテクノロジーを提供しています。詳細については、http://www.gedigitalenergy.com/を参照してください。",
+            "MQM_score": 48,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 191,
+                    "end": 209,
+                    "text": "the reliability of",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 210,
+                    "end": 239,
+                    "text": "electrical power networks and",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 502,
+                    "end": 518,
+                    "text": "industry-leading",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 17,
+                    "text": "デジタル・エナジー・ビジネス",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 64,
+                    "text": "GEの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 91,
+                    "text": "電力ネットワークの信頼性を向上させ、",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 95,
+                    "text": "公益事業",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 116,
+                    "text": "にとって",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 127,
+                    "text": "提供します",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 155,
+                    "end": 158,
+                    "text": "電力網",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 180,
+                    "end": 194,
+                    "text": "デジタル・エナジー・ビジネス",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 211,
+                    "end": 213,
+                    "text": "する",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "About GE",
+            "mt": "GEについて",
+            "MQM_score": 0
+        },
+        {
+            "src": "GE (NYSE: GE) works on things that matter. The best people and the best technologies taking on the toughest challenges. Finding solutions in energy, health and home, transportation and finance. Building, powering, moving and curing the world. Not just imagining. Doing. GE works. For more information, visit the company's website at www.ge.com.",
+            "mt": "GE(NYSE: GE)は、重要なことに取り組んでいます。最高の人材と最高のテクノロジーが、最も困難な課題に挑戦しています。エネルギー、健康、家庭、運輸、金融の分野でソリューションを見つけています。世界を建設し、電力を供給し、移動し、治療しています。想像するだけではありません。やっています。GEは機能しています。詳細については、同社のWebサイト(www.ge.com)を参照してください。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 43,
+                    "end": 84,
+                    "text": "The best people and the best technologies",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 2,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "が、",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 61,
+                    "text": "挑戦しています",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 156,
+                    "text": "機能しています",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

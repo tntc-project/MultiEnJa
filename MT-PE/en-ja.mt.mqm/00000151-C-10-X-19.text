@@ -1,0 +1,199 @@
+1	Standard 4.2.5	<ER01>規格</ER01>4.2.5
+2	PRIMARY PRODUCTION <ER03>AND</ER03> PROCESSING STANDARD FOR eggs AND EGG PRODUCT	卵及び卵製品の一次<ER02>製造</ER02>加工基準
+3	(Australia only)	(オーストラリアのみ)
+4	Purpose and commentary	目的と解説
+5	This Standard sets out a number of food safety requirements for the primary production and processing of eggs, egg pulp and other egg product for human consumption. At the primary production stage, businesses that produce eggs must implement measures to control the food safety hazards and must be able to trace their individual eggs for sale. Businesses that process eggs or egg product must control their food safety hazards and must be able to trace their individual eggs and the egg pulp. It is the responsibility of these businesses not only to comply with this Standard but also to be able to demonstrate compliance.	本基準は、人が消費する卵、<ER04>卵パルプ</ER04>及びその他の卵製品の一次生産及び<ER05>一次</ER05>加工に係るいくつかの食品安全要件を定めるものである。卵を生産する事業者は、一次生産段階において、食品安全上の危害を制御するための措置を講じなければならず、また、販売用の個々の卵を追跡することができなければならない。卵又は卵製品を加工する事業者は、食品安全上の危害を制御しなければならず、また、個々の卵及び<ER08>卵パルプ</ER08>を追跡することができなければならない。<ER479>これらの</ER479>事業者は、本基準を遵守するだけでなく、遵守を実証することができることが責任である。
+6	Table of Provisions	<ER09>規定表</ER09>
+7	Division 1 – Preliminary	<ER10>区分1</ER10>-予備
+8	1 Application	1<ER11></ER11><ER12>アプリケーション</ER12>
+9	2 Interpretation	2<ER13></ER13>解釈
+10	Division 2 – Primary production of eggs	第<ER282>二</ER282>目<ER14></ER14>卵の一次生産
+11	3 General food safety management	3<ER15></ER15>食品安全管理全般
+12	4 Inputs	<ER16>4つの入力</ER16>
+13	5 Waste disposal	5<ER17></ER17>廃棄物の<ER171>処理</ER171>
+14	6 Health and hygiene requirements	6<ER18></ER18>保健衛生要件
+15	7 Skills and knowledge	7<ER19></ER19>技能及び知識
+16	8 Design, construction and maintenance of premises, equipment and transportation vehicles	8<ER20></ER20><ER21>建物</ER21>、設備及び輸送車両の設計、建設及び維持
+17	9 Bird health	9<ER25></ER25><ER26>鳥</ER26>の健康
+18	10 Traceability	10<ER27></ER27>トレーサビリティ
+19	11 Sale or supply	11<ER28></ER28>販売<ER29>または</ER29>供給
+20	Division 3 – Processing of eggs and egg pulp	第<ER283>三</ER283>目<ER30></ER30>卵及び<ER31>卵パルプ</ER31>の加工
+21	12 Application	12<ER32></ER32><ER33>アプリケーション</ER33>
+22	13 General food safety management	13<ER34></ER34><ER35>食品の安全管理全般</ER35>
+23	14 Receiving unacceptable eggs	14<ER36></ER36>許容できない卵の受入
+24	15 Inputs	<ER37>15の入力</ER37>
+25	16 Waste disposal	16<ER38></ER38>廃棄物の<ER172>処理</ER172>
+26	17 Skills and knowledge	17<ER39></ER39>技能及び知識
+27	18 Health and hygiene requirements	18<ER40></ER40>保健衛生要件
+28	19 Design, construction and maintenance of premises, equipment and transportation vehicles	19<ER41></ER41>施設、設備及び輸送車両の設計、建設及び維持
+29	20 Traceability	20<ER45></ER45>トレーサビリティ
+30	21 Processing egg product	21<ER46></ER46><ER47>加工卵製品</ER47>
+31	22 Storing and transport of processed egg product	22<ER48></ER48>加工卵製品の貯蔵及び輸送
+32	23 Sale or supply	23<ER49></ER49>販売<ER50>または</ER50>供給
+33	Clauses	条項
+34	Division 1 – Preliminary	<ER51>区分1</ER51>-予備
+35	1 Application	1<ER52></ER52><ER53>アプリケーション</ER53>
+36	This Standard does not apply to retail sale or catering activities other than the direct sale of eggs to the public by an egg producer.	本基準は、卵生産者による一般大衆への卵の直接販売以外の小売販売<ER366>または</ER366>ケータリング活動には適用しない。
+37	2 Interpretation	2<ER54></ER54>解釈
+38	(1) Unless the contrary intention appears, and subject to Standard 4.1.1, the definitions in Chapter 3 of this Code apply <ER59>in this Standard</ER59>.	(1)<ER55></ER55><ER56>別段の</ER56>意図がある場合を除き、かつ、基準4.1.1に従うことを条件として、<ER57>本基準</ER57><ER58>の</ER58>第3章の定義を適用する。
+39	(2) In this Standard –	(2)<ER60></ER60><ER61>この基準</ER61>において
+40	cracked egg means an egg which has a cracked shell which is visible, or visible by candling <ER65>or</ER65> other equivalent methods, and includes a broken egg.	<ER62>割れ卵</ER62>とは、卵の殻が<ER63>割れて</ER63>見え、又は<ER64>キャンドル</ER64>その他これに準ずる方法により見える卵をいい、割れた卵を含む。
+41	dirty egg means an egg that has visible faeces, soil or other matter on it.	<ER66>「</ER66>汚れた卵<ER67>」</ER67>とは、目に見える糞や土などが付着した卵をいう。
+42	egg means an egg from any avian (bird) species<ER68>, except ratites</ER68>.	卵とは、すべての鳥類<ER69>(鳥類)</ER69>の卵をいう。<ER70>ただし、ラビットを除く。</ER70>
+43	egg producer means a business, enterprise or activity that involves the production of eggs, whether or not the business grades, packs, washes, candles or assesses for cracks, oils, pulps for supply to the processor for pasteurisation or stores or transports eggs or egg pulp.	<ER71>「</ER71>卵生産者<ER72>」</ER72>とは、卵の生産を伴う事業、企業又は活動をいい、当該事業が、低温殺菌のための加工業者に供給するための等級付け、包装、洗浄、ろうそく<ER73>又は</ER73><ER74>割れ</ER74>、油、<ER75>パルプ</ER75>の評価を行い、又は卵若しくは<ER76>卵パルプ</ER76>を貯蔵し若しくは輸送するか否かを問わない。
+44	egg processor means a business, enterprise or activity that involves – (a) pulping, separating, grading, packing, washing, candling, assessing for cracks or oiling eggs received from an egg producer; <ER84>or</ER84> (b) storing or transporting eggs in association with any of the activities in <ER86>paragraph</ER86> (a); <ER93>or</ER93> (c) processing egg product under <ER89>clause</ER89> 21 <ER90>of this Standard</ER90>.	<ER77>「</ER77>卵加工業者<ER78>」</ER78>とは、次の<ER201>もの</ER201>を含む事業、企業又は活動をいう。(a)<ER91></ER91><ER79>製卵業者</ER79>から<ER305>受領し</ER305>た卵の<ER80>パルプ化</ER80>、分離、等級付け、包装、洗浄、<ER81>キャンドル</ER81>、<ER82>割れ</ER82><ER94>又は</ER94>油分の評価<ER83></ER83>(b)<ER85></ER85>(a)の活動のいずれかに関連して卵を貯蔵し<ER95>又は</ER95>輸送すること<ER87>。</ER87>(c)<ER88></ER88>21<ER92>の規定</ER92>に基づいて卵製品を加工すること。
+45	egg pulp means the contents of an egg, which may contain sugar or salt.	<ER96>卵果肉</ER96>とは、卵の内容物を<ER97>指し</ER97>、砂糖<ER367>または</ER367>塩を含むことがある。
+46	food safety management statement means a statement, which at a minimum, has been approved or recognised by the relevant authority and subjected to ongoing verification activities by an egg producer or egg processor and the relevant authority.	<ER98>「</ER98><ER100>食品安全管理報告書</ER100><ER99>」</ER99>とは、少なくとも、関連当局により承認され又は<ER101>承認</ER101>され、かつ、卵生産者又は卵加工業者及び関連当局による継続的な検証活動の対象となっている<ER102>報告書</ER102>をいう。
+47	Editorial note:	<ER103>編集上の注意</ER103>:
+48	‘Authority' is defined in Standard 4.1.1.	「<ER104>権限</ER104>」は、<ER105>規格</ER105>4.1.1に定義されている。
+49	liquid egg white means the white of egg separated as effectively as <ER106>practicable</ER106> from the yolk in liquid form.	液状卵白とは、液状の卵黄からできるだけ効果的に分離された卵白をいう。
+50	liquid egg yolk means the yolk of egg separated as effectively as practicable from the white in liquid form.	<ER107>「</ER107>液状卵黄<ER108>」</ER108>とは、液状の卵白から実行可能な限り効果的に分離された卵黄をいう。
+51	premises means an egg production premises or a processing premises.	<ER109>「</ER109>施設<ER110>」</ER110>とは、卵生産施設<ER368>または</ER368>加工施設を<ER111>指す</ER111>。
+52	unacceptable refers to unacceptable eggs<ER115>.</ER115>	<ER112>「</ER112>許容できない<ER113>」</ER113>とは、許容できない卵を<ER114>指す</ER114>
+53	unacceptable egg means – (a) a cracked egg or a dirty egg; or (b) egg product which has not been processed in accordance with clause 21; or (c) egg product which contains a pathogenic micro-organism, whether or not the egg product has been processed in accordance with clause 21.	<ER116>「</ER116>許容できない卵<ER117>」</ER117>とは、次のものをいう。(a)<ER118></ER118><ER119>割れた</ER119>卵<ER120>又は</ER120>汚れた卵、又は(b)<ER121></ER121><ER456>第</ER456>21<ER122>項</ER122>に従って加工されていない卵製品、又は(c)<ER123></ER123>病原性微生物を含む卵製品<ER127></ER127><ER124>(</ER124>当該卵製品が<ER457>第</ER457>21<ER458>項</ER458>に従って加工されているか<ER125>どうか</ER125>を問わない。<ER126>)</ER126>
+54	Editorial note:	<ER128>編集上の注意</ER128>:
+55	Standard 1.1.2 defines ‘egg product' as the contents of an egg in any form including egg pulp, dried egg, liquid egg white and liquid egg yolk.	<ER129>規格</ER129>1.1.2では、「卵製品」は、<ER130>卵パルプ</ER130>、乾燥卵、液状卵白<ER131>および</ER131>液状卵黄を含むあらゆる形態の卵の内容物として定義されている。
+56	Division 2 – Primary production of eggs	第<ER284>二</ER284>目<ER132></ER132>卵の一次生産
+57	3 General food safety management	3<ER133></ER133>食品安全管理全般
+58	<ER143>(</ER143>1<ER144>)</ER144> An egg producer must systematically examine all of its production operations to identify potential hazards and implement control measures to address those hazards.	1<ER134></ER134><ER135>採卵者</ER135>は、すべての<ER136>生産事業</ER136>を計画的に調査し、危害のおそれがあることを明らかにするとともに、当該危害<ER137>を防止する</ER137>ための<ER138>防除措置</ER138>を講じなければならない。
+59	<ER145>(</ER145>2<ER146>)</ER146> An egg producer must also have evidence to show that a systematic examination has been undertaken and that control measures for those identified hazards have been implemented.	2<ER139></ER139><ER140>採卵者</ER140>は、また、<ER141>体系的な</ER141>調査が行われ、かつ、<ER298>特定された</ER298><ER142>危険有害性</ER142>に対する規制措置が実施されたことを示す証拠を有しなければならない。
+60	(3) An egg producer must operate according to a food safety management statement that sets out how the requirements of this Division are to be or are being complied with.	(3)<ER147></ER147><ER148>採卵業者</ER148>は、<ER149>この</ER149>目の要件がどのように遵守されるべきか又は遵守されつつあるかを<ER150>示す</ER150><ER151>食品安全管理のための声明書</ER151>に従って操業しなければならない。
+61	4 Inputs	<ER152>4つの入力</ER152>
+62	An egg producer must take all reasonable measures to ensure inputs do not make the eggs unsafe <ER155>or</ER155> unsuitable.	<ER153>採卵者</ER153>は、<ER154>採卵</ER154>が安全でなく不適切なものとならないよう、あらゆる合理的な措置を講じなければならない。
+63	Editorial note:	<ER156>編集上の注意</ER156>:
+64	See the definitions of ‘safe' and ‘suitable' in Standard 3.1.1.	<ER157>規格</ER157>3.1.1の「安全」及び「適切」の定義を参照のこと。
+65	See the definition of ‘inputs' in Standard 4.1.1 which includes feed, water and chemicals used <ER160>in or in connection with the primary production activity</ER160>.	基準4.1.1の「<ER158>インプット</ER158>」の定義<ER159>を参照して</ER159>使用される飼料、水および化学物質を含む<ER161>、規格の「インプット」の</ER161>定義を<ER162>参照</ER162>。
+66	5 Waste disposal	5<ER163></ER163>廃棄物の<ER173>処理</ER173>
+67	<ER164>(</ER164>1<ER165>)</ER165> An egg producer must store, handle or dispose of waste <ER169>in a manner that</ER169> will not make the egg unsafe or unsuitable.	1<ER166></ER166><ER167>産卵者</ER167>は、卵が安全でなく<ER534>なり、</ER534>又は<ER168>不適当</ER168>とならないように廃棄物を<ER170>保管</ER170>し、処理し、又は処分しなければならない。
+68	(2) For subclause (1), waste includes sewage, waste water, used litter, dead birds, garbage and eggs which the proprietor, supervisor or employee of the egg producer knows, ought to reasonably know or to reasonably suspect, are unsafe or unsuitable.	(2)<ER174></ER174>(1)に関して、廃棄物には、下水、廃水、使用済みのごみ、死亡した鳥、<ER333>ごみ</ER333>及び卵であって、卵生産者の所有者、監督者又は従業員が、安全でないか又は<ER175>不適当</ER175>であることを知っており、合理的に知るべきであり、又は合理的に疑うべきである<ER176>もの</ER176><ER177>を</ER177><ER178>含む</ER178>。
+69	6 Health and hygiene requirements	6<ER179></ER179>保健衛生要件
+70	(1) A person involved in egg production must exercise personal hygiene and health practices that do not make the eggs unsafe or unsuitable.	(1)<ER180></ER180><ER181>採卵</ER181>に従事する者は、<ER182>採卵</ER182>を安全でなく又は<ER183>不適当</ER183>なものとしない個人的な衛生及び健康に関する慣行を行わなければならない。
+71	<ER184>(</ER184>2<ER185>)</ER185> An egg producer must take all reasonable measures to ensure that personnel and visitors exercise personal hygiene and health practices that do not make the eggs unsafe or unsuitable.	2<ER186></ER186><ER187>卵子生産者</ER187>は、職員及び訪問者が、卵を<ER188>安全でなくし</ER188>又は<ER535>不適当</ER535>なものとしない個人的な衛生及び健康に関する慣行を<ER189>実施する</ER189>ことを<ER221>確保</ER221>するため、<ER190>すべての</ER190>合理的な措置を<ER191>とら</ER191>なければならない。
+72	7 Skills and knowledge	7<ER192></ER192>技能及び知識
+73	An egg producer must ensure that a person who engages in or supervises the primary production of eggs has – (a) skills in food safety and food hygiene<ER194>; and</ER194> (b) knowledge of food safety and food hygiene matters; commensurate with their work.	卵生産者は、卵の一次生産に従事し、又は卵の一次生産を監督する者が、その業務に応じて、次のことを<ER222>確保し</ER222>なければならない。(a)<ER193></ER193>食品安全及び食品衛生に関する技能(b)<ER195></ER195>食品安全及び食品衛生に関する事項に関する知識
+74	8 Design, construction and maintenance of premises, equipment and transportation vehicles	8<ER196></ER196><ER197>建物</ER197>、設備及び輸送車両の設計、建設及び維持
+75	An egg producer must – (a) ensure that premises, equipment and transportation vehicles are designed <ER209>and</ER209> constructed in a way that minimises the contamination of the eggs, allows for effective cleaning and sanitisation, and minimises the harbourage of pests and vermin; and (b) <ER218>keep</ER218> premises, equipment and transportation vehicles effectively cleaned, sanitised <ER216>and</ER216> in good repair to ensure the eggs are not made unsafe <ER536>or</ER536> unsuitable.	<ER202>鶏卵生産者</ER202>は、<ER203></ER203>(a)<ER204></ER204>鶏卵の汚染を最小限に抑え、効果的な洗浄と消毒を可能にし、<ER205>有害動植物</ER205>や害虫の<ER206>潜伏</ER206>を最小限に抑えるような方法で、施設、設備<ER208>および</ER208>輸送車両が設計され、建設されることを<ER210>確保</ER210><ER211>しなければならない</ER211><ER212>。</ER212>(b)<ER213></ER213><ER214>鶏卵</ER214>が安全でなく不適切にならないように、施設、設備<ER215>および</ER215>輸送車両を効果的に洗浄し、消毒し、適切な修理を<ER217>施す</ER217>こと<ER219>を確保しなければならない</ER219>。
+76	9 Bird health	9<ER220></ER220>鳥の健康
+77	(1) An egg producer must not obtain eggs for human consumption from birds if the proprietor, supervisor or employee of the egg producer knows, ought to reasonably know or to reasonably suspect, the bird is affected by disease or a condition that makes the eggs unsafe or unsuitable.	(1)<ER223></ER223><ER224>採卵者</ER224>は、当該<ER225>採卵者</ER225>の所有者、監督者又は従業者が、<ER226>鳥</ER226>が疾病又は卵を安全でなくし若しくは<ER227>不適当</ER227>にする状態に<ER228>かかって</ER228>いることを知り、<ER229>又は</ER229>合理的に<ER230>知り</ER230>、<ER231>若しくは</ER231>合理的に<ER232>疑う</ER232>場合には、<ER233>鳥</ER233>から<ER266>食用の</ER266>卵を取得してはならない。
+78	(2) The definition of ‘condition' in Standard 3.2.2 does not apply to this clause.	(2)<ER234></ER234>基準3.2.2の「<ER235>条件</ER235>」の定義は、本<ER236>項</ER236>には適用しない。
+79	10 Traceability	10<ER237></ER237>トレーサビリティ
+80	(1) An egg producer must not sell eggs unless each individual egg is marked with <ER241>the</ER241> producers' unique identification.	(1)<ER238></ER238><ER239>卵製造者</ER239>は、個々の卵に<ER240>製造者</ER240>の固有の識別表示を付さない限り、卵を販売してはならない。
+81	<ER242>(</ER242>2<ER243>)</ER243> An egg producer who supplies egg pulp must mark each package or container <ER247>containing the pulp</ER247> with <ER249>the</ER249> producers' unique <ER251>identification</ER251>.	2<ER244></ER244><ER245>卵パルプ</ER245>を供給する<ER246>卵製造者</ER246>は、<ER248>その</ER248>包装又は容器に<ER250>製造者</ER250>固有の表示を付さなければならない。
+82	(3) Subclauses (1) and (2) do not apply to eggs or egg pulp sold or supplied to an egg processor (the supplied product) if that egg processor complies with clause 20 in respect of the supplied product.	(3)<ER252></ER252>(1)及び(2)<ER253>の規定</ER253>は、卵加工業者(供給される製品)に販売され又は供給される卵又は<ER254>卵パルプ</ER254><ER279>については</ER279>、当該卵加工業者が供給される製品について第<ER255>二十</ER255><ER256>項</ER256><ER257>の規定</ER257><ER258>に適合する</ER258>場合には、適用しない。
+83	(4) In addition to subclauses (1) and (2), <ER260>an egg producer</ER260> must have a system to identify to whom eggs or egg pulp is sold or supplied.	(4)<ER259></ER259>(1)及び(2)に加え<ER377>(2)に加えて</ER377>、卵又は<ER261>卵パルプ</ER261>の販売又は供給の相手方を<ER262>特定する</ER262>制度を有しなければならない。
+84	11 Sale or supply	11<ER263></ER263>販売<ER369>または</ER369>供給
+85	(1) An egg producer must not sell or supply eggs or egg pulp for human consumption <ER267>if it knows, ought to reasonably know or to reasonably suspect, that the eggs are unacceptable</ER267>.	(1)<ER264></ER264><ER265>採卵者</ER265>は、<ER268>人の消費のために</ER268><ER269></ER269>卵又は<ER270>卵パルプ</ER270>を販売し又は供給してはならない。<ER271>ただし、当該卵が受け入れられないものであることを知り、合理的に知り、又は合理的に疑う場合に限る。</ER271>
+86	(2) Subclause (1) does not apply to an egg producer that sells or supplies unacceptable eggs to an egg processor for processing in accordance with clause 21.	(2)<ER272></ER272>(1)<ER273>の規定</ER273>は、第<ER274>二十一</ER274><ER275>項</ER275><ER276>の規定</ER276>に従って加工するために卵加工業者に<ER277>受け入れられない</ER277>卵を販売し又は供給する卵生産者<ER278>については、</ER278>適用しない。
+87	Editorial note:	<ER280>編集上の注意</ER280>:
+88	‘Supply' is defined in Standard 4.1.1 as including intra company transfers of product.	「供給」は、<ER281>規格</ER281>4.1.1において、製品の企業内移動を含むものとして定義されている。
+89	Division 3 – Egg Processing	第<ER285>三</ER285>目<ER286></ER286>卵の加工
+90	12 Application of Food Safety Standards	12<ER287></ER287>食品安全基準の適用について
+91	Standards 3.2.2 and 3.2.3 apply to processing under clause 21 and storage and transport under clause 22, but not to any other processing activities.	基準3.2.2及び3.2.3は、第21条に基づく<ER288>処理</ER288><ER289>及び</ER289>第22条に基づく貯蔵及び輸送に適用するが、その他の<ER290>処理</ER290>活動には適用しない。
+92	13 General food safety management	13<ER291></ER291><ER292>食品の安全管理全般</ER292>
+93	<ER293>(</ER293>1<ER294>)</ER294> An egg processor must systematically examine all of its processing operations to identify potential hazards and implement control measures to address those hazards.	1<ER295></ER295>卵加工業者は、すべての加工作業を<ER296>体系的に検討して潜在的な危険性を特定し、その危険性に対処するための管理措置</ER296>を講じなければならない。
+94	(2) An egg processor must also have evidence to show that a systematic examination has been undertaken and that control measures for those identified hazards have been implemented.	(2)<ER297></ER297>卵加工業者は、<ER299>体系的な審査が行われ、かつ、特定された危険性に対する管理措置</ER299>が実施されたことを示す証拠も有していなければならない。
+95	(3) An egg processor must operate according to a food safety management statement that sets out how the requirements of this Division are to be or are being complied with.	(3)<ER300></ER300>卵加工業者は、<ER301>この目の要件がどのように遵守されるべきか又は遵守されつつあるかを示す食品安全管理に関する文書</ER301>に従って操業しなければならない。
+96	14 Receiving unacceptable eggs	14<ER302></ER302>許容できない卵の受入
+97	An egg processor must not receive unacceptable eggs for human consumption unless – (a) in the case of dirty eggs, they are to be cleaned; (b) in the case of cracked eggs, they are to be processed in accordance with clause 21; or (c) in the case of egg pulp, the product is to be processed in accordance with clause 21.	卵加工業者は、次の場合を除き、<ER303>人の消費の</ER303>ために許容できない卵を<ER304>受領し</ER304>てはならない。(a)<ER306></ER306>汚れた卵の場合は、それらを洗浄すること<ER307>。</ER307>(b)<ER308></ER308><ER309>割れた卵</ER309>の場合は、それらを21<ER310>項</ER310>に従って加工すること<ER311>。</ER311>又は(c)<ER312></ER312><ER313>卵パルプ</ER313>の場合は、製品を21<ER314>項</ER314>に従って加工すること。
+98	15 Inputs	<ER315>15の入力</ER315>
+99	An egg processor must take all reasonable measures to ensure <ER319>inputs</ER319> do not make the eggs or egg product unsafe <ER318>or</ER318> unsuitable.	卵加工業者は、卵<ER316>または</ER316>卵製品<ER317>または卵製品</ER317>を安全でなく不適切なものにしないことを<ER320>確保</ER320>するために、あらゆる合理的な措置を講じなければならない。
+100	Editorial note:	<ER321>編集上の注意</ER321>:
+101	See Standard 4.1.1 for the definition of ‘inputs'.	「<ER322>入力</ER322>」の定義については、<ER323>規格</ER323>4.1.1を参照のこと。
+102	16 Waste disposal	16<ER324></ER324>廃棄物の<ER325>処理</ER325>
+103	(1) An egg processor must store, handle or dispose of waste in a manner that will not make the eggs or egg product unsafe or unsuitable.	(1)<ER326></ER326>卵加工業者は、卵又は卵製品を<ER327>危険</ER327>又は<ER328>不適当なものとしない</ER328><ER329>ように</ER329>廃棄物を<ER330>保管し</ER330>、<ER331>取扱い</ER331>又は処分しなければならない。
+104	(2) For subclause (1), waste includes sewage, waste water, unacceptable eggs or egg product and garbage.	(2)<ER332></ER332>(1)については、廃棄物には、下水、廃水、許容できない卵又は卵製品及び生ごみを含む。
+105	17 Skills and knowledge	17<ER334></ER334>技能及び知識
+106	An egg processor must ensure that persons undertaking or supervising the processing of eggs or egg product have – (a) skills in food safety and food hygiene<ER337>;</ER337> and (b) knowledge of food safety and food hygiene matters; commensurate with their work.	卵加工業者は、卵又は卵製品の加工を請け負い又は監督する者が、その作業に応じて、<ER335></ER335>(a)<ER336></ER336>食品安全及び食品衛生に関する技能並びに(b)<ER338></ER338>食品安全及び食品衛生に関する事項に関する知識<ER339>を有することを確保しなければならない</ER339>。
+107	18 Health and hygiene requirements	18<ER340></ER340>保健衛生要件
+108	(1) A person involved in egg processing must exercise personal hygiene and health practices that do not make the eggs or egg product unsafe or unsuitable.	(1)<ER341></ER341>卵の加工に従事する者は、卵又は卵製品を安全でなく又は<ER537>不適当</ER537>なものとしない個人的な衛生及び健康に関する慣行を行わなければならない。
+109	(2) An egg processor must take all reasonable measures to ensure that personnel and visitors exercise personal hygiene and health practices that do not make the eggs or egg product unsafe or unsuitable.	(2)<ER342></ER342>卵加工業者は、職員及び訪問者が、卵又は卵製品を安全でなく又は<ER538>不適当</ER538>なものとしない<ER343>個人の</ER343>衛生及び健康に関する慣行を<ER344>実施する</ER344>ことを<ER345>確保</ER345>するため、<ER346>すべての</ER346>合理的な措置を<ER347>とら</ER347>なければならない。
+110	19 Design, construction and maintenance of premises, equipment and transportation vehicles	19<ER348></ER348>施設、設備及び輸送車両の設計、建設及び維持
+111	An egg processor must – (a) ensure that premises, equipment and transportation vehicles are designed and constructed in a way that minimises the contamination of the eggs or egg products, allows for effective cleaning and sanitisation, and minimises the harbourage of pests and vermin; <ER359>and</ER359> (b) <ER364>keep</ER364> premises, equipment and transportation vehicles effectively cleaned, sanitised and in good repair to <ER540>ensure</ER540> the eggs or egg products are not made unsafe <ER539>or </ER539>unsuitable.	卵加工業者は、<ER349></ER349>(a)<ER350></ER350>卵<ER351>または</ER351>卵製品の汚染を最小限に抑え、効果的な洗浄<ER352>および</ER352>消毒を可能にし、<ER353>害虫</ER353><ER354>および</ER354>害虫の<ER355>潜伏</ER355>を最小限に抑えるような方法で、施設、設備<ER356>および</ER356>輸送車両が設計<ER365>および</ER365>建設されることを<ER357>確保</ER357><ER358>しなければならない</ER358><ER371>。</ER371>(b)<ER360></ER360>施設、設備<ER361>および</ER361>輸送車両を効果的に洗浄し、消毒し、<ER362>良好な</ER362>修理を<ER363>行い</ER363>、卵または卵製品が安全でなく不適切にならないように<ER370>しなければならない</ER370>。
+112	20 Traceability	20<ER372></ER372>トレーサビリティ
+113	(1) An egg processor must not sell eggs unless each individual egg is marked with the processor's or producer's unique identification.	(1)<ER373></ER373>卵加工業者は、個々の卵に加工業者又は生産者の固有の識別表示を付さない限り、卵を販売してはならない。
+114	(2) An egg processor must not sell or supply egg product unless each package or container containing the egg product is marked with the processor's or the producer's unique identification.	(2)<ER374></ER374>卵加工業者は、卵製品を<ER375>収納する</ER375>各包装又は容器に加工業者又は生産者の固有の識別表示<ER376>が付されていない</ER376>限り、卵製品を販売し、又は供給してはならない。
+115	(3) In addition to subclauses (1) and (2), an egg processor must have a system to identify – (a) from whom eggs were or egg pulp was received<ER384>; and</ER384> (b) to whom eggs or egg product was supplied<ER541>.</ER541>	(3)<ER378></ER378>卵加工業者は、(1)及び(2)に加え<ER379>に加え</ER379>、次の<ER380>事項</ER380>を<ER381>特定する</ER381>ための制度を有しなければならない。(a)<ER382></ER382>卵又は<ER383>卵パルプ</ER383>の受領者(b)<ER385></ER385>卵又は卵製品の<ER386>提供</ER386>者
+116	21 Processing egg product	21<ER387></ER387><ER388>加工卵製品</ER388>
+117	(1) An egg processor must process egg product by – (a) pasteurising<ER392>; or</ER392> (b) heating using any other time and temperature combination of equivalent or greater lethal effect on any pathogenic micro-organisms in the egg product<ER394>; or</ER394> (c) using any other process that provides an equivalent or greater lethal effect on any pathogenic micro-organisms in the egg product<ER400>.</ER400>	(1)<ER389></ER389>卵加工業者は、次の方法により卵製品を加工しなければならない。(a)<ER390></ER390><ER391>殺菌</ER391>(b)<ER393></ER393>卵製品中のいずれかの病原性微生物に対して同等以上の致死効果を有する他の時間及び温度の組合せを用いた加熱(c)<ER395></ER395>卵製品中のいずれかの病原性微生物に対して同等以上の致死効果を<ER396>有する</ER396>他の方法<ER397>を</ER397><ER398>用いた</ER398><ER399>加熱</ER399>
+118	(2) For <ER402>paragraph</ER402> (1)(a), the egg product listed in Column 1 of the Table to this clause must be pasteurised to the time and temperature combinations in Column 2, Column 3 and Column 4.	(2)<ER401></ER401>(1)(a)に関しては、本<ER403>項</ER403>の表の第1欄に掲げる卵製品は、第2欄、第3欄及び第4欄の時間及び温度の組合せまで<ER404>殺菌</ER404>しなければならない。
+119	(3) A process described in <ER406>paragraph</ER406> 1(b) or (c), if used, must be validated by the egg processor.	(3)<ER405></ER405>1(b)又は(c)に<ER407>規定する</ER407>方法を用いる場合には、卵加工業者がその妥当性を確認しなければならない。
+120	(4) In this clause – validate means – (a) confirming a control measure for a critical control point or process is effective to minimise a food safety hazard; <ER418>and</ER418> (b) providing objective evidence to confirm <ER420>paragraph</ER420> (a).	(4)<ER408></ER408><ER409>この</ER409><ER410>節</ER410>において「<ER411>検証する</ER411>」とは、次のことをいう。(a)<ER412></ER412><ER413>重要な管理点</ER413>又は<ER414>工程</ER414>についての管理措置が<ER415>食品の安全上の危険</ER415>を<ER416>最小限にする</ER416>ために有効であることを確認すること<ER417>。</ER417>(b)<ER419></ER419>(a)<ER421>の規定</ER421>を確認するための客観的な証拠を提供すること。
+121	Table to clause 21	21<ER422>項</ER422>の表
+122	Column 1	<ER423>列1</ER423>
+123	Column 2	<ER424>列2</ER424>
+124	Column 3	<ER425>列3</ER425>
+125	Column 4	<ER426>列4</ER426>
+126	Egg product	卵製品
+127	Retention temperature to be no less than (oC)	保持温度は(oC)以上であること<ER427>。</ER427>
+128	Retention time <ER428>to be</ER428> no less than (minutes)	保持時間は(分)以上
+129	Maximum temperature to be immediately rapidly cooled to (oC)	急速に冷却<ER429>される</ER429><ER430>最高温度</ER430><ER431>(℃)</ER431>
+130	Egg pulp (without any sugar or salt)	<ER432>果肉</ER432>(砂糖・塩不使用)
+131	64	64<ER433>個</ER433>
+132	2.5	2.5
+133	≤ 7	≦7
+134	Liquid egg yolk	液状卵黄
+135	60	60
+136	3.5	3.5
+137	≤ 7	≦7
+138	Liquid egg white	<ER434>液状の卵白</ER434>
+139	55	55<ER435>歳</ER435>
+140	9.5	9.5
+141	≤ 7	≦7
+142	Editorial note:	<ER436>編集上の注意</ER436>:
+143	For subclause 21(1), Standard 1.6.1 specifies microbiological limits for processed egg products for sale.	<ER437>第</ER437>21条(1)に関して、<ER438>規格</ER438>1.6.1は、販売用の加工卵製品の微生物学的限度を規定する。
+144	22 Storage or transport of processed egg product	22<ER439></ER439>加工卵製品の貯蔵又は輸送
+145	A processor must ensure that egg product processed under clause 21 is stored or transported under time and temperature conditions that control the growth of pathogenic micro-organisms.	加工業者は、21<ER440>項</ER440><ER441>で</ER441>加工された卵製品が、病原性微生物の増殖を<ER442>制御する</ER442>時間<ER443>および</ER443>温度条件下で<ER444>保存</ER444><ER445>または</ER445>輸送されることを保証しなければならない。
+146	23 Sale or supply	23<ER446></ER446>販売<ER447>または</ER447>供給
+147	(1) An egg processor must not sell <ER454>or supply</ER454> eggs or egg product for human consumption if the processor knows, ought to reasonably know or to reasonably suspect, that the eggs or egg product are unacceptable.	(1)<ER448></ER448>卵加工業者は、卵又は卵製品が<ER449>受け入れられない</ER449><ER450>ものである</ER450>ことを知り、合理的に<ER451>知り</ER451>、又は合理的に<ER452>疑う</ER452>場合には、当該卵又は卵製品を<ER453>人の消費の</ER453>ために販売ししてはならない。
+148	(2) Subclause (1) does not apply to an egg processor that sells or supplies unacceptable eggs to an egg processor for processing in accordance with clause 21.	(2)<ER455></ER455>(1)<ER459>の規定</ER459>は、<ER460>第二十一項</ER460><ER461>の規定</ER461>に従って加工するために卵加工業者に<ER462>受け入れられない</ER462>卵を販売し又は供給する卵加工業者<ER463>については、</ER463>適用しない。
+149	(3) An egg processor must not sell liquid egg white or liquid egg yolk unless it is processed in accordance with clause 21.	(3)<ER464></ER464>卵加工業者は、<ER465>第二十一項</ER465><ER466>の規定</ER466>に従って加工しない限り、<ER467>液状の卵白</ER467>又は<ER468>液状の卵黄</ER468>を販売してはならない。
+150	Editorial note:	<ER469>編集上の注意</ER469>:
+151	Schedule 9 requires unpasteurised egg products to be labelled with a statement that the product is unpasteurised.	<ER470>スケジュール</ER470>9では、低温殺菌されていない卵製品には、<ER471>その</ER471>製品が低温殺菌されていない<ER472>こと</ER472>を表示することが要求されている。
+152	Amendment History	修正履歴
+153	The Amendment History provides information about each amendment to the Standard. The information includes commencement or cessation information for relevant amendments.	<ER472>改正</ER472>履歴は<ER473>,</ER473><ER474>規格</ER474>に対する各<ER475>改正</ER475>についての情報を提供する。<ER476>この</ER476>情報は<ER477>,</ER477>関連する<ER478>改正</ER478>についての開始又は終了情報を含む。
+154	These amendments are made under section 92 of the Food Standards Australia New Zealand Act 1991 unless otherwise indicated. Amendments do not have a specific date for cessation unless indicated as such.	<ER480>これらの</ER480><ER481>改正</ER481>は、別段の表示がある場合を除き、1991年オーストラリア・ニュー・ジーランド<ER482>食品規格法</ER482>第92条に基づいて行われるものであり、当該<ER483>改正</ER483>は、別段の表示がある場合を除き、特定の終了日を有しない。
+155	About this compilation	<ER484>この</ER484><ER489>コンパイル</ER489>について
+156	This is compilation No. 2 of Standard 4.2.5 as in force on 29 November 2018 (up to Amendment No. 182). <ER492>It</ER492> includes any commenced amendment affecting the compilation to that date.	本書は、2018年11月29日に施行された基準4.2.5の<ER486>編集</ER486><ER487>No.2</ER487>(<ER488>改訂</ER488><ER489>No.182</ER489>まで)で<ER490>あり</ER490><ER491>、</ER491>同日までに編集に影響を<ER493>及ぼす</ER493><ER494>開始された</ER494><ER495>改訂</ER495>を含む。
+157	Prepared by Food Standards Australia New Zealand on 29 November 2018.	2018年11月29日、Food Standards Australia New Zealandにより作成。
+158	Uncommenced amendments or provisions ceasing to have effect	効力を失う<ER496>開始されていない</ER496>補正又は規定
+159	To assist stakeholders, the effect of any uncommenced amendments or provisions which will cease to have effect, may be reflected in <ER503>the</ER503> Standard as shaded boxed text with the relevant commencement or cessation date. These amendments will be reflected in a compilation registered on the Federal Register of Legislative Instruments including or omitting those amendments and provided in <ER501>the</ER501> Amendment History once the date is passed.	利害関係者を支援するため、効力を停止する予定の<ER497>未開始の</ER497>修正又は規定の効力は、関連する開始又は終了日を付した影付きの枠付き<ER498>テキスト</ER498>として<ER502>規格</ER502>に反映することができる。<ER499>これらの</ER499>修正は、連邦立法文書登録簿に登録された編集物に反映され、<ER500>これらの</ER500>修正を含み又は省略し、当該日付が経過した後に修正履歴に提供される。
+160	The following abbreviations may be used in the table below:	以下の表では、以下の略語を使用してもよい:
+161	ad = added or inserted	ad=追加<ER504>または</ER504>挿入
+162	am = amended	am=<ER505>改訂</ER505>
+163	exp = expired or ceased to have effect	exp=期限切れ<ER506>または</ER506>効力の停止
+164	rep = repealed	rep=廃止
+165	rs = repealed and substituted	rs=廃止<ER507>および</ER507>代替
+166	Standard 4.2.5 was published in <ER508>the Food Standards Gazette</ER508> No. FSC65 on 26 May 2011 (to take effect on 26 November 2012) (F2011L00860) and has been amended as follows:	基準4.2.5は、2011年5月26日に(2012年11月26日に発効するために)No.FSC65<ER509></ER509>(F2011L00860)で公表され、以下のとおり<ER510>改訂</ER510>された。
+167	Clause affected	影響を受ける条項
+168	A'ment No.	<ER511>アメント</ER511><ER512>No.</ER512>
+169	FRLI registration Gazette	FRLI登録官報
+170	Commencement (Cessation)	開始(<ER513>中止</ER513>)
+171	How affected	影響の程度
+172	Description of amendment	<ER514>補正</ER514>の内容
+173	21	21
+174	149	149
+175	F2014L01037	F2014L01037<ER515>インチ</ER515>
+176	29 July 2014	2014年7月29日
+177	FSC91	FSC91<ER516>型</ER516>
+178	31 July 2014	2014年7月31日
+179	31 July 2014	2014年7月31日
+180	rs	<ER517>参照</ER517>
+181	Editorial note following <ER518>the</ER518> clause.	条項に続く<ER519>編集上の注記</ER519>。
+182	Subclause 2(2)	<ER520>第</ER520>2<ER521>項</ER521>(2)
+183	182	182
+184	F2018L01594	F2018L01594<ER522>インチ</ER522>
+185	23 Nov 2018	2018年11月23日
+186	FSC123	FSC123<ER523>年</ER523>
+187	29 Nov 2018	2018年11月29日
+188	29 Nov 2018	2018年11月29日
+189	am	<ER524>アム</ER524>
+190	Editorial note following standard update	<ER525>標準</ER525><ER526>アップデート</ER526>後の<ER527>編集上の注意</ER527>
+191	Clause 23	<ER528>第</ER528>23条
+192	182	182
+193	F2018L01594	F2018L01594<ER529>インチ</ER529>
+194	23 Nov 2018	2018年11月23日
+195	FSC123	FSC123<ER530>年</ER530>
+196	29 Nov 2018	2018年11月29日
+197	29 Nov 2018	2018年11月29日
+198	am	<ER531>アム</ER531>
+199	Editorial note following standard update	標準<ER532>アップデート</ER532>後の<ER533>編集上の注意</ER533>

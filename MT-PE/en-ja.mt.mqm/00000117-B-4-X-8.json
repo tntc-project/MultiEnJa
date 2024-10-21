@@ -1,0 +1,719 @@
+{
+    "117.json": [
+        {
+            "src": "GE Healthcare Announces FDA Approval of SenoClaire, New Breast Imaging with 3D Tomosynthesis Solution",
+            "mt": "GE Healthcare、SenoClaireの3D Tomosynthesisソリューションの承認を発表",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 24,
+                    "end": 27,
+                    "text": "FDA",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 52,
+                    "end": 70,
+                    "text": "New Breast Imaging",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 41,
+                    "text": "Tomosynthesis",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted September 3rd, 2014 for General Electric",
+            "mt": "General Electric、2014年General Electricに掲載されました。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 7,
+                    "end": 20,
+                    "text": "September 3rd",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 38,
+                    "text": "General Electric",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 47,
+                    "text": "されました。",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "September 3, 2014",
+            "mt": "2014年9月3日",
+            "MQM_score": 0
+        },
+        {
+            "src": "Wauwatosa, WI, September 3, 2014",
+            "mt": "2014年9月3日、ウィスコンシン州ワウワ土佐市",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 24,
+                    "text": "ウィスコンシン州ワウワ土佐市",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "GE Healthcare (NYSE: GE) today announced the FDA approval of SenoClaire*, GE's new breast tomosynthesis solution designed with a three-dimensional imaging technology. In collaboration with Massachusetts General Hospital, GE developed SenoClaire technology that uses a low-dose short X-ray sweep around the positioned breast with nine exposures acquired with a “step-and-shoot” method, removing the potential motion from the tube helping to reduce blur and increase image sharpness.",
+            "mt": "GE Healthcare(NYSE: GE)は本日、3次元画像技術を用いて設計されたGEの新しい胸部トモシンセシス・ソリューションであるSenoClaire*のFDA承認を発表しました。GEはマサチューセッツ総合病院と共同で、「step-and-shoot」法で取得した9回の曝射で、位置決めされた胸部の周囲を低線量の短いX線スイープを使用するSenoClaire技術を開発しました。これにより、チューブからの潜在的な動きが除去され、ぼやけが軽減され、画像の鮮明さが向上します。",
+            "MQM_score": 18.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 13,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "画像",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 51,
+                    "text": "胸部",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 66,
+                    "text": "トモシンセシス・ソリューション",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 109,
+                    "text": "マサチューセッツ総合病院",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 150,
+                    "end": 152,
+                    "text": "胸部",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 160,
+                    "end": 162,
+                    "text": "短い",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 188,
+                    "end": 193,
+                    "text": "しました。",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 199,
+                    "end": 203,
+                    "text": "チューブ",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 203,
+                    "end": 206,
+                    "text": "からの",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 236,
+                    "end": 239,
+                    "text": "します",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "“Today's announcement marks a key milestone in our mission of providing women with cutting edge screening technology to detect early breast cancer,” said Dr. Daniel Kopans, Senior Radiologist, Breast Imaging Division Department of Radiology, Massachusetts General Hospital. “When cancer is identified and treated earlier, we know women have a better rate of survival.”",
+            "mt": "「本日の発表は、早期乳癌を検出する最先端のスクリーニング技術を女性に提供するというわれわれの使命における重要なマイルストーンを示しています。癌が早期に発見され治療されれば、女性の方が生存率が高いことがわかっています」とマサチューセッツ総合病院放射線科のDr.Daniel Kopans氏は述べた。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 149,
+                    "end": 273,
+                    "text": "said Dr. Daniel Kopans, Senior Radiologist, Breast Imaging Division Department of Radiology, Massachusetts General Hospital.",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 274,
+                    "end": 368,
+                    "text": "“When cancer is identified and treated earlier, we know women have a better rate of survival.”",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 70,
+                    "text": "。",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 107,
+                    "text": "癌が早期に発見され治療されれば、女性の方が生存率が高いことがわかっています",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 125,
+                    "text": "マサチューセッツ総合病院放射線科",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 143,
+                    "text": "氏",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 147,
+                    "text": "述べた",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A key challenge when performing screening mammography is keeping the radiation levels as low as possible. With GE's SenoClaire, there is no increase in dose from a 2D standard mammogram to a 3D view, which means there is no increased radiation to patients during a SenoClaire breast exam. “3D breast screening technology helps clinicians uncover small cancers which can be a limiting factor in standard 2D mammography. As a radiologist, it's important to offer technology like this for patients that produces higher image quality without increasing dose,” said Dr. Murray Rebner MD, FACR, Professor of Diagnostic Radiology and Molecular Imaging at Oakland University William Beaumont School Of Medicine and Director of the Division of Breast Imaging and Intervention at Beaumont Hospital, Royal Oak.¹ “We believe this technology can have a significant impact on helping clinicians to identify breast cancer.”",
+            "mt": "スクリーニングマンモグラフィーを実施する際の重要な課題は、放射線レベルを可能な限り低く保つことです。GEのSenoClaireでは、標準的な2Dマンモグラフィから3D画像への線量の増加はありません。これは、SenoClaireの乳房検査中に患者への線量が増加しないことを意味します。「3D乳癌スクリーニング技術は、臨床医が標準的な2Dマンモグラフィの制限要因となりうる小さな癌を発見するのに役立ちます。放射線科医として、線量を増加させることなく、より高い画像品質を生み出すこのような技術を患者に提供することが重要です」と、オークランド大学ウィリアム・ボーモント医学部放射線科診断部門および分子イメージング教授であり、ボーモント駅病院(ロイヤルオーク)の乳腺イメージングおよび介入部門のディレクターであるFACRのDr.Murray Rebner医師は述べ、「この技術は臨床医が乳癌を特定するのに役立つことに大きな影響を与えると考えています」。",
+            "MQM_score": 26.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 799,
+                    "end": 800,
+                    "text": "¹",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 79,
+                    "text": "マンモグラフィ",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 99,
+                    "text": "ありません。",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 126,
+                    "text": "線量",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 146,
+                    "text": "乳癌",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 167,
+                    "end": 174,
+                    "text": "マンモグラフィ",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 261,
+                    "end": 302,
+                    "text": "オークランド大学ウィリアム・ボーモント医学部放射線科診断部門および分子イメージング",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 308,
+                    "end": 316,
+                    "text": "ボーモント駅病院",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 326,
+                    "end": 341,
+                    "text": "乳腺イメージングおよび介入部門",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 375,
+                    "end": 377,
+                    "text": "述べ",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 377,
+                    "end": 378,
+                    "text": "、",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In addition to offering more clarity, confidence and low dose, SenoClaire offers a complete solution by helping to improve overall workflow. SenoClaire is compatible with CentricityTM PACS with Universal Viewer and supports the DICOM standard that can be read by capable PACS vendors. When SenoClaire is combined with GE Healthcare's Centricity PACS and Centricity Clinical Archive solution², clinicians have access to the patient's longitudinal record, providing data that helps to enable better patient care.",
+            "mt": "SenoClaireは、より明確性、信頼性、および低線量性を提供するだけでなく、ワークフロー全体の改善を支援することで、包括的なソリューションを提供します。SenoClaireは、Universal Viewerを備えたCentricityTM PACSと互換性があり、有能なPACSベンダーが読み取ることができるDICOM規格をサポートしています。SenoClaireがGE HealthcareのCentricity PACSおよびCentricity Clinical Archiveソリューション²と組み合わされると、臨床医は患者の長期的な記録にアクセスできるようになり、より優れた患者ケアを可能にするデータを提供できます。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 474,
+                    "end": 482,
+                    "text": "helps to",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 138,
+                    "text": "有能な",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 146,
+                    "text": "ベンダー",
+                    "type": 16,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "“With the FDA's approval of SenoClaire, we build on our breast care continuum which offers physicians and patients a complete suite of solutions – from screening and diagnosis through treatment and monitoring,” said Catherine Tabaka, Chief Marketing Officer, GE Healthcare, Detection and Guidance Solutions. “SenoClaire not only offers patients a new solution to help clinicians better detect breast cancer, but does so with low dose radiation and high image quality. This new generation technology, breast tomosynthesis, together with innovative solutions like contrast enhanced spectral mammography, automated whole breast ultrasound, and molecular breast imaging will equip healthcare providers with a comprehensive set of tools that will help their patients across the entire breast care continuum.”",
+            "mt": "GE Healthcare,Detection and Guidance Solutionsの最高マーケティング責任者であるCatherine Tabaka氏は次のように述べています。「SenoClaireのFDAの承認を得て、私たちは、医師と患者に対して、スクリーニングと診断から治療とモニタリングに至るまで、包括的な一連のソリューションを提供するブレストケアの連続体を構築しました。SenoClaireは、臨床医が乳がんをよりよく検出できるようにするための新しいソリューションを患者に提供するだけでなく、低線量の放射線と高画質を提供します。この新世代のテクノロジーである乳房トモシンセシスと、コントラスト強調スペクトルマンモグラフィ、全乳房自動超音波、分子乳房イメージングなどの革新的なソリューションを組み合わせることで、医療機関はブレストケアの連続体全体にわたって患者を支援する包括的なツールセットを提供できるようになります。」",
+            "MQM_score": 35,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 209,
+                    "end": 210,
+                    "text": "”",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 211,
+                    "end": 306,
+                    "text": "said Catherine Tabaka, Chief Marketing Officer, GE Healthcare, Detection and Guidance Solutions",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 308,
+                    "end": 309,
+                    "text": "“",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 417,
+                    "end": 424,
+                    "text": "so with",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 92,
+                    "text": "GE Healthcare,Detection and Guidance Solutionsの最高マーケティング責任者であるCatherine Tabaka氏は次のように述べています。",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 182,
+                    "end": 185,
+                    "text": "連続体",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 210,
+                    "end": 212,
+                    "text": "がん",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 278,
+                    "end": 284,
+                    "text": "テクノロジー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 311,
+                    "end": 318,
+                    "text": "マンモグラフィ",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 367,
+                    "end": 368,
+                    "text": "は",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 375,
+                    "end": 378,
+                    "text": "連続体",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Currently, GE Healthcare has 180 units installed in Europe, Australia, Latin America, Southeast Asia and the Middle East.",
+            "mt": "現在、GE Healthcareはヨーロッパ、オーストラリア、ラテンアメリカ、東南アジア、中東に180台を導入しています。",
+            "MQM_score": 0
+        },
+        {
+            "src": "About GE Healthcare",
+            "mt": "GE Healthcareについて",
+            "MQM_score": 0
+        },
+        {
+            "src": "GE Healthcare provides transformational medical technologies and services to meet the demand for increased access, enhanced quality and more affordable healthcare around the world. GE (NYSE: GE) works on things that matter - great people and technologies taking on tough challenges. From medical imaging, software & IT, patient monitoring and diagnostics to drug discovery, biopharmaceutical manufacturing technologies and performance improvement solutions, GE Healthcare helps medical professionals deliver great healthcare to their patients.",
+            "mt": "GE Healthcareは革新的な医療テクノロジーとサービスを提供し、世界中のアクセスの向上、品質の向上、より手頃な医療への需要に対応しています。GE(NYSE: GE)は、重要なことに取り組んでいます。つまり、優れた人材とテクノロジーが困難な課題に対応しています。GE Healthcareは、医療イメージング、ソフトウェア&IT、患者の監視と診断から創薬、バイオ医薬品の製造テクノロジー、パフォーマンス向上ソリューションまで、医療専門家が優れた医療を患者に提供できるよう支援しています。",
+            "MQM_score": 9,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 26,
+                    "text": "テクノロジー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 106,
+                    "text": "います。つまり",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 133,
+                    "text": "優れた人材とテクノロジーが困難な課題に対応しています",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 171,
+                    "end": 173,
+                    "text": "監視",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 190,
+                    "end": 196,
+                    "text": "テクノロジー",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Tackling Cancer",
+            "mt": "がんへの取り組み",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "がん",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "At GE, we envision a day when cancer is no longer a deadly disease. In September 2011, GE Healthcare launched an ambitious global campaign against cancer, committing $1 billion of its total R&D budget over the next five years to expand its advanced cancer diagnostic and molecular imaging capabilities, as well as its advanced technologies for the manufacture of biopharmaceuticals and for cancer research. By the end of 2012, $335M had been invested, setting GE on track to meet its five-year commitment. To accelerate progress, and to help clinicians deliver better care to 10 million patients by 2020, the campaign against cancer combines the strength of GE's portfolio of cancer technologies with the innovations born from collaborations with key partners. To learn more on how GE is tackling cancer, see: http://www.getacklingcancer.com/.",
+            "mt": "GEでは、癌がもはや死の病ではなくなった日を夢見ています。2011年9月、GEヘルスケアは、癌に対する意欲的なグローバルキャンペーンを開始しました。今後5年間の研究開発予算のうち10億ドルを投じて、先進的な癌診断と分子イメージングの能力と、バイオ医薬品の製造と癌研究のための先進技術を拡張しました。2012年末までに335万ドルが投資され、GEは5年間のコミットメントを達成する軌道に乗っていました。進歩を加速し、臨床医が2020年までに1000万人の患者により良いケアを提供できるよう支援するために、癌に対するキャンペーンは、GEの癌技術ポートフォリオの強みと主要パートナーとのコラボレーションから生まれたイノベーションを組み合わせています。GEが癌にどのように取り組んでいるかについての詳細は、http://www.getacklingcancer.com/を参照してください。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 20,
+                    "text": "なくなった",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 44,
+                    "text": "GEヘルスケア",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 74,
+                    "text": "しました。",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 120,
+                    "text": "と、",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 158,
+                    "end": 162,
+                    "text": "335万",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 192,
+                    "end": 199,
+                    "text": "乗っていました",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 251,
+                    "end": 262,
+                    "text": "癌に対するキャンペーン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Media Contact",
+            "mt": "メディアの連絡先",
+            "MQM_score": 0
+        },
+        {
+            "src": "GE Healthcare",
+            "mt": "GEヘルスケア",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "GEヘルスケア",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Jennifer Fox",
+            "mt": "ジェニファー・フォックス",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "ジェニファー・フォックス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Manager, PR & Global Communications, DGS",
+            "mt": "DGS広報・グローバル・コミュニケーション担当マネージャー",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 21,
+                    "text": "DGS広報・グローバル・コミュニケーション",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 23,
+                    "text": "担当",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "jennifer.r.fox@ge.com",
+            "mt": "jennifer.r.fox@ge.com",
+            "MQM_score": 0
+        },
+        {
+            "src": "+1 414-721-3813",
+            "mt": "+1414 - 721-3813",
+            "MQM_score": 0
+        },
+        {
+            "src": "* Trademark of General Electric Company",
+            "mt": "*General Electric社の商標",
+            "MQM_score": 0
+        },
+        {
+            "src": "¹ Dr. Murray Rebner has performed research affiliated with GE Healthcare's SenoClaire.",
+            "mt": "Murray Rebner博士は、GE HealthcareのSenoClaireと提携して研究を行ってきました。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 1,
+                    "text": "¹",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Murray Rebner博士",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "² Centricity Clinical Archive solution includes the following product components: Centricity Enterprise Archive, Universal Viewer ZFP, Caradigm™ eHIE, Centricity Clinical Gateway, NextGate MatchMetrix EMPI, and PACSGEAR PacsSCAN™.",
+            "mt": "²Centricity Clinical Archiveソリューションには、次の製品コンポーネントが含まれています。Centricity Enterprise Archive、Universal Viewer ZFP、Caradigm™eHIE、Centricity Clinical Gateway、NextGate MatchMetrix EMPI、れています。PACSGEAR PacsSCAN",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 229,
+                    "end": 230,
+                    "text": ".",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 177,
+                    "end": 183,
+                    "text": "れています。",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

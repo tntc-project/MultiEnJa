@@ -1,0 +1,640 @@
+{
+    "450.json": [
+        {
+            "src": "Evaluation and Acceptance of Emergency Breathing Support Systems (EBSS) Incorporated into SCBA Approvals",
+            "mt": "SCBA認可に組み込まれた緊急呼吸支援システム(EBSS)の評価および受け入れ",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "認可",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 39,
+                    "text": "受け入れ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Letter to All Interested Parties",
+            "mt": "すべての利害関係者への書簡",
+            "MQM_score": 0
+        },
+        {
+            "src": "Issue Date: February 18, 2014",
+            "mt": "発行日:2014年2月18日",
+            "MQM_score": 0
+        },
+        {
+            "src": "From: Jonathan Szalajda, Acting Chief, Technical Evaluation Branch, National Personal Protective Technology Laboratory",
+            "mt": "(出典)アメリカ合衆国国立個人用保護具技術研究所技術評価部課長代理ジョナサン・Szalajda",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 3,
+                    "text": "出典",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 47,
+                    "text": "Szalajda",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Subject: Evaluation and Acceptance of Emergency Breathing Support Systems (EBSS) Incorporated into SCBA Approvals",
+            "mt": "対象:SCBA認可に組み込まれた緊急呼吸補助システム(EBSS)の評価および受け入れ",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "対象",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "認可",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 42,
+                    "text": "受け入れ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "NIOSH is revising its policy on the use of Emergency Breathing Support Systems (EBSS), also known as “Buddy Breathers”. This policy change is being made coincident with the addition of requirements related to the use and operation of these devices in the NFPA 1981, 2013 edition. This policy change will be applicable only to SCBAs meeting the requirements of NFPA 1981, 2013, or subsequent editions. NIOSH will recognize NFPA 1981, 2013-compliant EBSS systems as a part of the NIOSH SCBA approval for users who have received the appropriate level of training. Users will be able to identify approvals for SCBA which incorporate the required hardware by the explicit listing of an additional EBSS statement to the standard cautions and limitations on the approval label. The statement will signify the EBSS components have been evaluated by NIOSH and accepted as meeting the requirements for EBSS under the requirements of NFPA 1981, Revision 2013.",
+            "mt": "NIOSHはEmergency Breathing Support Systems(EBSS)の使用に関するポリシーを改訂しています。このポリシーの変更は、NFPA1981,2013Editionでこれらのデバイスの使用と操作に関連する要件が追加されたことと同時に行われます。このポリシーの変更は、NFPA1981,2013、またはそれ以降のエディションの要件を満たすSCBAにのみ適用されます。NIOSHは、適切なレベルのトレーニングを受けたユーザのNIOSH SCBA承認の一部として、NFPA1981,2013に準拠したEBSSシステムを認識します。ユーザは、承認ラベルの標準の注意と制限に追加のEBSSステートメントを明示的にリストすることで、必要なハードウェアを組み込んだSCBAの承認を識別できます。このステートメントは、EBSSコンポーネントがNIOSHによって評価され、NFPA1981,Revision2013の要件の下でEBSSの要件を満たすものとして受け入れられたことを示します。",
+            "MQM_score": 10.3,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 87,
+                    "end": 118,
+                    "text": "also known as “Buddy Breathers”",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 41,
+                    "text": "Emergency Breathing Support Systems",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 87,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 98,
+                    "text": "Edition",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 158,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 253,
+                    "end": 254,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 397,
+                    "end": 397,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 402,
+                    "end": 402,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 410,
+                    "end": 410,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Based upon a review of submissions made to the NIOSH Docket 147, as well as the applicable OSHA standards, NIOSH is modifying the existing “Buddy Breather” policy to further support and encourage best practices in the fire service for the deployment of EBSS. Accessories available on some manufacturers' products enable users to have the option to provide buddy breathing; however, effective training programs are not in place across the nation. It has been reported that departments are reluctant to document success stories; however, anecdotal evidence submitted to the docket indicates that lives have been saved when Buddy Breathers have been used.",
+            "mt": "NIOSHのDocket147及び適用されるOSHA基準に提出された提出物のレビューに基づいて,NIOSHは,EBSSの展開のための消防におけるベストプラクティスを更にサポートし奨励するために,既存の\"Buddy Breer\"ポリシーを修正している。一部のメーカーの製品で利用可能なアクセサリは、ユーザーがバディブリージングを提供するオプションを持つことを可能にします。しかし、効果的なトレーニングプログラムは全国的には実施されていません。部署が成功事例を記録することに消極的であると報告されているが、事件記録に提出された事例証拠は、バディブリーザーが使用されたときに命が救われたことを示している。",
+            "MQM_score": 5.300000000000001,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 15,
+                    "text": "Docket147",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 48,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 55,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 96,
+                    "end": 97,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 113,
+                    "text": "\"Buddy Breer\"",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 124,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 184,
+                    "text": "持つことを可能にします",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 296,
+                    "end": 298,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Recognition of these practices and use of EBSS conforming to the newly developed NFPA 1981:2013 standard provides a framework for the Fire Service to formally incorporate best practices in the fire service for the maintenance and use of EBSS and development of “Buddy Breathing” training programs conforming to National Fire Protection Association Standards 1404, Fire Service Respiratory Protection Training and 1500, Fire Department Occupational Safety and Health Program, which will further address cautions and limitations associated with the use of EBSS in future editions. Until such time that the personnel training requirements of NFPA 1404 and the Occupational Safety and Health Program requirements of NFPA 1500 are revised to address EBSS maintenance and use, NIOSH will require the manufacturer User Instructions to provide training information.",
+            "mt": "新たに開発されたNFPA1981:2013規格に適合するこれらの慣行及びEBSSの使用の認識は、消防機関がEBSSのメンテナンス及び使用のための消防機関におけるベストプラクティスを正式に組み込むための枠組みを提供し、また、将来の版でEBSSの使用に関連する注意及び制限に更に対処することになる全米防火協会規格1404、消防機関呼吸保護訓練及び1500、消防署労働安全衛生プログラムに適合する「バディ・ブリージング」訓練プログラムの開発を提供する。NFPA1404の職員訓練要件及びNFPA1500の労働安全衛生プログラム要件がEBSSのメンテナンス及び使用に対処するために改訂されるまで、NIOSHは、訓練情報を提供することを製造者の取扱説明書に要求する。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 220,
+                    "end": 222,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 325,
+                    "end": 327,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Those making application for approval are advised of the following minimum requirements.",
+            "mt": "承認申請を行う者に対して、以下の最低要件を周知する。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 23,
+                    "text": "周知",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 25,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Additional standards:",
+            "mt": "その他の標準:",
+            "MQM_score": 0
+        },
+        {
+            "src": "In order to be evaluated for incorporation into SCBA approval, EBSS systems must be incorporated into SCBA configurations found to be conforming to NFPA 1981:2013, by a certification organization accredited for personal protective equipment in accordance with ISO/IEC Guide 65, General requirements for bodies operating product certification systems, currently Safety Equipment Institute (SEI).",
+            "mt": "SCBA認可への組み込みについて評価されるためには、EBSSシステムは、ISO/IECガイド65「製品認証システムを運用する団体の一般要件」(現在のSafety Equipment Institute(SEI))に従って個人用保護具について認定された認証機関によって、NFPA1981:2013に適合していることが判明したSCBA構成に組み込まれなければなりません。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "認可",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 100,
+                    "text": "Safety Equipment Institute",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Additional testing:",
+            "mt": "追加テスト:",
+            "MQM_score": 0
+        },
+        {
+            "src": "All components of the EBSS must be able to operate at the specified low temperature limit without adversely affecting the operation of the SCBA, as determined by testing conducted in accordance with the current revision of Standard Test Procedure TEB-CBRN-ASR-STP-0219.",
+            "mt": "EBSSのすべての構成部品は、標準テスト手順TEB-CBRN-ASR-STP-0219の現行改訂に従って実施されたテストによって決定されるように、SCBAの作動に悪影響を及ぼすことなく、指定された低温限界で作動することができなければならない。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 120,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "At the minimum activation pressure with the EBSS receiver line held open to atmosphere, the donor unit must be able to meet Pressure-Demand performance requirements through the remainder of the air supply as determined by testing in accordance with the current revision of Standard Testing Procedure TEB-CBRN-ASR-STP-0220.",
+            "mt": "EBSSレシーバラインを大気に開放した状態での最小活性化圧力において、ドナーユニットは、標準試験手順TEB-CBRN-ASR-STP-0220の現行改訂に従った試験によって決定された空気供給の残りの部分を通じて圧力要求性能要件を満たすことができなければならない。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 130,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Starting from a full cylinder and prior to the minimum End-of-Service-Time-Indicator (EOSTI) activation pressure the EBSS donor/receiver line will be opened to atmosphere and held open. The duration for which the host unit performance meets Pressure-Demand performance requirements as determined by testing in accordance with the current revision of Standard Testing Procedure TEB-CBRN-ASR-STP-0220, will be measured and recorded.",
+            "mt": "フルシリンダーから開始し、最小の使用終了時間インジケータ(EOSTI)作動圧の前に、EBSSドナー/レシーバーラインを大気開放し、開放したままにする。ホストユニットの性能が、標準テスト手順TEB-CBRN-ASR-STP-0220の現行改訂に従ってテストで決定された圧力要求性能要件を満たす期間を測定し、記録する。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 74,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 156,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Additional cautions and limitations:",
+            "mt": "その他の注意事項と制限事項:",
+            "MQM_score": 0
+        },
+        {
+            "src": "The approval label must include these additional cautions and limitations:",
+            "mt": "認可ラベルには、以下の追加の注意および制限事項を記載しなければならない:",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "認可",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 35,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "EBSS Activation or engagement of EBSS in either the donor or receiver mode changes the SCBA use to Escape-Only, approved service time for either the donor, or the receiver is no longer applicable. Additional critical cautions and limitations apply. Refer to section EBSS in the users' manual.",
+            "mt": "EBSS:ドナーモードまたはレシーバモードのいずれかでEBSSをアクティブ化または関与させると、SCBAの使用が変更され、ドナーまたはレシーバのいずれかのEscape-Only、承認されたサービス時間が適用されなくなります。その他の重要な注意事項および制限事項が適用されます。ユーザーズマニュアルの「EBSS」セクションを参照してください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 88,
+                    "text": "Escape-Only",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "At a minimum, these additional caution and limitation statements must appear in section EBSS.",
+            "mt": "少なくとも、これらの追加の注意および制限の記述は、セクションEBSSに記載する必要があります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "EBSS may not be engaged or activated in donor mode after the donor End-of-Service-Time-Indicator (EOSTI) has activated.a",
+            "mt": "ドナーのEnd-of-Service-Time-Indicator(EOSTI)がアクティブ化された後、EBSSがドナーモードで使用またはアクティブ化されない場合があります。a",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 33,
+                    "text": "End-of-Service-Time-Indicator",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 88,
+                    "text": "a",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Users must be fully trained in the operation of EBSS in accordance with a training program conforming to the requirements of NFPA Standards 1404, Fire Service Respiratory Protection Training and 1500, Fire Department Occupational Safety and Health Program.",
+            "mt": "ユーザは、NFPA規格1404、消防機関呼吸保護訓練および1500、消防署労働安全衛生プログラムの要件に適合する訓練プログラムに従って、EBSSの操作について十分な訓練を受けている必要があります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Simultaneous connection of more than two users, one donor, and one receiver, is not permitted.",
+            "mt": "2人以上のユーザー、1人のドナー、1人のレシーバの同時接続は許可されません。",
+            "MQM_score": 0
+        },
+        {
+            "src": "General application information:",
+            "mt": "一般的なアプリケーション情報:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 12,
+                    "text": "アプリケーション",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "All certification application(s) shall 1) be submitted concurrently to NIOSH (Records Room) and SEI and 2) include a completed application package for each SCBA respirator model for which approval is requested. NIOSH submittals must conform to the requirements outlined in the Standard Application Procedures (SAP). Standard SCBA approval fees are applicable to each new approval sought. Consultations with NIOSH are available and encouraged prior to submitting an application to enable an accurate determination of required test hardware to be made. Your effort in following these procedures will assist NIOSH and SEI in ensuring an orderly certification process.",
+            "mt": "全ての認証申請は,(1)NIOSH(Records Room)とSEIに同時に提出すること,及び(2)承認が求めら各SCBA呼吸用保護具モデルのための完成した申請パッケージを含むこと。NIOSHの提出は,標準申請手続き(SAP)に概説された要件に適合しなければならない。標準SCBA承認手数料は,申請される各新規承認に適用される。申請を提出する前にNIOSHと協議し,必要な試験ハードウェアを正確に決定できるようにすることが望ましい。これらの手続きこれらの手続きに従うあなたの努力は,NIOSHとSEIが正規の認証プロセスを確保することを支援する。",
+            "MQM_score": 6.5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 30,
+                    "text": "Records Room",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 46,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 91,
+                    "text": "むこと",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 102,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 130,
+                    "end": 134,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 148,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 164,
+                    "text": "される",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 183,
+                    "end": 184,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 214,
+                    "end": 216,
+                    "text": "しい",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 241,
+                    "end": 242,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 271,
+                    "end": 273,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "We hope this information is helpful to you. Please feel free to contact Robert Stein at 412-386-6889 or by email at rstein@cdc.gov if you have any questions.",
+            "mt": "この情報がお役に立てば幸いです。何かご質問がありましたら、412-386-6889のロバート・スタインまでお気軽にお問い合わせいただくか、rstein@cdc.govまで電子メールでお問い合わせください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Evaluation and Acceptance of Emergency Breathing Support Systems (EBSS) Incorporated into SCBA Approvals",
+            "mt": "SCBA認可に組み込まれた緊急呼吸支援システム(EBSS)の評価および受け入れ",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "認可",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 39,
+                    "text": "受け入れ",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "[PDF – 33 KB]",
+            "mt": "[PDF-33KB]",
+            "MQM_score": 0
+        },
+        {
+            "src": "a Consistent with the requirements of NFPA 1981:2013, EOSTI settings of less than 33% of service pressure will not be permitted; however, higher minimum EBSS activation pressures will be considered contingent upon acceptable notification to the user.",
+            "mt": "a NFPA1981:2013の要件に従い、サービス圧の33%未満のEOSTI設定は許可されないが、より高い最低EBSSアクティベーション圧は、ユーザへの許容可能な通知に基づいて考慮される。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 49,
+                    "text": "ないが",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 94,
+                    "text": "される",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Page last reviewed: December 10, 2014 (archived document)",
+            "mt": "最終確認日:2014年12月10日(アーカイブされたドキュメント)",
+            "MQM_score": 0
+        },
+        {
+            "src": "Content source: National Institute for Occupational Safety and Health",
+            "mt": "コンテンツソース:独立行政法人労働安全衛生総合研究所",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 26,
+                    "text": "独立行政法人労働安全衛生総合研究所",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

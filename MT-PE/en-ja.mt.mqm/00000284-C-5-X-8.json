@@ -1,0 +1,409 @@
+{
+    "284.json": [
+        {
+            "src": "Nappy Cat Launches First Title, a Physics Based Sling and Capture Monster Game Dubbed ‘Slingsters'",
+            "mt": "「おむつキャット」、初のゲームタイトル「Slingsters」を発売",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 32,
+                    "end": 85,
+                    "text": "a Physics Based Sling and Capture Monster Game Dubbed",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 8,
+                    "text": "おむつキャット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted January 7th, 2020 for Nappy Cat",
+            "mt": "おむつキャット2020年1月7日投稿",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "おむつキャット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Slingsters is an interactive physics based logic game consisting of fun-filled puzzles with multiple levels and gameplay in which gamers sling cute mysterious monsters of varied abilities across the screen to capture and package them in a box for delivery.",
+            "mt": "Slingstersは、インタラクティブな物理ベースの論理ゲームで、複数レベルの楽しいパズルとゲームプレイで構成されています。ゲームプレイでは、さまざまな能力を持つかわいい神秘的なモンスターを画面全体に投げ込み、それらをキャプチャして箱に入れて配送します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "CHICAGO, IL",
+            "mt": "イリノイ州シカゴ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "イリノイ州シカゴ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Monday, January 6th, 2020",
+            "mt": "2020年1月6日(月)",
+            "MQM_score": 0
+        },
+        {
+            "src": "/PressReleasePoint/",
+            "mt": "/PressReleasePoint/",
+            "MQM_score": 0
+        },
+        {
+            "src": "Launching globally today, January 6th, Slingsters is Nappy Cat's First title to hit the App Stores.",
+            "mt": "今日(米国時間1/6)全世界でローンチしたSlingstersは、App StoreでおむつCatの最初のタイトルとなる。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "米国時間",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 49,
+                    "text": "おむつCat",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 60,
+                    "text": "なる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Slingsters is an interactive physics based logic game consisting of fun-filled puzzles with multiple levels and gameplay in which gamers sling cute mysterious monsters of varied abilities across the screen to capture and package them in a box for delivery.",
+            "mt": "Slingstersは、インタラクティブな物理ベースの論理ゲームで、複数レベルの楽しいパズルとゲームプレイで構成されています。ゲームプレイでは、さまざまな能力を持つかわいい神秘的なモンスターを画面全体に投げ込み、それらをキャプチャして箱に入れて配送します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "No matter how cute these monster pets are, they will not willingly comply and dive into a box to be captured!",
+            "mt": "このモンスターペットがどんなにかわいくても、快く応じず、箱に飛び込んで捕まりません!",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 41,
+                    "text": "快く応じず、箱に飛び込んで捕まりません",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Gamers have to playfully and strategically sling and capture each new monster into it's box.",
+            "mt": "ゲーマーたちは、新しいモンスターを箱の中に投げ込んで、戦略的に操る必要がある。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 33,
+                    "text": "操る",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“We are extremely excited to bring Slingsters to the world, and for taking this first step of releasing our first title among the host of games they plan to release soon!”- Stan Nesi (Technical Artist, Nappy Cat)",
+            "mt": "「私たちはSlingstersを世界にもたらすことに非常に興奮しています。そして、まもなくリリースされる予定の多くのゲームの中で最初のタイトルをリリースするというこの第一歩を踏み出したことに、非常に興奮しています!」-Stan Nesi(テクニカルアーティスト、おむつキャット)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 131,
+                    "end": 138,
+                    "text": "おむつキャット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The game is free to play, and the company is currently working on new updates with more levels and gameplay. A version for Amazon App Store is set for release at a later date. Slingsters is also available in French and Spanish.",
+            "mt": "このゲームは無料でプレイすることができ、同社は現在、より多くのレベルとゲームプレイを備えた新しいアップデートに取り組んでいる。Amazon App Storeのバージョンは後日リリースされる予定だ。Slingstersにはフランス語とスペイン語もある。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 63,
+                    "text": "いる。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 99,
+                    "text": "だ。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 126,
+                    "text": "ある。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Slingsters! is now available for iOS and Android as FREE download. View the launch trailer",
+            "mt": "Slingsters!はiOSとAndroidで無料ダウンロードで利用できるようになった。起動トレーラーを表示する",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 45,
+                    "text": "なった。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 47,
+                    "text": "起動",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 57,
+                    "text": "表示する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For more information:",
+            "mt": "詳細については、次を参照してください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 19,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Website: http://slingsters.com",
+            "mt": "ウェブサイト:http://slingsters.com",
+            "MQM_score": 0
+        },
+        {
+            "src": "Facebook: https://facebook.com/slingsters",
+            "mt": "Facebook:https://facebook.com/slingsters",
+            "MQM_score": 0
+        },
+        {
+            "src": "Instagram: https://instagram.com/slingsters.game",
+            "mt": "Instagram:https://instagram.com/slingsters.game",
+            "MQM_score": 0
+        },
+        {
+            "src": "Twitter: https://twitter.com/slingsters",
+            "mt": "Twitter:https://twitter.com/slingsters",
+            "MQM_score": 0
+        },
+        {
+            "src": "YouTube: https://youtube.com/channel/UCmkmBQYB7vGmbUGwKlVFLvw",
+            "mt": "YouTube:https://youtube.com/channel/UCmkmBQYB7vGmbUGwKlVFLvw",
+            "MQM_score": 0
+        },
+        {
+            "src": "Press Info",
+            "mt": "情報を押してください",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "情報を押してください",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Press kit with screenshots and video gameplay at https://nappycat.net/press-kit",
+            "mt": "https://nappycat.net/pressキットのプレスキット(スクリーンショット付き)とビデオゲーム",
+            "MQM_score": 0
+        },
+        {
+            "src": "About Nappy Cat:",
+            "mt": "おむつCatについて:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "おむつCat",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Nappy Cat is a global gaming company with the focus of creating FUN games engulfed with IMAGINATION, INNOVATION, and QUALITY. Nappy Cat want to enrapture life with FUN, and they are just getting started. Nappy Cat is an independent, privately owned, global gaming company based in Chicago, IL. They currently ship products to all major App Stores including: iTunes App Store, Google Play and Amazon App Store. Find out more at https://nappycat.net and follow on Twitter, YouTube, Instagram or Facebook.",
+            "mt": "おむつCatは、IMAGINATION、INNOVATION、およびQUALITYに取り込まれたFUNゲームの作成に焦点を当てたグローバルゲーム企業です。おむつCatは、FUNで人生を盛り上げたいと考えていますが、まだ始まったばかりです。おむつCatは、イリノイ州シカゴに拠点を置く、独立した個人所有のグローバルゲーム企業です。現在、iTunes App Store、Google Play、Amazon App Storeなど、すべての主要App Storeに製品を出荷しています。詳細については、https://nappycat.netのTwitter、YouTube、Instagram、またはFacebookを参照してください。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "おむつCat",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 83,
+                    "text": "おむつCat",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 125,
+                    "text": "おむつCat",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Press Contact:",
+            "mt": "プレス・コンタクト:",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "プレス・コンタクト",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Stan Nesi",
+            "mt": "スタン・ネシ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "スタン・ネシ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Nappy Cat",
+            "mt": "おむつキャット",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "おむつキャット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Chicago, IL 60609 USA",
+            "mt": "シカゴ、IL60609USA",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "シカゴ、",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "1 312-650-9668",
+            "mt": "1312 - 650-9668",
+            "MQM_score": 0
+        },
+        {
+            "src": "*****@**p**c**.net",
+            "mt": "*****@**p**c**.net",
+            "MQM_score": 0
+        },
+        {
+            "src": "https://www.nappycat.net/",
+            "mt": "https://www.nappycat.net/",
+            "MQM_score": 0
+        },
+        {
+            "src": "Contact Stan Nesi",
+            "mt": "連絡先Stan Nesi",
+            "MQM_score": 0
+        }
+    ]
+}

@@ -1,0 +1,1187 @@
+{
+    "366.json": [
+        {
+            "src": "Building practitioner registration",
+            "mt": "建築実務者登録",
+            "MQM_score": 0
+        },
+        {
+            "src": "This page is for:",
+            "mt": "このページの対象:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Builder",
+            "mt": "建造業者",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "建造業者",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "New registration (first time)",
+            "mt": "新規登録(初回)",
+            "MQM_score": 0
+        },
+        {
+            "src": "To work as a building practitioner in Western Australia, registration with the Building Services Board is required. If you intend to be the 'nominated supervisor' of a building contractor, you must be registered as a building practitioner.",
+            "mt": "西オーストラリア州で建築実務家として働くには、建築サービス委員会に登録する必要があります。建築請負業者の「指名監督者」になる場合は、建築実務家として登録する必要があります。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 123,
+                    "end": 132,
+                    "text": "intend to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "西オーストラリア州",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 15,
+                    "text": "建築実務家",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 32,
+                    "text": "建築サービス委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 71,
+                    "text": "建築実務家",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you are a builder and you neither intend to seek building permits from local government permit authorities, nor intend to contract directly with others to provide building work valued at over $20,000, you do not need to be registered.",
+            "mt": "あなたが建築業者であり、地方自治体の認可当局に建築許可を求めるつもりもなければ、20000ドル以上の建築工事を提供するために他者と直接契約するつもりもなければ、登録する必要はありません。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 45,
+                    "text": "20000",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "When considering an application for registration as a building practitioner, the Board considers, among other factors, the applicant's qualifications, experience and fitness to be registered.",
+            "mt": "建築実務者としての登録出願を検討するときは,委員会は,他の要素の中でも,登録されるべき出願人の資格,経験及び適格性を考慮する。",
+            "MQM_score": 32.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 13,
+                    "text": "出願",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 22,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 25,
+                    "text": "委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 27,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 36,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 46,
+                    "text": "出願人",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 50,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 52,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 62,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Registration as a building practitioner does not authorise a person to provide services as a building contractor.",
+            "mt": "建築主としての登録は、建築工事業者として役務を提供することを認めない。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "建築主",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 17,
+                    "text": "建築工事業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 34,
+                    "text": "認めない",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "How do I apply?",
+            "mt": "どうやって申し込むんですか?",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "どうやって申し込むんですか",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 14,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "To apply for registration as a building practitioner you must complete the application form for the set that you wish to apply under. There are five sets, each with different requirements. Select the set most suited to your qualifications and experience. Submit your completed application form to Licensing Services along with your supporting documentation and applicable fees.",
+            "mt": "建築実務者として登録を申請するには、申請するセットの申請書に必要事項を記入する必要があります。5つのセットがあり、それぞれ要件が異なります。資格と経験に最も適したセットを選択してください。記入した申請書を、サポート資料および該当する料金とともにライセンスサービスに提出してください。",
+            "MQM_score": 22,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 113,
+                    "end": 120,
+                    "text": "wish to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 35,
+                    "text": "必要事項を",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 109,
+                    "text": "サポート資料",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 112,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 118,
+                    "text": "料金",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 131,
+                    "text": "ライセンスサービス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Each application is thoroughly reviewed by the Licensing staff and may be individually considered by the Building Services Board.",
+            "mt": "各アプリケーションは、ライセンス担当者によって徹底的にレビューされ、建築サービス委員会によって個別に検討されます。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 67,
+                    "end": 70,
+                    "text": "may",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 9,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 31,
+                    "text": "レビュー",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 43,
+                    "text": "建築サービス委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Time frame for application processing",
+            "mt": "アプリケーション処理の時間枠",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "処理",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "時間枠",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Most building practitioner applications are determined within 14 weeks. You can assist by submitting all of the information required in your application and allow sufficient time for it to be fully assessed.",
+            "mt": "ほとんどの建築実務者アプリケーションは、14週間以内に決定されます。アプリケーションに必要なすべての情報を提出することで、アプリケーションが完全に評価されるまでの十分な時間を確保できます。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 80,
+                    "end": 86,
+                    "text": "assist",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 18,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 42,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 69,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Sets and application forms",
+            "mt": "セットと申請書",
+            "MQM_score": 0
+        },
+        {
+            "src": "Set 1",
+            "mt": "セット1",
+            "MQM_score": 0
+        },
+        {
+            "src": "To apply under set 1, you need to have: completed the Diploma of Building and Construction; and seven years experience in carrying out or supervising building work.",
+            "mt": "セット1に応募するには、次のものが必要です。建築および建設の学位を取得していること。建築作業の実施または監督に7年の経験があること。",
+            "MQM_score": 32,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 92,
+                    "end": 95,
+                    "text": "and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "に",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "応募",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 16,
+                    "text": "次のもの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 27,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "学位",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 35,
+                    "text": "取得",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 42,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 1 – Building practitioner initial application (Form 05)",
+            "mt": "セット1-開業医初回申請(様式05)",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "開業医",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "申請",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 2",
+            "mt": "セット2",
+            "MQM_score": 0
+        },
+        {
+            "src": "To apply under set 2, you need to: have five years full time experience in supervising building construction; and be registered under the Architects Act 2004, or be a member of the: Royal Australian Institute of Architects; Institution of Engineers Australia; or Australian Institute of Mining and Metallurgy.",
+            "mt": "set2を適用するには、次の条件を満たす必要があります。建築工事の監督に5年間のフルタイムの経験があり、2004年建築士法に基づいて登録されているか、オーストラリア王立建築士協会、オーストラリア技術者協会、またはオーストラリア鉱業冶金協会のメンバーであること。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "適用",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 27,
+                    "text": "次の条件を満たす必要があります",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 89,
+                    "text": "オーストラリア王立建築士協会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 102,
+                    "text": "オーストラリア技術者協会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 106,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 119,
+                    "text": "オーストラリア鉱業冶金協会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 120,
+                    "end": 124,
+                    "text": "メンバー",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 2 – Building practitioner initial application (Form 06)",
+            "mt": "セット2-開業医初回申請(様式06)",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "開業医",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "申請",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 3",
+            "mt": "セット3",
+            "MQM_score": 0
+        },
+        {
+            "src": "To apply under set 3, you need to have: five years of full time experience in carrying out, supervising or managing building construction; and hold membership with the Australian Institute of Building as a Member or Fellow.",
+            "mt": "セット3を申請するには、以下の条件を満たしている必要があります。建築工事の施工、監督、管理に5年間のフルタイムの経験があること。オーストラリア建築協会の会員またはフェローとして会員になっていること。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 104,
+                    "end": 106,
+                    "text": "or",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 139,
+                    "end": 142,
+                    "text": "and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 31,
+                    "text": "以下の条件を満たしている必要があります",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 39,
+                    "text": "施工",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 64,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 75,
+                    "text": "オーストラリア建築協会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 81,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 96,
+                    "text": "会員になっている",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 3 – Building practitioner initial application (Form 07)",
+            "mt": "セット3-開業医初回申請(様式07)",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "開業医",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "申請",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 4",
+            "mt": "セット4",
+            "MQM_score": 0
+        },
+        {
+            "src": "To apply under set 4, you need to have: gained sufficient knowledge and skills equivalent to a person who completed the Diploma of Building and Construction (as referred to in set 1); and five years of full time experience in supervising or managing building construction.",
+            "mt": "セット4を申請するには、建築・建設の学位(セット1参照)を取得した人と同等の十分な知識と技能を身に付け、建築工事の監理・管理に5年間の実務経験が必要です。",
+            "MQM_score": 49,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 22,
+                    "end": 38,
+                    "text": "you need to have",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 173,
+                    "end": 175,
+                    "text": "in",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 184,
+                    "end": 187,
+                    "text": "and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 15,
+                    "text": "・",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 20,
+                    "text": "学位",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 27,
+                    "text": "参照",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 31,
+                    "text": "取得",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 51,
+                    "text": "身に付け",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "監理",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 60,
+                    "text": "・",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 69,
+                    "text": "実務",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 76,
+                    "text": "必要です",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 4 – Building practitioner initial application (Form 08)",
+            "mt": "セット4-開業医初回申請(様式08)",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "開業医",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "申請",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Set 5",
+            "mt": "セット5",
+            "MQM_score": 0
+        },
+        {
+            "src": "To apply under set 5, you need to have: sufficient experience to gain the equivalent knowledge and skills as a person who has successfully completed the Diploma of Building and Construction (as referred to in set 1); and seven years full time experience outside the area of the Board's jurisdiction in carrying out building work.",
+            "mt": "セット5を申請するには、次の条件が満たされている必要があります。建築と建設の学位(セット1で参照)を修了した人と同等の知識と技能を習得するための十分な経験があること、および建築作業を行う際に委員会の管轄区域外で7年間のフルタイムの経験があること。",
+            "MQM_score": 40,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 126,
+                    "end": 138,
+                    "text": "successfully",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 31,
+                    "text": "次の条件が満たされている必要があります",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": "と",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 40,
+                    "text": "学位",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 48,
+                    "text": "参照",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 69,
+                    "text": "習得する",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 86,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 91,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 93,
+                    "text": "行う",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 94,
+                    "text": "際",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 98,
+                    "text": "委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Set 5 – Building practitioner initial application (Form 09)",
+            "mt": "セット5-開業医初回申請(様式09)",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "開業医",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "申請",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Qualifications and experience",
+            "mt": "資格と経験",
+            "MQM_score": 0
+        },
+        {
+            "src": "To apply for registration as a building practitioner you must document that you have particular qualifications and experience. For more information go to the web page 'Documenting your experience and qualifications'.",
+            "mt": "建築従事者の登録を申請するには、特定の資格および経験があることを文書化する必要があります。詳細については、Webページ「Documenting your experience and qualifications」を参照してください。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "建築従事者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 6,
+                    "text": "の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 24,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 56,
+                    "text": "Web",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 106,
+                    "text": "Documenting your experience and qualifications",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Still unsure which set to use?",
+            "mt": "使用するセットがまだ不明ですか?",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 15,
+                    "text": "ですか",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 16,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If you are unsure which set to apply under or any of the above information, contact Building and Energy on 1300 489 099 or email be.info@dmirs.wa.gov.au.",
+            "mt": "どちらの設定を適用するか、または上記の情報のいずれかが不明な場合は、1300 489 099のBuilding and Energyにお問い合わせいただくか、be.info@dmirs.wa.gov.auお問い合わせください。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "どちらの設定",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 7,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "適用",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 16,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Mutual recognition",
+            "mt": "相互承認",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "相互承認",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you are registered or licensed as a building practitioner elsewhere in Australia or New Zealand, and want to be registered as a building practitioner with the Building Services Board in Western Australia, you can find out more information about having your qualifications recognised in WA.",
+            "mt": "オーストラリアまたはニュージーランドで建築技師として登録またはライセンスを取得しており、西オーストラリア州の建築サービス委員会で建築技師として登録したい場合は、WAで認定された資格の取得に関する詳細情報を参照できます。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 23,
+                    "text": "建築技師",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 53,
+                    "text": "西オーストラリア州",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 63,
+                    "text": "建築サービス委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 68,
+                    "text": "建築技師",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 85,
+                    "text": "認定",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 108,
+                    "text": "できます",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Share this page:",
+            "mt": "このページの共有:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "このページの共有",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Last modified: Tuesday, October 8, 2019 - 10:58",
+            "mt": "最終更新日:10月8日(火)2019 - 10:58",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 18,
+                    "text": "10月8日(火)2019",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

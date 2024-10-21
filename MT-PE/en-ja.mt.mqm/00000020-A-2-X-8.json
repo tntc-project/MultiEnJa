@@ -1,0 +1,736 @@
+{
+    "020.json": [
+        {
+            "src": "Berkadia Completes Sale and Financing of The Rockland",
+            "mt": "Berkadia、The Rocklandの売却と資金調達を完了",
+            "MQM_score": 0
+        },
+        {
+            "src": "Posted October 16th, 2019 for Berkadia",
+            "mt": "2019年10月16日話題入りBerkadia",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 15,
+                    "text": "話題入り",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 23,
+                    "text": "Berkadia",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "October 16, 2019",
+            "mt": "2019年10月16日",
+            "MQM_score": 0
+        },
+        {
+            "src": "18238",
+            "mt": "18238",
+            "MQM_score": 0
+        },
+        {
+            "src": "Disposition of prime student housing asset near University of Kansas",
+            "mt": "カンザス大学周辺の優良学生住宅資産の処分",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "カンザス大学",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "周辺",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 17,
+                    "text": "優良学生住宅資産",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "BOCA RATON, Fla. (Oct. 16, 2019)",
+            "mt": "フロリダ州ボカ・ラトン(2019年10月16日)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "フロリダ州ボカ・ラトン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Diversified, multi-strategy real estate and private equity investment firm Pebb Capital announced today it has completed the sale of The Rockland in Lawrence, Kan. to NB Private Capital (NBPC).",
+            "mt": "多様な戦略を持つ不動産およびプライベート・エクイティ投資会社Pebb Capitalは本日、The Rockland(カンザス州ローレンス)のNB Private Capital(NBPC)への売却を完了したと発表した。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 30,
+                    "text": "不動産およびプライベート・エクイティ投資会社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 58,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 69,
+                    "text": "カンザス州ローレンス",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 70,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 89,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 95,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 109,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Kevin Larimer and Greg Gonzalez of Berkadia's Student Housing team facilitated the sale. Berkadia's Ed Kim and Jie Lee also arranged the financing on behalf of buyer Orange County-based NBPC. Kapp Morrison LLP served as counsel for Pebb Capital in the transaction.",
+            "mt": "BerkadiaのStudent HousingチームのKevin LarimerとGreg Gonzalez、BerkadiaのEd KimとJie Leeは、買い手であるOrange Countyに拠点を置くNBPCに代わって資金調達を手配した。Kapp Morrison LLPは、この取引でPebb Capitalの弁護士を務めた。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 67,
+                    "end": 88,
+                    "text": "facilitated the sale.",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 119,
+                    "end": 123,
+                    "text": "also",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 84,
+                    "text": "買い手",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 124,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 143,
+                    "text": "は",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 168,
+                    "end": 169,
+                    "text": "た",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The firm acquired the distressed asset for $16 million in November 2014, at which time Pebb Capital engaged in an extensive rehabilitation of the 17.0-acre property. This entailed renovating the 372 one- and two-bedroom units, totaling 647 beds and 313,912 square feet of rentable space. The Rockland offers furnished and unfurnished units, customizable furniture packages, high-speed internet, fully equipped kitchen, wood flooring, a full-sized washer and dryer and convenient trash valet service.",
+            "mt": "同社は2014年11月に不良資産を16,000,000ドルで取得した。その時点でPebb Capitalは17.0エーカーの土地の大規模な改修に従事していた。これに伴い、373ベッドルームと2ベッドルームのユニット、合計647ベッド、313912平方フィートの賃貸可能スペースが改修された。Rocklandは家具付きと家具なしのユニット、カスタマイズ可能な家具パッケージ、高速インターネット、完全装備のキッチン、フローリング、フルサイズの洗濯乾燥機、便利なごみ収集サービスを提供している。",
+            "MQM_score": 47,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 288,
+                    "end": 291,
+                    "text": "The",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 419,
+                    "end": 423,
+                    "text": "wood",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "同社",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 27,
+                    "text": "16,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 29,
+                    "text": "ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 53,
+                    "text": "は",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 61,
+                    "text": "17.0エーカー",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 64,
+                    "text": "土地",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 78,
+                    "text": "していた",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 107,
+                    "text": "373ベッドルームと2ベッドルームのユニット",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 123,
+                    "text": "313912",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 129,
+                    "text": "平方フィート",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 144,
+                    "text": "された",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 213,
+                    "end": 219,
+                    "text": "フルサイズの",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 241,
+                    "end": 243,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Pebb Capital also significantly upgraded The Rockland's community amenities, adding additional clubhouse and outdoor recreational space. Improvements included an updated resort-style pool and hot tub; 24-Hour business center with free printing; 24-hour fitness center; common room with gaming station and pool table; complimentary tanning facilities; outdoor barbecue area with grilling area and fire pit; coffee bar; professional-sized sports field with AstroTurf; indoor and outdoor basketball courts; in addition to a dog park and playground.",
+            "mt": "また、Pebb CapitalはThe Rocklandのコミュニティのアメニティを大幅にアップグレードし、クラブハウスと屋外のレクリエーションスペースを追加した。改善された点は、最新のリゾートスタイルのプールと温水浴槽、無料印刷の24時間ビジネスセンター、24時間トレーニングセンター、ゲームステーションとプールテーブルのある共用室、無料の日焼け設備、グリルエリアと火の穴のある屋外バーベキューエリア、コーヒーバー、AstroTurfのあるプロサイズの運動場、屋内外のバスケットボールコート、ドッグパークと運動場などである。",
+            "MQM_score": 35,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 84,
+                    "end": 94,
+                    "text": "additional",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 504,
+                    "end": 518,
+                    "text": "in addition to",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 41,
+                    "text": "コミュニティのアメニティ",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 81,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 115,
+                    "end": 116,
+                    "text": "の",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 120,
+                    "text": "24時間",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 129,
+                    "end": 133,
+                    "text": "24時間",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 184,
+                    "end": 187,
+                    "text": "火の穴",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 209,
+                    "end": 218,
+                    "text": "AstroTurf",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 254,
+                    "end": 257,
+                    "text": "運動場",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 259,
+                    "end": 262,
+                    "text": "である",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“We were successful in the complete conversion of this distressed property, transforming it into a stabilized asset in a high-density, student-driven market,” said Todd Benson, managing director of development and asset management with Pebb Capital. “This sale allows for a renewed focus on other projects, such as our ground-up student housing development of 415W120 underway in New York City, as well as other strategic investment opportunities.”",
+            "mt": "Pebb Capitalの開発・資産管理担当マネージング・ディレクター、Todd Benson氏は、次のように述べている。「われわれは、この困窮した資産を完全に転換することに成功し、高密度で学生主導型の市場で安定した資産に転換した。今回の売却により、ニューヨーク市で進行中の415W120の基礎的な学生住宅開発や、その他の戦略的投資機会など、他のプロジェクトに再び注力できるようになる」",
+            "MQM_score": 23,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 48,
+                    "text": "氏",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 60,
+                    "text": "述べている",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 66,
+                    "text": "われわれ",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 76,
+                    "text": "困窮した資産",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 101,
+                    "text": "学生主導型の",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 113,
+                    "text": "転換",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 115,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 137,
+                    "end": 145,
+                    "text": "415W120の",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 145,
+                    "end": 149,
+                    "text": "基礎的な",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 151,
+                    "text": "学生",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 190,
+                    "end": 192,
+                    "text": "なる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“We were excited to work with Pebb to market this exceptional property,” said Larimer. “KU is the state's largest university and has consistently strong enrollment. Pebb recognized the opportunity to transform this property, creating a student focused property that is positioned to remain in high demand and deliver exceptional returns well into the future.”",
+            "mt": "Larimer氏は次のように述べている。「私たちはPebbと協力して、この例外的な資産を販売することに興奮した。KUは州最大の大学であり、一貫して高い入学者数を誇っている。Pebbはこの資産を変革し、高い需要を維持し、将来にわたって優れた収益を上げることができる学生重視の資産を作り出す機会を認識した」",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": "氏",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 19,
+                    "text": "述べている",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 41,
+                    "text": "例外的な",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 48,
+                    "text": "販売する",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 55,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 58,
+                    "text": "KU",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 85,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 148,
+                    "text": "この資産を変革し、高い需要を維持し、将来にわたって優れた収益を上げることができる学生重視の資産を作り出す機会を認識",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 148,
+                    "end": 150,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The property, built in 1986, is conveniently located 0.4 miles from the University of Kansas, the state's top university, and is within a two-mile radius of national retailer, such as Target, Starbucks, CVS, Aldi, Kohl's, T.J. Maxx and Ross Dress for Less. The Rockland also sits along University of Kansas' bus route.",
+            "mt": "1986年に建設されたこの物件は、州のトップ大学であるカンザス大学から0.4マイルの便利な場所にあり、Target、Starbucks、CVS、Aldi、コールズ、T.J.Maxx、Ross Dress for Lessなどの全国小売店から半径2マイル以内にある。ロックランドはまた、カンザス大学のバス路線にも面している。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 33,
+                    "text": "カンザス大学",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 41,
+                    "text": "0.4マイル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 81,
+                    "text": "コールズ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 115,
+                    "text": "全国",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 126,
+                    "text": "2マイル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 129,
+                    "end": 131,
+                    "text": "ある",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 138,
+                    "text": "ロックランド",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 148,
+                    "text": "カンザス大学",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 158,
+                    "end": 160,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Since 2014, Pebb Capital has acquired more than 5,500 student housing beds, exceeding $300 million of transaction volume across over 12 universities in five states.",
+            "mt": "2014年以来、Pebb Capitalは5500以上の学生用住宅ベッドを取得しており、5つの州の12以上の大学で300,000,000ドル以上の取引を行っている。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 28,
+                    "text": "5500以上の",
+                    "type": 15,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 31,
+                    "text": "学生用",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 68,
+                    "text": "300,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 70,
+                    "text": "ドル",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 79,
+                    "text": "取引を行って",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 81,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

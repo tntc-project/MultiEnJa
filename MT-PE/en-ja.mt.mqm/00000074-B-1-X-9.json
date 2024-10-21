@@ -1,0 +1,2389 @@
+{
+    "074.json": [
+        {
+            "src": "How To Apply Online For Just Medicare",
+            "mt": "Just Medicareのオンライン申請方法",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Just",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 13,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "You can apply online for Medicare even if you are not ready to retire. You can use our online application to sign up. It takes less than 10 minutes. There are no forms to sign and usually no documentation is required. Social Security will process your application and contact you if we need more information.",
+            "mt": "退職する準備ができていなくても、オンラインでメディケアに加入することができます。加入するには、オンライン・アプリケーションを使用できます。10分もかかりません。署名するためのフォームはなく、通常は文書は必要ありません。社会保障はあなたの申請を処理し、詳細情報が必要な場合はあなたに連絡します。",
+            "MQM_score": 23.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 30,
+                    "text": "加入",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 53,
+                    "text": "・",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 61,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 64,
+                    "text": "使用",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 92,
+                    "text": "は",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 101,
+                    "text": "は",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 113,
+                    "text": "社会保障",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 114,
+                    "text": "は",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply for Medicare Only",
+            "mt": "Medicareのみを申請する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Return to Saved Application",
+            "mt": "保存したアプリケーションに戻る",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 12,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Check Application Status",
+            "mt": "アプリケーションステータスのチェック",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "アプリケーションステータス",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 14,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 18,
+                    "text": "チェック",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Replace Medicare Card",
+            "mt": "Medicareカードの交換",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "交換",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Medicare is managed by the Centers for Medicare and Medicaid Services (CMS). Social Security works with CMS by enrolling people in Medicare.",
+            "mt": "MedicareはCenters for Medicare and Medicaid Services(CMS)によって管理される。社会保障は,Medicareに加入することでCMSと連携する。",
+            "MQM_score": 12.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 9,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 51,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 65,
+                    "text": "れる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 70,
+                    "text": "社会保障",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 72,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 80,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 85,
+                    "text": "加入する",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 96,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For more information about applying for Medicare only and delaying retirement benefits, visit Applying for Medicare Only – Before You Decide.",
+            "mt": "Medicare onlyの適用および退職給付の延期に関する詳細については、Applying for Medicare Only-Before You Decimateを参照してください。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 13,
+                    "text": "only",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 16,
+                    "text": "適用",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 84,
+                    "text": "Applying for Medicare Only-Before You Decimate",
+                    "type": 3,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "If you have a Health Savings Account (HSA) and/or health insurance based on employment, you may want to ask your personnel office or insurance company how signing up for Medicare will affect you.",
+            "mt": "Health Savings Account(HSA;医療貯蓄口座)や雇用に基づく医療保険に加入している場合は、Medicareへの加入があなたにどのような影響を与えるかを人事オフィスや保険会社に尋ねるとよいでしょう。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 22,
+                    "text": "Health Savings Account",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 33,
+                    "text": ";医療貯蓄口座",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 64,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 92,
+                    "text": "人事オフィス",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "To find out what documents and information you need to apply, go to the Checklist For The Online Medicare, Retirement, And Spouses Application.",
+            "mt": "申請する必要がある書類や情報を調べるには、Checklist for the Online Medicare,Retirement,And Spoques Applicationにアクセスしてください。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "申請する必要がある",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 89,
+                    "text": "Checklist for the Online Medicare,Retirement,And Spoques Application",
+                    "type": 3,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Medicare Cards",
+            "mt": "メディケアカード",
+            "MQM_score": 0
+        },
+        {
+            "src": "To help protect your identity, your Medicare card has a Medicare Number that's unique to you. If you did not receive your red, white, and blue Medicare card, there may be something that needs to be corrected, like your mailing address. You can update your mailing address by logging in to or creating your personal my Social Security account. Learn more about your Medicare card.",
+            "mt": "個人情報を保護するために、Medicareカードには独自のMedicareのMedicare番号が記載されています。赤、白、青のMedicareカードを受け取っていない場合は、郵送先住所などの修正が必要なものがある可能性があります。郵送先住所を更新するには、にログインするか、個人を作成します。Medicareカードの詳細については、ここをクリックしてください。",
+            "MQM_score": 43,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 3,
+                    "end": 7,
+                    "text": "help",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 301,
+                    "end": 341,
+                    "text": "your personal my Social Security account",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 343,
+                    "end": 353,
+                    "text": "Learn more",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 21,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "独自の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 38,
+                    "text": "Medicareの",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 46,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 141,
+                    "text": "個人を",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 155,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 158,
+                    "end": 161,
+                    "text": "の詳細",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 165,
+                    "end": 180,
+                    "text": "は、ここをクリックしてください",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Learn about Medicare",
+            "mt": "Medicareについて学ぶ",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "学ぶ",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Medicare is our country's health insurance program for people age 65 or older. Certain people younger than age 65 can qualify for Medicare, too, including those with disabilities and those who have permanent kidney failure. To learn more, read our Medicare publication.",
+            "mt": "メディケアは、わが国の65歳以上の人々を対象とした医療保険プログラムです。65歳未満の一部の人々もメディケアの資格を得ることができます。これには、障害のある人や永久的な腎不全のある人も含まれます。詳細については、メディケアの出版物を参照してください。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 67,
+                    "text": "できます",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 68,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 120,
+                    "text": "参照して",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Already Enrolled in Medicare",
+            "mt": "メディケアにすでに加入している",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you already have Medicare, you can get information and services online. Find out how to manage your benefits.",
+            "mt": "すでにメディケアに加入している場合は、オンラインで情報やサービスを入手できます。福利厚生の管理方法については、こちらを参照してください。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 35,
+                    "text": "入手",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 44,
+                    "text": "福利厚生",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 47,
+                    "text": "管理",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 67,
+                    "text": "については、こちらを参照してください",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you already have Medicare Part A and wish to sign up for Medicare Part B, please complete form CMS 40-B, Application for Enrollment in Medicare - Part B (Medical Insurance), and take or mail it to your local Social Security office.",
+            "mt": "Medicare Part Aをすでにお持ちで、Medicare Part Bへの加入を希望される場合は、CMS40-B「Application for Enrollment in Medicare-Part B(Medical Insurance)」に記入し、最寄りの社会保障事務所に持っていくか郵送してください。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Medicare Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 37,
+                    "text": "Medicare Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 125,
+                    "text": "Application for Enrollment in Medicare-Part B(Medical Insurance)",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "You'll have Original Medicare unless you make another choice. You can decide to add a drug plan (Part D) or buy a Medigap policy to help pay for costs that Original Medicare doesn't cover. You can choose to join a Medicare Advantage Plan (Part C) and get all your Medicare coverage (including drugs and extra benefits like vision, hearing, dental, and more) bundled together in one plan.",
+            "mt": "別の選択をしない限り、Original Medicareが適用されます。Original Medicareが適用されない費用の支払いに役立てるために、薬剤プランを追加するか(Part D)、Medigap保険を購入するかを決めることができます。Medicare Advantage Plan(Part C)に加入して、すべてのMedicare適用範囲(薬剤および視覚、聴覚、歯科などの追加給付を含む)を1つのプランにまとめることができます。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 28,
+                    "text": "Original Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 35,
+                    "text": "が適用されます",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 53,
+                    "text": "Original Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 91,
+                    "text": "Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 102,
+                    "text": "Medigap",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 153,
+                    "text": "Medicare Advantage Plan(Part C)",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 163,
+                    "end": 171,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 178,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Some people with limited resources and income may also be able to get Extra Help to pay for Part D drug costs.",
+            "mt": "限られた資源と収入しかない人の中には、Part Dの薬剤費を支払うためにExtra Helpを利用できる人もいます。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "資源",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 25,
+                    "text": "Part D",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 46,
+                    "text": "Extra Help",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Applying for Medicare",
+            "mt": "Medicare加入",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "加入",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "When you apply for Medicare, you can sign up for Part A (Hospital Insurance) and Part B (Medical Insurance). Because you must pay a premium for Part B coverage, you can turn it down. However, if you decide to enroll in Part B later on, you may have to pay a late enrollment penalty for as long as you have Part B coverage. Your monthly premium will go up 10 percent for each 12-month period you were eligible for Part B, but didn't sign up for it, unless you qualify for a \"Special Enrollment Period\".",
+            "mt": "Medicareに加入すると、Part A(病院保険)およびPart B(医療保険)に加入できます。Part Bの保険料を支払う必要があるため、保険料を引き下げることができます。ただし、後でPart Bに加入する場合は、Part Bの保険料がある限り、遅延登録ペナルティを支払う必要があります。Part Bに加入する資格があるが、加入していない12か月の期間ごとに、毎月の保険料が10%ずつ増加します。ただし、「特別加入期間」の資格がある場合を除きます。",
+            "MQM_score": 66,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 199,
+                    "end": 208,
+                    "text": "decide to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 446,
+                    "end": 500,
+                    "text": ", unless you qualify for a \"Special Enrollment Period\"",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 11,
+                    "text": "加入",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 19,
+                    "text": "Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 21,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 34,
+                    "text": "Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 36,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 45,
+                    "text": "加入",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 56,
+                    "text": "Part B",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 61,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 75,
+                    "text": "保険料",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 81,
+                    "text": "引き下げる",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 84,
+                    "text": "が",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 123,
+                    "text": "保険料がある",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 164,
+                    "text": "あるが",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 171,
+                    "end": 172,
+                    "text": "い",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 172,
+                    "end": 179,
+                    "text": "12か月の期間",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 201,
+                    "end": 227,
+                    "text": "ただし、「特別加入期間」の資格がある場合を除きます。",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you're eligible at age 65, your initial enrollment period begins three months before your 65th birthday, includes the month you turn age 65, and ends three months after that birthday. However, if you don't enroll in Medicare Part B during your initial enrollment period, you have another chance each year to sign up during a “general enrollment period” from January 1 through March 31. Your coverage begins on July 1 of the year you enroll. Read our Medicare publication for more information.",
+            "mt": "65歳で受給資格がある場合、最初の登録期間は65歳の誕生日の3ヶ月前に始まり、65歳になる月を含み、その誕生日の3ヶ月後に終了します。ただし、最初の登録期間中にMedicare Part Bに登録しなかった場合は、毎年1月1日から3月31日までの「一般登録期間」に登録することができます。保険の適用範囲は、登録した年の7月1日から始まります。詳細については、Medicareの出版物を参照してください。",
+            "MQM_score": 52,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 283,
+                    "end": 290,
+                    "text": "another",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 8,
+                    "text": "受給資格",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 21,
+                    "text": "登録期間",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 78,
+                    "text": "登録期間",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 95,
+                    "text": "Medicare Part B",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 96,
+                    "end": 98,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 128,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 134,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 151,
+                    "text": "保険の適用範囲",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 155,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 179,
+                    "end": 187,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 192,
+                    "end": 196,
+                    "text": "参照して",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you live in Puerto Rico you will not receive Medicare Part B ( Medical Insurance automatically. You will need to sign up for it during your initial enrollment period, or you will pay a penalty. To sign up, please call our toll-free number at 1-800-772-1213 (TTY 1-800-325-0778). You also may contact your local Social Security office. You can find your local Social Security office by using our Office Locator.",
+            "mt": "プエルトリコにお住まいの場合、Medicare Part B(医療保険)は自動的には適用されません。最初の登録期間中に登録する必要があります。そうでない場合は、ペナルティをお支払いいただきます。登録するには、1 - 800772 - 1213(TTY 1-800-325-0778)のフリーダイヤルにお電話ください。また、お住まいの地域の社会保障事務所にお問い合わせいただくこともできます。お住まいの地域の社会保障事務所は、オフィスロケータを使用して検索できます。",
+            "MQM_score": 54,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 225,
+                    "end": 241,
+                    "text": "toll-free number",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 28,
+                    "text": "Medicare Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 30,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 46,
+                    "text": "適用され",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 55,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 61,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 70,
+                    "text": "ます",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 71,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 94,
+                    "text": "お支払いいただき",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 99,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 106,
+                    "text": " ",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 108,
+                    "text": " ",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 115,
+                    "text": " ",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 117,
+                    "text": " ",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 121,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 149,
+                    "text": "のフリーダイヤル",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 169,
+                    "text": "お住まいの地域の",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 195,
+                    "end": 203,
+                    "text": "お住まいの地域の",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Questions about our online application",
+            "mt": "オンラインアプリケーションに関する質問",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 13,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Who can apply for Medicare online?",
+            "mt": "オンラインでメディケアに加入できるのは誰ですか?",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "加入",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "You can use our online Medicare application if you:",
+            "mt": "次の場合は、オンラインのMedicareアプリケーションを使用できます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 28,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Are at least 64 years and 9 months old;",
+            "mt": "少なくとも64歳9カ月である;",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "少なくとも64歳9カ月",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 15,
+                    "text": ";",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Want to sign up for Medicare but do not currently have ANY Medicare coverage;",
+            "mt": "Medicareに加入したいが,現在Medicareの適用範囲がない;",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 16,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 34,
+                    "text": "適用範囲がない",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": ";",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Do not want to start receiving Social Security benefits at this time; and",
+            "mt": "現時点で社会保障給付の受給を開始したくない。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 22,
+                    "text": "。",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Are not currently receiving Social Security retirement, disability or survivors benefits.",
+            "mt": "現在、社会保障の退職手当、障害手当または遺族手当を受けていない。",
+            "MQM_score": 21.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 12,
+                    "text": "退職手当",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "障害手当",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 17,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 24,
+                    "text": "遺族手当",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 28,
+                    "text": "受けて",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 32,
+                    "text": "。",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "When should I apply?",
+            "mt": "いつ申し込めばいいですか?",
+            "MQM_score": 1.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 7,
+                    "text": "申し込めば",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 13,
+                    "text": "?",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "You should sign up for Medicare three months before reaching age 65, even if you are not ready to start receiving retirement benefits. You can opt out of receiving cash retirement benefits now once you are in the online application. Then you can apply online for retirement benefits later.",
+            "mt": "退職手当の受給を開始する準備ができていなくても、65歳に達する3か月前にメディケアに加入する必要があります。オンライン・アプリケーションを使用すると、現金による退職手当の受給をオプトアウトできます。その後、オンラインで退職手当を申請できます。",
+            "MQM_score": 40.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 283,
+                    "end": 288,
+                    "text": "later",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "退職手当",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 46,
+                    "text": "加入する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 60,
+                    "text": "・",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 68,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 73,
+                    "text": "使用する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 84,
+                    "text": "退職手当",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 94,
+                    "text": "オプトアウト",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 113,
+                    "text": "退職手当",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "With our online application, you can sign up for Medicare Part A (Hospital Insurance) and Part B (Medical Insurance). Because you must pay a premium for Part B coverage, you can turn it down.",
+            "mt": "Medicare Part A(Hospital Insurance)およびPart B(Medical Insurance)に加入するには、オンライン・アプリケーションを使用します。Part Bの保険料を支払う必要があるため、Part Bの保険料を下げることができます。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 28,
+                    "text": "With our online application,",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "Medicare Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 15,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 34,
+                    "text": "Hospital Insurance",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 42,
+                    "text": "Part",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 44,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 62,
+                    "text": "Medical Insurance",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 70,
+                    "text": "加入するには",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 91,
+                    "text": "、オンライン・アプリケーションを使用します",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 98,
+                    "text": "Part B",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 120,
+                    "end": 124,
+                    "text": "の保険料",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 130,
+                    "text": "下げること",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 130,
+                    "end": 131,
+                    "text": "が",
+                    "type": 9,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you choose not to enroll in Medicare Part B and then decide to do so later, your coverage may be delayed and you may have to pay a higher monthly premium for as long as you have Part B. Your monthly premium will go up 10 percent for each 12-month period you were eligible for Part B, but didn't sign up for it, unless you qualify for a \"Special Enrollment Period.\"",
+            "mt": "Medicare Part Bに加入しないことを選択し、後で加入することを決定した場合、加入が遅れ、Part Bがある限り、より高い月額保険料を可能性があります。月額保険料は、Part Bに加入していても、「特別加入期間」の資格がない限り、Part Bに加入していない12か月の期間ごとに10%上昇します。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 93,
+                    "end": 96,
+                    "text": "may",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 120,
+                    "end": 131,
+                    "text": "have to pay",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 261,
+                    "end": 285,
+                    "text": "were eligible for Part B",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Medicare Part B",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "加入",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 59,
+                    "text": "がある",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 103,
+                    "text": "Part Bに加入していても、",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 127,
+                    "end": 134,
+                    "text": "加入していない",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 134,
+                    "end": 141,
+                    "text": "12か月の期間",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Special Enrollment Period (SEP)",
+            "mt": "特別登録期間(SEP)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you have medical insurance coverage under a group health plan based on your or your spouse's current employment, you may not need to apply for Medicare Part B at age 65. You may qualify for a \"Special Enrollment Period\" (SEP) that will let you sign up for Part B during:",
+            "mt": "あなたまたは配偶者の現在の雇用に基づくグループ・ヘルス・プランに基づく医療保険に加入している場合、65歳でメディケア・パートBを申請する必要はない場合があります。次の期間にパートBにサインアップできる「特別登録期間」(SEP)の資格を取得できます。",
+            "MQM_score": 21.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 31,
+                    "text": "グループ・ヘルス・プラン",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 35,
+                    "text": "に基づく",
+                    "type": 13,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 59,
+                    "text": "・",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 97,
+                    "text": "サインアップ",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 105,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 123,
+                    "text": "できます",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Any month you remain covered under the group health plan and your, or your spouse's, employment continues; or",
+            "mt": "グループ・ヘルス・プランの対象となり、あなたまたは配偶者の雇用が継続する月。",
+            "MQM_score": 31.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 3,
+                    "text": "Any",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 14,
+                    "end": 34,
+                    "text": "remain covered under",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 70,
+                    "end": 74,
+                    "text": "your",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 107,
+                    "end": 109,
+                    "text": "or",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "グループ・ヘルス・プラン",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 18,
+                    "text": "の対象となり",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 25,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 38,
+                    "text": "。",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The 8-month period that begins with the month after your group health plan coverage or the employment it is based on ends, whichever comes first.",
+            "mt": "グループ・ヘルス・プランの補償範囲または雇用の終了のいずれか早い方の月から始まる8か月間。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 102,
+                    "end": 116,
+                    "text": "it is based on",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "グループ・ヘルス・プラン",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 20,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Why apply for Medicare online?",
+            "mt": "なぜメディケアをオンラインで申請するのか?",
+            "MQM_score": 0.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 21,
+                    "text": "?",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Using the online Medicare application has a number of benefits. You can:",
+            "mt": "オンライン・メディケア・アプリケーションを使用すると、次のような利点があります。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 42,
+                    "end": 53,
+                    "text": "a number of",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 64,
+                    "end": 72,
+                    "text": "You can:",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 20,
+                    "text": "オンライン・メディケア・アプリケーション",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 32,
+                    "text": "次のような",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Avoid trips to your Social Security Office, saving you time and money.",
+            "mt": "社会保障局への出張は避け、時間と費用を節約する。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "社会保障局",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 10,
+                    "text": "の出張は",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 23,
+                    "text": "する",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Answer questions at your convenience by starting and stopping the application without fear of losing any information you entered.",
+            "mt": "入力した情報が失われることを心配することなく、アプリケーションを起動および停止して、都合のよいときに質問に答えます。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 31,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 34,
+                    "text": "起動",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 57,
+                    "text": "ます",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Make corrections to the application prior to submission.",
+            "mt": "提出前に申請書を訂正すること。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Submit your application electronically. There is no need to mail in your application. When you are finished, just select “Submit Now” to send your application to Social Security.",
+            "mt": "アプリケーションを電子的に送信します。アプリケーションにメールを送信する必要はありません。終了したら、「今すぐ送信」を選択して、アプリケーションを社会保障に送信します。",
+            "MQM_score": 47,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 109,
+                    "end": 113,
+                    "text": "just",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 15,
+                    "text": "送信",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 18,
+                    "text": "します",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 27,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": "に",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 36,
+                    "text": "メールを送信する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 57,
+                    "text": "送信",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 72,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 83,
+                    "text": "します",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Receive a receipt online for your application that you can print and keep for your records.",
+            "mt": "アプリケーションの受入をオンラインで受け入れ、印刷して記録用に保存できます。",
+            "MQM_score": 25,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 46,
+                    "end": 90,
+                    "text": "that you can print and keep for your records",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 11,
+                    "text": "の受入",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 23,
+                    "text": "受け入れ、",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 37,
+                    "text": "印刷して記録用に保存できます",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Check the status of your application online. You will receive a confirmation number once you submit your application.",
+            "mt": "アプリケーションのステータスをオンラインで確認します。アプリケーションを送信すると、確認番号が表示されます。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 14,
+                    "text": "ステータス",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 26,
+                    "text": "します",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 35,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "送信",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "What happens after I apply?",
+            "mt": "申し込んだらどうなりますか?",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "申し込んだら",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Once we receive your application, we will",
+            "mt": "お客様のアプリケーションを受け取ったら",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "お客様の",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 12,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Review your application and contact you if we need more information or if we need to see your documents;",
+            "mt": "詳細情報が必要な場合、またはお客様のドキュメントを参照する必要がある場合は、お客様のアプリケーションを確認してご連絡ください。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 27,
+                    "text": "Review your application and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 18,
+                    "text": "お客様の",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 24,
+                    "text": "ドキュメント",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 55,
+                    "text": "お客様のアプリケーションを確認して",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 62,
+                    "text": "ご連絡ください",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Process your application once we have all of the necessary information and documents; and",
+            "mt": "必要な情報とドキュメントがすべて揃ったら、アプリケーションを処理します。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 12,
+                    "text": "ドキュメント",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 29,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 35,
+                    "text": "を処理します",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Mail you a decision letter.",
+            "mt": "決定通知書を郵送してください。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 14,
+                    "text": "郵送してください",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "If your application is approved, the Centers for Medicare & Medicaid Services will send you a Welcome to Medicare packet in the mail with your Medicare card. You will also receive the most current version of the Medicare & You handbook, with important information about your Medicare coverage choices.",
+            "mt": "申請が承認されると、Centers for Medicare&Medicaid ServicesからWelcome to MedicareパケットがMedicareカードとともに郵送されます。また、Medicare適用範囲の選択に関する重要情報を記載した最新版のMedicare&Youハンドブックも送付されます。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 69,
+                    "text": "Welcome to Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 73,
+                    "text": "パケット",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 82,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 107,
+                    "text": "Medicare",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 111,
+                    "text": "適用範囲",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 131,
+                    "end": 149,
+                    "text": "Medicare&Youハンドブック",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Other Medicare registration/enrollment options",
+            "mt": "その他のメディケア登録/登録オプション",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 19,
+                    "text": "オプション",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "You can also apply:",
+            "mt": "次のものも適用できます。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "次のものも",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "適用",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "By phone - Call us at 1-800-772-1213 from 7 a.m. to 7 p.m. Monday through Friday. If you are deaf or hard of hearing, you can call us at TTY 1-800-325-0778.",
+            "mt": "電話です。月曜日から金曜日までの午前7時から午後7時まで、1 - 800772 - 1213に電話してください。耳が聞こえないか聞こえにくい場合は、TTY1 - 800325 - 0778に電話してください。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "です",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 55,
+                    "text": "に電話してください",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 70,
+                    "text": "耳が聞こえないか聞こえにくい",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 103,
+                    "text": "に電話してください",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "In person - Visit your local Social Security office. (Call first to make an appointment.)",
+            "mt": "直接-地域の社会保障事務所を訪問する(まず電話で予約を取る)。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "直接",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 6,
+                    "text": "地域の",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 18,
+                    "text": "訪問する",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 29,
+                    "text": "取る",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you do not live in the U.S. or one of its territories you can also contact the Federal Benefits Unit that provides service to your country of residence.",
+            "mt": "米国またはその領土に居住していない場合は、居住国にサービスを提供している連邦福利厚生ユニットに連絡することもできます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 46,
+                    "text": "連邦福利厚生ユニット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

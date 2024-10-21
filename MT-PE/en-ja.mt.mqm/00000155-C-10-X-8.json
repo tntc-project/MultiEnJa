@@ -1,0 +1,705 @@
+{
+    "155.json": [
+        {
+            "src": "MEPs call for country of origin labelling of meat in processed foods",
+            "mt": "MEPは加工食品の肉の原産国表示を要求する",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "MEP",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 4,
+                    "text": "は",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 10,
+                    "text": "肉",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 21,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Posted February 11th, 2015 for European Parliament",
+            "mt": "2015年2月11日、欧州議会に投稿されました",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 15,
+                    "text": "欧州議会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 16,
+                    "text": "に",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "投稿",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 23,
+                    "text": "されました",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Press release",
+            "mt": "プレス・リリース",
+            "MQM_score": 0.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 4,
+                    "text": "・",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Recent food fraud cases have made consumers suspicious. A growing number want to know from which country meat in processed food comes. © BELGAIMAGE/EASYFOTOSTOCK/Zoonar_V.Gudovskiy",
+            "mt": "最近の食品詐欺事件は消費者を疑心暗鬼にしている。加工食品の中の肉がどこの国から来ているのか知りたいという人が増えている。©BELGAIMAGE/EASYFOTOSTOCK/Zoonar_V.Gudovskiy",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "食品詐欺",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 23,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 29,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 32,
+                    "text": "肉",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Meat used as an ingredient in processed foods, such as lasagne, should be labelled by country of origin as is already the case with bovine fresh meat, said MEPs on Wednesday. They call on the European Commission, which published a report on the issue in late 2013, to come up with legislative proposals in order to rebuild consumer confidence in the wake of the horsemeat scandal and other food fraud cases.",
+            "mt": "MEPは、ラザニアなどの加工食品の原材料として使用される獣肉について、牛の新鮮な獣肉と同様に、原産国別に表示すべきだと述べた。彼らは、2013年後半にこの問題に関する報告書を発表した欧州委員会に対し、馬肉スキャンダルやその他の食品詐欺事件を受けて消費者の信頼を回復するための立法提案を行うよう求める。",
+            "MQM_score": 38,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 110,
+                    "end": 126,
+                    "text": "already the case",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 149,
+                    "end": 150,
+                    "text": ",",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 156,
+                    "end": 173,
+                    "text": "MEPs on Wednesday",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "MEPは、",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 30,
+                    "text": "獣肉",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 42,
+                    "text": "新鮮な獣肉",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 62,
+                    "text": "た",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 96,
+                    "text": "欧州委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 117,
+                    "text": "食品詐欺",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 149,
+                    "text": "求める",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The resolution, passed by 460 votes to 204 with 33 abstentions, urges the Commission to follow up its 2013 report with legislative proposals to make it mandatory to state the country of origin of meat used in processed foods, in order to ensure more transparency throughout the food chain, better inform European consumers and thus help rebuild their confidence.",
+            "mt": "決議は460対204で33の棄権で可決されたが、委員会に対し、2013年の報告書に続き、フードチェーン全体の透明性を確保し、欧州の消費者により良い情報を提供し、信頼を再構築するために、加工食品に使用される肉の原産国を記載することを義務付ける立法提案を求める。",
+            "MQM_score": 34,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 30,
+                    "end": 35,
+                    "text": "votes",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 245,
+                    "end": 249,
+                    "text": "more",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 327,
+                    "end": 331,
+                    "text": "thus",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 332,
+                    "end": 336,
+                    "text": "help",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 11,
+                    "text": "で",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 22,
+                    "text": "た",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 27,
+                    "text": "委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 54,
+                    "text": "の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 103,
+                    "text": "肉",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 128,
+                    "text": "求める",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "\"After the horse meat scandal, it is now up to us to regain consumers' trust. We are asking the Commission to come up with a legislative proposal with a mandatory country of origin labelling, because this will help to enhance transparency and to provide clear and complete information to the consumers”, said Environment Committee chair Giovanni La Via (EPP, IT).",
+            "mt": "環境委員会のジョバンニ・ラ・ビア(EPP, IT)委員長は、「馬肉スキャンダルの後、消費者の信頼を取り戻すことが我々の課題となっている。我々は、透明性を高め、消費者に明確で完全な情報を提供するのに役立つことから、原産地表示を義務付ける立法案を欧州委員会に提案するよう求めている」と述べた。",
+            "MQM_score": 27,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 37,
+                    "end": 40,
+                    "text": "now",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 309,
+                    "end": 362,
+                    "text": "Environment Committee chair Giovanni La Via (EPP, IT)",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 30,
+                    "text": "環境委員会のジョバンニ・ラ・ビア(EPP, IT)委員長は、",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 109,
+                    "text": "原産地",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 120,
+                    "text": "立法案",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 126,
+                    "text": "欧州委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 140,
+                    "end": 143,
+                    "text": "述べた",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“We must nonetheless ensure that this does not lead to additional burdens on small and medium-sized enterprises, of which there are many in this sector\", he added.",
+            "mt": "ただ、中小企業の負担増につながらないようにしなければならない」と強調した。",
+            "MQM_score": 30,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 1,
+                    "text": "“",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 33,
+                    "end": 37,
+                    "text": "this",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 111,
+                    "end": 151,
+                    "text": ", of which there are many in this sector",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 154,
+                    "end": 162,
+                    "text": "he added",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 30,
+                    "text": "ならない",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 36,
+                    "text": "強調した",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "MEPs reiterate their concern over the potential impact of food fraud on food safety, consumer confidence and health, the functioning of the food chain and farm produce prices.",
+            "mt": "MEPは、食品詐欺が食品の安全性、消費者の信頼と健康、食物連鎖の機能および農産物価格に与える潜在的な影響に対する懸念を改めて表明する。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "MEP",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 9,
+                    "text": "食品詐欺",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 66,
+                    "text": "改めて表明する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Let the consumer choose",
+            "mt": "消費者に選択させる",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 9,
+                    "text": "選択させる",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "MEPs point out that the European Commission's report (17.12.2013) itself acknowledges that more than 90% of consumer respondents consider it important that meat origin should be labelled on processed food products. This is one of the several factors influencing consumer behaviour, MEPs say.",
+            "mt": "MEPは、欧州委員会の報告書(17.12.2013)自体が、90%以上の消費者の回答者が加工食品に肉由来の表示をすることが重要であると考えていることを認めていることを指摘している。これは消費者行動に影響を与えるいくつかの要因の1つであるとMEPは述べている。",
+            "MQM_score": 31,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 205,
+                    "end": 213,
+                    "text": "products",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "MEP",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 10,
+                    "text": "欧州委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 40,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 52,
+                    "text": "肉由来",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 53,
+                    "text": "の",
+                    "type": 7,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 56,
+                    "text": "を",
+                    "type": 7,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 83,
+                    "text": "ことを",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 89,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 122,
+                    "text": "MEP",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 128,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Impact on prices needs further check",
+            "mt": "価格への影響についてはさらに確認が必要",
+            "MQM_score": 0
+        },
+        {
+            "src": "MEPs also point out that estimates of the impact on prices, based on the findings of a French consumer organisation, diverge widely from those in the Commission's report, and ask for a clearer picture. The evaluation should be carried out in conjunction with consumer organisations and would not delay legislative proposals, they add.",
+            "mt": "また、MEPは、フランスの消費者団体の調査結果に基づく価格への影響の推定値は、欧州委員会の報告書の推定値と大きく異なることを指摘し、より明確な全体像を求めている。評価は消費者団体と連携して実施されるべきであり、法的提案を遅らせることはないと付け加えている。",
+            "MQM_score": 9.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 6,
+                    "text": "MEP",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 44,
+                    "text": "欧州委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 62,
+                    "text": "を",
+                    "type": 7,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 80,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 119,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 127,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Background",
+            "mt": "背景",
+            "MQM_score": 0
+        },
+        {
+            "src": "Depending on the member state concerned, 30 to 50% of slaughtered meat is processed into meat ingredients for foodstuffs, mostly minced meat, meat preparations and meat products.",
+            "mt": "屠畜された肉の30～50%は、該当する加盟国によっては、ミンチ肉、肉加工品、肉製品を中心に、食品用肉素材に加工される。",
+            "MQM_score": 26,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "屠畜された",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 22,
+                    "text": "該当する加盟国",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 37,
+                    "text": "肉加工品",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 41,
+                    "text": "肉製品",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 52,
+                    "text": "肉素材",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 58,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+1	Electronic Common Technical Document (eCTD)	電子コモン・テクニカル・ドキュメント(eCTD)
+2	The eCTD is the standard format for submitting applications, amendments, supplements, and reports to FDA's Center for Drug Evaluation and Research (CDER) and Center for Biologics Evaluation and Research (CBER).	eCTDは、FDAの医薬品評価研究センター(CDER)および生物製剤評価研究センター(CBER)に申請、修正、補足および報告を提出するための標準フォーマット<ER01>である</ER01>。
+3	Important Dates	重要な日付
+4	Reminder: Per eCTD Guidance, NDA, BLA, ANDA, and Commercial IND submissions must include a FDA fillable form (e.g. 356h, 1571, 2252). FDA plans to implement a validation check for the fillable form beginning July 27, 2018. Submissions which fail this validation will be subject to rejection. Please see the eCTD Guidance and the eCTD Validation Criteria (error code 7) for details.	注意:eCTDガイダンスに従い、NDA、BLA、ANDAおよび<ER02>Commercial</ER02> IND申請にはFDA記入可能フォーム(例:356h、1571、2252)を含める必要があります。FDAは2018年7月27日から記入可能フォームの検証チェックを実施する予定です。この検証に合格しない申請は却下の対象となります。詳細については、eCTDガイダンスおよびeCTD検証基準(エラーコード7)を参照してください。
+5	After the dates listed below, eCTD requirements for submissions to CDER and CBER will go into effect and submissions that do not use eCTD will not be filed or received.	以下の日付以降は、CDERおよびCBERへの申請に対するeCTD要件が有効となり、eCTDを使用しない申請は提出または受領<ER03>されない</ER03>。
+6	May 5, 2017:	2017年5月5日:
+7	New Drug Applications (NDAs), Abbreviated NDAs (ANDAs), and Biologics License Applications (BLAs), must be submitted using eCTD format.	新薬申請(NDA)、簡略化されたNDA(ANDA)、生物学的製剤承認申請(BLA)は、eCTD形式で提出しなければ<ER04>ならない</ER04>。
+8	May 5, 2018:	2018年5月5日:
+9	Commercial Investigational New Drug Applications (INDs) and Master Files must be submitted using eCTD format.	商用治験薬申請(IND)およびマスター・ファイルはeCTD形式で提出しなければ<ER05>ならない</ER05>。
+10	Please refer to the eCTD Guidance for the complete details to meet the eCTD requirement.	eCTD要件を満たすための詳細については、eCTDガイダンスを参照<ER06>のこと</ER06>。
+11	Visit our Submit Using eCTD page to learn how to submit an application using eCTD and obtain an ESG account.	eCTDを使用したアプリケーションの提出方法とESGアカウントの取得方法については、eCTDを使用した提出ページを参照してください。
+12	To view all eCTD Submission Resources, visit our eCTD Resources page.	すべてのeCTD申請資料を表示するには、eCTD資料ページにアクセスしてください。
+13	Types of Submissions Subject to eCTD Requirement	eCTD要件の対象となる申請の種類
+14	Electronic submission requirements will apply to the following types of submissions to CDER/CBER:	電子提出要件は、以下の種類のCDER/CBERへの<ER11>提出</ER11>に適用<ER07>する</ER07>:
+15	NDAs	NDA
+16	ANDAs	<ER08>ANDA社</ER08>
+17	BLAs	<ER09>ブラス</ER09>
+18	Commercial IND applications (for products that are intended to be distributed commercially)	<ER10>市販の</ER10>IND<ER12>申請</ER12>(市販されることを意図した製品)
+19	All subsequent submissions to these types of applications, including amendments, supplements, and reports, even if the original submission was filed before the requirements went into effect	最初の提出物が要件の施行前に提出された場合であっても<ER13>,</ER13>補正<ER14>,</ER14>補足及び報告を含めて<ER15>,</ER15>これらの種類の出願その後の全ての提出物
+20	Master files, such as DMFs, which are considered to be submissions to an IND, an NDA, an ANDA, or a BLA	<ER16>DM F</ER16>など、IND、NDA、ANDAとみなされるDMFなどのマスター・ファイル
+21	Electronic submission standards will be optional but encouraged for the following categories:	電子申請基準は任意で<ER17>あるが</ER17>、以下のカテゴリーについては推奨<ER18>される</ER18><ER19>。</ER19>
+22	Noncommercial INDs, such as investigator-sponsored INDs and expanded-access INDs	治験責任医師が治験を依頼するINDや拡大アクセスINDなどの<ER20>非営利</ER20>IND
+23	Submissions for blood and blood components, including source plasma	原血漿を含む血液及び血液成分の提出
+24	Submissions for promotional materials for human prescription drug	医療用医薬品の販売促進資料の提出
+25	Current Versions and Updates	現在のバージョンと更新
+26	Electronic submissions must use the version of eCTD currently supported by FDA, which is specified in the FDA Data Standards Catalog on the Study Data Standards Resources page. Updates to the standard will be announced on the FDA website and published in the Federal Register. The notices will include the date on which the new versions will go into effect.	電子申請には、FDAが現在サポートしているバージョンのeCTDを使用する必要が<ER21>ある</ER21>。eCTDは、Study Data Standards ResourcesページのFDA Data Standards Catalogに指定されて<ER22>いる</ER22>。規格の更新は、FDAのウェブサイトで発表され、官報に掲載<ER23>される</ER23>。通知には、新しいバージョンが有効になる日付が含<ER24>まれる</ER24>。
+27	For a listing of Specifications, Supportive Files, M1 versions 1.3 and 2.3 documents related to eCTD, please refer to eCTD Submission Standards (XLS - 57KB) or eCTD Submission Standards (PDF - 91KB).	eCTDに関連する仕様書、サポートファイル、M1バージョン1.3および2.3文書の一覧については、eCTD申請基準(XLS - 57 KB)またはeCTD申請基準(PDF - 91 KB)を参照<ER25>のこと</ER25>。
+28	Notices	注意事項
+29	Notice 1/30/2019	通知2019年1月30日
+30	FDA Extends Compliance Date for Submitting DMF Type lll in eCTD format	FDA、DMFタイプIIIのeCTD提出期限を延長
+31	The FDA extended the compliance date for submitting DMF Type lll in eCTD format to May 5, 2020. See the FDA guidance document for additional information on the compliance date and FDA's Drug Master File page for additional information on DMFs.	FDAは、DMF Type lllのeCTD形式による提出期限を2020年5月5日に延長<ER26>した</ER26>。DMFに関する追加情報についてはFDAガイダンス文書を、DMFに関する追加情報についてはFDAのDrug Master Fileページを参照<ER27>のこと</ER27>。
+32	Notice 11/30/2018	通知2018年11月30日
+33	<ER29>FDA plans to accept eCTD sequences with an eCTD submission type of “REMS Supplement” in the future.</ER29> Implementation date is TBD. See submission-type.xml and M1 Specifications (located in the eCTD Submission Standards) for details.	FDAは、submission-type.xmlおよび<ER30>M1Specifications</ER30>(eCTD申請基準に含まれている)を参照<ER28>のこと</ER28>。
+34	<ER31>Notice</ER31> 6/1/2018	2018年年6月1日
+35	Please be advised that the FDA's eCTD Access Data Website will update ciphers and SSL protocols in Production on September 1, 2018	FDAのeCTDアクセスデータウェブサイトは、2018年9月1日に製造段階の暗号およびSSLプロトコルを更新すること<ER32>お知らせします</ER32>。
+36	Please make sure your system used to connect with the FDA's eCTD Access Data website can connect with compatible secure ciphers and SSL protocols listed below.	FDAのeCTDアクセスデータウェブサイトに接続するために使用しているシステムが、下記の互換性のある安全な暗号とSSLプロトコルで接続できることを確認してください。
+37	SSL Protocols / Cipher Suites	SSLプロトコル/暗号スイート
+38	TLS 1.1 or higher	TLS1.1以降
+39	Example links to eCTD Access Data Website:	eCTDアクセスデータウェブサイトへのリンク例:
+40	http://www.accessdata.fda.gov/static/eCTD/us-regional-v3-3.dtd	<ER33>http://www.accessdata.fda.gov/static/eCTD/us-地域-v3 - 3.dtd</ER33>
+41	http://www.accessdata.fda.gov/static/eCTD/us-regional.xsl	http://www.accessdata.fda.gov/static/eCTD/us-regional.xsl
+42	What action do you need to take?	どのような対応が必要ですか?
+43	If you want to continue to access the eCTD Access Data website, you need to ensure your browser(s)/Servers have TLS 1.1 or higher enabled. If your browser or Servers do not have TLS 1.1 or higher enabled after FDA makes this change, then you will NOT be able to access these eCTD websites.	eCTDアクセス・データのWebサイトへのアクセスを継続する場合は、ブラウザ/サーバでTLS1.1以上が有効になっていることを確認する必要があります。FDAがこの変更を行った後、ブラウザ/サーバでTLS1.1以上が有効になっていない場合、これらのeCTD Webサイトにアクセスできなくなります。
+44	Backend servers that communicate with the eCTD Access Data Website links should also be communicating using TLS 1.1 or higher. Please contact your IT System Administrators or Technology Support personnel for appropriate methods to enable/upgrade your servers.	eCTDアクセスデータウェブサイトのリンクと通信するバックエンドサーバも、TLS1.1以上を使用して通信する必要があります。サーバを有効化/アップグレードする適切な方法については、ITシステム管理者またはテクノロジーサポート担当者にお問い合わせください。
+45	Notice 4/24/2018	通知2018年4月24日
+46	FDA Extends Compliance Date for Submitting DMF Type lll in eCTD format	FDA、DMFタイプIIIのeCTD提出期限を延長
+47	The FDA extended the compliance date for submitting DMF Type lll in eCTD format to May 5, 2019. See the FDA guidance document for additional information on the compliance date and FDA's Drug Master File page for additional information on DMFs	FDAは、DMF Type lllのeCTD形式による提出期限を2019年5月5日に延長<ER34>した</ER34>。DMFに関する追加情報についてはFDAガイダンス文書を、DMFに関する追加情報についてはFDAのDrug Master Fileページを参照<ER35>のこと</ER35>。
+48	Important Notice 5/18/2016	重要なお知らせ2016年5月18日
+49	Third Acknowledgement for Successful eCTD Submissions	eCTD申請の成功に対する3回目の承認
+50	Beginning May 31, 2016, CDER will begin issuing an acknowledgement to FDA Electronic Submissions Gateway (ESG) users when their NDA, ANDA, BLA, IND, or DMF submission has successfully completed validation and processing and is available to the assigned review division. This acknowledgement is in addition to the ESG Message Delivery Notification acknowledgement (first acknowledgement) and the Official Center acknowledgement (second acknowledgement) and is referred to as the “third acknowledgement.”	2016年5月31日以降、CDERは、NDA、ANDA、BLA、INDまたはDMFの提出が正常に検証および処理を完了し、割り当てられた審査部門が使用できるようになった時点で、FDA <ER36>Electronic Submissions Gateway</ER36>(ESG)ユーザーに対して承認の発行を開始します。この承認は、ESG <ER37>Message Delivery Notification</ER37>承認(第1承認)および<ER38>Official Center</ER38>承認(第2承認)に追加され、「第3承認」と呼ばれます。
+51	For additional notices, please see eCTD Important Notices.	その他の通知については、eCTD重要通知を参照<ER39>のこと</ER39>。
+52	Stay Connected	常時接続
+53	If you have questions for CDER, please contact the CDER Electronic Submission (ESUB) Support Team at esub@fda.hhs.gov.	CDERに関するご質問は、CDER電子申請(ESUB)サポートチーム(esub@fda.hhs.gov)までお問い合わせください。
+54	If you have questions for CBER, please contact the CBER ESUB Support Team at esubprep@fda.hhs.gov.	CBERに関するご質問は、CBER ESUBサポートチーム(esubprep@fda.hhs.gov)までお問い合わせください。

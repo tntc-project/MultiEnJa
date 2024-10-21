@@ -1,0 +1,1210 @@
+{
+    "364.json": [
+        {
+            "src": "FACT SHEET: Biogas Opportunities Roadmap: Voluntary Actions to Reduce Methane Emissions, Increase Energy Independence and Grow the Economy",
+            "mt": "ファクトシート:バイオガス・オポチュニティー・ロードマップ:メタン排出量削減、エネルギー向上、経済成長のための自主的行動",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 105,
+                    "end": 117,
+                    "text": "Independence",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 118,
+                    "end": 121,
+                    "text": "and",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 29,
+                    "text": "バイオガス・オポチュニティー・ロードマップ",
+                    "type": 1,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Posted August 1st, 2014 for United States Department of Agriculture",
+            "mt": "2014年8月1日、米国農務省に掲載",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 15,
+                    "text": "米国農務省",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 16,
+                    "text": "に",
+                    "type": 9,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "President Obama's Climate Action Plan",
+            "mt": "オバマ大統領の気候変動行動計画",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "オバマ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In his Climate Action Plan, released in June 2013, President Obama directed the Administration to develop a comprehensive, interagency strategy to reduce methane emissions and promote cutting-edge technologies that help farmers, energy companies, and communities convert methane into a renewable energy source and grow America's biogas energy industry.",
+            "mt": "2013年6月に発表されたオバマ大統領の気候行動計画では、メタン排出量を削減し、農業者、エネルギー企業、コミュニティがメタンを再生可能エネルギーに転換し、米国のバイオガスエネルギー産業を成長させるための最先端技術を促進するための包括的な省庁間戦略を策定するようオバマ政権に指示した。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 303,
+                    "end": 309,
+                    "text": "source",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 16,
+                    "text": "オバマ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 26,
+                    "text": "気候行動計画",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 130,
+                    "end": 135,
+                    "text": "オバマ政権",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 140,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "As part of its \"all-of-the-above\" energy strategy, the Obama Administration has pursued policies and technologies to diversify the nation's energy portfolio, making America more secure by increasing energy independence.",
+            "mt": "オバマ政権は「オール・オブ・ザ・above」エネルギー戦略の一環として、米国のエネルギーポートフォリオを多様化する政策と技術を追求し、エネルギーの独立性を高めることで米国をより安全なものにした。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "オバマ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 21,
+                    "text": "オール・オブ・ザ・above",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "米国",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 96,
+                    "text": "した",
+                    "type": 9,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Strategy to Reduce Methane Emissions",
+            "mt": "メタン排出削減のための戦略",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "メタン排出",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "In March, the White House released a Climate Action Plan Strategy to Reduce Methane Emissions and help provide greater incentives to spur the creation of more cost-effective biogas energy technologies. This included a Biogas Roadmap, a voluntary strategy created by the U.S. Department of Agriculture, Department of Energy, and the Environmental Protection Agency for the agriculture sector to reduce methane emissions.",
+            "mt": "3月、ホワイトハウスは「メタン排出削減のための気候行動計画戦略」を発表し、より費用対効果の高いバイオガスエネルギー技術の創出に拍車をかけるためのより大きなインセンティブを提供することを支援した。これには、メタン排出削減のために米国農務省、エネルギー省および農業部門の環境保護庁が作成した自主的な戦略である「バイオガスロードマップ」が含まれる。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 96,
+                    "text": "「メタン排出削減のための気候行動計画戦略」を発表し、より費用対効果の高いバイオガスエネルギー技術の創出に拍車をかけるためのより大きなインセンティブを提供することを支援した",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 128,
+                    "end": 139,
+                    "text": "農業部門の環境保護庁が",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 166,
+                    "end": 170,
+                    "text": "含まれる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Experts agree that any comprehensive plan to confront climate change must address methane as well as carbon emissions. Methane is the second most prevalent greenhouse gas (GHG) emitted in the United States from human activities. Pound for pound, the impact of methane on climate change is over 20 times greater than carbon dioxide.",
+            "mt": "気候変動に対処するための包括的な計画は、炭素の排出だけでなくメタンの排出にも対処しなければならないという点で専門家の意見は一致している。メタンは、米国で人間活動から排出される温室効果ガス(GHG)の中で2番目に多い。1ポンド当たりのメタンの気候変動への影響は、二酸化炭素の20倍以上である。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 146,
+                    "end": 155,
+                    "text": "prevalent",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 9,
+                    "text": "対処する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 67,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 107,
+                    "text": "多い",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 144,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Biogas typically contains 50-70% methane. As well as being a greenhouse gas, methane can also an energy source. Biogas systems enable the recovery and productive use of methane to generate renewable energy from the decomposition of organic materials, reducing direct emissions into the atmosphere and reducing GHGs by replacing fossil fuels (e.g., coal, natural gas) used for traditional energy generation.",
+            "mt": "バイオガスには通常、50-70%のメタンが含まれている。メタンは温室効果ガスであるだけでなく、エネルギー源でもある。バイオガスシステムは、メタンを回収して生産的に利用し、有機物を分解して再生可能エネルギーを生成することで、大気中への直接排出量を削減し、従来のエネルギー生産に使用されていた化石燃料(石炭、天然ガスなど)を代替することでGHGを削減する。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 85,
+                    "end": 88,
+                    "text": "can",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 127,
+                    "end": 133,
+                    "text": "enable",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 27,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Biogas Opportunities Roadmap builds on progress made to date to identify voluntary actions that can be taken to reduce methane emissions through the use of biogas systems and outlines strategies to overcome barriers limiting further expansion and development of a robust biogas industry in the United States. Biogas is a proven source of energy used in the United States and around the world for decades. As such, biogas systems can and should be an integral part of America's energy strategy moving forward.",
+            "mt": "バイオガス機会ロードマップは、バイオガスシステムの利用を通じてメタン排出量を削減するために取ることができる自主的な行動を特定するためのこれまでの進展に基づいており、米国における堅固なバイオガス産業のさらなる拡大と発展を制限する障壁を克服するための戦略の概要を示している。バイオガスは、米国および世界中で何十年にもわたって利用されている実績のあるエネルギー源である。したがって、バイオガスシステムは、前進する米国のエネルギー戦略の不可欠な部分となることができ、またそうなるべきである。",
+            "MQM_score": 23,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 33,
+                    "end": 64,
+                    "text": "builds on progress made to date",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 5,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 81,
+                    "text": "するためのこれまでの進展に基づいており",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 129,
+                    "end": 134,
+                    "text": "示している",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 181,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 199,
+                    "end": 203,
+                    "text": "前進する",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 235,
+                    "end": 240,
+                    "text": "べきである",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "This Roadmap is also a deliverable of a Dairy Industry and USDA partnership which was requested by the industry to assist in achieving their 2008 goal of supply chain GHG emission reductions of 25% by 2020. It reflects a commitment by USDA, DOE and EPA to continue working with industry stakeholders on identifying steps to reduce emissions and expand the biogas industry, including through the development of new technologies.",
+            "mt": "本ロードマップはまた、酪農業界とUSDAのパートナーシップの成果でもある。このパートナーシップは、2020年までにサプライチェーンのGHG排出量を25%削減するという2008年の目標の達成を支援するよう業界から要請されたものであり、USDA、DOEおよびEPAが、排出量削減とバイオガス産業の拡大のための方策を特定するために、産業界の利害関係者と協力し続けるとのコミットメントを反映したものである。これには新技術の開発も含まれる。",
+            "MQM_score": 36,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 207,
+                    "end": 209,
+                    "text": "It",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 371,
+                    "end": 426,
+                    "text": ", including through the development of new technologies",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 36,
+                    "text": "ある",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 37,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 115,
+                    "text": "であり",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 115,
+                    "end": 116,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 195,
+                    "end": 198,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 199,
+                    "end": 215,
+                    "text": "これには新技術の開発も含まれる。",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "How Biogas Energy is Used",
+            "mt": "バイオガスエネルギーの利用方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "Many communities, farms and businesses are already capitalizing on new technologies that capture biogas and convert it to power.",
+            "mt": "多くの地域社会、農場、企業はすでに、バイオガスを回収して電力に変換する新技術を活用している。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "地域社会",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 45,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Farmers in particular stand to benefit from the advancement of biogas energy technology—as methods for converting farm waste into energy evolve and become more cost-effective, more farmers can use biogas to power their own farms at a reduced cost and sell energy and non-energy products created on their farms to produce additional revenue sources.",
+            "mt": "農業者は特に、バイオガスエネルギー技術の進歩から恩恵を受けている。農業廃棄物をエネルギーに変換する方法が進化し、より費用対効果が高くなるにつれて、より多くの農業者がバイオガスを利用して低コストで自分たちの農場に電力を供給し、自分たちの農場で生産されたエネルギーおよび非エネルギー製品を販売して追加的な収入源を生み出すことができる。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 22,
+                    "end": 30,
+                    "text": "stand to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 87,
+                    "end": 88,
+                    "text": "—",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 164,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "There are 239 biogas livestock systems currently operating in the U.S. These projects provide enough renewable energy to power the equivalent of almost 70,000 average American homes. They reduce methane emissions by the equivalent of approximately 2 million metric tons of carbon dioxide. If the full potential was realized, a cost-effective biogas industry could produce energy to power 1 million American homes.",
+            "mt": "現在、米国では239のバイオガス畜産システムが稼働している。これらのプロジェクトは、米国の平均的な家庭約70000世帯分に相当する電力を供給するのに十分な再生可能エネルギーを提供し、約2,000,000メートルトンの二酸化炭素に相当するメタン排出量を削減する。もし完全な可能性が実現すれば、費用対効果の高いバイオガス産業が100万世帯分の電力を供給するエネルギーを生み出すことができる。",
+            "MQM_score": 25,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 183,
+                    "end": 187,
+                    "text": "They",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 358,
+                    "end": 363,
+                    "text": "could",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 29,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 57,
+                    "text": "70000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 90,
+                    "text": "し",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 91,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 101,
+                    "text": "2,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 127,
+                    "end": 129,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 141,
+                    "text": "完全な可能性が実現",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Opportunities for Growth",
+            "mt": "成長の機会",
+            "MQM_score": 0
+        },
+        {
+            "src": "There is tremendous opportunity for growth in biogas systems. The Roadmap found that with the proper support, more than 11,000 additional biogas systems could be deployed in the United States. If fully realized, these biogas systems could produce enough energy to power more than 3 million American homes and reduce methane emissions equivalent to 4 to 54 million metric tons of greenhouse gas emissions in 2030, the annual emissions of between 800,000 and 11 million passenger vehicles.",
+            "mt": "バイオガスシステムには大きな成長の機会があり、ロードマップによれば、適切な支援があれば、米国に11000台以上のバイオガスシステムを導入することが可能であり、これらのバイオガスシステムが完全に実現すれば、米国の3,000,000世帯以上に電力を供給するのに十分なエネルギーを生み出すことができ、2030年のメタン排出量は温室効果ガス排出量の4~54,000,000トンに相当し、年間排出量は800000~11,000,000台の乗用車に相当する。",
+            "MQM_score": 73,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 127,
+                    "end": 137,
+                    "text": "additional",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 153,
+                    "end": 158,
+                    "text": "could",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 233,
+                    "end": 238,
+                    "text": "could",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 309,
+                    "end": 333,
+                    "text": "reduce methane emissions",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 413,
+                    "end": 436,
+                    "text": "the annual emissions of",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 22,
+                    "text": "あり",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 23,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 52,
+                    "text": "11000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 78,
+                    "text": "であり",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 79,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 114,
+                    "text": "3,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 152,
+                    "end": 153,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 160,
+                    "text": "メタン排出量は",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 170,
+                    "end": 171,
+                    "text": "4",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 172,
+                    "end": 182,
+                    "text": "54,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 182,
+                    "end": 184,
+                    "text": "トン",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 185,
+                    "end": 188,
+                    "text": "相当し",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 195,
+                    "text": "年間排出量は",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 195,
+                    "end": 201,
+                    "text": "800000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 202,
+                    "end": 212,
+                    "text": "11,000,000",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 220,
+                    "end": 222,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "With cost-effective technology deployment to utilize biogas, operations can continue that trend of improved efficiency while providing farmers increased revenues, making America more energy independent and reducing emissions that significantly contribute to climate change-offering a \"win-win\" for farmers, communities, the country and the planet.",
+            "mt": "バイオガスを利用するための費用対効果の高い技術を導入することで、農業者の収入を増やし、米国のエネルギーへの依存度を高め、気候変動に大きく貢献する排出量を削減する一方で、効率性を向上させるというトレンドを継続することができ、農業者、コミュニティ、国、そして地球に「ウィン・ウィン」をもたらすことができる。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 61,
+                    "end": 71,
+                    "text": "operations",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 56,
+                    "text": "エネルギーへの依存度",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 131,
+                    "end": 138,
+                    "text": "ウィン・ウィン",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 150,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Efforts to reduce methane emissions are already producing results in the fight against climate change: Since 1990, methane emissions in the United States have decreased by 11%, even as many activities that can produce methane have increased; emissions intensity of the production of meat and milk in the U.S. is much lower today that it was even a few decades ago because of research that has resulted in improved efficiencies in production; North American production of milk and beef is among the most efficient in the world in terms of the GHG emissions per unit of production.",
+            "mt": "メタンの排出量を削減する努力は、気候変動との闘いにおいてすでに成果を上げている。1990年以降、米国のメタン排出量は11%減少したが、それはメタンを生産することができる多くの活動が増加したからである。米国の肉と牛乳の生産の排出原単位は、生産の効率性を改善した研究の結果、現在では数十年前と比べてもはるかに低くなっている。牛乳と牛肉の北米での生産は、単位生産当たりのGHG排出量では世界で最も効率的なものの1つである。",
+            "MQM_score": 53,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 101,
+                    "end": 102,
+                    "text": ":",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 177,
+                    "end": 184,
+                    "text": "even as",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 240,
+                    "end": 241,
+                    "text": ";",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 440,
+                    "end": 441,
+                    "text": ";",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 39,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 65,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 99,
+                    "text": "ある",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 100,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 159,
+                    "text": "いる",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 159,
+                    "end": 160,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 176,
+                    "end": 178,
+                    "text": "生産",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 199,
+                    "end": 201,
+                    "text": "もの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 204,
+                    "end": 207,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Federal Support for Advancing Methane Energy Technology",
+            "mt": "メタンエネルギー技術の推進に対する連邦政府の支援",
+            "MQM_score": 0
+        },
+        {
+            "src": "Biogas has proven to be a reliable resource for energy, but is underdeveloped in the U.S. To address this, the Opportunities Roadmap identifies government actions which can help encourage technology deployment.",
+            "mt": "バイオガスは信頼性の高いエネルギー資源であることが証明されているが、米国では未発達である。この問題に対処するため、Opportunities Roadmapでは、テクノロジーの導入促進に役立つ政府の行動を特定している。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 44,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 49,
+                    "text": "この問題",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 78,
+                    "text": "Opportunities Roadmap",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 87,
+                    "text": "テクノロジー",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 108,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "To accelerate the use of cost-effective methane energy technology, the Opportunities Roadmap details a number of steps USDA, DOE, and EPA will take to help improve return on investment and expand America's biogas industry. These include:",
+            "mt": "費用対効果の高いメタンエネルギー技術の利用を促進するために、Opportunities Roadmapには、投資収益率の向上と米国のバイオガス産業の拡大を支援するためにUSDA、DOE、EPAが取るであろういくつかの措置が詳述されている。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 223,
+                    "end": 237,
+                    "text": "These include:",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 51,
+                    "text": "Opportunities Roadmap",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 108,
+                    "text": "いくつかの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 110,
+                    "text": "措置",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 118,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Promoting Biogas Utilization through Existing Agency Programs:",
+            "mt": "既存の代理店プログラムによるバイオガス利用の促進:",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 6,
+                    "text": "代理店",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "USDA, DOE, and EPA will use their existing programs as a vehicle to enhance the utilization of biogas systems in the U.S by ensuring that existing criteria for technical and financial assistance considers the benefits of biogas systems, leveraging over $10 million in research funding to enhance the economic viability and surrounding benefits of the biogas systems and co-products, and strengthening programs that support the use of biogas for clean energy, transportation fuel, renewable chemicals and biobased products.",
+            "mt": "USDA、DOEおよびEPAは、技術的および財政的支援のための既存の基準がバイオガスシステムの利益を考慮することを確実にし、バイオガスシステムおよび副産物の経済的実行可能性および周辺の利益を向上させるために1000万ドル以上の研究資金を活用し、クリーンエネルギー、輸送用燃料、再生可能な化学物質およびバイオベース製品へのバイオガスの利用を支援するプログラムを強化することにより、米国におけるバイオガスシステムの利用を促進する手段として既存のプログラムを使用する。",
+            "MQM_score": 5.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 19,
+                    "end": 23,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 8,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Fostering Investment in Biogas Systems:",
+            "mt": "バイオガスシステムへの投資促進:",
+            "MQM_score": 0
+        },
+        {
+            "src": "To help overcome financial barriers to the widespread investment in biogas systems, USDA will lead efforts to improve the collection and analysis of industry financial and technical data needed to track the performance of anaerobic digesters, evaluate current loan and grant programs for opportunities to broaden the financing options available for biogas systems, and review Federal procurement guidelines to ensure that products of biogas systems are eligible for and promoted by applicable government procurement programs.",
+            "mt": "バイオガスシステムへの広範な投資に対する財政的障壁の克服を支援するため、USDAは、嫌気性消化装置の性能を追跡するために必要な産業の財政的・技術的データの収集と分析の改善、バイオガスシステムに利用、バイオガスシステムに利用可能な資金調達オプションを拡大する機会を得るための現在の貸付およびグラントプログラムを評価し、バイオガスシステムの製品が適切な政府調達プログラムの対象となり、推進されることを確保するために連邦調達ガイドラインを見直す。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 89,
+                    "end": 109,
+                    "text": "will lead efforts to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 85,
+                    "text": "の改善",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 99,
+                    "text": "バイオガスシステムに利用、",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 153,
+                    "text": "貸付およびグラントプログラム",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Strengthening markets for biogas systems and system products:",
+            "mt": "バイオガスシステムおよびシステム製品の市場強化:",
+            "MQM_score": 0
+        },
+        {
+            "src": "To strengthen U.S. markets for renewable energy and value-added non-energy products from biogas systems, USDA, DOE, and EPA will review opportunities to overcome barriers to integrating biogas into electricity and renewable natural gas markets, for example, though modernizing existing Federal incentives provided for renewable energy generation. USDA, EPA, and DOE will also drive the creation of tools to help industry broaden the market development for energy and non-energy biogas systems products.",
+            "mt": "USDA、DOEおよびEPAは、バイオガスシステムからの自然エネルギーおよび付加価値非エネルギー製品の米国市場を強化するために、例えば、自然エネルギー発電に提供される既存の連邦政府のインセンティブを近代化する一方で、バイオガスを電力および自然エネルギー天然ガス市場に統合する際の障壁を克服する機会を検討する。また、USDA、EPAおよびDOEは、産業界がエネルギーおよび非エネルギーバイオガスシステム製品の市場開発を拡大するのを支援するツールのを推進する。",
+            "MQM_score": 35.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 124,
+                    "end": 128,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 366,
+                    "end": 370,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 382,
+                    "end": 394,
+                    "text": "the creation",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 8,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 35,
+                    "text": "自然エネルギー",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 77,
+                    "text": "自然エネルギー発電",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 107,
+                    "text": "一方で",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 126,
+                    "text": "自然エネルギー",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Improving communication and coordination:",
+            "mt": "コミュニケーションと調整の改善:",
+            "MQM_score": 0
+        },
+        {
+            "src": "In order to implement the strategies laid out in this document and promote strong coordination and messaging across Federal agencies, USDA will establish a Biogas Opportunities Roadmap Working Group that will include participation from DOE and EPA, as well as the dairy and biogas industries. The Working Group will collaborate with industry to publish a progress report in August 2015, which identifies and prioritizes policies and technology opportunities to expand the biogas industry and reduce greenhouse gas emissions.",
+            "mt": "USDAは、この文書に示された戦略を実施し、連邦政府機関間の強力な連携とメッセージを促進するために、DOEとEPA、酪農とバイオガス産業の参加を含むバイオガス機会ロードマップ作業部会を設置する。作業部会は産業界と協力して2015年8月に進捗報告書を公表し、バイオガス産業の拡大と温室効果ガス排出削減のための政策と技術機会を特定し優先順位を付ける。",
+            "MQM_score": 35,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 139,
+                    "end": 143,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 249,
+                    "end": 259,
+                    "text": "as well as",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 311,
+                    "end": 315,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 387,
+                    "end": 392,
+                    "text": "which",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 35,
+                    "text": "連携",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 41,
+                    "text": "メッセージ",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 169,
+                    "end": 172,
+                    "text": "付ける",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

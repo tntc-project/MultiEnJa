@@ -1,0 +1,965 @@
+{
+    "150.json": [
+        {
+            "src": "FANUC Introduces New Food Grade Delta Robot",
+            "mt": "FANUC、フードグレードの新しいデルタロボットを発表",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 13,
+                    "text": "フードグレード",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted October 17th, 2019 for FANUC America",
+            "mt": "FANUC America(2019年10月17日投稿)",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 13,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 14,
+                    "text": "(",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 27,
+                    "text": "投稿",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": ")",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "by FANUC America Oct 18, 2019",
+            "mt": "by FANUC America2019年10月18日",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 16,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "FANUC's DR-3iB food-grade delta robot sets a new standard for robotic food handling in terms of payload, speed, reach and sanitation.",
+            "mt": "FANUCのフードグレードのデルタロボットDR-3iBは、ペイロード、スピード、リーチ、衛生面で、食品を扱うロボットの新しい標準を打ち立てました。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 13,
+                    "text": "フードグレード",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 72,
+                    "text": "打ち立てました",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "ROCHESTER HILLS, MI",
+            "mt": "ロチェスターヒルズ(ミシガン州)",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "ロチェスターヒルズ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 9,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 15,
+                    "text": "ミシガン州",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "(Sept. 23, 2019)",
+            "mt": "(2019年9月23日生)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "生",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "FANUC America, the leading supplier of CNCs, robotics and ROBOMACHINEs has introduced the next generation DR-3iB food grade delta robot. The DR-3iB sets a new standard for robotic food handling in terms of payload, speed, reach and sanitation. It made its debut to the packaging industry at Pack Expo 2019, Sept. 23-25.",
+            "mt": "CNC、ロボティクス、ROBOMACHINESの主要サプライヤであるFANUC Americaは、次世代のフードグレードデルタロボットDR-3iBを発表しました。このDR-3iBは、ペイロード、速度、リーチ、衛生面でロボットフードハンドリングの新しい標準を打ち立て、9月に23-25で開催されたPack北京国際園芸博覧会でパッケージング業界にデビューしました。",
+            "MQM_score": 29,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 124,
+                    "end": 129,
+                    "text": "delta",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 60,
+                    "text": "フードグレード",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 99,
+                    "text": "速度",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 121,
+                    "text": "ロボットフードハンドリング",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 133,
+                    "text": "、",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 136,
+                    "text": "に",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 141,
+                    "text": "23-25",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 147,
+                    "text": "で開催された",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 160,
+                    "text": "Pack北京国際園芸博覧会",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "FANUC DR-3iB Delta Robot Series",
+            "mt": "FANUC DR-3iB Deltaロボットシリーズ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 18,
+                    "text": "Delta",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The new DR-3iB delta robot is FANUC's latest solution for picking and packing primary and secondary food products. Rated IP69K, the robot meets the strictest food handling regulations. Its design features corrosion-resistant materials, an unpainted finish, and a fully enclosed body allowing it to tolerate high pressure/temperature and sanitizer wash down environments.",
+            "mt": "新DR-3iBデルタロボットは、ファナックの最新の一次および二次食品のピッキングおよび梱包ソリューションです。IP69Kの定格で、最も厳しい食品取り扱い規制に適合します。その設計は、耐食性材料、塗装されていない仕上げ、および完全に密閉された本体を特徴とし、高圧/高温および殺菌剤洗浄環境に耐えることができます。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 21,
+                    "text": "ファナック",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 55,
+                    "text": "",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A powerful four-axis design and higher wrist inertia allows the DR-3iB/8L to handle 8kg payloads at very high speeds. Improved repeatability maximizes accuracy, and a hollow wrist design keeps all gripper wires and piping tucked inside.",
+            "mt": "強力な4軸設計と高い手首慣性により、DR-3iB/8Lは8kgのペイロードを非常に高速で処理することができます。再現性の向上により精度が最大化され、中空の手首設計によりすべてのグリッパワイヤとパイピングが内側に閉じ込められます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 113,
+                    "text": "閉じ込められます",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "A large work envelope featuring a 1600mm reach (500mm height) allows it to handle applications that require more range such as reaching into tall boxes or handling product on wide conveyors.",
+            "mt": "1600mmのリーチ(高さ500mm)を特徴とする大きな作業用封筒により、高い箱に手を入れたり、広いコンベア上で製品を取り扱うなど、より広い範囲を必要とする用途に対応することができる。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 33,
+                    "text": "作業用封筒",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 47,
+                    "text": "入れたり",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 63,
+                    "text": "扱う",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 91,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The DR-3iB operates with FANUC's latest R-30iB Plus controller with integrated intelligent functions such as iRVision®, Force Sensing, Robot Link, Collision Guard and Zero Down Time (ZDT).",
+            "mt": "DR-3iBは、iRVision®、Force Sensing、Robot Link、Collision Guard、0Down Time(ZDT)などの統合インテリジェント機能を備えたFANUCの最新のR-30iB Plusコントローラで動作します。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 69,
+                    "text": "0Down Time",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 69,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Pack Expo Demonstration",
+            "mt": "Pack Expoデモ",
+            "MQM_score": 0
+        },
+        {
+            "src": "FANUC's new DR-3iB/8L delta robot uses 2D iRVision and iRPickTool line tracking software to pick randomly oriented product from a continuous infeed conveyor. Equipped with a multi-pick gripper, the robot picks three packages and places them into a box on an outfeed fixed station to simulate case packing. The products recirculate and the cycle repeats. The cell features high-speed picking/packing with product re-orientation.",
+            "mt": "FANUCの新しいDR-3iB/8Lデルタロボットは、2D iRVisionおよびiRPickToolライントラッキングソフトウェアを使用して、連続インフィードコンベヤからランダムに方向付けられた製品をピックします。マルチピックグリッパを装備し、3つのパッケージをピックしてアウトフィード固定ステーション上のボックスに配置し、ケースパッキングをシミュレートします。製品は再循環し、サイクルが繰り返されます。セルは、製品の方向変更を伴う高速ピック/パッキングを特徴とします。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 98,
+                    "text": "ランダムに方向付けられた",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 107,
+                    "text": "ピックします",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 137,
+                    "text": "ピックして",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 158,
+                    "text": "ボックス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 166,
+                    "end": 171,
+                    "text": "パッキング",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 219,
+                    "end": 222,
+                    "text": "ピック",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 223,
+                    "end": 228,
+                    "text": "パッキング",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "DR-3iB Delta Robot Features and Benefits for the Food Industry:",
+            "mt": "DR-3iB Deltaロボットの特徴と食品業界へのメリット:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "Delta",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Standard IP69K rating for the entire robot means it is waterproof and can withstand harsh environments, including high temperature and high-pressure cleaning.",
+            "mt": "IP69K IP69Kは、防水性があり、高温高圧洗浄などの過酷な環境に耐えることができます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "IP69K",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "An unpainted surface prevents paint chips from falling and contaminating food.",
+            "mt": "塗装されていない表面は、塗料チップが落下して食品を汚染するのを防ぐ。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 33,
+                    "text": "防ぐ",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "No springs, stickers or pocketed fasteners eliminate the potential for bacterial growth.",
+            "mt": "スプリング、ステッカー、ポケットファスナーがないため、細菌が増殖する可能性があります。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 42,
+                    "text": "があります",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Self-draining and angled surfaces prevent product or liquid collection.",
+            "mt": "セルフドレンおよび傾斜した表面は、製品または液体の収集を防止する。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 27,
+                    "text": "収集",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 32,
+                    "text": "防止する",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Viewing window for grease detection and easy maintenance.",
+            "mt": "グリース検知とメンテナンスが容易な覗き窓です。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 17,
+                    "text": "メンテナンスが容易な",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "DR-3iB/8L has an 8kg payload, four-axis design optimized for high speed picking and packing.",
+            "mt": "DR-3iB/8Lは8kgのペイロードを搭載し、4軸設計で高速のピッキングと梱包に最適です。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 23,
+                    "text": "は8kgのペイロードを搭載し",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "DR-3iB/8L features a 1600mm reach (500mm height) allowing it to easily handle applications that require more range.",
+            "mt": "DR-3iB/8Lは、1600mmのリーチ(高さ500mm)を備えているため、より広い範囲を必要とするアプリケーションにも容易に対応できます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 36,
+                    "text": "は、1600mmのリーチ(高さ500mm)を備えている",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A hollow wrist enables internal cable and hose routing, minimizing wear and tear and improving sanitation.",
+            "mt": "中空の手首を使用すると、内部のケーブルとホースの配線が可能になり、磨耗と損傷が最小限に抑えられ、衛生状態が向上します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 11,
+                    "text": "を使用すると",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Food option features food grade grease and a special coating to handle acid and alkaline disinfectants.",
+            "mt": "食品オプションは、食品グレードのグリースと酸性およびアルカリ性消毒剤を扱う特別なコーティングを特徴とします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Ability to work with primary (unpackaged) or secondary (packaged) food products.",
+            "mt": "一次(包装されていない)または二次(包装された)食品を扱う能力。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 31,
+                    "text": "",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Supports FANUC's latest intelligent features including iRVision and force sensing.",
+            "mt": "iRVisionやフォースセンシングなど、FANUCの最新のインテリジェント機能をサポートします。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Collision Guard detects robot collisions with external objects, minimizing damage to the part and robot.",
+            "mt": "Collision Guardはロボットと外部オブジェクトとの衝突を検出し、パーツとロボットの損傷を最小限に抑えます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Robot Link controls and coordinates up to ten robots through a network exchange of robot positional data.",
+            "mt": "ロボットリンクは、ロボット位置データのネットワーク交換により、最大10台のロボットを制御および調整します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "The new DR-3iB/8L will be available Q1 2020.",
+            "mt": "新しいDR-3iB/8Lは、2020年第1四半期に発売されます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "About FANUC America Corporation",
+            "mt": "FANUC America Corporationについて",
+            "MQM_score": 0
+        },
+        {
+            "src": "FANUC America Corporation is a subsidiary of FANUC CORPORATION in Japan, and provides industry-leading robotics, CNC systems, and factory automation. FANUC's innovative technologies and proven expertise help manufacturers in the Americas maximize productivity, reliability and profitability.",
+            "mt": "FANUC America Corporationは、ファナック株式会社の子会社であり、業界をリードするロボット、CNCシステム、およびFAを提供しています。FANUCの革新的な技術と実証済みの専門知識は、米州のメーカーが生産性、信頼性、および収益性を最大化するのに役立ちます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 63,
+                    "end": 71,
+                    "text": "in Japan",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 70,
+                    "text": "FA",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "FANUC embraces a culture of “Service First” which means that customer service is our highest priority. We are committed to supplying our customers with parts and support for the life of their FANUC products.",
+            "mt": "FANUCは、お客様へのサービスを最優先するという「サービス第一」の文化を持ち、お客様のFANUC製品の寿命をサポートし、部品を提供します。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 40,
+                    "text": "、",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 69,
+                    "text": "します",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "FANUC America is headquartered at 3900 W. Hamlin Road, Rochester Hills, MI 48309, and has facilities in: Auburn Hills, MI; Atlanta; Boston; Charlotte; Chicago; Cincinnati; Cleveland; Houston; Huntington Beach, CA; Los Angeles; Minneapolis; Montreal; Pine Brook, NJ; Pontiac, MI; Birmingham AL; San Francisco; Seattle; Toronto; Buenos Aires, Argentina; Sao Paulo, and Manaus, Brazil; and Aguascalientes, Monterrey, and Queretaro, Mexico. For more information, please call: 888-FANUC-US (888-326-8287) or visit our website: https://www.fanucamerica.com/. Also, connect with us on YouTube, , , LinkedIn and Instagram.",
+            "mt": "FANUC Americaは、3900W.Hamlin Road,Rochester Hills,MI48309に本社を置き、ミシガン州Auburn Hills、アトランタ、ボストン、MI;Atlanta;Boston;Charlotte;Chicago;Cincinnati;Cleveland;Houston;Huntington Beach,CA;Los Angeles;Minneapolis;Montreal;Pine Brook,NJ;Pontiac,MI;Birmingham AL;San Francisco;Seattle;Toronto;Buenos Aires,Argentina;Sao Paulo,and Brazil;Aguascalientes,Monterrey,and Queretaro,Mexicoにあります。詳細については、888-FANUC-US(888-326-8287)または弊社のWebサイト弊社のWebサイト(https://www.fanucamerica.com/)をご覧ください。また、YouTube、、、、LinkedIn、Instagramからもお問い合わせください。マナウス",
+            "MQM_score": 60,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 90,
+                    "end": 100,
+                    "text": "facilities",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 21,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 33,
+                    "text": ",",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 49,
+                    "text": ",",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 51,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 68,
+                    "text": "ミシガン州",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 92,
+                    "text": "、アトランタ、ボストン、",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 94,
+                    "text": "MI",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 95,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 103,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 110,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 120,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 127,
+                    "end": 128,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 139,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 148,
+                    "end": 149,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 156,
+                    "end": 157,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 176,
+                    "text": ",CA",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 176,
+                    "end": 177,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 188,
+                    "end": 189,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 200,
+                    "end": 201,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 209,
+                    "end": 210,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 220,
+                    "end": 223,
+                    "text": ",NJ",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 223,
+                    "end": 224,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 231,
+                    "end": 234,
+                    "text": ",MI",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 234,
+                    "end": 235,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 248,
+                    "end": 249,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 262,
+                    "end": 263,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 270,
+                    "end": 271,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 278,
+                    "end": 279,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 291,
+                    "end": 301,
+                    "text": ",Argentina",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 301,
+                    "end": 302,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 311,
+                    "end": 316,
+                    "text": ",and ",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 316,
+                    "end": 322,
+                    "text": "Brazil",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 322,
+                    "end": 323,
+                    "text": ";",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 337,
+                    "end": 338,
+                    "text": ",",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 347,
+                    "end": 351,
+                    "text": ",and",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 361,
+                    "end": 368,
+                    "text": ",Mexico",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 394,
+                    "end": 394,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 420,
+                    "end": 429,
+                    "text": "弊社のWebサイト",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 514,
+                    "end": 518,
+                    "text": "マナウス",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

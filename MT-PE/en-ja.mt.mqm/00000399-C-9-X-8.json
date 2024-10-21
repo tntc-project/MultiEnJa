@@ -1,0 +1,958 @@
+{
+    "399.json": [
+        {
+            "src": "BioTime to Present New Data From OpRegen and Vision Restoration Programs at the Association for Research in Vision and Ophthalmology Annual Meeting (ARVO 2019)",
+            "mt": "BioTimeがAssociation for Research in Vision and Ophthalmology Annual Meeting(ARVO 2019)でOpRegenおよび視力回復プログラムの新しいデータを発表",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": "が",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 75,
+                    "text": "Annual Meeting",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted February 25th, 2019 for BIOTIME, Inc.",
+            "mt": "BIOTIME,Inc.2019年2月25日投稿",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 24,
+                    "text": "投稿",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "ALAMEDA, Calif., Feb. 26, 2019",
+            "mt": "カリフォルニア州アラメダ、2019年2月26日",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "カリフォルニア州アラメダ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "BioTime, Inc. (NYSE American: BTX), a clinical-stage biotechnology company focused on degenerative diseases, announced today that updated results from a Phase I/IIa study of its lead product candidate, OpRegen®, a retinal pigment epithelium (RPE) cell transplant therapy currently in development for the treatment of dry age-related macular degeneration (Dry-AMD), will be presented at the 2019 Association for Research in Vision and Ophthalmology Annual Meeting (ARVO 2019), to be held April 28 through May 2, 2019 at the Vancouver Convention Centre in Vancouver, BC, Canada. OpRegen® is currently being evaluated in a Phase I/IIa clinical trial for the treatment of dry-age related macular degeneration.",
+            "mt": "変性疾患に焦点を当てた臨床段階のバイオテクノロジー企業であるBioTime,Inc.(アメリカン証券取引所:BTX)は本日、乾燥型加齢黄斑変性(Dry-AMD)の治療のために現在開発中の主要製品候補である網膜色素上皮(RPE)細胞移植療法であるOpRegen(登録商標)の第I/IIa相試験の最新の結果が、2019年4月28日から5月2日までARVO 2019のバンクーバーコンベンションセンターで開催される2019年Association for Research in Vision and Ophthalmology Annual Meeting(カナダ)で発表されることを発表した。OpRegen(登録商標)は現在、乾燥型加齢黄斑変性の治療の第I/IIa相臨床試験で評価されている。",
+            "MQM_score": 26,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 464,
+                    "end": 473,
+                    "text": "ARVO 2019",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 554,
+                    "end": 575,
+                    "text": "Vancouver, BC, Canada",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 42,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 53,
+                    "text": "アメリカン証券取引所",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 171,
+                    "end": 180,
+                    "text": "ARVO 2019",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 262,
+                    "end": 276,
+                    "text": "Annual Meeting",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 277,
+                    "end": 280,
+                    "text": "カナダ",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 292,
+                    "end": 294,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 302,
+                    "end": 308,
+                    "text": "(登録商標)",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 342,
+                    "end": 344,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The abstract presentation, entitled, “Phase I/IIa Clinical Trial of Human Embryonic Stem Cell (hESC)-Derived Retinal Pigmented Epithelium (RPE, OpRegen) Transplantation in Advanced Dry Form Age-Related Macular Degeneration (AMD): Interim Results,” will be presented as part of the Advances in Retinal Gene Therapy and Stem Cells Session on May 2, 2019 between 10:15 AM to 12:00 PM EDT in Session Number 530 by Eyal Banin, MD, PhD, Professor of Ophthalmology, Director, Center for Retinal and Macular Degenerations, Department of Ophthalmology at Hadassah-Hebrew University Medical Center (presentation number 6402). The abstract will provide updated data from patient cohorts 1 through 3 of the study and new data from the ongoing patient cohort 4 in better vision patients.",
+            "mt": "「Phase I/IIa Clinical Trial of Human Embryonic Stem Cell(hESC)-Derived Retinal Pigmented Epithelium(helium(RPE, OpRegen)Transplantation in Advanced Dry Form Age-Related Macular Degeneration(AMD):Interim Results」と題され、2019年5月2日午前10時15分～午後12時(EDT)、セッション番号530でEyal Banin医学博士(Professor of Ophthalmology,Director,Center for Retinal and Macular Degeneration,Department of Ophthalmology,Hadassah-Hebrew University Medical Center(発表番号6402))による最新の網膜遺伝子療法と幹細胞セッションの一環として発表される予定である。抄録には、患者コホート1～3の最新データと、視力の良好な患者コホート4の最新データが含まれる。00",
+            "MQM_score": 50.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 25,
+                    "text": "The abstract presentation",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 588,
+                    "end": 614,
+                    "text": "(presentation number 6402)",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 629,
+                    "end": 633,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 751,
+                    "end": 757,
+                    "text": "better",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 212,
+                    "end": 215,
+                    "text": "題され",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 225,
+                    "end": 244,
+                    "text": "午前10時15分～午後12時(EDT)",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 270,
+                    "end": 271,
+                    "text": "(",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 271,
+                    "end": 283,
+                    "text": "Professor of",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 420,
+                    "end": 431,
+                    "text": "(発表番号6402))",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 434,
+                    "end": 453,
+                    "text": "最新の網膜遺伝子療法と幹細胞セッション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 459,
+                    "end": 464,
+                    "text": "発表される",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 466,
+                    "end": 469,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 481,
+                    "end": 485,
+                    "text": "1～3の",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 512,
+                    "end": 516,
+                    "text": "含まれる",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 517,
+                    "end": 519,
+                    "text": "00",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "In addition, BioTime will present preclinical results from its Vision Restoration Program, the Company's proprietary program based on the ability to generate 3-dimensional human retinal tissue derived from pluripotent cells. BioTime's 3-dimensional retinal tissue technology may address the unmet need of implementing a retinal tissue restoration strategy to address a wide range of severe retinal degenerative conditions including retinitis pigmentosa and advanced forms of AMD. In 2017, the Small Business Innovation Research program of the National Institutes of Health awarded BioTime a grant of up to $1.56 million to further develop this innovative, next generation vision restoration program.",
+            "mt": "また、BioTime社の3次元網膜組織技術である「Vision Restoration Program」の非臨床試験結果を発表します。BioTime社の3次元網膜組織技術は、網膜色素変性症や進行した加齢黄斑変性など、広範囲の重度の網膜変性状態に対処するための網膜組織修復戦略を実行するという満たされていないニーズに対応するものです。2017年、米国国立衛生研究所のSmall Business Innovation Researchプログラムは、BioTime社に対し、この革新的な次世代ビジョン修復プログラムをさらに発展させるために最大1,560,000ドルの助成金を授与しました。",
+            "MQM_score": 92,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 21,
+                    "end": 25,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 91,
+                    "end": 124,
+                    "text": "the Company's proprietary program",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 125,
+                    "end": 157,
+                    "text": "based on the ability to generate",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 172,
+                    "end": 177,
+                    "text": "human",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 193,
+                    "end": 223,
+                    "text": "derived from pluripotent cells",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 275,
+                    "end": 278,
+                    "text": "may",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 475,
+                    "end": 478,
+                    "text": "AMD",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 11,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 12,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 21,
+                    "text": "技術",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 25,
+                    "text": "「",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 51,
+                    "text": "Vision Restoration Program",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 52,
+                    "text": "」",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 58,
+                    "text": "非臨床試験",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 75,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 99,
+                    "text": "進行した",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 105,
+                    "text": "加齢黄斑変性",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 135,
+                    "text": "修復",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 172,
+                    "end": 181,
+                    "text": "米国国立衛生研究所",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 182,
+                    "end": 216,
+                    "text": "Small Business Innovation Research",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 223,
+                    "end": 231,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 244,
+                    "end": 250,
+                    "text": "ビジョン修復",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 269,
+                    "end": 278,
+                    "text": "1,560,000",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The poster presentation, entitled, “Transplantation of human embryonic stem cell derived retinal tissue in the subretinal space of immunodeficient rats with retinal degeneration (RD),” will be presented as part of the Animal Models for Visual Disease and Restoration Session on April 30, 2019 between 8:45am to 10:30am EDT in Session Number 332 by Igor Nasonkin, PhD, Principal Investigator, Director of Research & Development at BioTime, Inc. (Posterboard Number: 3109 - A0500).",
+            "mt": "ポスター発表「網膜変性(RD)を有する免疫不全ラットの網膜下空間におけるヒト胚性幹細胞由来網膜組織の移植」と題するポスター発表は、BioTime,Inc.(Posterboard Number:3109-A0500)の主任研究員で研究開発部長であるIgor Nasonkin博士によって、2019年4月30日午前8:45am～10:30am EDTのAnimal Models for Visual Disease and Restoration Session(セッション番号332)の一部として発表される。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 185,
+                    "end": 189,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 444,
+                    "end": 478,
+                    "text": "(Posterboard Number: 3109 - A0500)",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "ポスター発表",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 32,
+                    "text": "網膜下空間",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 73,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 108,
+                    "text": "(Posterboard Number:3109-A0500)",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 170,
+                    "text": "午前8:45am～10:30am",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 175,
+                    "end": 231,
+                    "text": "Animal Models for Visual Disease and Restoration Session",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 244,
+                    "end": 246,
+                    "text": "一部",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The poster presentation, entitled, “Evaluation of selected Human Embryonic Stem Cell Lines for differentiation to three-dimensional retinal tissue (organoids) for cell therapies of retinal degenerative conditions,” will be presented as part of the Stem Cells and Retinal Organoids: Disease modeling Session on April 30, 2019 between 8:45am to 10:30am EDT in Session Number 323 by Ratnesh Singh, PhD, Senior Scientist at BioTime, Inc. (Posterboard Number: 2873 - A0044).",
+            "mt": "「網膜変性状態の細胞治療のための三次元網膜組織(オルガノイド)への分化のための選択されたヒト胚性幹細胞株の評価」と題されたポスター発表は、BioTime,Inc.(Posterboard Number:2873-A0044)のSenior ScientistであるRatnesh Singh博士によるセッション番号323の午前8:45am～午前10:30am EDTの間の2019年4月30日のStem Cells and Retinal Organoids:Disease modeling Sessionの一部として発表される。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 215,
+                    "end": 219,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 434,
+                    "end": 468,
+                    "text": "(Posterboard Number: 2873 - A0044)",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 77,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 112,
+                    "text": "(Posterboard Number:2873-A0044)",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 129,
+                    "text": "Senior Scientist",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 150,
+                    "text": "による",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 150,
+                    "end": 196,
+                    "text": "セッション番号323の午前8:45am～午前10:30am EDTの間の2019年4月30日",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 197,
+                    "end": 254,
+                    "text": "Stem Cells and Retinal Organoids:Disease modeling Session",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 255,
+                    "end": 257,
+                    "text": "一部",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "About OpRegen®",
+            "mt": "OpRegen®について",
+            "MQM_score": 0
+        },
+        {
+            "src": "OpRegen® is a retinal pigment epithelium transplant therapy in Phase I/IIa development for the treatment of dry age-related macular degeneration, the leading cause of adult blindness in the developed world. OpRegen® consists of a suspension of retinal pigment epithelial (RPE) cells delivered subretinally as an intraocular injection. RPE cells are essential components of the back lining of the retina and function to help nourish the retina including photoreceptors. OpRegen® has been granted Fast Track designation from the U.S. Food and Drug Administration. OpRegen® is a registered trademark of Cell Cure Neurosciences Ltd., a majority-owned subsidiary of BioTime, Inc.",
+            "mt": "OpRegen(登録商標)は、先進国の成人失明の主因である乾性加齢性黄斑変性の治療のためのフェーズI/IIa開発中の網膜色素上皮移植療法である。OpRegen(登録商標)は、網膜下に眼内注射として送達される網膜色素上皮(RPE)細胞の懸濁液からなり、RPE細胞は、網膜の裏打ちの必須成分であり、光受容体を含む網膜の栄養補給を助ける機能を有する。OpRegen(登録商標)は、米国食品医薬品局からファストトラック指定を受けている。OpRegen(登録商標)は、Cell Cure Neurosciences Ltd.の登録商標である。Cell Cure Neurosciences Ltd.は、BioTime,Inc.の過半数所有子会社である。",
+            "MQM_score": 38,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 630,
+                    "end": 673,
+                    "text": "a majority-owned subsidiary of BioTime, Inc",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "(登録商標)",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 54,
+                    "text": "フェーズI/IIa",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 71,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 85,
+                    "text": "(登録商標)",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 124,
+                    "text": "なり",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 125,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 165,
+                    "end": 171,
+                    "text": "機能を有する",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 179,
+                    "end": 185,
+                    "text": "(登録商標)",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 187,
+                    "end": 195,
+                    "text": "米国食品医薬品局",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 211,
+                    "end": 213,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 221,
+                    "end": 227,
+                    "text": "(登録商標)",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 262,
+                    "end": 265,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 266,
+                    "end": 321,
+                    "text": "Cell Cure Neurosciences Ltd.は、BioTime,Inc.の過半数所有子会社である。",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "About BioTime, Inc.",
+            "mt": "BioTime,Inc.について",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 8,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "BioTime is a clinical-stage biotechnology company focused on the development and commercialization of novel therapies for the treatment of degenerative diseases. BioTime's pipeline is based on two platform technologies which encompass cell replacement and cell/drug delivery. BioTime's lead cell replacement product candidate is OpRegen®, a retinal pigment epithelium transplant therapy in Phase 2 development for the treatment of dry age-related macular degeneration, the leading cause of blindness in the developed world. BioTime's lead cell delivery clinical program is Renevia®, an investigational medical device being developed as an alternative for whole adipose tissue transfer procedures. BioTime common stock is traded on the NYSE American and TASE under the symbol BTX. For more information, please visit www.biotimeinc.com or connect with the company on Twitter, LinkedIn, Facebook, YouTube, and Google+. To receive ongoing BioTime corporate communications, please click on the following link to join the Company's email alert list: http://news.biotime.com.",
+            "mt": "BioTime社は、臨床段階にあるバイオテクノロジー企業新規治療法の開発と商業化に焦点を当てた臨床段階のバイオテクノロジー企業です。BioTime社のパイプラインは、細胞置換と細胞/薬剤デリバリーを含む2つのプラットフォーム技術に基づいています。BioTime社のリード細胞置換製品候補は、全脂肪組織移植の代替治療として開発されている網膜色素上皮移植療法であるOpRegen®です。BioTime社のリード細胞デリバリー臨床プログラムは、全脂肪組織移植の代替治療として開発されている治験用医療機器であるRenevia®です。BioTime社の普通株式は、アメリカン証券取引所および田瀬でBTXのシンボルで取引されています。詳細については、www.BTX.comを参照するか、Twitter、LinkedIn、Facebook、YouTube、およびGoogle+でBioTime社と連絡を取ってください。BioTime社からの継続的な次のリンクをクリックして当社の電子メールアラートリストに参加してください:http://news.biotime.com。biotimeinc",
+            "MQM_score": 83,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 118,
+                    "end": 160,
+                    "text": "for the treatment of degenerative diseases",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 387,
+                    "end": 522,
+                    "text": "in Phase 2 development for the treatment of dry age-related macular degeneration, the leading cause of blindness in the developed world",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 916,
+                    "end": 926,
+                    "text": "To receive",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 943,
+                    "end": 967,
+                    "text": "corporate communications",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 1042,
+                    "end": 1067,
+                    "text": ": http://news.biotime.com",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 28,
+                    "text": "臨床段階にあるバイオテクノロジー企業",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 74,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 98,
+                    "text": "デリバリー",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 131,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 135,
+                    "text": "リード",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 145,
+                    "end": 167,
+                    "text": "全脂肪組織移植の代替治療として開発されている",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 191,
+                    "end": 199,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 200,
+                    "end": 203,
+                    "text": "リード",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 205,
+                    "end": 210,
+                    "text": "デリバリー",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 227,
+                    "end": 231,
+                    "text": "代替治療",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 262,
+                    "end": 270,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 277,
+                    "end": 287,
+                    "text": "アメリカン証券取引所",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 290,
+                    "end": 292,
+                    "text": "田瀬",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 382,
+                    "end": 390,
+                    "text": "BioTime社",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 402,
+                    "end": 410,
+                    "text": "BioTime社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 453,
+                    "end": 477,
+                    "text": ":http://news.biotime.com",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 478,
+                    "end": 488,
+                    "text": "biotimeinc",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        }
+    ]
+}

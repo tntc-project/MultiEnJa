@@ -1,0 +1,841 @@
+{
+    "341.json": [
+        {
+            "src": "Legislation and compliance",
+            "mt": "法令順守",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "法令順守",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Home",
+            "mt": "[ホーム]",
+            "MQM_score": 0
+        },
+        {
+            "src": "Environment",
+            "mt": "環境",
+            "MQM_score": 0
+        },
+        {
+            "src": "Legislation and compliance",
+            "mt": "法令順守",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "法令順守",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Department of Mines, Industry Regulation and Safety (DMIRS) assesses environmental proposals for prospecting, mining exploration and development activities in accordance with the Mining Act 1978 for onshore mining activities in Western Australia (WA) and the Offshore Minerals Act 2003 for mining activities within WA State waters.",
+            "mt": "Department of Mines,Industry Regulation and Safety(DMIRS)は、Western Australia(WA)における陸上採鉱活動については1978年採鉱法に従って、またWA州海域における採鉱活動については2003年海洋鉱物法に従って、試掘・採鉱探鉱・開発活動に関する環境提案を評価している。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 50,
+                    "text": "Department of Mines,Industry Regulation and Safety",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 50,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 76,
+                    "text": "Western Australia",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 76,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 103,
+                    "text": "採鉱法",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 138,
+                    "text": "海洋鉱物法",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 150,
+                    "text": "採鉱探鉱",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 168,
+                    "end": 170,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Mining Rehabilitation Fund Act 2012 and the Mining Rehabilitation Fund Regulations 2013 provide a legislative framework for declaring abandoned mine sites and enables the Mining Rehabilitation Fund to receive levy contributions made by WA mining operators for the rehabilitation of abandoned mines.",
+            "mt": "2012年鉱業復興基金法および2013年鉱業復興基金規則は、放棄された鉱区を宣言するための法的枠組みを規定しており、鉱業復興基金は、放棄された鉱山の復興のためにWA鉱業事業者からの課徴金拠出金を受け取ることができる。",
+            "MQM_score": 29,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 12,
+                    "text": "鉱業復興基金法",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 28,
+                    "text": "鉱業復興基金規則",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 37,
+                    "text": "放棄された鉱区",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 64,
+                    "text": "鉱業復興基金",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 73,
+                    "text": "放棄された鉱山",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 87,
+                    "text": "WA鉱業事業者",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 90,
+                    "text": "からの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 96,
+                    "text": "課徴金拠出金",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 107,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "DMIRS also assesses environmental proposals for petroleum and geothermal activities in accordance with:",
+            "mt": "DMIRSはまた、以下の基準に従って、石油及び地熱活動に関する環境提案を評価する。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "の基準",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 40,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Petroleum and Geothermal Energy Resources (Environment) Regulations 2012 covers environmental approvals relating to petroleum activities located in onshore areas of the State, including islands and internal waters.",
+            "mt": "2012年石油・地熱資源(環境)規則は、島及び内水を含む国の陸上地域に位置する石油活動に関する環境認可を対象としている。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 12,
+                    "text": "石油・地熱資源",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 13,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 16,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 29,
+                    "text": "国",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Petroleum (Submerged Lands) (Environment) Regulations 2012 covers environmental approvals relating to petroleum activities within WA State waters.",
+            "mt": "2012年石油(水没した土地)(環境)規則は、ワシントン州の水域における石油活動に関する環境認可を対象としている。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 21,
+                    "text": "石油(水没した土地)(環境)規則",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 28,
+                    "text": "ワシントン",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 56,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Petroleum Pipelines (Environment) Regulations 2012 covers environmental approvals relating to onshore petroleum pipelines.",
+            "mt": "2012年石油パイプライン(環境)規則は、陸上石油パイプラインに関する環境認可を対象とする。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 14,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 17,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 45,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Native vegetation clearing permits are assessed by DMIRS under delegation from the Department of Water and Environmental Regulation in accordance with the provisions of the Environmental Protection Act 1986 and the Environmental Protection (Clearing of Native Vegetation) Regulations 2004. Permits may be required for mining or petroleum activities.",
+            "mt": "在来植生の除去許可は、1986年環境保護法および2004年環境保護(在来植生の除去)規則の規定に従って、水環境局の委任を受けたDMIRSによって評価される。鉱業または石油活動には許可が必要な場合がある。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "在来植生の除去許可",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 34,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 41,
+                    "text": "除去",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 42,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 56,
+                    "text": "水環境局",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 77,
+                    "text": "される",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 80,
+                    "text": "鉱業",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 83,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 100,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "DMIRS Resource and Environmental Compliance Division has an outcomes-focused regulatory system that requires robust compliance monitoring, reporting and data management to evaluate the performance of industry in achieving environmental outcomes. This is delivered through a risk-based, outcomes-focused assessment and compliance system with prioritisation of resources to manage compliance assurance, inspections and enforcement.",
+            "mt": "DMIRS資源環境コンプライアンス部は、産業界が環境面での成果を達成するためのパフォーマンスを評価するために、確実なコンプライアンスモニタリング、報告、データ管理を必要とする成果重視型の規制システムを有している。これは、リスクに基づく成果重視型の評価とコンプライアンスシステムを通じて提供され、コンプライアンスの保証、検査、実施を管理するための資源の優先順位付けが行われる。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "DMIRS資源環境コンプライアンス部",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 105,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 182,
+                    "end": 186,
+                    "text": "行われる",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "State environmental approvals",
+            "mt": "州環境認可",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 1,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Mining, petroleum and geothermal activity proposals that may have a significant impact on the environment will be referred to the Environmental Protection Authority (EPA) for environmental impact assessment under the Environmental Protection Act 1986.",
+            "mt": "環境に重大な影響を与える可能性のある鉱業、石油及び地熱活動の提案は、1986年環境保護法に基づく環境影響評価のために環境保護庁(EPA)に付託される。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 20,
+                    "text": "鉱業",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 63,
+                    "text": "環境保護庁",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 74,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Commonwealth environmental approvals",
+            "mt": "連邦環境認可",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 2,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Mining, petroleum and geothermal activity proposals likely to have significant impact to matters of national environmental significance should be referred by the company for environmental impact assessment under the Environment Protection and Biodiversity Conservation Act 1999 (Commonwealth). The Commonwealth and State have a bilateral agreement where environmental impact assessments may be undertaken by the EPA.",
+            "mt": "国の環境問題に重大な影響を与える可能性のある鉱業、石油及び地熱活動の提案は、1999年環境保護及び生物多様性保全法(連邦)に基づく環境影響評価のために企業によって参照されるべきである。連邦及び州は、環境影響評価がEPAによって行われる二国間協定を有している。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 387,
+                    "end": 390,
+                    "text": "may",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "環境問題",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 24,
+                    "text": "鉱業",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 58,
+                    "text": "(",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 61,
+                    "text": ")",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 83,
+                    "text": "参照",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 91,
+                    "text": "べきである",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 128,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Environmental risks and impacts associated with petroleum and greenhouse gas storage activities in Commonwealth waters are assessed by the National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) in accordance with the Offshore Petroleum and Greenhouse Gas Storage (Environment) Regulations 2009.",
+            "mt": "連邦水域における石油および温室効果ガス貯蔵活動に関連する環境リスクおよび影響は、2009年海洋石油および温室効果ガス貯蔵(環境)規則に従って、国家海洋石油安全環境管理局(NOPSEMA)によって評価される。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 36,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 66,
+                    "text": "海洋石油および温室効果ガス貯蔵(環境)規則",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 84,
+                    "text": "国家海洋石油安全環境管理局",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 102,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Guidance note on environmental non-compliance and incident reporting",
+            "mt": "環境不適合および事故報告に関するガイダンスノート",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "環境不適合",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Department of Mines, Industry Regulation and Safety's (DMIRS) compliance program for the minerals, petroleum, geothermal and greenhouse gas storage sectors includes a range of activities to achieve operator compliance with legislation and policies relevant to the relevant sector.",
+            "mt": "鉱物、石油、地熱及び温室効果ガス貯蔵部門に関する鉱山産業規制安全省(DMIRS)のコンプライアンス・プログラムには、事業者が当該部門に関連する法律及び政策を遵守するための様々な活動が含まれている。",
+            "MQM_score": 2.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 33,
+                    "text": "鉱山産業規制安全省",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 55,
+                    "text": "コンプライアンス・プログラム",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 97,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "At the core of the department's approach is the primary objective of fostering voluntary compliance with environmental obligations. This is in line with increased community expectations in relation to environmental performance, disclosure and transparency in the resources sector. To meet this expectation, the department has updated and improved the process by which industry can self-report environmental non-compliances and incidents.",
+            "mt": "同省のアプローチの中核となるのは、環境義務の自主的な遵守を促進することである。これは、資源セクターにおける環境パフォーマンス、情報開示、透明性に関するコミュニティの期待の高まりに沿ったものである。この期待に応えるため、同省は、業界が環境に関する不適合や事故を自己報告できるプロセスを更新し、改善した。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 44,
+                    "end": 68,
+                    "text": "the primary objective of",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 16,
+                    "text": "となるのは",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 38,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 49,
+                    "text": "セクター",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 62,
+                    "text": "環境パフォーマンス",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 97,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 115,
+                    "text": "業界",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 125,
+                    "text": "不適合",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 149,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For information on how to report a non-compliance or incident, please refer to the Resource and Environmental Compliance Division's Guidance Note for Non-compliances and Incidents.",
+            "mt": "不適合およびインシデントの報告方法については、資源環境コンプライアンス部の「不適合およびインシデントに関するガイダンスノート」を参照してください。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "不適合",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 12,
+                    "text": "インシデント",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 36,
+                    "text": "資源環境コンプライアンス部",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 62,
+                    "text": "不適合およびインシデントに関するガイダンスノート",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Published Acts and Legislative Instruments",
+            "mt": "公表された法律及び立法文書",
+            "MQM_score": 0
+        },
+        {
+            "src": "The above Acts and Regulations are published in full on the State's Parliamentary Council's Office www.legislation.wa.gov.au and the Commonwealth Federal Register of Legislation www.legislation.gov.au websites.",
+            "mt": "上記の法律および規則は、州議会議会事務局(www.legislation.wa.gov.au)および連邦法官報(www.legislation.gov.au)のウェブサイトで完全に公開されている。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 20,
+                    "text": "州議会議会事務局",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 55,
+                    "text": "連邦法官報",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 90,
+                    "text": "完全に",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 97,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Contact",
+            "mt": "連絡先",
+            "MQM_score": 0
+        },
+        {
+            "src": "Phone: +61 8 9222 3851",
+            "mt": "電話:+61 8 9222 3851",
+            "MQM_score": 0
+        }
+    ]
+}

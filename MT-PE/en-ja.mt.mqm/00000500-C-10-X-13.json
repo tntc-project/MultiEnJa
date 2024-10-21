@@ -1,0 +1,1648 @@
+{
+    "500.json": [
+        {
+            "src": "Agriculture, forestry and fishing",
+            "mt": "農林水産業",
+            "MQM_score": 0
+        },
+        {
+            "src": "Businesses that grow crops, raise animals, grow and harvest timber, and harvest fish and other animals from farms or their natural habitats, fall within the agriculture industry.",
+            "mt": "農作物を栽培したり、動物を飼育したり、木材を栽培して収穫したり、農場や自然の生息地から魚などの動物を収穫したりする企業は、農業産業に属する。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 57,
+                    "text": "農作物を栽培したり、動物を飼育したり、木材を栽培して収穫したり、農場や自然の生息地から魚などの動物を収穫したりする",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "企業",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 69,
+                    "text": "属する",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "There are two basic activities captured in this category:",
+            "mt": "このカテゴリには、次の2つの基本アクティビティがあります。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 23,
+                    "text": "基本アクティビティ",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "production, eg raising beef cattle, off shore prawn fishing, felling of plantation trees",
+            "mt": "肉牛の飼育、沖合でのエビ漁、植林木の伐採などの生産",
+            "MQM_score": 0
+        },
+        {
+            "src": "support services to production, eg fruit picking, wool classing.",
+            "mt": "生産への支援サービス(例:フルーツ狩り、羊毛の分類)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 26,
+                    "text": "(例:フルーツ狩り、羊毛の分類)",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Farming",
+            "mt": "農業",
+            "MQM_score": 0
+        },
+        {
+            "src": "Looking after yourself, your family, workers and visitors.",
+            "mt": "あなた自身、あなたの家族、労働者、訪問者の世話をしています。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 29,
+                    "text": "の世話をしています",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Find out more",
+            "mt": "詳細については",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "詳細については",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Plant nurseries",
+            "mt": "植物苗床",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "植物苗床",
+                    "type": 1,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Overcome specific health and safety challenges.",
+            "mt": "特定の安全衛生の課題を克服する。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Find out more",
+            "mt": "詳細については",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "詳細については",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Top causes of injury",
+            "mt": "外傷の主な原因",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "外傷",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "There are a vast range of activities and workplaces within this industry. Each workplace presents its own safety challenges.",
+            "mt": "この業界にはさまざまな活動や職場があり、それぞれの職場で安全に対する課題があります。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "この業界",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "But, across the industry, common causes of injuries are:",
+            "mt": "しかし、業界全体で、けがの一般的な原因は次のとおりです。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 19,
+                    "text": "業界全体で、けがの一般的な原因",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "unsafe use of quad bikes",
+            "mt": "四輪自転車の安全でない使用",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "四輪自転車",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 11,
+                    "text": "安全でない",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "manual tasks and repetitive motion",
+            "mt": "手作業と反復動作",
+            "MQM_score": 0
+        },
+        {
+            "src": "hearing loss due to noise",
+            "mt": "騒音による難聴",
+            "MQM_score": 0
+        },
+        {
+            "src": "incorrect and unsafe use of hazardous chemicals",
+            "mt": "有害化学物質の誤った安全でない使用",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 15,
+                    "text": "誤った安全でない",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "injuries from farm animals.",
+            "mt": "家畜による傷害です",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "傷害",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "です",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Common hazards",
+            "mt": "一般的な危険",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "危険",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Working in the agriculture, forestry and fishing industry is physically demanding and workers face challenges of working outdoors, working in all types of weather and conditions, and often working in regionally isolated areas. These aspects of the work complicate the safety risks.",
+            "mt": "農林水産業での労働は肉体的な負担が大きく、屋外での労働、あらゆる天候や条件での労働、そしてしばしば地域的に孤立した地域での労働という困難に直面しており、これらの作業は安全リスクを複雑にしている。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 227,
+                    "end": 243,
+                    "text": "These aspects of",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 76,
+                    "text": "しており、",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 96,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Each workplace is different though. You need to know what the hazards are in your business so you can assess the risk they pose.",
+            "mt": "しかし、それぞれの職場は異なります。ビジネスにおける危険性を把握して、リスクを評価する必要があります。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 22,
+                    "text": "ビジネス",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "危険性",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 43,
+                    "text": "リスクを評価する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "To help you get started, we've prepared information on how to identify hazards and manage the risks common to the agriculture sector, including:",
+            "mt": "作業を開始するために、デルは、農業部門に共通する危険性を特定し、リスクを管理する方法について、次のような情報を用意しました。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "作業を開始するために",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 13,
+                    "text": "デル",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 27,
+                    "text": "危険性",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 52,
+                    "text": "次のような",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 61,
+                    "text": "しました",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "quad bikes",
+            "mt": "クワッドバイク",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "クワッドバイク",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "noise",
+            "mt": "異音",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "異音",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "manual handling",
+            "mt": "手動操作",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "手動操作",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "animal handling",
+            "mt": "動物取扱",
+            "MQM_score": 0
+        },
+        {
+            "src": "electrical work and working near overhead powerlines",
+            "mt": "電気工事や架空送電線付近での作業",
+            "MQM_score": 0
+        },
+        {
+            "src": "biosecurity hazards",
+            "mt": "バイオセキュリティハザード",
+            "MQM_score": 0
+        },
+        {
+            "src": "tree work (arboriculture)",
+            "mt": "木工(樹木栽培)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "木工",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Resources to help you",
+            "mt": "お客様を支援するリソース",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "お客様を支援するリソース",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "As the work health and safety regulator in NSW, we have a wide range of technical, business, management and support services to help you make our business safe.",
+            "mt": "NSWの労働安全衛生規制機関であるデルは、お客様のビジネスの安全を確保するために、さまざまな技術、ビジネス、管理、およびサポートサービスを提供しています。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 128,
+                    "end": 136,
+                    "text": "help you",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 19,
+                    "text": "デル",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 29,
+                    "text": "お客様のビジネス",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "You can find specific information on:",
+            "mt": "具体的な情報は次のページにあります。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 17,
+                    "text": "は次のページにあります",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Our 'resource' and 'hazard' libraries",
+            "mt": "我々の「資源」と「危険」ライブラリ",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "我々の「資源」と「危険」ライブラリ",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Our resource library and hazard library is where you will find up-to-date information on managing hazards and risks as well as codes of practice.",
+            "mt": "EMCのリソース・ライブラリとハザード・ライブラリには、ハザードとリスクの管理に関する最新情報と実践規範が掲載されています。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "EMC",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 14,
+                    "text": "リソース・ライブラリ",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 25,
+                    "text": "ハザード・ライブラリ",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 32,
+                    "text": "ハザード",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "We also have extensive information that will help you improve and review your risk management processes. This includes videos, checklists, training and supervisory information, and safety alerts.",
+            "mt": "また、ビデオ、チェックリスト、トレーニングおよび監督情報、安全警告など、リスク管理プロセスの改善と見直しに役立つ広範な情報も提供しています。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 28,
+                    "text": "トレーニングおよび監督情報",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "SafeWork Australia also has a fact sheet on developing a hazardous chemicals register.",
+            "mt": "SafeWork Australiaにも、有害化学物質登録の作成に関するファクトシートがある。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "SafeWork Australia",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 29,
+                    "text": "登録",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "ある",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Our safety management resources",
+            "mt": "当社の安全管理資源",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "当社",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "資源",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Our Safety starts here section has a range of essential resources including:",
+            "mt": "Dell Safety starts hereセクションには、次のような重要なリソースがあります。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 35,
+                    "end": 45,
+                    "text": "a range of",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Dell",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 23,
+                    "text": "Safety starts here",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 43,
+                    "text": "リソース",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 48,
+                    "text": "あります",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "business must haves like emergency plans and first aid",
+            "mt": "緊急計画や応急計画や応急手当のようなものが必要である",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 10,
+                    "text": "応急計画や",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 18,
+                    "text": "のような",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 26,
+                    "text": "ものが必要である",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "the basics for physical safety at work",
+            "mt": "労働安全衛生の基本",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "労働安全衛生",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "the basics for mental health at work",
+            "mt": "職場におけるメンタルヘルスの基本",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "職場",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Our business resources",
+            "mt": "当社の経営資源",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "当社",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 5,
+                    "text": "経営",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "資源",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Safety support",
+            "mt": "安全支援",
+            "MQM_score": 0
+        },
+        {
+            "src": "Small business rebate",
+            "mt": "小規模企業向けリベート",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "リベート",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Building a health and safety culture",
+            "mt": "安全衛生文化の構築",
+            "MQM_score": 0
+        },
+        {
+            "src": "Consultation @ work",
+            "mt": "仕事の相談",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 3,
+                    "text": "の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 5,
+                    "text": "相談",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Our safety support services",
+            "mt": "安全支援サービス",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 3,
+                    "text": "Our",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "If you employ fewer than 50 workers, you can book request a workplace advisory visit by one of our SafeWork inspectors who will help you identify hazards and develop risk management procedures.",
+            "mt": "50人未満の従業員を雇用している場合は、SafeWork検査官の1人による職場のアドバイス訪問を予約することができます。SafeWork検査官は、危険性の特定とリスク管理手順の開発を支援します。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "50人未満の従業員を雇用している",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 28,
+                    "text": "SafeWork",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 31,
+                    "text": "検査官",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 34,
+                    "text": "の1人",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 47,
+                    "text": "アドバイス訪問",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 68,
+                    "text": "SafeWork",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 71,
+                    "text": "検査官",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 76,
+                    "text": "危険性",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 90,
+                    "text": "開発",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Our mentor program, where other businesses work with you to improve safety in your workplace, is also a valuable addition to your risk management program.",
+            "mt": "デルのメンタープログラムは、お客様がお客様と協力して職場の安全性を向上させるもので、お客様のリスク管理プログラムに追加する価値があります。",
+            "MQM_score": 31,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 26,
+                    "end": 31,
+                    "text": "other",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 78,
+                    "end": 82,
+                    "text": "your",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 97,
+                    "end": 101,
+                    "text": "also",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "デル",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 17,
+                    "text": "お客様",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 21,
+                    "text": "お客様",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 45,
+                    "text": "お客様",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "You can call us on 13 10 50 at any time for assistance in finding the services you need quickly.",
+            "mt": "お客様は、必要なサービスを迅速に見つけるために、いつでも13時10時50分にお電話ください。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 40,
+                    "end": 57,
+                    "text": "for assistance in",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "お客様は、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 37,
+                    "text": "13時10時50分",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Farm Safety Advisory Program",
+            "mt": "農業安全アドバイザリー・プログラム",
+            "MQM_score": 0
+        },
+        {
+            "src": "The NSW Farm Safety Advisory Pilot Program aims to reduce farm-related death, injury and disease and improve health and safety of workers in the farming industry by:",
+            "mt": "NSW Farm Safety Advisory Pilot Programは、以下の措置により、農業関連の死亡、負傷、疾病を減らし、農業従事者の健康と安全を改善することを目的としている。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 38,
+                    "text": "NSW Farm Safety Advisory Pilot Program",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 45,
+                    "text": "の措置",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 93,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "working with the agricultural industry to provide advice and education of farm safety issues",
+            "mt": "農業安全問題に関する助言と教育を行うために農業産業と協力する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 25,
+                    "text": "農業産業",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "raising awareness on farm safety issues.",
+            "mt": "農業安全問題への意識向上",
+            "MQM_score": 0
+        },
+        {
+            "src": "SafeWork NSW has partnered with NSW Farmers Association to deliver the program.",
+            "mt": "SafeWork NSWはNSW Farmers Associationと提携してプログラムを提供している。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "SafeWork NSW",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 36,
+                    "text": "NSW Farmers Association",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 49,
+                    "text": "提供",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 53,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Keeping up to date",
+            "mt": "最新の情報を入手する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Get into the habit of checking our website twice a week for updates on your legislative obligations, on current incidents and prosecutions, for new safety tips and general health and safety information.",
+            "mt": "毎週2回、当社のウェブサイトをチェックして、法的義務、現在の事件や起訴、新しい安全のためのヒントと安全に関する一般的な情報を更新してください。",
+            "MQM_score": 19,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 21,
+                    "text": "Get into the habit of",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 60,
+                    "end": 70,
+                    "text": "updates on",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 172,
+                    "end": 182,
+                    "text": "health and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 30,
+                    "text": "現在の",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "事件",
+                    "type": 13,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 49,
+                    "text": "と",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 64,
+                    "text": "更新",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Link your business to our social media channels including Twitter, Facebook and LinkedIn and never miss any of our news.",
+            "mt": "Twitter、Facebook、LinkedInなどのソーシャルメディアチャネルにあなたのビジネスをリンクして、私たちのニュースを見逃すことはありません。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 25,
+                    "text": "Twitter、Facebook、LinkedIn",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 50,
+                    "text": "ビジネス",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 60,
+                    "text": "私たち",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 77,
+                    "text": "見逃すことはありません",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Subscribe to the SafeWork Wrap, our monthly newsletter, which contains safety tips, general information, industry updates, and news about our prosecutions and enforceable undertakings.",
+            "mt": "毎月発行されるニュースレター「SafeWork Wrap」を購読してください。このニュースレターには、安全に関するヒント、一般的な情報、業界の最新情報、訴訟や法的拘束力のある取り組みに関するニュースが掲載されています。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 28,
+                    "text": "SafeWork Wrap",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "購読",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 78,
+                    "text": "訴訟",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 91,
+                    "text": "法的拘束力のある取り組み",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Visit the Alive and Well website and hear stories about staying safe on the farm from agriculture workers just like you.",
+            "mt": "Alive and Wellのウェブサイトにアクセスして、あなたと同じように農業労働者から農場の安全を守る話を聞きましょう。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "Alive and Well",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 38,
+                    "text": "に",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 43,
+                    "text": "農業労働者",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 53,
+                    "text": "農場の安全を守る",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Subscribe to industry publications and join your industry groups. Some of the relevant industry groups include:",
+            "mt": "業界資料を購読し、業界グループに参加します。関連する業界グループには、次のようなものがあります。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "資料",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 15,
+                    "text": "グループ",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "参加",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 21,
+                    "text": "します",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 32,
+                    "text": "グループ",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "For farmers:",
+            "mt": "農民のために",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "農民",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "のために",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "National Farmers Federation (NFF)",
+            "mt": "全国農民会総連盟",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "全国農民会総連盟",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "For commercial fish operations owners:",
+            "mt": "商業魚操作の所有者の場合:",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "商業魚操作の所有者",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 13,
+                    "text": "の場合:",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Commonwealth Fisheries Association (CFA)",
+            "mt": "英連邦漁業協会(CFA)",
+            "MQM_score": 0
+        },
+        {
+            "src": "For forest products growers and support:",
+            "mt": "林産物の生産者および支援:",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 3,
+                    "text": "For",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 4,
+                    "text": "の",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Australian Forest Products Association (AFPA)",
+            "mt": "オーストラリアの森用品工業会(AFPA)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "オーストラリアの森用品工業会",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "For agriculture and fisheries workers:",
+            "mt": "農業及び漁業労働者のために",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "農業及び漁業",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Australian Workers’ Union (AWU)",
+            "mt": "オーストラリア労働組合(AWU)",
+            "MQM_score": 0
+        },
+        {
+            "src": "For forestry workers:",
+            "mt": "林業労働者の場合",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "の場合",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Construction, Forestry, Mining and Energy Union (CFMEU).",
+            "mt": "建設、林業、鉱業およびエネルギー連合(CFMEU)。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "建設、林業、鉱業およびエネルギー連合",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Legislation",
+            "mt": "国別仕様",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "国別仕様",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "The NSW Work Health and Safety Act 2011 (WHS Act) and the NSW Work Health and Safety Regulation 2017 (WHS Regulation) define the obligations both employers and workers have to health and safety in the workplace.",
+            "mt": "NSW Work Health and Safety Act2011(WHS Act)およびNSW Work Health and Safety Regulation2017(WHS Regulation)は、使用者と労働者の両方が職場者と労働者の両方の義務を定義しています。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 173,
+                    "end": 210,
+                    "text": "to health and safety in the workplace",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 43,
+                    "text": "NSW Work Health and Safety Act2011(WHS Act)",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 103,
+                    "text": "NSW Work Health and Safety Regulation2017(WHS Regulation)",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 116,
+                    "text": "使用者と労働者の両方が",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 127,
+                    "text": "職場者と労働者の両方の",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The WHS legislation is supported by our Compliance policy and prosecution guidelines, which supplements the National compliance and enforcement policy.",
+            "mt": "WHS法は、各国のコンプライアンスおよび執行ポリシーを補足するコンプライアンス・ポリシーおよび訴追ガイドラインによってサポートされています。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 36,
+                    "end": 39,
+                    "text": "our",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 26,
+                    "text": "各国のコンプライアンスおよび執行ポリシー",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 29,
+                    "text": "補足",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 55,
+                    "text": "コンプライアンス・ポリシーおよび訴追ガイドライン",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 63,
+                    "text": "サポート",
+                    "type": 13,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "You can find a complete breakdown of business operations that fall within the administrative and support services industry from the Australian Bureau of Statistics (ABS).",
+            "mt": "オーストラリアのBureau of Statistics(ABS)には、管理サービス業界とサポートサービス業界に分類されるビジネスが記載されています。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 13,
+                    "end": 36,
+                    "text": "a complete breakdown of",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 33,
+                    "text": "オーストラリアのBureau of Statistics(ABS)",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 55,
+                    "text": "管理サービス業界とサポートサービス業界",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 65,
+                    "text": "ビジネス",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

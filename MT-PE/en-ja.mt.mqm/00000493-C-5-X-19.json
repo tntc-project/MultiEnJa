@@ -1,0 +1,686 @@
+{
+    "493.json": [
+        {
+            "src": "Gaming machines in clubs and pubs",
+            "mt": "クラブやパブのゲーム機",
+            "MQM_score": 0
+        },
+        {
+            "src": "Introduction",
+            "mt": "はじめに",
+            "MQM_score": 0
+        },
+        {
+            "src": "Who can apply for gaming machines",
+            "mt": "誰がゲーム機に応募できるか",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "応募",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply for a gaming machine licence",
+            "mt": "ゲーム機ライセンスを申請する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Apply to transfer a gaming machine licence",
+            "mt": "ゲーミングライセンスの譲渡を申請する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "ゲーミングライセンス",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Apply to substitute premises: gaming machine licence",
+            "mt": "代替施設に適用する:ゲーミングマシンライセンス",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "適用",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 18,
+                    "text": "ゲーミングマシン",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Gaming machine licence forms",
+            "mt": "ゲーム機ライセンスフォーム",
+            "MQM_score": 0
+        },
+        {
+            "src": "Gaming machine application fees",
+            "mt": "遊技機申込手数料",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "遊技機",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 5,
+                    "text": "申込",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Prepare a community impact analysis",
+            "mt": "コミュニティ影響分析を準備する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "コミュニティ影響",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Community benefit statement guidelines for licensed clubs",
+            "mt": "ライセンスクラブに関するコミュニティ・ベネフィット・ステートメントのガイドライン",
+            "MQM_score": 0
+        },
+        {
+            "src": "Gaming machine finance providers",
+            "mt": "ゲーム機ファイナンス会社",
+            "MQM_score": 0
+        },
+        {
+            "src": "Approved gaming equipment suppliers",
+            "mt": "認定ゲーム機器メーカー",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "メーカー",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Servicing gaming machines",
+            "mt": "ゲーム機の修理",
+            "MQM_score": 0
+        },
+        {
+            "src": "Banknote acceptor devices",
+            "mt": "紙幣受入装置",
+            "MQM_score": 0
+        },
+        {
+            "src": "Apply for a gaming machine licence",
+            "mt": "ゲーム機ライセンスを申請する",
+            "MQM_score": 0
+        },
+        {
+            "src": "To apply for a gaming machine licence you must complete the following steps:",
+            "mt": "ゲーム機ライセンスを申請するには、以下のステップを完了する必要があります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 1. To apply online, go to Licensing NT Online or fill in the gaming machine venue licence form. Get this and other gaming machine licence forms.",
+            "mt": "手順1.オンラインで申し込むには、Licensing NT Onlineにアクセスするか、ゲーム機会場ライセンスフォームに記入します。このフォームと他のゲーム機ライセンスフォームを入手してください。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "手順",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 14,
+                    "text": "申し込む",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 2. Supply all of the following documents:",
+            "mt": "ステップ2:次のすべての文書を入力します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 21,
+                    "text": "。",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "birth certificate",
+            "mt": "出生証明書",
+            "MQM_score": 0
+        },
+        {
+            "src": "current driver licence",
+            "mt": "現行の運転免許証",
+            "MQM_score": 0
+        },
+        {
+            "src": "current passport - and visa, if applicable",
+            "mt": "現行のパスポートおよびビザ(該当する場合)",
+            "MQM_score": 0
+        },
+        {
+            "src": "deed of release and indemnity DOCX <画像>(51.0 KB)",
+            "mt": "免責補償証書DOCX<画像>(51.0 KB)",
+            "MQM_score": 0
+        },
+        {
+            "src": "marriage certificate, if applicable",
+            "mt": "婚姻証明書(該当する場合)",
+            "MQM_score": 0
+        },
+        {
+            "src": "deed poll documents, if applicable",
+            "mt": "公正証書証書類(該当する場合)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "公正証書",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "financial statements",
+            "mt": "財務諸表",
+            "MQM_score": 0
+        },
+        {
+            "src": "tax returns or tax assessment notices for the previous three years.",
+            "mt": "過去3年間の確定申告または課税通知",
+            "MQM_score": 0
+        },
+        {
+            "src": "Step 3. Supply other supporting documentation:",
+            "mt": "ステップ3.その他のサポート文書の提供:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 16,
+                    "text": "サポート文書",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "a community impact analysis",
+            "mt": "コミュニティインパクト分析",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "コミュニティインパクト",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "a plan of the proposed premises, showing where gaming machines will be installed",
+            "mt": "ゲーム機が設置される場所を示す、提案された施設の計画",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 26,
+                    "text": "計画",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "a criminal history check",
+            "mt": "犯罪歴のチェック",
+            "MQM_score": 0
+        },
+        {
+            "src": "an affidavit disclosing anyone who influences or benefits from the proposed operation",
+            "mt": "提案された作戦に影響を与えるか、利益を与える人を開示する宣誓供述書",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "作戦",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 22,
+                    "text": "利益を与える",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "documents showing you lease, own or have a contract to buy the premises.",
+            "mt": "建物を賃貸し、所有し、または購入契約を結んでいることを示す文書。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "建物",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Companies or other body corporate such as a clubs must include all of the following documents:",
+            "mt": "会社またはクラブなどのその他の法人は、次のすべてのを含める必要があります。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 84,
+                    "end": 93,
+                    "text": "documents",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "certificate of incorporation",
+            "mt": "規約",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "規約",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "a copy of the memorandum, rules, constitution or other incorporating documents, certified by the secretary or other authorised person and, in the case of a club, certified by the Registrar of Associations",
+            "mt": "秘書役又は他の権限を与えられた者により証明され、かつ、クラブの場合は、協会登録官により証明された、覚書、規則、規約又はその他の書類の写し",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 55,
+                    "end": 68,
+                    "text": "incorporating",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "秘書",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "又は",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "a certified copy of the resolution meeting minutes where the governing body decided to apply for the licence",
+            "mt": "理事会がライセンスの申請を決定した決議会議議事録の認証謄本",
+            "MQM_score": 0
+        },
+        {
+            "src": "a statement showing how many members you have in each class of membership",
+            "mt": "メンバーシップの各クラスに何人のメンバーがいるかを示すステートメント",
+            "MQM_score": 0
+        },
+        {
+            "src": "a copy of the club constitution",
+            "mt": "クラブの構成のコピー",
+            "MQM_score": 0
+        },
+        {
+            "src": "a proposal consistent with the club's constitution.",
+            "mt": "クラブの体質に合った提案です。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "体質",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 4. Check the fee and the gaming machine levies.",
+            "mt": "ステップ4.料金とゲーム機の課税をチェックする。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 16,
+                    "text": "課税",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Step 5. Submit your application and pay the fees and levy to any Territory Business Centre.",
+            "mt": "ステップ5.申請書を提出し、料金および賦課金をテリトリー・ビジネス・センターに支払う。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 22,
+                    "text": "賦課金",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 38,
+                    "text": "テリトリー・ビジネス・センター",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Advertising your application",
+            "mt": "アプリケーションの広告",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "アプリケーション",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "You must advertise your application in local media, or as directed by the Director-General of Licensing within 28 days of the the date you submitted it.",
+            "mt": "お客様は、申請を提出した日から28日以内に、ローカルメディアで、またはライセンス局長の指示に従って、申請を広告する必要があります。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 42,
+                    "text": "ライセンス局長",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Licensing NT will supply you with a suitable advertisement to put into the local paper.",
+            "mt": "ライセンスNTは、ローカルの新聞に掲載する適切な広告を提供します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "ライセンスNT",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "You must include all of the following information in the advertising:",
+            "mt": "広告には、次の情報をすべて含める必要があります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "the location of the proposed premises",
+            "mt": "提案された敷地の場所",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "敷地",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "the number of gaming machines applied for",
+            "mt": "ゲーム機の申請台数",
+            "MQM_score": 0
+        },
+        {
+            "src": "where people can find community impact information.",
+            "mt": "コミュニティへの影響に関する情報を得ることができます",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 5,
+                    "text": "where",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Your advertising must also let people know that they can write to the Director-General about the application, within 30 days of the advertisement first being published.",
+            "mt": "あなたの広告はまた、広告が最初に公表されてから30日以内に、出願について長官に書くことができることを人々に知らせなければならない。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "出願",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "長官",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 64,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "When you can't advertise",
+            "mt": "広告できない場合",
+            "MQM_score": 0
+        },
+        {
+            "src": "You must not advertise an application between the second Friday in December and the second Monday in January. These are Christmas and new Year advertising restrictions.",
+            "mt": "12月の第2金曜日から1月の第2月曜日の間は、アプリケーションを広告してはいけません。これはクリスマスと新年の広告制限です。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 31,
+                    "text": "アプリケーション",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "This means that your advertising can either:",
+            "mt": "つまり、広告には次のいずれかの効果があります。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 22,
+                    "text": "いずれかの効果があります",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "start and finish before the second Friday in December",
+            "mt": "12月の第2金曜日までに開始して終了する",
+            "MQM_score": 0
+        },
+        {
+            "src": "or start and finish after the second Monday in January.",
+            "mt": "1月の第2月曜日以降に開始して終了することもできます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 26,
+                    "text": "こともできます",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Advertising exemptions",
+            "mt": "広告控除",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "控除",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "You do not have to advertise within 28 days of submitting your application this is during the Christmas and New Year advertising restrictions. If this does happen you should advertise as soon as possible after the restriction period.",
+            "mt": "応募後28日以内に広告を出す必要はありません。これはクリスマスと新年の広告制限期間中です。このような場合は、制限期間後できるだけ早く広告を出す必要があります。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 45,
+                    "text": "応募後28日以内に広告を出す必要はありません。これはクリスマスと新年の広告制限期間中です。",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Print all pages in this section",
+            "mt": "このセクションのすべてのページを印刷する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Last updated: 04 February 2020",
+            "mt": "最終更新日:04February2020",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 20,
+                    "text": "04February2020",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

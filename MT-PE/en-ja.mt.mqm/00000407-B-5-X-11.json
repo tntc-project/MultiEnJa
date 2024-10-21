@@ -1,0 +1,1052 @@
+{
+    "407.json": [
+        {
+            "src": "Chapter 1",
+            "mt": "第1章",
+            "MQM_score": 0
+        },
+        {
+            "src": "Introduction",
+            "mt": "はじめに",
+            "MQM_score": 0
+        },
+        {
+            "src": "Chapter 1 - Travel Epidemiology",
+            "mt": "第1章旅行の疫学",
+            "MQM_score": 0
+        },
+        {
+            "src": "Chapter 2 - The Pretravel Consultation",
+            "mt": "第2章旅行前相談",
+            "MQM_score": 0
+        },
+        {
+            "src": "Perspectives: Why Guidelines Differ",
+            "mt": "視点:ガイドラインが異なる理由",
+            "MQM_score": 0
+        },
+        {
+            "src": "David R. Shlim",
+            "mt": "デヴィッド・R・ Shlim",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 14,
+                    "text": "Shlim",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "INTRODUCTION",
+            "mt": "はじめに",
+            "MQM_score": 0
+        },
+        {
+            "src": "Numerous international, national, and professional organizations publish guidelines and recommendations for travelers, including the CDC Yellow Book. Travel health providers should be aware of these recommendations, even though they may not follow them in every instance. This way they can explain to their patients how their recommendations, and their patients' choices, may be at odds with what others recommend. It can be unsettling for patients to receive travel medicine advice, vaccines, or an antimalarial drug prescription from a provider, only to find that what has been advised or prescribed is contradicted by what other professionals, friends, or destination-country nationals have to say. The skillful travel health provider will be able to help the traveler reconcile seemingly conflicting advice.",
+            "mt": "CD Cイエローブックをはじめ、多くの国際的、国内的、専門的な組織が旅行者向けのガイドラインと推奨事項を発表しています。旅行者がこれらの推奨事項に従うとは限らない場合でも、旅行者はこれらの推奨事項を認識する必要があります。このようにして、自分の推奨事項と患者の選択が他の人の推奨事項とどのように異なるかを患者に説明することができます。渡航医学のアドバイス、ワクチン、または抗マラリア剤の処方を受けた患者が不安になることがありますが、アドバイスまたは処方された内容が他の専門家、友人、または旅行先の国の国民の言うことと矛盾していることがわかります。熟練した旅行者は、一見矛盾しているように見えるアドバイスを旅行者が調整できるように手助けすることができます。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 157,
+                    "end": 173,
+                    "text": "health providers",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 722,
+                    "end": 737,
+                    "text": "health provider",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "CD C",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 127,
+                    "text": "と",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 216,
+                    "end": 272,
+                    "text": "アドバイスまたは処方された内容が他の専門家、友人、または旅行先の国の国民の言うことと矛盾していることがわかります",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 306,
+                    "end": 308,
+                    "text": "調整",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "HOW GUIDELINES ARE CREATED",
+            "mt": "ガイドラインの作成方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the United States, the Food and Drug Administration (FDA) approves standards for how to use a vaccine or medication, including dosages, ages for which the product is approved, and booster recommendations. Recommendations about when to use a product may come from a separate body, such as the Advisory Committee on Immunization Practices (ACIP). To give ACIP the best possible information on which to base their recommendations, working groups of experts may hold meetings to review the literature and new studies. CDC Yellow Book travel advice will always be compatible with ACIP recommendations but may, on occasion, offer country- and situation-specific guidelines for vaccine use.",
+            "mt": "米国では、米国食品医薬品局(FDA)がワクチンや薬剤の使用方法に関する基準を承認しています。この基準には、用量、承認された年齢、追加接種に関する推奨事項などが含まれます。製品をいつ使用するかに関する推奨事項は、予防接種の実施に関する諮問委員会(ACIP)などの別の機関から提供される場合があります。ACIPに推奨事項の根拠となる最善の情報を提供するために、専門家の作業部会が文献や新しい研究を検討するための会議を開催することがあります。CDCイエローブックの旅行に関するアドバイスは、常にACIPの推奨事項と互換性がありますが、場合によっては、ワクチン の使用に関する国別および状況別のガイドラインを提供することもあります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "International organizations such as the World Health Organization (WHO) and national committees of other countries, as well as medical organizations such as the International Society of Travel Medicine (ISTM) or the Infectious Diseases Society of America, may each promote their own sets of guidance. Other professional organizations may create consensus clinical practice guidelines based on published medical literature and expert opinion. Travel medicine–specific paid subscription services employ travel medicine experts to organize and present guidelines for health care providers who see international travelers in their practice but who may lack expertise in the subject. Guidance provided about vaccines and malaria prophylaxis can differ from CDC advice.",
+            "mt": "世界保健機関(WHO)や他の国の国内委員会などの国際機関、国際渡航医学学会(ISTM)や米国感染症学会などの医療機関は、それぞれ独自のガイダンスを推進することができます。他の専門機関は、公表された医学文献や専門家の意見に基づいて、コンセンサス臨床診療ガイドラインを作成することができます。旅行医学専用の有料購読サービスでは、渡航医学の専門家を雇用して、国際旅行者を診療しているが、その分野の専門知識が不足している可能性のある医療提供者向けのガイドラインを作成し、提示します。ワクチンおよびマラリア予防について提供されるガイダンスは、CDCのアドバイスとは異なる場合があります。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 37,
+                    "text": "国際渡航医学学会",
+                    "type": 15,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 58,
+                    "text": "医療機関",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Guidelines put forward by different countries and organizations may differ in substantial ways. Reasons for this include differing licensure and availability of products, cultural perceptions of risk, lack of definitive evidence, and differences of opinion among experts.",
+            "mt": "国や組織が異なるガイドラインを提示しているが、その理由としては、製品の認可や入手方法の違い、リスクに対する文化的認識の違い、明確な証拠の欠如、専門家間の意見の相違などが挙げられる。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 75,
+                    "end": 94,
+                    "text": "in substantial ways",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 89,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Availability of Products",
+            "mt": "製品の可用性",
+            "MQM_score": 0
+        },
+        {
+            "src": "Travel health providers can only use the products available to them. Availability is determined by the regulatory approval status of the product and, to a lesser extent, the marketing and distribution plan of the manufacturer. Regulatory approval processes vary greatly by country. For example, registering a new vaccine or antimalarial drug in the United States is a costly and rigorous process. If the market in a particular country is insufficient to justify the expense of registration, a commercial company may not seek it.",
+            "mt": "旅行医療機関は、使用可能な製品のみを使用できます。可用性は、製品の規制承認ステータスおよび製造業者のマーケティングおよび物流計画によって決定されます。規制承認プロセスは。規制承認プロセスは国によって大きく異なります。たとえば、米国での新規ワクチンまたは抗マラリア剤の登録は、費用のかかる厳格なプロセスです。特定の国のマーケットでは登録費用を正当化できない場合、営利企業は を要求できません。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 438,
+                    "end": 450,
+                    "text": "insufficient",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 525,
+                    "end": 527,
+                    "text": "it",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "旅行医療機関",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Standards for licensure also vary. What may be sufficient for one regulatory authority may not suffice for another. For example, primaquine, an option for malaria prophylaxis in the United States, is not registered or commercially available in Switzerland. Atovaquone-proguanil was available for malaria prophylaxis in the United States before many other countries. Four Japanese encephalitis vaccines are available in the world, but only 1 is licensed in the United States.",
+            "mt": "認可の基準もさまざまである。ある規制当局にとって十分であるかもしれないものが、別の規制当局にとって十分でないかもしれない。例えば、プリマキンは、米国ではマラリア予防の選択肢として登録されておらず、スイスでは市販されていない。アトバコンプログアニルは、他の多くの国々に先駆けて米国でマラリア予防に利用可能であった。日本脳炎ワクチンは世界で4種類あるが、米国で認可されているのは1種類のみである。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 60,
+                    "text": "ない",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 97,
+                    "text": "プリマキンは、米国ではマラリア予防の選択肢として登録されておらず",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 111,
+                    "text": "いない",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 151,
+                    "end": 155,
+                    "text": "であった",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 171,
+                    "end": 174,
+                    "text": "あるが",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 192,
+                    "end": 195,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Even when the same products are available, recommendations for use may not be the same in all countries. The injectable capsular polysaccharide typhoid vaccine and the oral typhoid vaccine are examples. In the United States, a booster of the polysaccharide vaccine is recommended after 2 years, but in most European countries, a booster is recommended after 3 years. In the United States, a packet of 4 oral typhoid vaccine capsules is dispensed, whereas in Europe, 3 doses are considered adequate. The regulatory agencies may have reviewed the same data and drawn different conclusions, or they may have reviewed different data at separate times. Regulatory submissions to various agencies rarely occur at the same time; therefore, the data available for review by each agency may not be the same, for legitimate reasons.",
+            "mt": "同じ製品が入手可能であっても、すべての国で推奨される使用方法が同じではない場合があります。注射用の莢膜多糖体腸チフスワクチンと経口腸チフスワクチンがその例です。米国では2年後に多糖体ワクチンの追加接種が推奨されていますが、ヨーロッパのほとんどの国では3年後に追加接種が推奨されています。米国では経口腸チフスワクチンのカプセル4個が1袋調剤されていますが、ヨーロッパでは3回の接種で十分と考えられています。規制当局が同じデータを審査して異なる結論を導き出した場合や、異なるデータを別々の時点で審査した場合があります。様々な規制当局への規制上の提出が同時に行われることはまれであるため、正当な理由により、各規制当局が審査するために利用できるデータが同じではない場合があります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Perception of Risk",
+            "mt": "リスクの認識",
+            "MQM_score": 0
+        },
+        {
+            "src": "People from varying backgrounds can view the same risk data and come to very different conclusions as to the cost and benefit of minimizing that risk to what they consider to be an acceptable level. For example, recommendations to prevent malaria during travel to India vary widely. Germany does not recommend using standard prophylaxis for any travel to an Indian destination; standby emergency treatment (SBET) or self-treatment only is the recommendation for identified risk destinations. Guidelines from the United Kingdom recommend only awareness and mosquito bite prevention for more than half the Indian subcontinent, including large cities and popular tourist destinations in the north and south, while suggesting prophylaxis consideration for some travelers or for those visiting higher-risk areas. By contrast, CDC recommends malaria prophylaxis for any Indian destination (except for some mountainous areas of northern states) for all travelers.",
+            "mt": "さまざまな背景を持つ人々が、同じリスクデータを見て、そのリスクを最小限に抑えることのコストと便益に関して、受け入れ可能なレベルであると考えるレベルまで、非常に異なる結論に達することがあります。例えば,インド旅行中のマラリア予防に関する推奨事項は大きく異なります。ドイツでは,インド人旅行先への旅行に対して標準的な予防法を用いることは推奨されていない;同定されたリスク旅行先に対しては,待機的緊急治療(SBET)または自己治療のみが推奨されている。英国のガイドラインでは,大都市や北部および南部の人気の高い観光地を含むインド亜大陸の半数以上に対してのみ意識と蚊による刺咬の予防が推奨されている一方で,一部の旅行者や高リスク地域を訪れる旅行者に対しては予防法を考慮すべきであることが示唆されている。対照的に,CDCは全ての旅行者に対して全てのインド人旅行先(北部州の一部の山岳地域を",
+            "MQM_score": 11.699999999999998,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 825,
+                    "end": 894,
+                    "text": "recommends malaria prophylaxis for any Indian destination (except for",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 75,
+                    "text": "そのリスクを最小限に抑えることのコストと便益に関して、受け入れ可能なレベルであると考えるレベルまで",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 100,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 137,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 174,
+                    "end": 175,
+                    "text": ";",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 191,
+                    "end": 192,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 234,
+                    "end": 235,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 298,
+                    "end": 299,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 344,
+                    "end": 346,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 351,
+                    "end": 352,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Lack of Evidence",
+            "mt": "証拠の欠如",
+            "MQM_score": 0
+        },
+        {
+            "src": "In many cases, limited or no data are available to inform an evidence-based assessment. Travel health providers must then defer to expert opinion or extrapolate from limited data in conjunction with expert opinion. In travel medicine, it is rare to have numerator and denominator data on the risk of any disease. For example, any new data on the risk of hepatitis A in travelers would have to account for the high immunization rate with hepatitis A vaccine. Because such data are rarely available, travel health providers often rely on historical data that captured few actual cases.",
+            "mt": "多くの場合、エビデンスに基づいた評価を行うためのデータは限られているか、または得られていません。旅行者は専門家の意見に従うか、専門家の意見と合わせて限られたデータから外挿する必要があります。渡航医学では、病気のリスクに関する分子と分母のデータがあることはまれです。例えば、旅行者のA型肝炎のリスクに関する新しいデータは、A型肝炎ワクチンの高い予防接種率を説明する必要があります。このようなデータはめったに利用できないため、旅行者は実際の の症例をほとんど把握していない過去のデータに頼ることがよくあります。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 95,
+                    "end": 111,
+                    "text": "health providers",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 505,
+                    "end": 521,
+                    "text": "health providers",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 83,
+                    "text": "専門家の意見と合わせて限られたデータから",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 87,
+                    "text": "外挿する",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 177,
+                    "end": 181,
+                    "text": "説明する",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 217,
+                    "end": 220,
+                    "text": "の の",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "CAN WE HARMONIZE GUIDELINES?",
+            "mt": "ガイドラインを調和させることができるか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "The complex nature of how health organizations obtain, evaluate, and verify data, combined with fundamental differences in risk perception, makes it likely that multiple, overlapping, and at times conflicting guidelines will continue to exist. However, conflicting guidelines have decreased in the past decade due to the efforts of several organizations. A recent example has been the collaboration among the WHO, US CDC, and the European Centre for Disease Prevention and Control (ECDC) to develop consistency and clarity in defining the risk of Zika infection for travelers so that providers can more clearly relay traveler risk, particularly to those who are pregnant or planning pregnancy.",
+            "mt": "医療機関がデータを入手、評価、検証する方法が複雑であることに加え、リスク認識に根本的な違いがあることから、複数の重複するガイドラインが存在し、時には矛盾するガイドラインが存在する可能性が高くなっています。しかし、過去10年間で、いくつかの組織の努力により、矛盾するガイドラインが減少しています。最近の例として,WHO,US CDC,およびEuropean Centre for Disease Prevention and Control(ECDC)が協力して,旅行者のジカ熱感染リスクを定義する際の一貫性と明確性を高め,医療従事者が旅行者リスク(特に妊娠中または妊娠を計画している人)をより明確に伝えることができるようにした例がある。",
+            "MQM_score": 2.3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 155,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 155,
+                    "end": 225,
+                    "text": "WHO,US CDC,およびEuropean Centre for Disease Prevention and Control(ECDC)",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 230,
+                    "end": 231,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 260,
+                    "end": 261,
+                    "text": ",",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 315,
+                    "end": 317,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In summary, the role of the travel health provider is to understand the various differences in guidelines, interpret this information, and convey tailored and informed advice in an assured and comforting manner to travelers.",
+            "mt": "要約すると、旅行医療提供者の役割は、ガイドラインにおける様々な違いを理解し、この情報を解釈し、旅行者に対して、確実で安心感のある方法で、調整された情報に基づく助言を伝えることである。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 90,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "BIBLIOGRAPHY",
+            "mt": "参考文献",
+            "MQM_score": 0
+        },
+        {
+            "src": "CDC. Malaria surveillance—United States, 2015. MMWR Surveill Summ. 2018 May 4;67(7):1–28.",
+            "mt": "CD C.Malaria surveillance United States,2015.MMWR Surveill Summ.2018May4;67(7):1-28.",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "CD C",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 40,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 45,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 64,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 68,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 71,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "CDC. Advisory Committee on Immunization Practices (ACIP). Atlanta: CDC; 2018 [cited 2018 Sep 12]. Available from: www.cdc.gov/vaccines/acip/.",
+            "mt": "CD C.予防接種の実施に関する諮問委員会(ACIP).Atlanta:CDC;2018[引用:2018Sep12].www.cdc.gov/vaccines/acip/から入手可能。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "CD C",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 21,
+                    "text": "予防接種の実施に関する諮問委員会",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 28,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 36,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 40,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 44,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 57,
+                    "text": "2018Sep12",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Chiodini PL, Field VK, Whitty CJM, Lalloo DG. Guidelines for malaria prevention in travellers from the UK: 2017. London: Public Health England; 2017 [cited 2018 Sep 12]. Available from: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/660051/Guidelines_for_malaria_prevention_in_travellers_from_the_UK_2017.pdf.",
+            "mt": "Chiodini PL,Field VK,Whitty CJM,Lalloo DG.Guidelines for malaria prevention in travelers from the UK:2017.London:Public Health England;2017[引用:2018Sep12].Available from:London.pdf.https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/660051/Guidelines_for_malaria_prevention_in_travellers_from_the_UK_2017.から入手可能。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 12,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 21,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 32,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 42,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 101,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 106,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 113,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 135,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 139,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 143,
+                    "end": 152,
+                    "text": "2018Sep12",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 154,
+                    "end": 168,
+                    "text": "Available from",
+                    "type": 18,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 169,
+                    "end": 180,
+                    "text": "London.pdf.",
+                    "type": 18,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Committee to Advise on Tropical Medicine and Travel (CATMAT). Canadian recommendations for the prevention and treatment of malaria. Ottawa: Public Health Agency of Canada; 2014 [cited 2018 Sep 12]. Available from: http://publications.gc.ca/collections/collection_2014/aspc-phac/HP40-102-2014-eng.pdf.",
+            "mt": "Committee to Advise on Malaria and Travel(CATMAT).Canadian recommendations for the prevention and treatment of malaria.Ottawa:Public Health Agency of Canada;2014[引用:2018Sep12].Available from:http://publications.gc.ca/collections/collection_2014/aspc-phac/HP40-102-2014-eng.pdf.熱帯医学",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 177,
+                    "end": 183,
+                    "text": "[cited",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 41,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 50,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 119,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 126,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 157,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 165,
+                    "end": 174,
+                    "text": "2018Sep12",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 176,
+                    "end": 191,
+                    "text": "Available from:",
+                    "type": 18,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 277,
+                    "end": 281,
+                    "text": "熱帯医学",
+                    "type": 18,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "German Society for Tropical Medicine and International Health Association (DTG). [Recommendations for the prophylaxis and treatment of malaria of DTG 2018]. 2018 [cited 2018 Sep 12]. Available from: www.dtg.org/empfehlungen-und-leitlinien/empfehlungen/malaria.html.",
+            "mt": "German Society for Malaria and International Health Association(DTG)[Recommendations for the prevention and treatment of malaria of DTG2018].2018[cited2018Sep12].www.dtg.org/empfehlungen-und-leitlinien/empfehlungen/malaria.htmlから入手可能。熱帯医学",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 160,
+                    "text": "cited2018Sep12",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 234,
+                    "end": 238,
+                    "text": "熱帯医学",
+                    "type": 18,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Hill DR, Ericsson CD, Pearson RD, Keystone JS, Freedman DO, Kozarsky PE, et al. The practice of travel medicine: guidelines by the Infectious Diseases Society of America. Clin Infect Dis. 2006 Dec 15;43(12):1499–539.",
+            "mt": "Hill DR,Ericsson CD,Pearson RD,Keystone JS,Freedman DO,Kozarsky PE,et al.,The Practice of渡航医学:guidelines by the Infectious Diseases Society of America.Clin Infect Dis.2006Dec15;43(12):1499-539.",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 8,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 20,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 31,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 43,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 55,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 67,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 74,
+                    "text": ",",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 74,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 93,
+                    "text": "渡航医学",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 151,
+                    "end": 151,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 167,
+                    "end": 167,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 171,
+                    "end": 171,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 174,
+                    "end": 174,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "World Health Organization. International Health Regulations (2005). Geneva: World Health Organization; 2016 [cited 2018 Sep 12]. Available from: www.who.int/ihr/publications/9789241580496/en.",
+            "mt": "World Health Organization.International Health Regulations(2005).Geneva:World Health Organization;2016[引用、2018年9月12日]。www.who.int/ihr/publications/9789241580496/enから入手可能。",
+            "MQM_score": 0.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 117,
+                    "end": 118,
+                    "text": "。",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "World Health Organization. International Travel and Health. Geneva: World Health Organization; 2012 (with 2016 updates) [cited 2016 June 14]. Available from: www.who.int/ith/en/.",
+            "mt": "World Health Organization.International Travel and Health.Geneva:World Health Organization;2012(2016年更新)[引用:2016年6月14日]。www.who.int/ith/en/から入手可能。",
+            "MQM_score": 4.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 58,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 65,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 91,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 95,
+                    "text": "",
+                    "type": 8,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 120,
+                    "text": "。",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Perspectives sections are editorial discussions written to add depth and clinical perspective to the official recommendations contained in the book. The views and opinions expressed in this section are those of the authors and do not necessarily represent the official position of CDC.",
+            "mt": "Perspectivesセクションは、本書に含まれる公式な推奨事項に深さと臨床の観点を加えるために書かれた編集上の議論であり、本セクションで述べられている見解と意見は著者の見解であり、必ずしも CDCの公式な立場を表しているわけではない。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "Perspectives",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 21,
+                    "text": "本書",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Chapter 1 - Travel Epidemiology",
+            "mt": "第1章旅行の疫学",
+            "MQM_score": 0
+        },
+        {
+            "src": "Chapter 2 - The Pretravel Consultation",
+            "mt": "第2章旅行前相談",
+            "MQM_score": 0
+        },
+        {
+            "src": "Page last reviewed: June 21, 2019",
+            "mt": "最終確認日:2019年6月21日",
+            "MQM_score": 0
+        },
+        {
+            "src": "Content source: National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)",
+            "mt": "コンテンツソース:National Center for Emerging and Convexual Infectious Diseases(NCEZID)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 71,
+                    "text": "National Center for Emerging and Convexual Infectious Diseases",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Division of Global Migration and Quarantine (DGMQ)",
+            "mt": "国際移住隔離課(DGMQ)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "国際移住隔離課",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

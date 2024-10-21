@@ -1,0 +1,226 @@
+{
+    "467.json": [
+        {
+            "src": "NOTES ON THE USE OF THIS FORM",
+            "mt": "このフォームの使用に関する注意事項",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "フォーム",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "This form is used to supply information on contracts as required by the Premier and Cabinet Circular: ‘PC027 Disclosure of Government Contracts’",
+            "mt": "このフォームは、首相および内閣通達「PC027政府契約の開示」が要求する契約に関する情報を提供するために使用されます。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 6,
+                    "text": "フォーム",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 15,
+                    "text": "首相および内閣",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 58,
+                    "text": "使用されます",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For more information on the disclosure requirements which apply to contracts please refer to Premier and Cabinet Circular: ‘PC027 Disclosure of Government Contracts’",
+            "mt": "契約に適用される開示要件の詳細については、「Premier and Cabinet Circular:'PC027Disclosure of Government Contracts'」を参照してください。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 93,
+                    "text": "「Premier and Cabinet Circular:'PC027Disclosure of Government Contracts'」",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "a copy of which is posted at : https://dpc.sa.gov.au/documents/rendition/B17980",
+            "mt": "その写しはhttps://dpc.sa.gov.au/documents/rendition/B17980に掲載されている。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "その写し",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 61,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Please complete this form and email it to satendersandcontracts@sa.gov.au when ready to have details of the contract published on www.tenders.sa.gov.au",
+            "mt": "契約書の詳細をwww.tenders.sa.gov.auに公開する準備ができましたら、このフォームに記入してsatendersandcontracts@sa.gov.auまでメールしてください。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 49,
+                    "text": "フォーム",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 92,
+                    "text": "メールして",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "To ensure that the contract information is displayed on the website in a timely fashion, agencies are asked to provide all the documentation to the SA Tenders and Contracts Systems Administrator five working days before it is to be displayed. In addition, agencies are required to obtain all the appropriate approvals from within their agencies to display the contract information before the documentation is released to SA Tenders and Contracts.",
+            "mt": "契約情報がタイムリーにウェブサイトに表示されるようにするため、代理店は、契約情報が表示される5営業日前までに、すべての文書をSA・契約システム管理者に提供するよう求められる。また、代理店は、文書がSA入札・契約にリリースされる前に、契約情報を表示するために、代理店内からすべての適切な承認を取得する必要がある。",
+            "MQM_score": 35,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 151,
+                    "end": 162,
+                    "text": "Tenders and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 11,
+                    "text": "タイムリーに",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 34,
+                    "text": "代理店",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 50,
+                    "text": "営業日",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 67,
+                    "text": "SA・契約",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 86,
+                    "text": "提供するよう求められる",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 93,
+                    "text": "代理店",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 105,
+                    "text": "SA入札・契約",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 110,
+                    "text": "リリース",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 145,
+                    "text": "契約情報を表示するために、代理店内からすべての適切な承認を",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 152,
+                    "end": 154,
+                    "text": "ある",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If you have any queries on this process, please contact:",
+            "mt": "このプロセスに関する質問がある場合は、次の連絡先にお問い合わせください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Tenders Help Desk",
+            "mt": "入札ヘルプデスク",
+            "MQM_score": 0
+        },
+        {
+            "src": "Ph: +61 (08) 8462 1401",
+            "mt": "Ph:+61(08)8462 1401",
+            "MQM_score": 0
+        },
+        {
+            "src": "Email: satendersandcontracts@sa.gov.au",
+            "mt": "メール:satendersandcontracts@sa.gov.au",
+            "MQM_score": 0
+        }
+    ]
+}

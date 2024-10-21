@@ -1,0 +1,3843 @@
+{
+    "248.json": [
+        {
+            "src": "OWASP Cornucopia",
+            "mt": "OWASPコルヌコピア",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 11,
+                    "text": "コルヌコピア",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic.",
+            "mt": "OWASP Cornucopiaは、ソフトウェア開発チームがアジャイル、従来型、そして正式な開発プロセスにおけるセキュリティ要件を特定するのを支援するための、カードゲーム形式のメカニズムです。言語、プラットフォーム、技術にとらわれません。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 35,
+                    "text": "アジャイル",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Introduction",
+            "mt": "はじめに",
+            "MQM_score": 0
+        },
+        {
+            "src": "The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories. Although the idea had been waiting for enough time to progress it, the final motivation came when SAFECode published its Practical Security Stories and Security Tasks for Agile Development Environments in July 2012.",
+            "mt": "Cornucopiaの背後にあるアイデアは、開発チーム、特にアジャイル方法論を使用するチームがアプリケーションのセキュリティ要件を特定し、セキュリティベースのユーザストーリーを開発するのを支援することです。アイデアはそれを進めるのに十分な時間を待っていましたが、最終的な動機はSAFECodeが2012年7月にアジャイル開発環境のための実践的セキュリティストーリーとセキュリティタスクを公開した時に来ました。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 35,
+                    "text": "アジャイル",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 155,
+                    "end": 160,
+                    "text": "アジャイル",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Microsoft SDL team had already published its super Elevation of Privilege: The Threat Modeling Game (EoP) but that did not seem to address the most appropriate kind of issues that web application development teams mostly have to address. EoP is a great concept and game strategy, and was published under a Creative Commons Attribution License. Cornucopia Ecommerce Website Edition is based the concepts and game ideas in EoP, but those have been modified to be more relevant to the types of issues ecommerce website developers encounter. It attempts to introduce threat-modelling ideas into development teams that use Agile methodologies, or are more focused on web application weaknesses than other types of software vulnerabilities or are not familiar with STRIDE and DREAD.",
+            "mt": "Microsoft SDLチームはすでに、スーパーElevation of Privilege:The Threat Modeling Game(EOP)を公開していましたが、Webアプリケーション開発チームが主に対処する必要がある最も適切な種類の問題に対応していないようでした。EOPは優れたコンセプトとゲーム戦略であり、クリエイティブコモンズ帰属ライセンスの下で公開されました。Cornucopia Ecommerce Website Editionは、EOPのコンセプトとゲームのアイデアをベースにしていますが、Ecommerce Webサイトの開発者が遭遇する問題のタイプにより関連性があるように修正されています。Ecommerce Website Editionは、アジャイル方法論を使用する開発チームに脅威モデリングのアイデアを導入しようとします。または、他のタイプのソフトウェアの脆弱性よりもWebアプリケーションの脆弱性に焦点を当ててい",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 738,
+                    "end": 780,
+                    "text": "or are not familiar with STRIDE and DREAD.",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 76,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 140,
+                    "end": 143,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 162,
+                    "end": 180,
+                    "text": "クリエイティブコモンズ帰属ライセンス",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 229,
+                    "end": 232,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 338,
+                    "end": 343,
+                    "text": "アジャイル",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "To start using Cornucopia:",
+            "mt": "Cornucopiaの使用を開始するには:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Download the document",
+            "mt": "ドキュメントのダウンロード",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "ドキュメント",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "ダウンロード",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Print the cards onto plain paper or pre-scored card",
+            "mt": "カードを普通紙またはスコアカードに印刷します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 23,
+                    "text": "します。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Cut/separate the individual cards",
+            "mt": "個々のカードを切断/分離する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Identify an application, module or component to assess",
+            "mt": "評価するアプリケーション、モジュール、またはコンポーネントの特定",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 32,
+                    "text": "の特定",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Invite business owners, architects, developers, testers along for a card game",
+            "mt": "ビジネスオーナー、アーキテクト、開発者、テスターを招待してカードゲームをする",
+            "MQM_score": 0
+        },
+        {
+            "src": "Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes",
+            "mt": "チョコレート、ピザ、ビール、花、またはその4つを賞品として提供するよう",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 22,
+                    "text": "Get those infosec folk",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Select a portion of the deck to start with",
+            "mt": "デッキの開始位置を選択してください",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 17,
+                    "text": "してください",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Play the game to discuss & document security requirements (and to win rounds)",
+            "mt": "セキュリティ要件について議論し、文書、ラウンドを勝ち取るためにゲームをプレイする",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "文書",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 31,
+                    "text": "ラウンドを勝ち取るために",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Remember, points make prizes!",
+            "mt": "ポイントが賞品になることを忘れないでください!",
+            "MQM_score": 0
+        },
+        {
+            "src": "The Card Decks",
+            "mt": "カードデッキ",
+            "MQM_score": 0
+        },
+        {
+            "src": "Ecommerce Website Edition",
+            "mt": "Ecommerce Webサイト版",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 17,
+                    "text": "Webサイト版",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Instead of EoP's STRIDE suits, Cornucopia suits were selected based on the structure of the OWASP Secure Coding Practices - Quick Reference Guide (SCP), but with additional consideration of sections in the OWASP Application Security Verification Standard, the OWASP Web Security Testing Guide and David Rook's Principles of Secure Development. These provided five suits, and a sixth called “Cornucopia” was created for everything else:",
+            "mt": "EOPのSTRIDEスーツの代わりに,OWASP Secure Coding Practices-Quick Reference Guide(SCP)の構造に基づいてCornucopiaスーツが選択されたが,OWASP Application安全確認Standard,OWASP Web Security Testing Guide,David Rook氏のPrinciples of Secure Developmentのセクションも考慮されていた。これらは5つのスーツを提供し,\"Cornucopia\"と呼ばれる6番目のスーツが他ののもののために作られた。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 103,
+                    "text": "たが",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 223,
+                    "end": 225,
+                    "text": "いた",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 277,
+                    "end": 279,
+                    "text": "れた",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Data validation and encoding",
+            "mt": "データの検証とエンコード",
+            "MQM_score": 0
+        },
+        {
+            "src": "Authentication",
+            "mt": "認証",
+            "MQM_score": 0
+        },
+        {
+            "src": "Session management",
+            "mt": "セッション管理",
+            "MQM_score": 0
+        },
+        {
+            "src": "Authorization",
+            "mt": "認証",
+            "MQM_score": 0
+        },
+        {
+            "src": "Cryptography",
+            "mt": "暗号",
+            "MQM_score": 0
+        },
+        {
+            "src": "Cornucopia",
+            "mt": "コルヌコピア",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "コルヌコピア",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Each suit contains 13 cards (Ace, 2-10, Jack, Queen and King) but, unlike EoP, there are also two Joker cards. The content was mainly drawn from the SCP. Full Wiki Deck.",
+            "mt": "各スーツには13枚のカード(エース、2-10、ジャック、クイーン、キング)が含まれていますが、EOPとは異なり、ジョーカーカードも2枚あります。コンテンツは主にSCPから作成されました。完全なWikiデック。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 50,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 104,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Other Decks",
+            "mt": "その他のデッキ",
+            "MQM_score": 0
+        },
+        {
+            "src": "Future editions such as for mobile app development will use different sources of information and suits.",
+            "mt": "モバイルアプリ開発のような将来のバージョンでは、異なる情報源とスーツを使用するだろう。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 42,
+                    "text": "だろう",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Mappings",
+            "mt": "マッピング",
+            "MQM_score": 0
+        },
+        {
+            "src": "The other driver for Cornucopia is to link the attacks with requirements and verification techniques. An initial aim had been to reference CWE weakness IDs, but these proved too numerous, and instead it was decided to map each card to CAPEC software attack pattern IDs which themselves are mapped to CWEs, so the desired result is achieved.",
+            "mt": "Cornucopiaのもう1つの推進力は、攻撃を要件や検証技術とリンクさせることです。当初の目的はCWEの脆弱性IDを参照することでしたが、これらの脆弱性IDが多すぎることが判明したため、代わりに各カードをCAPECソフトウェアの攻撃パターンIDにマッピングすることにしました。この攻撃パターンID自体がCWEsにマッピングされるため、目的の結果が得られます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 152,
+                    "end": 156,
+                    "text": "CWEs",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Each card is also mapped to the 36 primary security stories in the SAFECode document, as well as to the OWASP SCP v2, ASVS v3.0.1 and AppSensor (application attack detection and response) to help teams create their own security-related stories for use in Agile processes.",
+            "mt": "各カードは、SAFECode文書の36の主要なセキュリティストーリと、OWASP SCP v2、ASVS v3.0.1、AppSensor(アプリケーション攻撃の検出と応答)にマップされ、チームがアジャイルプロセスで使用するための独自のセキュリティ関連ストーリを作成できるようにします。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 16,
+                    "text": "文書",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 33,
+                    "text": "ストーリ",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 103,
+                    "text": "アジャイル",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 130,
+                    "text": "ストーリ",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Licensing",
+            "mt": "ライセンス",
+            "MQM_score": 0
+        },
+        {
+            "src": "OWASP Snakes and Ladders is free to use. It is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.",
+            "mt": "OWASP Snakes and Ladderは自由に使用できます。Creative Commons Attribution-ShareAlike3.0ライセンスの下でライセンスされているので、作品をコピー、配布、転送し、それを適合させて商業的に使用することができます。ただし、作品の属性を指定し、この作品を変更、変換、または構築した場合は、この作品と同一または類似のライセンスの下でのみ結果の作品を配布できます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 116,
+                    "text": "適合",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "© OWASP Foundation",
+            "mt": "©OWASP財団",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "財団",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Other Security Gamification",
+            "mt": "その他のセキュリティ・ゲーミフィケーション",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 11,
+                    "text": "・",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If you are interested in using gaming for security, also see Elevation of Privilege: The Threat Modeling Game, Security Cards from the University of Washington, the commercial card game Control-Alt-Hack (presentation), OWASP Snakes and Ladders, and web application security training tools incorporating gamification such as OWASP Hackademic Challenges Project, OWASP Security Shepherd and ITSEC Games.",
+            "mt": "セキュリティのためにゲームを使うことに興味がある人は、Elevation of Privilege:The Threat Modeling Game,Security Cards from the University of Washington,the commercial card game Control-Alt-Hack(presentation),OWASP Snakes and Ladder,and web application security training tools including incorporated gamification,例えばOWASP Hackademicチャレンジプロジェクト,OWASP Security Shepherd,ITSEC Gamesも参照してください。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 179,
+                    "text": "the commercial card game Control-Alt-Hack(presentation)",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 204,
+                    "end": 283,
+                    "text": "and web application security training tools including incorporated gamification",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 303,
+                    "end": 314,
+                    "text": "チャレンジプロジェクト",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Additionally, Adam Shostack maintains a list of tabletop security games and related resources at security games.",
+            "mt": "さらに、Adam Shostack氏は、卓上セキュリティゲームとセキュリティゲームの関連リソースのリストを管理している。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Get the Cards",
+            "mt": "カードを入手する",
+            "MQM_score": 0
+        },
+        {
+            "src": "The primary source document is a Word document. However, pre-printed card decks may be more useful, or there are links to the source design files for the cards themselves.",
+            "mt": "主なソースドキュメントはWordドキュメントです。ただし、あらかじめ印刷されたカードデッキの方が便利な場合もあれば、カード自体のソースデザインファイルへのリンクがある場合もあります。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 11,
+                    "text": "ドキュメント",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 22,
+                    "text": "ドキュメント",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Printed",
+            "mt": "印刷",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "印刷",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Professionally printed decks are available by two methods:",
+            "mt": "専門的に印刷されたデッキは、次の2つの方法で利用できます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Single decks or in bulk from OWASP (v1.20)",
+            "mt": "OWASP(v1.20)のシングルデッキまたはバルク",
+            "MQM_score": 0
+        },
+        {
+            "src": "As promotion items by OWASP Leaders from their own chapter budgets using the Chapter and Project Merchandise Request form",
+            "mt": "「Chapter and Project Merchandise Request」フォームを使用して、OWASPリーダーが各自の章予算から推進項目として",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 60,
+                    "text": "OWASPリーダー",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For other individuals, organisations and companies, please email lisa.jones@owasp.com with purchase inquiries.",
+            "mt": "その他の個人、組織、企業のお客様は、メール(lisa.jones@owasp.com)com)でお願いします。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 46,
+                    "text": "lisa.jones@owasp.com)com",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Request a free deck of cards gifted by Blackfoot UK Limited:",
+            "mt": "ブラックフットUKリミテッドが提供する無料のカードをご請求ください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "ブラックフットUKリミテッド",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Request a free pack of cards (v1.10) (gifted by Blackfoot UK)",
+            "mt": "カードの無料パックをリクエスト(v1.10)(ブラックフットUK提供)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 30,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Source files",
+            "mt": "ソースファイル",
+            "MQM_score": 0
+        },
+        {
+            "src": "Cornucopia - Ecommerce Website Edition:",
+            "mt": "Cornucopia-Ecommerce Website Edition:",
+            "MQM_score": 0
+        },
+        {
+            "src": "v1.20 (current version)",
+            "mt": "v1.20(現在のバージョン)",
+            "MQM_score": 0
+        },
+        {
+            "src": "EN DOC, FR DOC, PT-BR DOC",
+            "mt": "EN DOC、FR DOC、PT-BR DOC",
+            "MQM_score": 0
+        },
+        {
+            "src": "EN PDF",
+            "mt": "PDF形式",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "PDF形式",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Print-Ready design files 24Mb zip",
+            "mt": "印刷可能な設計ファイル(zip形式24Mb)",
+            "MQM_score": 0
+        },
+        {
+            "src": "v1.1 EN",
+            "mt": "v1.1EN",
+            "MQM_score": 0
+        },
+        {
+            "src": "DOC - see current version link above for previous versions of DOC including with track changes",
+            "mt": "デルテレフォンアドバイザー-変更履歴を含む旧バージョンのデルテレフォンアドバイザーについては、上記の最新バージョンのリンクを参照してください。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "デルテレフォンアドバイザー",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 41,
+                    "text": "デルテレフォンアドバイザー",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Wiki",
+            "mt": "ウィキ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "ウィキ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Print-Ready design files 24Mb zip",
+            "mt": "印刷可能な設計ファイル(zip形式24Mb)",
+            "MQM_score": 0
+        },
+        {
+            "src": "v1.04 EN",
+            "mt": "v1.04EN",
+            "MQM_score": 0
+        },
+        {
+            "src": "DOC - see current version link above for previous versions of DOC including with track changes",
+            "mt": "デルテレフォンアドバイザー-変更履歴を含む旧バージョンのデルテレフォンアドバイザーについては、上記の最新バージョンのリンクを参照してください。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "デルテレフォンアドバイザー",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 41,
+                    "text": "デルテレフォンアドバイザー",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Print-Ready design files (gifted by Blackfoot UK) 47Mb Zip",
+            "mt": "印刷用設計ファイル(ブラックフットUKより提供)47Mb Zip",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 17,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The current version of Cornucopia Ecommerce Website Edition cards (v1.20 with updated mapping to ASVS v3.0.1 and CAPEC v2.8, and has some minor text changes on the cards) can be printed using the following methods:",
+            "mt": "現在のバージョンのCornucopia Ecommerce Website Editionカード(ASVS v3.0.1およびCAPEC v2.8へのマッピングが更新されたv1.20で、カードに若干のテキスト変更があります)は、次の方法で印刷できます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Download the free Adobe Illustrator files (EN) and get them professionally printed",
+            "mt": "無料のAdobe Illustratorファイル(EN)をダウンロードして、プロ仕様で印刷してください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 42,
+                    "text": "プロ仕様",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Download and self-print the free document word-processing (EN, FR) or PDF (EN)",
+            "mt": "無料のドキュメントワープロ(EN, FR)またはPDF(EN)をダウンロードして自己印刷",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 9,
+                    "text": "ドキュメント",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 44,
+                    "text": "自己印刷",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Print the document onto business card blank cards; or",
+            "mt": "文書を名刺の白紙の名刺に印刷する。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 51,
+                    "end": 53,
+                    "text": "or",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "文書",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 16,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Print the document onto normal card and cut the cards out individually using the guide; or",
+            "mt": "ドキュメントを通常のカードに印刷し、ガイドを使用してカードを個別に切り取ります。または",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "ドキュメント",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Generate your own cards from the free source XML data file",
+            "mt": "フリーのソースXMLデータファイルから独自のカードを生成する",
+            "MQM_score": 0
+        },
+        {
+            "src": "There are also other ways to obtain particular versions:",
+            "mt": "特定のバージョンを取得する方法は他にもあります。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 24,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Download the free PDF (v1.03) (gifted by Travelex)",
+            "mt": "無料のPDF(v1.03)をダウンロード(トラベレックスジャパン提供)",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 20,
+                    "text": "ダウンロード",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 32,
+                    "text": "トラベレックスジャパン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Have the cards commercially printed; or",
+            "mt": "カードを商業的に印刷する。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 37,
+                    "end": 39,
+                    "text": "or",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "する。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Import into your own files (such as this way suggested by Cam Morris via the mailing list)",
+            "mt": "独自のファイルにインポートする(Cam Morrisがメーリングリストを通じて提案した方法など)",
+            "MQM_score": 0
+        },
+        {
+            "src": "OWASP does not endorse or recommend commercial products or services.",
+            "mt": "OWASPは、商用製品またはサービスを推奨しません。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 15,
+                    "end": 25,
+                    "text": "endorse or",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Twitter",
+            "mt": "ツイッター",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "ツイッター",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Collect/share/use the pseudo-random cards tweeted twice daily @OWASPCornucopia",
+            "mt": "疑似ランダムカードを収集/共有/使用することが1日2回@OWASPCornucopia",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 42,
+                    "end": 49,
+                    "text": "tweeted",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "How to Play",
+            "mt": "遊び方",
+            "MQM_score": 0
+        },
+        {
+            "src": "It is possible to play Cornucopia in many different ways. Here is one way, and explained in a YouTube video.",
+            "mt": "Cornucopiaにはいろいろな遊び方があるのですが、こちらYouTubeの動画で説明されている方法です。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 28,
+                    "text": "ですが、",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Primary method",
+            "mt": "主な方法",
+            "MQM_score": 0
+        },
+        {
+            "src": "A - Preparations",
+            "mt": "A調製品",
+            "MQM_score": 0
+        },
+        {
+            "src": "A1. Obtain a deck, or print your own Cornucopia deck and separate/cut out the cards",
+            "mt": "A1.デッキを入手するか、独自のCornucopiaデッキを印刷してカードを切り離します。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 57,
+                    "end": 69,
+                    "text": "separate/cut",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 45,
+                    "text": "します。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A2. Identify an application or application process to review; this might be a concept, design or an actual implementation",
+            "mt": "A2.レビューするアプリケーションまたはアプリケーションプロセスを特定します。これは、概念、設計、または実際の実装の場合があります。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 66,
+                    "text": "あります。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A3. Create a data flow diagram",
+            "mt": "A3.データフロー図を作成する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 15,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A4. Identify and invite a group of 3-6 architects, developers, testers and other business stakeholders together and sit around a table (try to include someone fairly familiar with application security)",
+            "mt": "A4.3-6のアーキテクト、開発者、テスター、その他のビジネス関係者のグループを特定して招待し、テーブルを囲んでください(アプリケーションのセキュリティにかなり詳しい人を同席させてください)。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 60,
+                    "text": "ください",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 96,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A5. Have some prizes to hand (gold stars, chocolate, pizza, beer or flowers depending upon your office culture)",
+            "mt": "A5.いくつかの賞品を用意します(オフィス文化に応じて、ゴールドスター、チョコレート、ピザ、ビール、花など)。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 16,
+                    "text": "します",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 55,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B - Play",
+            "mt": "B-プレイ",
+            "MQM_score": 0
+        },
+        {
+            "src": "One suit - Cornucopia - acts as trumps. Aces are high (i.e. they beat Kings). It helps if there is someone dedicated to documenting the results who is not playing.",
+            "mt": "1つのスーツ-コルヌコピア-は切り札としての役割を果たす。エースは高い(すなわち、彼らはKingsを負かします)。プレイしていない結果を記録することに専念している人がいれば役に立ちます。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "コルヌコピア",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": "す",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 43,
+                    "text": "彼ら",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 65,
+                    "text": "プレイしていない",
+                    "type": 18,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "B1. Remove the Jokers and a few low-score (2, 3, 4) cards from Cornucopia suit to ensure each player will have the same number of cards",
+            "mt": "B1.各プレーヤーが同じ数のカードを持つことを保証するために、ジョーカーといくつかの低スコア(2, 3, 4)カードをコーヌコピアのスーツから取り除く。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 9,
+                    "text": "プレーヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 27,
+                    "text": "保証する",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 46,
+                    "text": "低スコア",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 65,
+                    "text": "コーヌコピア",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 75,
+                    "text": "除く",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B2. Shuffle the pack and deal all the cards",
+            "mt": "B2.パックをシャッフルしてすべてのカードを配る",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 24,
+                    "text": "配る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B3. To begin, choose a player randomly who will play the first card - they can play any card from their hand except from the trump suit - Cornucopia",
+            "mt": "B3.最初のカードをプレイするプレーヤーをランダムに選択します。トランプのスーツ以外の任意のカードを手からプレイできます。コーヌコピア",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 20,
+                    "text": "プレーヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 40,
+                    "text": "トランプのスーツ",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 51,
+                    "text": "手",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 61,
+                    "text": "できます。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 67,
+                    "text": "コーヌコピア",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B4. To play a card, each player must read it out aloud, and explain how (or not) the threat could apply (the player gets a point for attacks that work, and the group thinks it is an actionable bug) - don't try to think of mitigations at this stage, and don't exclude a threat just because it is believed it is already mitigated - someone record the card on the score sheet",
+            "mt": "B4.カードをプレイするには、各プレイヤーがカードを声に出して読み上げ、適用されるか(または適用されないか)を説明する必要があります(プレイヤーは有効な攻撃のポイントを取得し、グループはそれが実行可能なバグであると考えます)。この段階で軽減策を考えたり、すでに軽減されていると思われるという理由だけで脅威を除外したりしないでください。誰かがカードをスコアシートに記録します。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 85,
+                    "end": 91,
+                    "text": "threat",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 21,
+                    "text": "プレイヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 113,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 166,
+                    "end": 167,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 183,
+                    "end": 187,
+                    "text": "します。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B5. Play clockwise, each person must play a card in the same way; if you have any card of the matching lead suit you must play one of those, otherwise they can play a card from any other suit. Only a higher card of the same suit, or the highest card in the trump suit Cornucopia, wins the hand.",
+            "mt": "B5.時計回りにプレイする場合、各ユーザーは同じ方法でカードをプレイする必要があります。一致するリードスーツのカードを持っている場合は、それらのカードのいずれかをプレイする必要があります。そうでない場合は、他のスーツのカードをプレイできます。同じスーツの上位のカード、またはトランプスーツCornucopiaの最上位のカードのみが手を取ります。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 15,
+                    "text": "する場合",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 137,
+                    "end": 144,
+                    "text": "トランプスーツ",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 165,
+                    "end": 169,
+                    "text": "手を取り",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 169,
+                    "end": 172,
+                    "text": "ます。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B6. The person who wins the round, leads the next round (i.e. they play first), and thus defines the next lead suit",
+            "mt": "B6.ラウンドに勝った人が次のラウンドをリードし(つまり、最初にプレーする)、次のリードスーツを定義します。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 50,
+                    "text": "定義",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 54,
+                    "text": "します。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B7. Repeat until all the cards are played",
+            "mt": "B7.すべてのカードが再生されるまで繰り返します。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 13,
+                    "text": "再生",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 25,
+                    "text": "します。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "C - Scoring",
+            "mt": "C-スコアリング",
+            "MQM_score": 0
+        },
+        {
+            "src": "The objective is to identify applicable threats, and win hands (rounds):",
+            "mt": "目的は、該当する脅威を特定し、勝利することです。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 53,
+                    "end": 71,
+                    "text": "win hands (rounds)",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 24,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "C1. Score +1 for each card you can identify as a valid threat to the application under consideration",
+            "mt": "C1.対象のアプリケーションに対する有効な脅威として識別できる各カードのスコア+1",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 41,
+                    "text": "のスコア+1",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "C2. Score +1 if you win a round",
+            "mt": "C2.あなたがラウンドに勝った場合、スコア+1",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 23,
+                    "text": "スコア+1",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "C3. Once all cards have been played, whoever has the most points wins",
+            "mt": "C3.すべてのカードがプレイされると、最も多くのポイントを持つ人が勝ちます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 38,
+                    "text": "ちます。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "D - Closure",
+            "mt": "D-クロージャ",
+            "MQM_score": 0
+        },
+        {
+            "src": "D1. Review all the applicable threats and the matching security requirements",
+            "mt": "D1.該当するすべての脅威および対応するセキュリティ要件を確認します。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 35,
+                    "text": "します。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "D2. Create user stories, specifications and test cases as required for your development methodology",
+            "mt": "D2.開発方法論に必要なユーザーストーリー、仕様、テストケースを作成する",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 36,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "See Márk Vinkovits leading a threat modelling talk and group session playing Cornucopia in the OWASP track @hacktivityconf 1510.",
+            "mt": "OWASPトラック@hacktivityconf1510でCornucopiaをプレイして、脅威モデリングトークとグループセッションをリードするMárk Vinkovitsを参照。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 28,
+                    "text": "OWASPトラック@hacktivityconf1510",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 90,
+                    "text": "参照。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Alternative game rules",
+            "mt": "代替ゲームルール",
+            "MQM_score": 0
+        },
+        {
+            "src": "If you are new to the game, remove the two Joker cards to begin with. Add the Joker cards back in once people become more familiar with the process. Apart from the “trumps card game” rules described above which are very similar to the EoP, the deck can also be played as the “twenty-one card game” (also known as “pontoon” or “blackjack”) which normally reduces the number of cards played in each round.",
+            "mt": "ゲームに慣れていない場合は、まず2枚のジョーカーカードを削除します。プロセスに慣れてきたら、ジョーカーカードを追加し直します。上述したEOPと非常に類似した「トランプカードゲーム」ルールとは別に、デッキは、通常、各ラウンドでプレイされるカードの数を減らす「21カードゲーム」(「ポンツーン」または「ブラックジャック」としても知られる)としてプレイすることもできる。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 33,
+                    "text": "削除します",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 62,
+                    "text": "追加し直します",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 70,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 182,
+                    "text": "できる。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Practice on an imaginary application, or even a future planned application, rather than trying to find fault with existing applications until the participants are happy with the usefulness of the game.",
+            "mt": "参加者がゲームの有用性に満足するまで、既存のアプリケーションの欠点を見つけようとするのではなく、想像上のアプリケーション、あるいは将来計画されたアプリケーションで練習する。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 86,
+                    "text": "する。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Consider just playing with one suit to make a shorter session – but try to cover all the suits for every project. Or even better just play one hand with some pre-selected cards, and score only on the ability to identify security requirements. Perhaps have one game of each suit each day for a week or so, if the participants cannot spare long enough for a full deck.",
+            "mt": "セッションを短縮するために、1つのスーツでプレイすることを検討してください。ただし、すべてのプロジェクトのスーツをすべてカバーするようにしてください。あるいは、あらかじめ選択されたカードで片手でプレイし、セキュリティ要件を識別する能力のみを評価することをお勧めします。参加者がフルデッキのために十分な時間を割くことができない場合は、1週間ほど毎日1つのスーツでゲームを行うこともできます。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 38,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 96,
+                    "text": "片手",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 194,
+                    "text": "できます。",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Some teams have preferred to play a full hand of cards, and then discuss what is on the cards after each round (instead of after each person plays a card).",
+            "mt": "いくつかのチームは、カードをフルハンドでプレイし、(それぞれの人がカードをプレイした後ではなく)各ラウンドの後にカードの内容を議論することを好む。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 19,
+                    "text": "フルハンド",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 73,
+                    "text": "好む。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Another suggestion is that if a player fails to identify the card is relevant, allow other players to suggest ideas, and potentially let them gain the point for the card. Consider allowing extra points for especially good contributions.",
+            "mt": "もう1つの提案は、プレーヤーがカードが適切であることを識別できない場合、他のプレーヤーにアイデアを提案させ、潜在的にカードのポイントを獲得させることです。特に優れた貢献をするために、追加ポイントを認めることを検討してください。",
+            "MQM_score": 9,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 14,
+                    "text": "プレーヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 43,
+                    "text": "プレーヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 58,
+                    "text": "潜在的に",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 90,
+                    "text": "をするために",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 113,
+                    "text": "してください。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "You can even play by yourself. Just use the cards to act as thought-provokers. Involving more people will be beneficial though.",
+            "mt": "一人で遊ぶこともできます。カードを使って思考provokersとして行動するだけです。より多くの人を参加させることは有益ですが。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 31,
+                    "text": "provokers",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 64,
+                    "text": "より多くの人を参加させることは有益ですが。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In Microsoft's EoP guidance, they recommend cheating as a good game strategy.",
+            "mt": "MicrosoftのEOPガイダンスでは、優れたゲーム戦略として不正行為を推奨している。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 36,
+                    "text": "不正行為",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 44,
+                    "text": "いる。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Frequently Asked Questions",
+            "mt": "よくある質問",
+            "MQM_score": 0
+        },
+        {
+            "src": "Can I copy or edit the game?",
+            "mt": "ゲームをコピーまたは編集できますか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "Yes of course. All OWASP materials are free to do with as you like provided you comply with the Creative Commons Attribution-ShareAlike 3.0 license. Perhaps if you create a new version, you might donate it to the OWASP Cornucopia Project?",
+            "mt": "もちろんです。Creative Commons Attribution-ShareAlike3.0licenseに準拠していれば、すべてのOWASP資料は自由に使用できます。新しいバージョンを作成した場合、OWASP Cornucopiaプロジェクトに寄付することはできますか?",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 56,
+                    "text": "license",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 76,
+                    "text": "資料",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "How can I get involved?",
+            "mt": "どうすれば参加できますか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "Please send ideas or offers of help to the project's mailing list.",
+            "mt": "プロジェクトのメーリングリストにアイデアやアドバイスを送ってください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 26,
+                    "text": "アドバイス",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "How were the attackers' names chosen?",
+            "mt": "攻撃者の名前はどのように選ばれましたか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "EoP begins every description with words like “An attacker can…”. These have to be phrased as an attack but I was not keen on the anonymous terminology, wanting something more engaging, and therefore used personal names. These can be thought of as external or internal people or aliases for computer systems. But instead of just random names, I thought how they might reflect the OWASP community aspect. Therefore, apart from “Alice and Bob”, I use the given (first) names of current and recent OWASP employees and Board members (assigned in no order), and then randomly selected the remaining 50 or so names from the current list of paying individual OWASP members. No name was used more than once, and where people had provided two personal names, I dropped one part to try to ensure no-one can be easily identified. Names were not deliberately allocated to any particular attack, defence or requirement. The cultural and gender mix simply reflects theses sources of names, and is not meant to be world-representative.",
+            "mt": "EOPはすべての記述を「攻撃者は.」のような言葉で始めます。これらは攻撃と表現する必要がありますが、私は匿名の用語には関心がなく、より魅力的なものを求めて、個人名を使用していました。これらは、外部または内部の人、またはコンピュータ・システムの別名と考えることができます。しかし、ランダムな名前ではなく、OWASPコミュニティの側面をどのように反映するかを考えました。したがって、「Alice and Bob」とは別に、現在および最近のOWASP従業員および役員(順番に割り当てられていない)の名前を使用し、残りの50人ほどの名前を現在の有料個人OWASPメンバーのリストからランダムに選択しました。複数回使用された名前はなく、2人の個人名が提供されていた場所で、誰も容易に識別できないようにするために1つの部分を削除しました。名前は、特定の攻撃、防御または要件に意図的に割り当てられたものではありません。文化的およびジェンダーの組み合わせは、単にこれらの名前の出所を反映したものであり、世界を代表するものではありません。",
+            "MQM_score": 14,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 58,
+                    "end": 61,
+                    "text": "can",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "EOP",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 70,
+                    "text": "魅力的",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 115,
+                    "end": 116,
+                    "text": "・",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 231,
+                    "end": 244,
+                    "text": "順番に割り当てられていない",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 327,
+                    "end": 329,
+                    "text": "場所",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Why aren't there any images on the card faces?",
+            "mt": "どうしてカードの顔に画像がないんですか?",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "顔",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 19,
+                    "text": "ないんですか",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "There is quite a lot of text on the cards, and the cross-referencing takes up space too. But it would be great to have additional design elements included. Any volunteers?",
+            "mt": "カードにはかなり多くのテキストがあり、相互参照もスペースを取ります。しかし、追加の設計要素が含まれていることは素晴らしいことです。ボランティアは?",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 73,
+                    "text": "ボランティアは?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Are the attacks ranked by the number on the card?",
+            "mt": "カードに書かれた数字で順位がつけられるんですか?",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 8,
+                    "end": 15,
+                    "text": "attacks",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 24,
+                    "text": "られるんですか?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Only approximately. The risk will be application and organisation dependent, due to varying security and compliance requirements, so your own severity rating may place the cards in some other order than the numbers on the cards.",
+            "mt": "おおよそです。リスクは、さまざまなセキュリティおよびコンプライアンス要件のために、アプリケーションおよび組織に依存します。したがって、お客様自身の重要度では、カードに記載されている番号以外の順序でカードが配置される場合があります。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 40,
+                    "text": "のために",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 70,
+                    "text": "お客様",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "How long does it take to play a round of cards using the full deck?",
+            "mt": "フルデッキでカードを1ラウンドプレイすると、どのくらいの時間がかかりますか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "This depends upon the amount of discussion and how familiar the players are with application security concepts. But perhaps allow 1.5 to 2.0 hours for 4-6 people.",
+            "mt": "これは、議論の量と、プレーヤーがアプリケーションセキュリティの概念にどの程度精通しているかに依存します。しかし、おそらく4-6の人々には1.5時間から2.0時間の余裕があります。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 15,
+                    "text": "プレーヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 88,
+                    "text": "余裕があります",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "What sort of people should play the game?",
+            "mt": "どんな人が試合をするんですか?",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "試合",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 14,
+                    "text": "するんですか",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Always try to have a mix of roles who can contribute alternative perspectives. But include someone who has a reasonable knowledge of application vulnerability terminology. Otherwise try to include a mix of architects, developers, testers and a relevant project manager or business owner.",
+            "mt": "常に、代替的な視点を提供できる役割を混在させるようにしてください。ただし、アプリケーションの脆弱性に関する用語について合理的な知識を持っている人を含めてください。そうでない場合は、アーキテクト、開発者、テスター、および関連するプロジェクトマネージャまたはビジネスを混在させるようにしてください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "代替的な",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Who should take notes and record scores?",
+            "mt": "誰がメモを取って、スコアを記録するのですか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "It is better if that someone else, not playing the game, takes notes about the requirements identified and issues discussed. This could be used as training for a more junior developer, or performed by the project manager. Some organisations have made a recording to review afterwards when the requirements are written up more formally.",
+            "mt": "ゲームをプレイしているのではなく、他の誰かが、特定された要件や議論された問題についてメモを取るとよいでしょう。これは、より経験の浅い開発者のためのトレーニングとして使用することも、プロジェクトマネージャが行うこともできます。一部の組織では、要件がより正式に記述された後でレビューするために記録を作成しています。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 16,
+                    "text": "なく",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Should we always use the full deck of cards?",
+            "mt": "カードはいつもフルデッキを使うべきですか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "No. A smaller deck is quicker to play. Start your first game with only enough cards for two or three rounds. Always consider removing cards that are not appropriate at all of the target application or function being reviewed. For the first few times people play the game it is also usually better to remove the Aces and the two Jokers. It is also usual to play the game without any trumps suit until people are more familiar with the idea.",
+            "mt": "いいえ。小さいデッキの方が早くプレイできます。最初のゲームは、2、3ラウンドに十分な数のカードだけで開始します。レビューする対象のアプリケーションまたは機能のすべてに適していないカードは削除することを常に検討してください。最初の数回は、通常、エースと2人のジョーカーを削除方がよいでしょう。また、このアイデアに慣れるまでは、切り札のないゲームをするのが普通です。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 97,
+                    "text": "削除する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 127,
+                    "text": "2人",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 134,
+                    "end": 136,
+                    "text": "削除",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 138,
+                    "text": "方が",
+                    "type": 9,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "What should players do when they have an Ace card that says “invented a new X attack”?",
+            "mt": "「新しいX攻撃を発明した」というエースカードがあったら、選手はどうすればいいのだろうか。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 30,
+                    "text": "選手",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 44,
+                    "text": "だろうか。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The player can make up any attack they think is valid, but must match the suit of the card e.g. data validation and encoding). With players new to the game, it can be better to remove these to begin with.",
+            "mt": "プレイヤーは、有効だと思う攻撃をすべて打ち消すことができます。ただし、データの検証やエンコードなど、カードの組み合わせに一致する必要があります。ゲームに慣れていないプレイヤーは、まずこれらを削除した方がよい場合があります。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "プレイヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 87,
+                    "text": "プレイヤー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 99,
+                    "text": "削除した",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "I don't understand what the attack means on each card - is there more detailed information?",
+            "mt": "各カードに対する攻撃の意味がわかりません。詳細な情報はありますか?",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 65,
+                    "end": 69,
+                    "text": "more",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Yes, the Wiki Deck at was created to help players understand the attacks. See Wiki Deck.",
+            "mt": "はい。のWiki Deckは、攻撃を理解するために作成されました。Wiki Deckを参照してください。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 42,
+                    "end": 49,
+                    "text": "players",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "My company wants to print its own version of OWASP Cornucopia - what license do we need to refer to?",
+            "mt": "私の会社は、独自バージョンのOWASP Cornucopiaを印刷したいと考えています。どのようなライセンスを参照する必要がありますか?",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 44,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What is required/reasonable might depend upon how you propose to use the source Cornucopia material. See fuller answer immediately below.Some examples of re-using or reproducing Cornucopia are:",
+            "mt": "何が必要か、何が妥当かは、Cornucopiaの資料をどのように使用するかによって異なります。次の詳細な回答を参照してください。Cornucopiaを再利用または再生する例を次に示します。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 26,
+                    "text": "資料",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 94,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Print some decks and give them away to customers",
+            "mt": "デッキを印刷して顧客に提供する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Reproduce the game exactly but with a corporate-branded package",
+            "mt": "企業ブランドのパッケージを使用してゲームを正確に再現する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Use the idea and/or source files to produce a similar game but with different attacks/mappings",
+            "mt": "アイデアやソースファイルを使用して、類似したゲームを作成しますが、攻撃やマッピングが異なります。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 47,
+                    "text": "類似したゲームを作成しますが、攻撃やマッピングが異なります",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 48,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Distribute modified design files",
+            "mt": "変更した設計ファイルを配布する",
+            "MQM_score": 0
+        },
+        {
+            "src": "If option 1 above, you can order these in bulk from OWASP and attach your own details below the “compliments of” section on the boxes. There are three aspects to consider for options 2, 3 or 4, or combinations of those - see below. The existing printed decks (and their boxes and leaflets include such text).",
+            "mt": "上記のオプション1の場合は、OWASPにまとめて注文し、箱の\"compliments of\"セクションの下にあなた自身の詳細を添付することができます。オプション2、3、4、またはそれらの組み合わせ考慮すべき3つの側面があります。以下を参照してください。既存の印刷されたデッキ(およびそれらの箱とリーフレットには、そのようなテキストが含まれています)。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 103,
+                    "text": "組み合わせ考慮すべき",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 114,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "A - Cornucopia License",
+            "mt": "A-Cornucopiaライセンス",
+            "MQM_score": 0
+        },
+        {
+            "src": "The precise wording will depend how the material is being used or reproduced. Under Creative Commons Attribution-ShareAlike 3.0 license it is necessary to attribute all previous contributions (in this case, Microsoft, Boeing, Mitre, etc). The easiest place to put the wording is on the leaflet (folded inside, or separate booklet). The current required long-form wording is:",
+            "mt": "正確な表現は、資料がどのように使用または複製されているかによって異なります。Creative Commons Attribution-ShareAlike3.0licenseの下では、これまでのすべての投稿(この場合は、Microsoft、Boeing、Mitreなど)を帰属させる必要があります。最も簡単に表現できるのはリーフレット上(折り込み、または別の小冊子)です。現在必要な長い形式の表現は次のとおりです。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "資料",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 87,
+                    "text": "license",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license http://creativecommons.org/licenses/by-sa/3.0/",
+            "mt": "OWASP Cornucopiaは、Creative Commons Attribution-ShareAlike3.0license http://creativecommons.org/licenses/by-sa/3.0/の下でライセンスされています。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 67,
+                    "text": "license",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The files used to create these materials were created from the OWASP project and are also open source, and are licensed under the same conditions.",
+            "mt": "これらのマテリアルの作成に使用されるファイルは、OWASPプロジェクトから作成されたオープンソースファイルであり、同じ条件でライセンスされます。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 9,
+                    "text": "マテリアル",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "OWASP Cornucopia can be downloaded for free from the OWASP website and printed yourself.",
+            "mt": "OWASP CornucopiaはOWASPのウェブサイトから無料でダウンロードでき、自分で印刷することができる。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 29,
+                    "text": "ウェブサイト",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 56,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The OWASP Cornucopia project source in vendor neutral and unbranded.",
+            "mt": "OWASP CorOW ASP Cornucopiaプロジェクトソース。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 36,
+                    "end": 68,
+                    "text": "in vendor neutral and unbranded.",
+                    "type": 5,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "OWASP does not endorse or recommend commercial products or services.",
+            "mt": "OWASPは、商用製品またはサービスを推奨しません。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 15,
+                    "end": 25,
+                    "text": "endorse or",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "© 2012-2018 OWASP Foundation",
+            "mt": "©2012 - 2018OW ASP Foundation",
+            "MQM_score": 0
+        },
+        {
+            "src": "This document is licensed under the Creative Commons Attribution-ShareAlike 3.0 license.",
+            "mt": "本書はCreative Commons Attribution-ShareAlike3.0licenseの下でライセンスされています。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 2,
+                    "text": "書",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 52,
+                    "text": "license",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Acknowledgments:",
+            "mt": "謝辞:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game, published under a Creative Commons Attribution license, as the inspiration for Cornucopia and from which many ideas, especially the game theory, were copied.",
+            "mt": "Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game(Creative Commons Attribution licenseの下、Cornucopiaのインスピレーションとして出版され、多くのアイデア、特にゲーム理論がコピーされました)。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 108,
+                    "text": "license",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Keith Turpin and contributors to the “OWASP Secure Coding Practices - Quick Reference Guide”, originally donated to OWASP by Boeing, which is used as the primary source of security requirements information to formulate the content of the cards.",
+            "mt": "Keithトルパンと\"OWASP Secure Coding Practices-Quick Reference Guide\"のコントリビュータは、もともとBoeingからOWASPに寄贈されたもので、カードの内容を定式化するためのセキュリティ要件情報の主要なソースとして使用されています。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 9,
+                    "text": "トルパン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 72,
+                    "text": "コントリビュータ",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Contributors, supporters, sponsors and volunteers to the OWASP ASVS, AppSensor and Web Framework Security Matrix projects, Mitre's Common Attack Pattern Enumeration and Classification (CAPEC), and SAFECode's “Practical Security Stories and Security Tasks for Agile Development Environments” which are all used in the cross-references provided.",
+            "mt": "OWASP ASVS、AppSensorとWeb Framework Security Matrixプロジェクト、MitreのCommon Attack Pattern Enumeration and Classification(CAPEC)、そしてSAFECodeの\"Practical Security Stories and Security Tasks for Agile Development Environments\"のコントリビュータ、サポーター、スポンサー、そしてボランティアは、提供されている相互参照の中ですべて使われている。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 218,
+                    "end": 226,
+                    "text": "コントリビュータ",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 267,
+                    "end": 273,
+                    "text": "使われている",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Playgen for providing an illuminating afternoon seminar on task gamification, and tartanmaker.com for the online tool to help create the card back pattern.",
+            "mt": "Playgenはタスクゲーミフィケーションに関する明るい午後のセミナーを提供し、tartanmaker.comはカードバックパターンの作成を支援するオンラインツールを提供した。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 87,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Blackfoot UK Limited for creating and donating print-ready design files, Tom Brennan and the OWASP Foundation for instigating the creation of an OWASP-branded box and leaflet, and OWASP employees, especially Kate Hartmann, for managing the ordering, stocking and despatch of printed card decks.",
+            "mt": "ブラックフットUK Limited:印刷可能なデザインファイルの作成と寄贈、Tom Brennan:OWASPブランドの箱とリーフレットの作成を推進、OWASP Foundation:OWASPブランドの箱とリーフレットの作成を推進、OWASP従業員、特にKate Hartmann:印刷されたカードデッキの注文、保管、発送を管理。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 221,
+                    "end": 294,
+                    "text": ", for managing the ordering, stocking and despatch of printed card decks.",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 116,
+                    "text": ":印刷可能なデザインファイルの作成と寄贈、Tom Brennan:OWASPブランドの箱とリーフレットの作成を推進、OWASP Foundation:OWASPブランドの箱とリーフレットの作成を推進",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 166,
+                    "text": "印刷されたカードデッキの注文、保管、発送を管理。",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Oana Cornea and other participants at the AppSec EU 2015 project summit for their help in creating the demonstration video.",
+            "mt": "AppSec EU2015プロジェクトサミットに参加した大穴Cornea氏らは、デモンストレーションビデオの制作に協力した。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "EU2015",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 30,
+                    "text": "大穴",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 61,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Colin Watson as author and co-project leader with Darío De Filippis, along with other OWASP volunteers who have helped in many ways.",
+            "mt": "作家であり、ダリオ・デ・フィリピスの共同プロジェクトリーダーであるコリン・ワトスンと、さまざまな方法で支援してきた他のOWASPボランティア。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 17,
+                    "text": "ダリオ・デ・フィリピス",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 41,
+                    "text": "コリン・ワトスン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 70,
+                    "text": "ボランティア",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The box/container for the cards must have the wording:",
+            "mt": "カードの箱/容器には以下の文言を記載しなければならない:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 27,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Created by Colin Watson.",
+            "mt": "コリン・ワトスン作。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "コリン・ワトスン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Contains: One pack of Cornucopia Ecommerce Website playing cards. OWASP Cornucopia is open source and can be downloaded free of charge from the OWASP website.",
+            "mt": "Contains:Cornucopia Ecommerce Website playing cards1パック。OWASP Cornucopiaはオープンソースであり、OWASPのWebサイトから無料でダウンロードできます。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "Contains",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 51,
+                    "text": "playing cards",
+                    "type": 3,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "OWASP Cornucopia is free to use. It is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.",
+            "mt": "OWASP Cornucopiaは自由に使用することができます。Creative Commons Attribution-ShareAlike3.0ライセンスの下でライセンスされているため、作品をコピー、配布、転送することができ、それを調整して商業的に使用することができます。ただし、作品の属性を指定し、この作品を変更、変換、または構築した場合は、結果の作品をこの作品と同じまたは類似のライセンスの下でのみ配布することができます。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 292,
+                    "end": 296,
+                    "text": "upon",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 20,
+                    "text": "自由に",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 137,
+                    "end": 141,
+                    "text": "。ただし",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 182,
+                    "end": 184,
+                    "text": "作品",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The following short-form wording must also appear on any materials referencing the outputs (e.g. press releases, leaflets, reports, blog posts):",
+            "mt": "アウトプットを参照する資料(例えば、プレスリリース、リーフレット、報告書、ブログ投稿)には、以下の簡潔な表現記載しなければならない。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 13,
+                    "text": "資料",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 43,
+                    "text": "(例えば、プレスリリース、リーフレット、報告書、ブログ投稿)",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 65,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "OWASP does not endorse or recommend commercial products or services.",
+            "mt": "OWASPは、商用製品またはサービスを推奨しません。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 15,
+                    "end": 25,
+                    "text": "endorse or",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "OWASP Cornucopia is licensed under the Creative Commons Attribution-ShareAlike 3.0 license and is © 2012-2016 OWASP Foundation.",
+            "mt": "OWASP CornucopiaはCreative Commons Attribution-ShareAlike3.0licenseの下でライセンスされており、©2012 - 2016OW ASP Foundationです。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 66,
+                    "text": "license",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If any files are distributed electronically, the long-form wording should also be aded in a license.txt file within the distribution.",
+            "mt": "ファイルが電子的に配布される場合は、長い形式の表現も配布物内のlicense.txtファイルに追加する必要があります。",
+            "MQM_score": 0
+        },
+        {
+            "src": "If the intention is to use the idea only (option 3 above), the long-form, box and short-form wording might be different, and probably simpler. And it might make more sense to start with the Microsoft-provided Elevation of Privilege files (and open source license).",
+            "mt": "アイデアのみを使用することを意図している場合(上記のオプション3)、長い形式、ボックス形式、短い形式の表現は異なる可能性があり、おそらくより単純です。また、Microsoft提供のElevation of Privilegeファイル(およびオープンソースライセンス)から始める方が理にかなっているかもしれません。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 72,
+                    "text": "より単純",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "B - Upcoming update to Cornucopia",
+            "mt": "B-Cornucopiaの近日のアップデート",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 22,
+                    "text": "アップデート",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Note that the current print design files are v1.04, and the current Word document is v1.10, but we are in the process of updating all of these to v1.20.",
+            "mt": "現在の印刷デザインファイルはv1.04で、現在のWord文書はv1.10ですが、これらすべてをv1.20に更新中です。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 30,
+                    "text": "文書",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Whatever is used as a starting point, please state the source version, for example:",
+            "mt": "出発点として使用するものが何であれ、ソースバージョンを記述してください。例:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 36,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Based on OWASP Cornucopia Ecommerce Website Edition v1.04",
+            "mt": "OWASP Cornucopia Ecommerce Website Edition v1.04に基づく",
+            "MQM_score": 0
+        },
+        {
+            "src": "C - OWASP brand usage",
+            "mt": "C-OWASPブランドの使用",
+            "MQM_score": 0
+        },
+        {
+            "src": "Additionally individuals, companies and other organisations must not breach OWASP's brand usage guidelines.",
+            "mt": "さらに、個人、企業、その他の組織はOWASPのブランド使用ガイドラインに違反してはなりません。",
+            "MQM_score": 0
+        },
+        {
+            "src": "https://www.owasp.org/www-policy/operational/branding.html",
+            "mt": "https://www.owasp.org/www-policy/operational/branding.html",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the case of Cornucopia, in 2014 Blackfoot Limited produced some printed decks of cards.",
+            "mt": "Cornucopiaのケースでは、2014年にブラックフットがいくつかの印刷されたカードデッキを製造した。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 30,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 52,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Blackfoot's name and logo did not appear anywhere on the OWASP-branded cards, and the OWASP logo did not appear on the Blackfoot-branded box and leaflet. In fact there is no OWASP logo on any part of the Blackfoot branded decks.",
+            "mt": "OWASPブランドのカードにはブラックフットの名称とロゴが、ブラックフットブランドの箱とリーフレットにはOWASPロゴが掲載されておらず、ブラックフットブランドのデッキにはOWASPロゴが掲載されていない。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 22,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 37,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 76,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Acknowledgements",
+            "mt": "謝辞",
+            "MQM_score": 0
+        },
+        {
+            "src": "Volunteers",
+            "mt": "ボランティア",
+            "MQM_score": 0
+        },
+        {
+            "src": "Cornucopia is developed, maintained, updated and promoted by a worldwide team of volunteers. The contributors to date have been:",
+            "mt": "Cornucopiaは、世界中のボランティア・チームによって開発、保守、更新、促進されています。これまでの貢献者は次のとおりです。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 23,
+                    "text": "・",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 56,
+                    "text": "貢献者",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Simon Bennetts",
+            "mt": "サイモン・ベネッツ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "サイモン・ベネッツ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Thomas Berson",
+            "mt": "トーマス・バーソン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "トーマス・バーソン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Tom Brennan",
+            "mt": "トム・ブレナン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "トム・ブレナン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Fabio Cerullo",
+            "mt": "ファビオ・Cerullo",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "ファビオ・Cerullo",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Oana Cornea",
+            "mt": "大穴角膜",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "大穴角膜",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Johanna Curiel",
+            "mt": "ヨハンナ・キューリー",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "ヨハンナ・キューリー",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Todd Dahl",
+            "mt": "トッド・ダール",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "トッド・ダール",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Luis Enriquez",
+            "mt": "ルイス・エンリケ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "ルイス・エンリケ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Ken Ferris",
+            "mt": "ケン・フェリス",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "ケン・フェリス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Darío De Filippis",
+            "mt": "ダリオ・デ・フィリピス",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "ダリオ・デ・フィリピス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Sebastien Gioria",
+            "mt": "セバスチャン・Gioria",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "セバスチャン・Gioria",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Tobias Gondrom",
+            "mt": "トビアス・Gondrom",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "トビアス・Gondrom",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Timo Goosen",
+            "mt": "ティモ・グーセン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "ティモ・グーセン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Anthony Harrison",
+            "mt": "アンソニー・ハリソン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "アンソニー・ハリソン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Martin Haslinger",
+            "mt": "マーティン・ハスリンガー",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "マーティン・ハスリンガー",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "John Herrlin",
+            "mt": "ジョン・Herrlin",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "ジョン・Herrlin",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Jerry Hoff",
+            "mt": "ジェリー・ホフ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "ジェリー・ホフ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Marios Kourtesis",
+            "mt": "マリオスKourtesis",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "マリオスKourtesis",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Franck Lacosta",
+            "mt": "フランクLacosta",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "フランクLacosta",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Mathias Lemaire",
+            "mt": "マティーアス・ルメール",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "マティーアス・ルメール",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Antonis Manaras",
+            "mt": "アントニスManaras",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "アントニスManaras",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Jim Manico",
+            "mt": "ジム・Manico",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "ジム・Manico",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Mark Miller",
+            "mt": "マーク・ミラー",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "マーク・ミラー",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Cam Morris",
+            "mt": "カム・モリス",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "カム・モリス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Susana Romaniz",
+            "mt": "スサーナ・Romaniz",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "スサーナ・Romaniz",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Ravishankar Sahadevan",
+            "mt": "ラビシャンカル・シャデバン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "ラビシャンカル・シャデバン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Tao Sauvage",
+            "mt": "タオ・サウヴァージュ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "タオ・サウヴァージュ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Wagner Voltz",
+            "mt": "ワグネル・ヴォルツ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "ワグネル・ヴォルツ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Stephen de Vries",
+            "mt": "スティーヴン・ド・フリース",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "スティーヴン・ド・フリース",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Colin Watson",
+            "mt": "コリン・ワトスン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "コリン・ワトスン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Also:",
+            "mt": "また",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "また",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Attendees at OWASP London, OWASP Manchester and OWASP Netherlands chapter meetings, the London Gamification meetup, and the training at AppSec USA 2015 in san Francisco who made helpful suggestions and asked challenging questions",
+            "mt": "OWASP London、OWASP Manchester、OWASP Netherlandsのチャプターミーティング、London Gamification meetup、サンフランシスコで開催されたAppSec USA2015でのトレーニングに参加し、有益な提案を難しい質問を行った参加者",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 95,
+                    "text": "サンフランシスコ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 133,
+                    "end": 134,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 143,
+                    "end": 146,
+                    "text": "参加者",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Others",
+            "mt": "その他",
+            "MQM_score": 0
+        },
+        {
+            "src": "Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game, published under a Creative Commons Attribution license, as the inspiration for Cornucopia and from which many ideas, especially the game theory, were copied.",
+            "mt": "Microsoft SDL Team for the Elevation of Privilege Threat Modelling Game(Creative Commons Attribution licenseの下、Cornucopiaのインスピレーションとして出版され、多くのアイデア、特にゲーム理論がコピーされました)。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 108,
+                    "text": "license",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Keith Turpin and contributors to the “OWASP Secure Coding Practices - Quick Reference Guide”, originally donated to OWASP by Boeing, which is used as the primary source of security requirements information to formulate the content of the cards.",
+            "mt": "Keithトルパンと\"OWASP Secure Coding Practices-Quick Reference Guide\"のコントリビュータは、もともとBoeingからOWASPに寄贈されたもので、カードの内容を定式化するためのセキュリティ要件情報の主要なソースとして使用されています。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "Keithトルパン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 72,
+                    "text": "コントリビュータ",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Contributors, supporters, sponsors and volunteers to the OWASP ASVS, AppSensor and Web Framework Security Matrix projects, Mitre's Common Attack Pattern Enumeration and Classification (CAPEC), and SAFECode's “Practical Security Stories and Security Tasks for Agile Development Environments” which are all used in the cross-references provided.",
+            "mt": "OWASP ASVS、AppSensorとWeb Framework Security Matrixプロジェクト、MitreのCommon Attack Pattern Enumeration and Classification(CAPEC)、そしてSAFECodeの\"Practical Security Stories and Security Tasks for Agile Development Environments\"のコントリビュータ、サポーター、スポンサー、そしてボランティアは、提供されている相互参照の中ですべて使われている。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 218,
+                    "end": 226,
+                    "text": "コントリビュータ",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 267,
+                    "end": 273,
+                    "text": "使われている",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Playgen for providing an illuminating afternoon seminar on task gamification, and tartanmaker.com for the online tool to help create the card back pattern.",
+            "mt": "Playgenはタスクゲーミフィケーションに関する明るい午後のセミナーを提供し、tartanmaker.comはカードバックパターンの作成を支援するオンラインツールを提供した。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 87,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Blackfoot UK Limited for creating and donating print-ready design files, Tom Brennan and the OWASP Foundation for instigating the creation of an OWASP-branded box and leaflet, and OWASP employees, especially Kate Hartmann, for managing the ordering, stocking and despatch of printed card decks.",
+            "mt": "ブラックフットUK Limited:印刷可能なデザインファイルの作成と寄贈、Tom Brennan:OWASPブランドの箱とリーフレットの作成を推進、OWASP Foundation:OWASPブランドの箱とリーフレットの作成を推進、OWASP従業員、特にKate Hartmann:印刷されたカードデッキの注文、保管、発送を管理。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "ブラックフット",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 142,
+                    "text": ":",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 165,
+                    "text": "印刷されたカードデッキの注文、保管、発送を管理",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Oana Cornea and other participants at the AppSec EU 2015 project summit for their help in creating the demonstration video.",
+            "mt": "AppSec EU2015プロジェクトサミットに参加した大穴Cornea氏らは、デモンストレーションビデオの制作に協力した。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "EU2015",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 36,
+                    "text": "大穴Cornea",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 61,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Colin Watson as author and co-project leader with Darío De Filippis, along with other OWASP volunteers who have helped in many ways.",
+            "mt": "作家であり、ダリオ・デ・フィリピスの共同プロジェクトリーダーであるコリン・ワトスンと、さまざまな方法で支援してきた他のOWASPボランティア。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 17,
+                    "text": "ダリオ・デ・フィリピス",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 41,
+                    "text": "コリン・ワトスン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 70,
+                    "text": "ボランティア",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Road Map and Getting Involved",
+            "mt": "ロードマップと関わり方",
+            "MQM_score": 0
+        },
+        {
+            "src": "Involvement in the development and promotion of Cornucopia is actively encouraged! You do not have to be a security expert in order to contribute. Some of the ways you can help are listed below.",
+            "mt": "Cornucopiaの開発・推進に積極的に参画します!貢献するためにセキュリティの専門家である必要はありません。支援の方法の一部を次に示します。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Localization",
+            "mt": "ローカリゼーション",
+            "MQM_score": 0
+        },
+        {
+            "src": "Are you fluent in another language?",
+            "mt": "他の言語に堪能ですか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "Can you help translate Cornucopia into that language? Niote tthis is a very large task due to the number of documents involved.",
+            "mt": "コルヌコピアをその言語に翻訳するのを手伝ってもらえますか?Nioteこれは、関連する文書の数のために非常に大きなタスクです。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "コルヌコピア",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 34,
+                    "text": "Niote",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 44,
+                    "text": "文書",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Use and Promote the Cornucopia Card Decks",
+            "mt": "Cornucopiaカードデッキの活用・普及",
+            "MQM_score": 0
+        },
+        {
+            "src": "Please help raise awareness of Cornucopia by printing cards:",
+            "mt": "カードを印刷して、Cornucopiaの認知度を上げるのを手伝ってください:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 27,
+                    "text": "上げる",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Use Cornucopia with specifiers, architects, designers, developers, testers and others, in part to train them, but also to solicit feedback on their usability, practicality and appropriateness for their work",
+            "mt": "Cornucopiaを指定者、設計者、設計者、開発者、テスターなどと共に使用することで、部分的にはそれらを訓練するだけでなく、それらの作業に対する有用性、実用性、適切性についてのフィードバックを集めることができます。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 52,
+                    "text": "それら",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 66,
+                    "text": "それら",
+                    "type": 9,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Create video about how to play the game",
+            "mt": "ゲームのプレイ方法に関するビデオを作成する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Develop a mobile app to play the game",
+            "mt": "ゲームをプレイするためのモバイルアプリを開発する",
+            "MQM_score": 0
+        },
+        {
+            "src": "Feedback",
+            "mt": "フィードバック",
+            "MQM_score": 0
+        },
+        {
+            "src": "Please use the friendly project Google Group for feedback:",
+            "mt": "Google Groupの友好的なプロジェクトをご利用ください。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 45,
+                    "end": 57,
+                    "text": "for feedback",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 32,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What do like?",
+            "mt": "どんなことですか?",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 5,
+                    "end": 12,
+                    "text": "do like",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "どんなことですか?",
+                    "type": 16,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "What don't you like?",
+            "mt": "何が嫌いですか。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": "。",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What cards don't make sense?",
+            "mt": "意味のないカードは何ですか?",
+            "MQM_score": 0
+        },
+        {
+            "src": "How could the guidance be improved?",
+            "mt": "どのように指導を改善するのですか?",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 4,
+                    "end": 9,
+                    "text": "could",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "指導",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What other decks would you like to see?",
+            "mt": "ほかにはどんなデッキをご覧になりたいですか?",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 18,
+                    "text": "ご覧になりたい",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Keep the Cards Updated",
+            "mt": "カードを最新の状態に保つ",
+            "MQM_score": 0
+        },
+        {
+            "src": "As the source referenced documents change, we have to update the decks. You may also find errors and omissions. In the first instance, please send a message to the project's Google Group if you have identified errors & omissions, have some time to maintain the source documents, or can help in other ways.",
+            "mt": "ソース参照ドキュメントが変更されたため、デッキを更新する必要があります。また、エラーや欠落が見つかる場合もあります。最初に、エラーや欠落を特定した場合、ソースドキュメントを保守する時間がある場合、または他の方法で支援できる場合は、プロジェクトのGoogle Groupにメッセージを送信してください。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 11,
+                    "text": "ドキュメント",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 85,
+                    "text": "ドキュメント",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Create a New Deck",
+            "mt": "新しいデッキを作成する",
+            "MQM_score": 0
+        },
+        {
+            "src": "The only version currently available is the Cornucopia Ecommerce Website Edition in English. We would like to create a new mobile app specific deck, probably using the wonderful OWASP Mobile Security Project as inspiration for the card source materials. Do you have an idea for your own application security requirements card deck? Perhaps for mobile apps or something else?",
+            "mt": "現在入手可能な唯一のバージョンは、英語のCornucopia Ecommerce Website Editionです。私たちは、おそらく素晴らしいOWASPモバイルセキュリティプロジェクトをカードソース資料のインスピレーションとして使用して、新しいモバイルアプリ専用デッキを作成したいと思っています。あなた自身のアプリケーションセキュリティ要件カードデッキのアイデアはありますか?おそらくモバイルアプリか何かのために?",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 103,
+                    "text": "資料",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 205,
+                    "end": 208,
+                    "text": "ために",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

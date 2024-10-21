@@ -1,0 +1,707 @@
+{
+    "335.json": [
+        {
+            "src": "JLT Mobile Computers expands partnership and becomes exclusive reseller of Winmate products on the US market",
+            "mt": "JLT Mobile Computersが提携を拡大し、Winmate製品の独占的再販業者となる",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 92,
+                    "end": 108,
+                    "text": "on the US market",
+                    "type": 5,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Posted March 5th, 2020 for MHI",
+            "mt": "2020年HI年3月5日掲載",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 23,
+                    "end": 30,
+                    "text": "for MHI",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 8,
+                    "text": "HI年",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Agreement deepens existing relationship between the companies with the aim to provide complete rugged computing solutions for enhanced operational efficiency in the warehouse, ports and other demanding application environments",
+            "mt": "この契約により、両社間の既存の関係が強化され、完全な堅牢なコンピューティングソリューションを提供して、倉庫、ポート、およびその他の要求の厳しいアプリケーション環境における運用効率を向上させることを目的としています。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 26,
+                    "text": "な",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 57,
+                    "text": "ポート",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Friday, March 06, 2020",
+            "mt": "2020年3月06日(金)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "06",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Växjö, Sweden, 5 March 2020",
+            "mt": "2020年3月5日、Växjö",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 9,
+                    "end": 15,
+                    "text": "Sweden",
+                    "type": 5,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "JLT Mobile Computers, a leading supplier of reliable computers for demanding environments, announces that it has signed a distribution agreement with rugged computing and embedded solutions provider Winmate Inc. Under the terms of the new agreement, JLT will exclusively distribute Winmate's portfolio of rugged mobile computers, rugged tablets, and vehicle-mount computers in the United States. Strengthening the existing relationship between the two companies, the agreement marks another step in JLT's growth strategy centering on expanded product, service, and solution offerings and strategic partnerships to address customers' business needs.",
+            "mt": "要求の厳しい環境に対応する信頼性の高いコンピュータの大手サプライヤであるJLT Mobile Computersは、堅牢なコンピューティングおよび組込みソリューションのプロバイダであるWinmate Inc.と販売契約を締結したことを発表しました。この契約に基づき、JLTはWinmateの堅牢なモバイルコンピュータ、堅牢なタブレット、および車載コンピュータのポートフォリオを米国で独占的に販売します。両社の既存の関係を強化することで、JLTの成長戦略の新たな一歩を踏み出すことになります。顧客のビジネスニーズに対応するための製品、サービス、ソリューションの提供と戦略的パートナーシップの拡大を中心とした戦略的パートナーシップです。",
+            "MQM_score": 45,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 222,
+                    "end": 227,
+                    "text": "terms",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 235,
+                    "end": 238,
+                    "text": "new",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 463,
+                    "end": 476,
+                    "text": "the agreement",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 477,
+                    "end": 520,
+                    "text": "marks another step in JLT's growth strategy",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 574,
+                    "end": 583,
+                    "text": "offerings",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 218,
+                    "end": 245,
+                    "text": "JLTの成長戦略の新たな一歩を踏み出すことになります。",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 279,
+                    "end": 281,
+                    "text": "提供",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 293,
+                    "end": 296,
+                    "text": "の拡大",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 302,
+                    "end": 315,
+                    "text": "戦略的パートナーシップです",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Recognizing the increasing complexity of customers' planning, acquisition, implementation and management processes as a result of digitization, IoT, Cloud and Industry 4.0 trends, JLT's vision is to ensure trouble-free business operations for its customers. To realize this vision, JLT is gradually transforming itself into a provider of end-to-end rugged IT solutions, with a strengthened commitment to customers through the sale of complementary products, services and consultancy besides the leverage of a growing number of strategic partnerships.",
+            "mt": "JLTは、デジタル化、IoT、クラウド、産業4.0の流れの中で、お客様の計画、調達、導入、管理プロセスがますます複雑化していることを認識し、お客様のビジネスを円滑に運営することをビジョンとしています。このビジョンを実現するために、JLTは徐々に、エンドツーエンドの堅牢なITソリューションを提供する企業へと変貌しつつあります。JLTは、増え続ける戦略的パートナーシップの活用に加えて、補完的な製品、サービス、コンサルティングの販売を通じてお客様へのコミットメントを強化しています。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 22,
+                    "text": "産業",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 31,
+                    "text": "中で",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 35,
+                    "text": "お客様",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 73,
+                    "text": "お客様",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 151,
+                    "text": "を提供する企業",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 162,
+                    "end": 163,
+                    "text": "。",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 163,
+                    "end": 168,
+                    "text": "JLTは、",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 219,
+                    "end": 222,
+                    "text": "お客様",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“JLT has been a pioneer and leader in the rugged computing industry for more than 25 years and today owns a long-standing presence in the U.S., especially within the warehousing, transportation and ports segments”, said Allan Lin, COO of Winmate. “By combining the JLT offering with Winmate products and expertise, we will together provide the best possible enterprise mobility solutions and services in the U.S. market.”",
+            "mt": "WinmateのCOOであるAllan Lin氏は次のように述べています。「JLTは25年以上にわたって堅牢なコンピューティング業界の先駆者でありリーダーです。現在、米国では、特に倉庫、輸送、港湾の分野で長年にわたって存在感を保っています。JLT製品とWinmate製品および専門知識を組み合わせることで、米国市場で可能な限り最高のエンタープライズモビリティソリューションとサービスを提供します。」",
+            "MQM_score": 40.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 212,
+                    "end": 213,
+                    "text": "”",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 213,
+                    "end": 245,
+                    "text": ", said Allan Lin, COO of Winmate",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 247,
+                    "end": 248,
+                    "text": "“",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 315,
+                    "end": 331,
+                    "text": "we will together",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 37,
+                    "text": "WinmateのCOOであるAllan Lin氏は次のように述べています。",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 79,
+                    "text": "です",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 79,
+                    "end": 80,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 125,
+                    "text": "製品",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 197,
+                    "end": 198,
+                    "text": "。",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“Our strategy to become a provider of end-to-end rugged IT solutions is an ongoing transformation that has been underway for a while”, explained Per Holmberg, CEO at JLT Mobile Computers Group. “JLT is transforming from predominantly being a traditional hardware vendor to becoming a business partner and trusted advisor to our customers, providing the best combination of rugged hardware, software, services and solutions.”",
+            "mt": "「エンドツーエンドの堅牢なITソリューションのプロバイダになるという当社の戦略は、しばらくは次のように説明しています。「エンドツーエンドの堅牢なITソリューションのプロバイダになるという当社の戦略は、しばらく前から進行中の変革です。JLTは、主に従来のハードウェアベンダーであることから、ビジネスパートナーになり、お客様に信頼されるアドバイザになりつつあり、堅牢なハードウェア、ソフトウェア、サービス、およびソリューションの最良の組み合わせを提供しています。」ホルムベルイ",
+            "MQM_score": 26,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 132,
+                    "end": 193,
+                    "text": "”, explained Per Holmberg, CEO at JLT Mobile Computers Group.",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 194,
+                    "end": 195,
+                    "text": "“",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 58,
+                    "text": "しばらくは次のように説明しています",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 116,
+                    "text": "エンドツーエンドの堅牢なITソリューションのプロバイダになるという当社の戦略は、しばらく前から進行中の変革です。",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 160,
+                    "text": "お客様",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 230,
+                    "end": 236,
+                    "text": "ホルムベルイ",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "“Leveraging the strength of JLT's products, deep expertise in system integration and proactive customer support, in combination with Winmate's rugged enterprise mobility offering, we will bring outstanding products and solutions to the growing industrial-grade enterprise mobility industry in the United States,” says Eric Miller, CEO at JLT Mobile Computers USA.",
+            "mt": "JLT Mobile Computers USAのCEOであるエリック・ミラーは、次のように述べています。「JLTの製品の強み、システム統合の深い専門知識、プロアクティブなカスタマサポートを活用し、Winmateの堅牢なエンタープライズモビリティ製品と組み合わせることで、成長を続ける米国の産業グレードのエンタープライズモビリティ業界に優れた製品とソリューションを提供します。」",
+            "MQM_score": 16.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 313,
+                    "end": 362,
+                    "text": "says Eric Miller, CEO at JLT Mobile Computers USA",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 53,
+                    "text": "JLT Mobile Computers USAのCEOであるエリック・ミラーは、次のように述べています。",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 90,
+                    "text": "カスタマ",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 125,
+                    "text": "製品",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 187,
+                    "end": 188,
+                    "text": "。",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "To learn more about JLT Mobile Computers, and the company's products, services and solutions, visit www.jltmobile.com.",
+            "mt": "JLT Mobile Computers、および同社の製品、サービス、ソリューションの詳細については、www.jltmobile.comを参照してください。",
+            "MQM_score": 0
+        },
+        {
+            "src": "About JLT Mobile Computers",
+            "mt": "JLTモバイルコンピュータについて",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "JLTモバイルコンピュータ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Reliable performance, less hassle. JLT Mobile Computers is a leading supplier of rugged mobile computing devices and solutions for demanding environments. 25 years of development and manufacturing experience have enabled us to set the standard in rugged computing, combining outstanding product quality with expert service, support and solutions to ensure trouble-free business operations for customers in warehousing, transportation, manufacturing, mining, ports and agriculture. JLT operates globally from offices in Sweden and the US, complemented by an extensive network of sales partners in local markets. The company was founded in 1994, and the share has been listed on the Nasdaq First North Growth Market stock exchange since 2002 under the symbol JLT. Eminova Fondkommission AB acts as Certified Advisor. Learn more at www.jltmobile.com.",
+            "mt": "信頼性の高いパフォーマンスと手間のかからないJLT Mobile Computersは、要求の厳しい環境に対応する堅牢なモバイルコンピューティングデバイスとソリューションのリーディングサプライヤです。25年にわたる開発と製造の経験により、堅牢なコンピューティングの標準を確立しました。卓越した製品品質と専門的なサービス、サポート、およびソリューションを組み合わせることで、倉庫、輸送、製造、鉱業、港湾、農業などのお客様が問題なく業務を遂行できるようになりました。JLTは、スウェーデンと米国のオフィスからグローバルに事業を展開しており、地域市場における販売パートナーの広範なネットワークによって補完されています。JLTは1994年に設立されました。この株式は、JLT.Eminova Fondkommission ABがCertified Advisorとして2002年からNasdaq First North Growth Marketに上場されています。詳細については、www.jltmobile.comを参照してください。",
+            "MQM_score": 78,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 33,
+                    "end": 34,
+                    "text": ".",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 349,
+                    "end": 355,
+                    "text": "ensure",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 714,
+                    "end": 728,
+                    "text": "stock exchange",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 740,
+                    "end": 756,
+                    "text": "under the symbol",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 762,
+                    "end": 814,
+                    "text": "Eminova Fondkommission AB acts as Certified Advisor.",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 22,
+                    "text": "と手間のかからない",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 92,
+                    "text": "リーディング",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 141,
+                    "text": "確立しました",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 142,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 203,
+                    "end": 205,
+                    "text": "など",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 206,
+                    "end": 209,
+                    "text": "お客様",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 210,
+                    "end": 219,
+                    "text": "問題なく業務を遂行",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 258,
+                    "end": 261,
+                    "text": "事業を",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 261,
+                    "end": 263,
+                    "text": "展開",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 306,
+                    "end": 309,
+                    "text": "JLT",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 316,
+                    "end": 323,
+                    "text": "設立されました",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 323,
+                    "end": 324,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 333,
+                    "end": 380,
+                    "text": ".Eminova Fondkommission ABがCertified Advisorとして",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "About Winmate Inc.",
+            "mt": "Winmateについて",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 14,
+                    "end": 18,
+                    "text": "Inc.",
+                    "type": 5,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Winmate Inc. is a rugged computing and embedded solutions provider for industries operating in some of the most challenging environments. Founded in 1996 in Taipei, Taiwan where its headquarters, research and development facility, and production lines are located, today the company has offices and service centers worldwide. Winmate develops rugged industrial-grade computing solutions that advance the Industrial Internet-of-Things (IoT). Industrial display and panel PC, HMI, embedded systems, IoT gateways to rugged tablets and handheld devices for industries ranging from transportation and logistics to marine and military, railway, oil and gas, smart grid, healthcare, and field services. Winmate also provides professional services in customizing products and project management create a unique solution for specific customer's needs. For more information, visit www.winmate.com.",
+            "mt": "Taiwan Inc.は、非常に困難な環境で業務を行う業界向けの堅牢なコンピューティングおよび組込み型ソリューションプロバイダです。1996年に本社、研究開発施設、生産ラインがあるWinmateで設立され、現在では世界中にオフィスとサービスセンターを持っています。Winmateは、IoT(Industrial Internet-of-Things)を発展させる堅牢な産業用コンピューティングソリューションを開発しています。産業用ディスプレイおよびパネルPC、HMI、組込みシステム、IoTゲートウェイは、輸送および物流から、海上および軍事、鉄道、石油およびガス、スマートグリッド、医療、フィールドサービスに至る業界向けの堅牢なタブレットおよびハンドヘルドデバイスを提供しています。Winmateは、製品のカスタマイズに関するプロフェッショナルサービスも提供しており、プロジェクト管理は特定の顧客のニーズに合った独自のソリューションを作成します。詳細については、www.Taiwan.comを参照してください。winmate",
+            "MQM_score": 43,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 92,
+                    "end": 102,
+                    "text": "in some of",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 163,
+                    "end": 171,
+                    "text": ", Taiwan",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "Taiwan",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 16,
+                    "text": "非常に",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 27,
+                    "text": "業務を行う",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 51,
+                    "text": "組込み型",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 97,
+                    "text": "Winmate",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 184,
+                    "end": 187,
+                    "text": "産業用",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 251,
+                    "end": 340,
+                    "text": "は、輸送および物流から、海上および軍事、鉄道、石油およびガス、スマートグリッド、医療、フィールドサービスに至る業界向けの堅牢なタブレットおよびハンドヘルドデバイスを提供しています",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 435,
+                    "end": 441,
+                    "text": "Taiwan",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 455,
+                    "end": 462,
+                    "text": "winmate",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1231 @@
+{
+    "310.json": [
+        {
+            "src": "Carrier powers and immunities",
+            "mt": "通信事業者の権限及び免責",
+            "MQM_score": 0
+        },
+        {
+            "src": "Telecommunications companies have some powers to enter land and install and maintain some types of telecommunications facilities, and some immunities from some state and territory legislation.",
+            "mt": "電気通信会社には、土地に立ち入り、ある種の電気通信設備を設置し維持する権限があり、州や地域の法律によって免除されるものもある。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 20,
+                    "text": "ある種",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 27,
+                    "text": "設備",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 45,
+                    "text": "地域",
+                    "type": 15,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 54,
+                    "text": "免除",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The laws are set out under Schedule 3 to the Telecommunications Act 1997 and are critical to the efficient construction and maintenance of telecommunications networks.",
+            "mt": "これらの法律は、1997年電気通信法の附則3に規定されており、電気通信ネットワークの効率的な構築及び維持に不可欠である。",
+            "MQM_score": 0
+        },
+        {
+            "src": "In using their powers and immunities, carriers need to meet the requirements in the Telecommunications Act 1997 and the Telecommunications Code of Practice 2018.",
+            "mt": "通信事業者は、その権限及び免除を行使するに当たっては、1997年電気通信法及び2018年電気通信業務法の要件を満たす必要がある。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 15,
+                    "text": "免除",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 51,
+                    "text": "2018年電気通信業務法",
+                    "type": 18,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The laws are designed to strike the right balance between the community's need to access reliable, affordable telecommunications services and ensuring that property owners, local governments and communities have a say in the deployment of infrastructure that affects them.",
+            "mt": "これらの法律は、信頼できる手頃な価格の通信サービスにアクセスするというコミュニティのニーズと、不動産所有者、地方自治体、コミュニティが自らに影響を与えるインフラの導入において発言権を確保することとの間の適切なバランスを取ることを目的としている。",
+            "MQM_score": 0
+        },
+        {
+            "src": "The laws can mean that telecommunications companies deploying infrastructure (known as carriers) are exempt from some state and territory laws, including planning laws, for:",
+            "mt": "この法律は、インフラストラクチャを導入する通信会社(通信事業者)が、計画法を含む一部の州法および領土法から免除されることを意味する場合があります。",
+            "MQM_score": 27,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 78,
+                    "end": 86,
+                    "text": "known as",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 167,
+                    "end": 173,
+                    "text": ", for:",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 16,
+                    "text": "インフラストラクチャ",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 23,
+                    "text": "通信",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 50,
+                    "text": "領土",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 72,
+                    "text": "あります",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 73,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "facilities that are determined to be low-impact facilities,",
+            "mt": "低影響施設と判定された施設",
+            "MQM_score": 0
+        },
+        {
+            "src": "temporary facilities for use by a defence organisation, or",
+            "mt": "防衛組織による使用のための一時的施設、または",
+            "MQM_score": 0
+        },
+        {
+            "src": "facilities for which the Australian Communications and Media Authority (ACMA) has granted a Facility Installation Permit.",
+            "mt": "オーストラリア通信メディア局(ACMA)が施設設置許可を付与した施設。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "オーストラリア通信メディア局",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If a facility is not in one of these three groups, then carriers must comply with state and territory laws and planning regulations.",
+            "mt": "施設がこれら3つのグループのいずれにも属していない場合、輸送業者は州および領土の法律と計画規則を遵守しなければならない。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 32,
+                    "text": "輸送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 39,
+                    "text": "領土",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "It's in everyone's interests for carriers to provide services to the people who need them quickly and cost effectively. Carriers can rollout low-impact facilities infrastructure under one, national process, rather than multiple state, territory and local government requirements. This reduces the administrative burden on governments and carriers. There are strong safeguards and objection rights to protect the rights of the community and property owners.",
+            "mt": "通信事業者が、迅速かつコスト効率よくサービスを必要とする人々にサービスを提供することは、すべての人の利益になります。通信事業者は、複数の州、地域、および地方自治体の要件ではなく、1つの国のプロセスに基づいて、影響の少ない設備インフラストラクチャを導入できます。これにより、政府および通信事業者の管理上の負担が軽減されます。コミュニティおよび不動産所有者の権利を保護するために、強力な保護策と異議申し立て権があります。",
+            "MQM_score": 32,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 57,
+                    "text": "なります",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 72,
+                    "text": "地域",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 110,
+                    "text": "影響の少ない",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 110,
+                    "end": 112,
+                    "text": "設備",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 122,
+                    "text": "インフラストラクチャ",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 129,
+                    "text": "できます",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 156,
+                    "end": 160,
+                    "text": "されます",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 203,
+                    "end": 207,
+                    "text": "あります",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "What are low-impact facilities?",
+            "mt": "低負荷施設とは何ですか?",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "低負荷",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "何ですか",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Low-impact facilities include some radiocommunications facilities, underground and above-ground housing, underground and some aerial cables, public payphones, emergency and co-located facilities.",
+            "mt": "影響の少ない施設には、いくつかの無線通信施設、地下および地上の住宅、地下およびいくつかの架空ケーブル、公衆電話、緊急施設および併設施設が含まれる。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "影響の少ない",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "This list of the different type of facilities has been specified in the Telecommunications (Low-impact Facilities) Determination 2018.",
+            "mt": "この異なるタイプの設備のリストは、電気通信(低影響設備)決定2018で規定されている。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 11,
+                    "text": "設備",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 27,
+                    "text": "設備",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "These low-impact facilities are needed for telecommunications networks to provide wider coverage and services. The strict type, size, colour and location limitations of low-impact facilities means that carriers can rollout networks with as little disruption to the community as possible during installation or operation.",
+            "mt": "これらの影響の小さい設備は、通信ネットワークがより広いカバレッジとサービスを提供するために必要である。影響の小さい設備の厳密なタイプ、サイズ、色、および場所の制限は、通信事業者が設置または運用中にコミュニティへの影響をできるだけ少なくネットワークを展開できることを意味する。",
+            "MQM_score": 25,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 10,
+                    "text": "影響の小さい",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "設備",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 57,
+                    "text": "影響の小さい",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 59,
+                    "text": "設備",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 108,
+                    "text": "影響",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Some facilities installed during the rollout of the National Broadband Network, such as node cabinets, are low-impact facilities.",
+            "mt": "ノードキャビネットなど、National Broadband Networkのロールアウト中に設置される一部の施設は、影響が少ない施設です。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 45,
+                    "text": "ロールアウト",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 65,
+                    "text": "影響が少ない",
+                    "type": 12,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Facilities can't be low-impact facilities if they're to be installed in areas of environmental significance, which includes places listed on a Commonwealth, state or territory heritage register. These facilities must meet the requirements of the usual Commonwealth, state or territory approval processes, such as the Environment Protection and Biodiversity Conservation Act 1999 or the broader telecommunications regime, including the Radiocommunications Act 1992.",
+            "mt": "連邦、州、または領土の遺産登録に記載された場所を含む、環境的に重要な地域に施設を設置する場合は、低負荷施設にすることはできません。これらの施設は、1999年環境保護および生物多様性保全法または1992年無線通信法を含むより広範な電気通信制度など、連邦、州、または領土の通常の承認プロセスの要件を満たす必要があります。",
+            "MQM_score": 30,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "連邦",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "領土",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 64,
+                    "text": "できません",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 123,
+                    "end": 125,
+                    "text": "連邦",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 131,
+                    "end": 133,
+                    "text": "領土",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 157,
+                    "text": "あります",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Carriers installing low-impact facilities for mobile phone networks must also comply with the additional requirements in the Industry Code for Mobile Phone Base Station Deployment C564:2011.",
+            "mt": "携帯電話ネットワークに影響の少ない設備を設置する通信事業者は、Industry Code for Mobile Phone Base Station Deployment C564:2011の追加要件にも準拠する必要があります。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 17,
+                    "text": "影響の少ない",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 19,
+                    "text": "設備",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 104,
+                    "text": "準拠",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 113,
+                    "text": "あります",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "What obligations do carriers have?",
+            "mt": "通信事業者にはどのような義務がありますか?",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 20,
+                    "text": "ありますか",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 21,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "There are limits on what carriers can do under the Telecommunications Act 1997 . These give land owners and occupiers the right to:",
+            "mt": "1997年通信法の下で通信事業者ができることには制限があります。これらの制限により、土地所有者および占有者は次の権利を得ることができます。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "通信",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 31,
+                    "text": "あります",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "制限",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 66,
+                    "text": "ことができ",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 68,
+                    "text": "ます",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Notification—Carriers must give 10 days' written notice before they start any work, other than in emergencies or if the owner or occupier has already waived the right to be notified. There are alternative arrangements if the carrier can't find the land owner.",
+            "mt": "通知-運送業者は、緊急の場合、または所有者または占有者が通知を受ける権利をすでに放棄している場合を除き、作業を開始する前に10日間の書面による通知を行わなければならない。運送業者が土地所有者を見つけられない場合は、代替案があります。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "運送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 66,
+                    "text": "前に10日間の",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 89,
+                    "text": "運送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 115,
+                    "text": "あります",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Objection—The owner or occupier can object to the carrier, but it has to be at least five business days before the carrier plans to start work. The matter can then be resolved with the carrier, or through the Telecommunications Industry Ombudsman. Parties can also settle the matter through the courts.",
+            "mt": "異議:所有者または占有者は運送業者に異議を申し立てることができますが、運送業者が作業を開始するまでに少なくとも5営業日が必要です。この問題は、運送業者または通信産業オンブズマンを通じて解決できます。また、当事者は裁判を通じて解決することもできます。",
+            "MQM_score": 55,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 123,
+                    "end": 131,
+                    "text": "plans to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 176,
+                    "end": 180,
+                    "text": "with",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "異議",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "運送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 33,
+                    "text": "できます",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 39,
+                    "text": "運送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 50,
+                    "text": "までに",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 64,
+                    "text": "必要です",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 80,
+                    "text": "通信",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 98,
+                    "text": "できます",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 123,
+                    "text": "できます",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "More information on the objection process can be found on the Telecommunications Industry Ombudsman's website.",
+            "mt": "異議申立手続の詳細については、電気通信産業オンブズマンのウェブサイトを参照のこと。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "手続",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 40,
+                    "text": "を参照のこと",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The Telecommunications Code of Practice 2018 sets out further obligations on carriers. For example, carriers, and their contractors, must comply with good engineering practice and consider noise limits, the environment, and obstruction of essential services when installing or maintaining facilities.",
+            "mt": "2018年電気通信事業法は、事業者に対してさらなる義務を定めている。例えば、事業者及びその請負業者は、適切な技術基準を遵守し、施設の設置又は維持の際には、騒音制限、環境及び不可欠なサービスの妨害を考慮しなければならない。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "2018年電気通信事業法",
+                    "type": 18,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 17,
+                    "text": "事業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 41,
+                    "text": "事業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 58,
+                    "text": "基準",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Compliance with the Telecommunications Act and the Telecommunications Code of Practice is a licence condition. As the regulator, the ACMA can enforce licence conditions by, for example, issuing directions to carriers, or by initiating court action in serious cases.",
+            "mt": "電気通信法及び電気通信業務法の遵守は、免許条件である。規制当局として、ACMAは、例えば、事業者に指示を出すことにより、又は重大な事案において訴訟を開始することにより、免許条件を執行することができる。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 14,
+                    "text": "電気通信業務法",
+                    "type": 18,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 48,
+                    "text": "事業者",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Obligations on landholders and occupiers",
+            "mt": "土地所有者及び占有者に対する義務",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "土地所有者",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Carriers own any infrastructure they install, including cables.",
+            "mt": "通信事業者は、ケーブルを含むすべてのインフラストラクチャを所有しています。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 32,
+                    "end": 44,
+                    "text": "they install",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 36,
+                    "text": "います",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Property owners have certain responsibilities and a duty of care to carriers under common law. If a carrier is able to demonstrate that a property owner had deliberately or negligently caused damage to a cable, the carrier may be able to seek damages from the property owner in a court of law. Criminal offences may also apply for intentional damage to a carrier's property.",
+            "mt": "財産権者は、コモンロー上、一定の責任と注意義務を負う。財産権者が故意または過失によりケーブルに損害を与えたことを運送業者が証明できる場合、その運送業者は、裁判所において財産権者に損害賠償を請求することができる。刑事犯罪もまた、運送業者の財産に対する故意の損害に適用することができる。",
+            "MQM_score": 50,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 65,
+                    "end": 76,
+                    "text": "to carriers",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 223,
+                    "end": 226,
+                    "text": "may",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "財産権者",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 31,
+                    "text": "財産権者",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 60,
+                    "text": "運送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 75,
+                    "text": "運送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 88,
+                    "text": "財産権者",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 117,
+                    "text": "運送業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 120,
+                    "text": "財産",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 136,
+                    "end": 140,
+                    "text": "ができる",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Providing services to multi-dwelling units",
+            "mt": "集合住宅へのサービス提供",
+            "MQM_score": 0
+        },
+        {
+            "src": "Carriers supplying telecommunications services to multi-dwelling units often need to install termination boxes and other equipment in the building. Some of these in-building facilities are low-impact facilities. This equipment is generally unobtrusive and it lets occupants of multi-dwelling units access telecommunications services.",
+            "mt": "集合住宅に電気通信サービスを提供する事業者は、建物内に終端装置等を設置する必要がある場合が多いが、これらの施設の中には、一般的には邪魔にならないように、集合住宅の利用者が電気通信サービスにアクセスできるように、低負荷型の施設もある。",
+            "MQM_score": 55,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 162,
+                    "end": 173,
+                    "text": "in-building",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 189,
+                    "end": 210,
+                    "text": "low-impact facilities",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 212,
+                    "end": 226,
+                    "text": "This equipment",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 21,
+                    "text": "事業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 31,
+                    "text": "終端装置",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 32,
+                    "text": "等",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 49,
+                    "text": "が、",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 60,
+                    "text": "、",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 75,
+                    "text": "邪魔にならないように",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 84,
+                    "text": "利用者",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 115,
+                    "text": "、低負荷型の施設もある",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "The Communications Alliance (formerly the Australian Communications Industry Forum) worked with carriers to find technical solutions to access issues relating to in-building subscriber equipment. These are set out in the industry guideline on building access operations and installation:",
+            "mt": "Communications Alliance(旧Australian Communications Industry Forum)は、通信事業者と協力して、建物内の加入者機器に関するアクセス問題の技術的解決策を模索しました。これらは、建物へのアクセス操作と設置に関する業界ガイドラインに記載されています。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 88,
+                    "text": "機器",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 112,
+                    "text": "しました",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 149,
+                    "end": 152,
+                    "text": "います",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "ACIF Code G571:2002 Building access operations and installation (PDF 890KB)",
+            "mt": "ACIFコードG571:2002建物へのアクセス操作および設置(PDF 890 KB)",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 7,
+                    "text": "コード",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 16,
+                    "text": "2002",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "および",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Communications Alliance website.",
+            "mt": "Communications AllianceのWebサイト",
+            "MQM_score": 0
+        },
+        {
+            "src": "Getting help to resolve a complaint",
+            "mt": "苦情を解決するための支援を受ける",
+            "MQM_score": 0
+        },
+        {
+            "src": "In the first instance, concerns about a carrier's use of powers and immunities should be raised with the carrier itself.",
+            "mt": "第一に、通信事業者の電力使用と免責に関する懸念を通信事業者自身に提起すべきである。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 50,
+                    "end": 56,
+                    "text": "use of",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "電力",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "使用",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The Telecommunications Industry Ombudsman provides a free dispute resolution service for people who've raised a complaint with a carrier but can't reach a resolution.",
+            "mt": "通信産業オンブズマンは、通信事業者に苦情を申し立てたが、解決に至らなかった人々に対して、無料の紛争解決サービスを提供している。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "通信",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The ACMA is the Australian regulator of telecommunications carriers. The ACMA can look into carrier non-compliance with regulatory obligations.",
+            "mt": "ACMAは、通信事業者のオーストラリアの規制者である。ACMAは、通信事業者が規制義務を遵守していないことを調査することができる。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "通信",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 23,
+                    "text": "規制者",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Contacts",
+            "mt": "連絡先",
+            "MQM_score": 0
+        },
+        {
+            "src": "Email: powersandimmunities [at] communications.gov.au",
+            "mt": "電子メール:powersandimmunities[at]communications.gov.au",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 29,
+                    "text": "[at]",
+                    "type": 11,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Post:",
+            "mt": "投稿:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "投稿",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Competition Branch",
+            "mt": "コンペティション部門",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "コンペティション部門",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Department of Communications and the Arts",
+            "mt": "通信・アンド・アート学科",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "通信・アンド・アート学科",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "GPO Box 2154 Canberra ACT 2601",
+            "mt": "GPOボックス2154キャンベラACT2601",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 23,
+                    "text": "GPOボックス2154キャンベラACT2601",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

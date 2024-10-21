@@ -1,0 +1,12 @@
+1	Equipment Authorization – Grantee Code	機器承認-<ER01>被許諾者</ER01>コード
+2	Products subject to certification are required to be uniquely identified by an identifier known as FCC ID. The FCC ID consist of two parts: (1) grantee code; and (2) product code.	認証の対象となる製品は、FCC IDと呼ばれる識別子によって一意に識別される必要があります。FCC IDは、(1)受領者コードと(2)製品コードの2つの部分で構成されています。
+3	The grantee code, as specified in Section 2.926, is a three or five character alphanumeric string representing the Grantee / Applicant for certified products.	セクション2.926に規定されているように、<ER02>被許諾者</ER02>コードは、認定製品の<ER03>被許諾者</ER03>/申請者を表す3文字または5文字の英数字ストリング<ER04>である</ER04>。
+4	Grantee Codes that begin with an alpha character (A-Z) consist of three characters.	アルファベット文字(A-Z)で始まる被付与者コードは3文字<ER05>から成</ER05><ER27>る</ER27>。
+5	Grantee Codes that begin with a number (2-9) consist of five characters.	数字(2-9)で始まる<ER06>受領者</ER06>コードは、5文字で構成<ER07>される</ER07>。
+6	The grantee code does not contain the numbers “one” and/or “zero”. The grantee code is assigned by the Commission permanently to a company for use in the identification of radio frequency equipment authorized under the certification procedure.	<ER09>被交付者</ER09>コードには「1」および/または「0」という数字が含まれて<ER08>いない</ER08>。<ER10>被交付者</ER10>コードは、認証手順に基づいて認可された無線周波数<ER11>装置</ER11>の識別に使用するために、<ER12>欧州委員会</ER12>によって恒久的に企業に割り当て<ER13>られる</ER13>。
+7	The product codes are uniquely established by the Grantee to identify each product approved by a Telecommunication Certification Body (TCB). The product code can be up to 14 alpha numeric characters. Hyphens (–) separated by an alpha numeric character are permitted; consecutive hyphens (-) are not permitted.	製品コードは、電気通信認証機関(TCB)によって承認された各製品を識別するために、<ER14>被許諾者</ER14>によって一意に<ER15>確立され</ER15>ます。製品コードは、英数字で最大14文字まで<ER16>使用できます</ER16>。英数字で区切られたハイフン(-)は<ER17>使用できます</ER17><ER18>。</ER18>連続したハイフン( - )は<ER19>使用できません</ER19>。
+8	For <ER23>information on</ER23> how to obtain a grantee code, manage grantee code information (company name, address and contact information), recover a lost grantee code's registration number, see KDB Publication 204515.	<ER20>受給者</ER20>コードの入手方法、<ER21>受給者</ER21>コード情報(<ER27>会社名、住所、連絡先情報</ER27>)の管理方法、紛失した<ER22>受給者</ER22>コードの登録番号の回復方法については、KDB Publication204515を<ER24>参照</ER24>。
+9	Bureau/Office:	局/<ER25>事務所</ER25>:
+10	Engineering & Technology	エンジニアリング&テクノロジー
+11	Tags:	タグ:
+12	Devices - Devices, Engineering & Technology	デバイス-デバイス、エンジニアリング<ER26>および</ER26>テクノロジー

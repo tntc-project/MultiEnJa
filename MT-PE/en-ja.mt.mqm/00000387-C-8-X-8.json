@@ -1,0 +1,1080 @@
+{
+    "387.json": [
+        {
+            "src": "Honeywell To Upgrade First Ice-Class Offshore Stationary Platform On Sakhalin Shelf",
+            "mt": "ハネウェル、サハリン大陸棚に初の氷型海洋固定プラットフォームを整備へ",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "ハネウェル",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 14,
+                    "text": "に",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 30,
+                    "text": "氷型海洋固定プラットフォーム",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 33,
+                    "text": "整備",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Posted July 31st, 2014 for Honeywell International",
+            "mt": "2014年7月31日、Honeywell Internationalに投稿されました。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": "に",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 37,
+                    "text": "投稿",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 43,
+                    "text": "されました。",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Safety and Production Process Upgrades for the Molikpaq Platform MOSCOW, July 31, 2014",
+            "mt": "2014年七月三十一日にモスクワで行われたMolikpaq・プラットフォームの安全及び生産工程の改善",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "2014年七月三十一日",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "に",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 16,
+                    "text": "モスクワ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 21,
+                    "text": "で行われた",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 38,
+                    "text": "Molikpaq・プラットフォーム",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 41,
+                    "text": "安全",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 47,
+                    "text": "生産工程",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 50,
+                    "text": "改善",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Honeywell (NYSE: HON) Process Solutions today announced it will upgrade process control and alarm management systems at the Molikpaq platform on the Sakhalin shelf, Russia, to improve safety, reliability and operational efficiency.",
+            "mt": "Honeywell(Russia)Process Solutionsは本日、NYSE: HONのサハリン棚にあるMolikpaqプラットフォームのプロセス制御とアラーム管理システムをアップグレードし、安全、信頼性、運用効率を改善すると発表した。",
+            "MQM_score": 34,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 11,
+                    "end": 20,
+                    "text": "NYSE: HON",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 165,
+                    "end": 171,
+                    "text": "Russia",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 9,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 16,
+                    "text": "Russia",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 17,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 47,
+                    "text": "NYSE: HON",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 53,
+                    "text": "サハリン棚",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 72,
+                    "text": "Molikpaqプラットフォーム",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 102,
+                    "text": "安全",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 121,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Molikpaq platform, owned by Sakhalin Energy Investment Co. Ltd., celebrated its 15-year anniversary in September 2013. The platform produces 48,000 barrels of crude oil per day.",
+            "mt": "2013年9月に15周年を迎えたサハリン・エナジーのMolikpaqプラットフォームは、1日48000バレルの原油を生産しています。",
+            "MQM_score": 33,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 69,
+                    "end": 122,
+                    "text": "celebrated its 15-year anniversary in September 2013.",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 123,
+                    "end": 135,
+                    "text": "The platform",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "2013年9月に15周年を迎えた",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 25,
+                    "text": "サハリン・エナジー",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 26,
+                    "text": "の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 42,
+                    "text": "Molikpaqプラットフォーム",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 44,
+                    "text": "、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "1日",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 51,
+                    "text": "48000",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "“Offshore production is associated with a number of risks to workers, the environment and efficient processes, and demands systems that meet the highest reliability, safety and durability standards,” said Frank Whitsura, vice president, Honeywell Process Solutions. “Our innovative solutions are designed to meet the requirements needed to operate in harsh environmental conditions and help our partners to improve their operational and cost efficiencies.”",
+            "mt": "Honeywell Process Solutionsの副社長であるFrank Whitsura氏は次のように述べています。「オフショア生産は、作業者、環境、効率的なプロセスに多くのリスクをもたらし、最高の信頼性、安全、耐久性の基準を満たすシステムを必要とします。デルの革新的なソリューションは、厳しい環境条件下での運用に必要な要件を満たすように設計されており、パートナーの運用効率とコスト効率の向上を支援します。」",
+            "MQM_score": 45,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 198,
+                    "end": 199,
+                    "text": "”",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 200,
+                    "end": 264,
+                    "text": "said Frank Whitsura, vice president, Honeywell Process Solutions",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 266,
+                    "end": 267,
+                    "text": "“",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 62,
+                    "text": "Honeywell Process Solutionsの副社長であるFrank Whitsura氏は次のように述べています。",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 68,
+                    "text": "オフショア",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 99,
+                    "text": "もたらし",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 109,
+                    "text": "安全",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 135,
+                    "text": "デルの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 206,
+                    "end": 207,
+                    "text": "。",
+                    "type": 7,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The Molikpaq platform was installed northeast of Sakhalin, 16 kilometers offshore, at a depth of 30 meters. In the winter, the temperature, including the wind chill, can be as cold as 70 degrees below zero Fahrenheit.",
+            "mt": "Molikpaq基地はサハリンの北東、沖合16キロ、水深30メートルに設置された。冬には、風による寒さを含めて、華氏0度以下で70度温度になることがあります。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "Molikpaq基地",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 15,
+                    "text": "サハリン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 40,
+                    "text": "された",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 63,
+                    "text": "0度以下で",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 66,
+                    "text": "",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 68,
+                    "text": "温度",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "To modernize the process control system and improve safety at the facility, Honeywell will implement the latest version of its Experion® Process Knowledge System (PKS), which will be extended by the new C300 controller including Foundation Fieldbus license. By enabling unified access to process control, production management and asset management, the distributed control system will help to improve efficiency and profitability, reduce total cost of ownership while helping the facility achieve optimum production of oil.",
+            "mt": "プロセス制御システムを近代化し、施設の安全性を向上させるために、ハネウェル社は最新バージョンのExperion®Process Knowledge System(PKS)を導入する。これは、Foundation Fieldbusライセンスを含む新しいC300コントローラによって拡張される。プロセス制御、生産管理、資産管理への統一されたアクセスを可能にすることで、分散型制御システムは効率と収益性を改善し、総所有コストを削減し、施設が最適な石油生産を達成するのを助ける。",
+            "MQM_score": 28,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 175,
+                    "end": 179,
+                    "text": "will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 38,
+                    "text": "ハネウェル社",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 80,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 90,
+                    "text": "導入する",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 91,
+                    "text": "。",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 95,
+                    "text": "これは、",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 192,
+                    "end": 194,
+                    "text": "効率",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 233,
+                    "end": 234,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "In addition, Honeywell will install its DynAMo™ Alarm Suite, which leverages more than 20 years of alarm management experience in the process industries, and can help users reduce overall alarm count by as much as 80 percent, identify maintenance issues, and increase visibility of critical alarms that require urgent attention.",
+            "mt": "さらに、HoneywellはDyNAmo™Alarm Suiteをインストールする予定で、これはプロセス産業で20年以上のアラーム管理経験を活用し、ユーザーが全体のアラーム数を80%削減し、メンテナンスの問題を特定し、緊急の注意を必要とする重大なアラームの可視性を高めるのに役立つ。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 39,
+                    "text": "インストール",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 94,
+                    "text": "80%削減し",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 137,
+                    "end": 140,
+                    "text": "役立つ",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Honeywell Process Solutions (www.honeywellprocess.com) is a pioneer in automation control, instrumentation and services for the oil and gas; refining; pulp and paper; industrial power generation; chemicals and petrochemicals; biofuels; life sciences; and metals, minerals and mining industries. Process Solutions is part of Honeywell's Performance Materials and Technologies strategic business group, which also includes UOP, a leading international supplier and licensor of process technology, catalysts, adsorbents, equipment, and consulting services to the petroleum refining, petrochemical, and gas processing industries.",
+            "mt": "Honeywell Process Solutions(www.Honeywell.com)は、石油およびガス、精製、パルプおよび製紙、産業用発電、化学および石油化学、バイオ燃料、ライフサイエンス、金属、鉱物および鉱業の自動化制御、計測およびサービスのパイオニアです。Process Solutionsは、HoneywellのPerformance Materials and Technologies戦略的ビジネス・グループの一部であり、UOPも含まれています。UOPは、石油精製、石油化学およびガス加工産業へのプロセス技術、触媒、吸着剤、装置、およびコンサルティング・サービスの主要な国際サプライヤーおよびライセンサーです。honeywellprocess",
+            "MQM_score": 19.7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 27,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 53,
+                    "text": "および",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 65,
+                    "text": "および",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 79,
+                    "text": "および",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 102,
+                    "text": "、",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 107,
+                    "text": "および",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 110,
+                    "text": "の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 118,
+                    "text": "計測",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 118,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 121,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 204,
+                    "end": 213,
+                    "text": "ビジネス・グループ",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 274,
+                    "end": 277,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 302,
+                    "end": 305,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 314,
+                    "end": 330,
+                    "text": "honeywellprocess",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Honeywell (www.honeywell.com) is a Fortune 100 diversified technology and manufacturing leader, serving customers worldwide with aerospace products and services; control technologies for buildings, homes and industry; turbochargers; and performance materials. Based in Morris Township, N.J., Honeywell's shares are traded on the New York, London, and Chicago Stock Exchanges. For more news and information on Honeywell, please visit www.honeywellnow.com.",
+            "mt": "Honeywell(www.honeywell.com)は、Fortune100社に名を連ねる多様なテクノロジーと製造のリーダー企業であり、航空宇宙関連の製品とサービス、建物、住宅、産業の制御テクノロジー、ターボチャージャー、およびパフォーマンス材料を提供して世界中の顧客にサービスを提供しています。ニュージャージー州Morris Townshipに本拠を置くHoneywellの株式は、ニューヨーク、ロンドン、およびシカゴの証券取引所で取引されています。Honeywellに関する詳細なニュースおよび情報については、www.Honeywell.comをご覧ください。(英語)honeywellnow",
+            "MQM_score": 53,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 9,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 41,
+                    "text": "Fortune100社",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 56,
+                    "text": "テクノロジー",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 66,
+                    "text": "企業",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 94,
+                    "text": "の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 96,
+                    "end": 102,
+                    "text": "テクノロジー",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 116,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 125,
+                    "text": "パフォーマンス材料",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 126,
+                    "text": "を",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 130,
+                    "text": "提供して",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 150,
+                    "end": 174,
+                    "text": "ニュージャージー州Morris Township",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 194,
+                    "end": 200,
+                    "text": "ニューヨーク",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 201,
+                    "end": 205,
+                    "text": "ロンドン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 206,
+                    "end": 209,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 209,
+                    "end": 212,
+                    "text": "シカゴ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 248,
+                    "end": 251,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 284,
+                    "end": 300,
+                    "text": "(英語)honeywellnow",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "This release contains certain statements that may be deemed \"forward-looking statements\" within the meaning of Section 21E of the Securities Exchange Act of 1934. All statements, other than statements of historical fact, that address activities, events or developments that we or our management intends, expects, projects, believes or anticipates will or may occur in the future are forward-looking statements. Such statements are based upon certain assumptions and assessments made by our management in light of their experience and their perception of historical trends, current economic and industry conditions, expected future developments and other factors they believe to be appropriate. The forward-looking statements included in this release are also subject to a number of material risks and uncertainties, including but not limited to economic, competitive, governmental, and technological factors affecting our operations, markets, products, services and prices. Such forward-looking statements are not guarantees of future performance, and actual results, developments and business decisions may differ from those envisaged by such forward-looking statements. We identify the principal risks and uncertainties that affect our performance in our Form 10-K and other filings with the Securities and Exchange Commission.",
+            "mt": "本資料には、1934年証券取引法第21E条の意味において「将来予想に関する記述」とみなされる可能性のある記述が含まれています。過去の事実に関する記述を除き、当社または当社の経営陣が意図し、予測し、プロジェクトを遂行し、将来予想し、または将来発生する可能性のある活動、事象または事象に対処するすべての記述は、将来予想に関する記述です。これらの記述は、過去の傾向、現在の経済および業界の状況、予想される将来の事象、および当社が適切と考えるその他の要素に照らして、当社の経営陣が行った一定の仮定および評価に基づいています。また、本プレスリリースに含まれる将来予想に関する記述は、当社の事業、市場、製品、サービスおよび価格に影響を与える経済的、競争的、政府および技術的要因を含むがこれらに限定されないいくつかの重大なリスクおよび不確実性にも左右されます。これらの将来予想に関する記述は、将来の業績を保証するものではなく、実際の業績、事象およびビジネス上の意思決定は、これらの将来予想に関する記述で想定されるものとは異なる場合があります。当社の業績に影響を与える主なリスクおよび不確実性については、Form10-Kおよび証券取引委員会へ",
+            "MQM_score": 105.39999999999998,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 323,
+                    "end": 331,
+                    "text": "believes",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 347,
+                    "end": 354,
+                    "text": "will or",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 513,
+                    "end": 553,
+                    "text": "their experience and their perception of",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 1172,
+                    "end": 1183,
+                    "text": "We identify",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 1271,
+                    "end": 1289,
+                    "text": "other filings with",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 1,
+                    "end": 3,
+                    "text": "資料",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 66,
+                    "text": "過去の",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 83,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 108,
+                    "text": "プロジェクトを遂行し",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 115,
+                    "text": "、",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 115,
+                    "end": 118,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 138,
+                    "text": "または",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 145,
+                    "text": "事象に対処する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 157,
+                    "text": "将来予想",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 185,
+                    "end": 188,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 202,
+                    "end": 204,
+                    "text": "事象",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 205,
+                    "end": 208,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 208,
+                    "end": 210,
+                    "text": "当社",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 244,
+                    "end": 247,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 262,
+                    "end": 265,
+                    "text": "プレス",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 274,
+                    "end": 278,
+                    "text": "将来予想",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 302,
+                    "end": 302,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 302,
+                    "end": 305,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 322,
+                    "end": 324,
+                    "text": "政府",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 324,
+                    "end": 324,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 324,
+                    "end": 327,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 346,
+                    "end": 351,
+                    "text": "いくつかの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 357,
+                    "end": 360,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 377,
+                    "end": 381,
+                    "text": "将来予想",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 412,
+                    "end": 414,
+                    "text": "事象",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 414,
+                    "end": 414,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 414,
+                    "end": 417,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 433,
+                    "end": 437,
+                    "text": "将来予想",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

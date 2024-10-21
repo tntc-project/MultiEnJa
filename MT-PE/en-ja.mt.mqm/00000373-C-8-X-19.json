@@ -1,0 +1,900 @@
+{
+    "373.json": [
+        {
+            "src": "Building contractor renewal",
+            "mt": "建築請負業者の更新",
+            "MQM_score": 0
+        },
+        {
+            "src": "This page is for:",
+            "mt": "このページの対象:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Builder",
+            "mt": "建造業者",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "建造業者",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Check your inbox, not your post box: Courtesy renewal notices are now sent by email. Further information at dmirs.wa.gov.au/LSupdate.",
+            "mt": "あなたの投稿ボックスではなく受信トレイをチェックしてください:現在、特典更新通知は電子メールで送信されています。詳細については、dmirs.wa.gov.au/LSupdateをご覧ください。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "あなたの",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 10,
+                    "text": "投稿ボックス",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 31,
+                    "text": ":",
+                    "type": 7,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 36,
+                    "text": "特典",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Financial capacity",
+            "mt": "財務能力",
+            "MQM_score": 0
+        },
+        {
+            "src": "The Building Services (Registration) Act 2011 requires the board to be satisfied that a building service contractor in their class of registration meets the prescribed financial requirements.",
+            "mt": "2011年建築サービス(登録)法は、登録クラスの建築サービス業者が所定の財務要件を満たしていることを取締役会が確認することを求めています。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 32,
+                    "text": "業者",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 54,
+                    "text": "取締役会",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The prescribed requirements for each class of building service are set out in the renewal form.",
+            "mt": "建物サービスの各クラスに対する所定の要件は、更新フォームに記載されます。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "建物サービス",
+                    "type": 12,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 28,
+                    "text": "更新フォーム",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 35,
+                    "text": "されます",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "All contractors must answer questions about their financial capacity. Building and building surveying contractors must also provide supporting documents as detailed on the application forms as evidence of financial capacity.",
+            "mt": "すべての請負業者は、財務能力に関する質問に回答する必要があります。また、建物および建物調査の請負業者は、財務能力の証拠として、申請書に詳細が記載された補足文書を提供する必要があります。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "建物",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 45,
+                    "text": "建物調査",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 46,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 79,
+                    "text": "補足文書",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Fees and payments",
+            "mt": "手数料および支払い",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 6,
+                    "text": "および",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Payment of the fee must accompany the renewal form. Fees can be paid by post or in person. Acceptable payment methods are cheque, money order, credit card, cash or EFTPOS. Please note that online payment is NOT available for renewal fees. Details of the current fees can be found here.",
+            "mt": "手数料の支払は、更新フォームに添付する必要があります。手数料は郵送または本人が支払うことができます。支払方法には、小切手、郵便為替、クレジット・カード、現金またはEFTPOSがあります。更新手数料のオンライン支払は使用できません。現在の手数料の詳細は、ここを参照してください。",
+            "MQM_score": 21.2,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 91,
+                    "end": 101,
+                    "text": "Acceptable",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 172,
+                    "end": 188,
+                    "text": "Please note that",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 14,
+                    "text": "更新フォーム",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 39,
+                    "text": "本人が",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 75,
+                    "text": "クレジット・カード",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 78,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 128,
+                    "text": "ここ",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Forms",
+            "mt": "フォーム",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "フォーム",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Contractor only",
+            "mt": "請負業者のみ",
+            "MQM_score": 0
+        },
+        {
+            "src": "Individual – Form 52",
+            "mt": "個人-フォーム52",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "フォーム",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Company – Form 53",
+            "mt": "会社-フォーム53",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "フォーム",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Partnership – Form 54",
+            "mt": "パートナーシップ-様式54",
+            "MQM_score": 0
+        },
+        {
+            "src": "Practitioner and contractor",
+            "mt": "開業医と請負業者",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "開業医",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Use the following two forms:",
+            "mt": "次の2つの形式を使用します。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "形式",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 13,
+                    "text": "使用します",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Practitioner – Form 51",
+            "mt": "医師-様式第五十一",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "医師",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 9,
+                    "text": "第五十一",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Contractor – Form 52",
+            "mt": "請負業者-フォーム52",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 9,
+                    "text": "フォーム",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Lodging your application",
+            "mt": "アプリケーションの提出",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "In person",
+            "mt": "直接",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "直接",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Monday to Friday, 8.30am–5.00pm",
+            "mt": "月～金、8.30am～5.00pm",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "月～金、8.30am～5.00pm",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Building and Energy",
+            "mt": "建物とエネルギー",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "建物とエネルギー",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Level 1, Mason Bird Building",
+            "mt": "メイソンバードビル1階",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "メイソンバードビル1階",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "303 Sevenoaks Street Cannington",
+            "mt": "303セブノークスストリートCannington",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 24,
+                    "text": "303セブノークスストリートCannington",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "By post",
+            "mt": "投稿別",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "投稿別",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Registration renewal",
+            "mt": "登録の更新",
+            "MQM_score": 0
+        },
+        {
+            "src": "Locked Bag 100",
+            "mt": "ロックバッグ100",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "ロックバッグ100",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "East Perth WA 6892",
+            "mt": "イーストパースWA6892",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "イーストパースWA6892",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Late applications",
+            "mt": "遅延アプリケーション",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "遅延アプリケーション",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Late applications may be lodged within six months after the expiry date of a registration but you must first write a letter giving reasons for the delay. You can use the late application form for this purpose. If the board accepts your reasons, you are then required to complete a renewal application form and pay the required fee.",
+            "mt": "遅延出願は,登録の満了日後6月以内に提出することができるが,最初に遅延の理由を記載した書状を作成しなければならない。この目的のために遅延出願様式を使用することができる。審判部がその理由を認めた場合は,更新出願様式に記入し,必要な手数料を納付しなければならない。",
+            "MQM_score": 59,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "遅延出願",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 6,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 29,
+                    "text": "できるが",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 30,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 45,
+                    "text": "書状",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 57,
+                    "text": "しなければならない",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 66,
+                    "text": "この目的のために",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 72,
+                    "text": "遅延出願様式",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 83,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 87,
+                    "text": "審判部",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 100,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 106,
+                    "text": "更新出願様式",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 110,
+                    "end": 111,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 120,
+                    "text": "納付",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 120,
+                    "end": 129,
+                    "text": "しなければならない",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If the board does not accept your reasons, you may not apply to renew your registration, but you may apply for a new registration. The board has particular forms to assist applicants applying for a new registration within three years of a former registration expiry date.",
+            "mt": "審判部があなたの理由を認めない場合は,あなたは登録の更新を申請することはできないが,新たな登録を申請することはできる。審判部には,前の登録満了日から3年以内に新たな登録を申請する出願人を支援する特別な様式がある。",
+            "MQM_score": 45,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "審判部",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 8,
+                    "text": "あなたの",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "理由",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 19,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 23,
+                    "text": "あなたは",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 40,
+                    "text": "ない",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 42,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 58,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 62,
+                    "text": "審判部",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 65,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 66,
+                    "text": "前",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 92,
+                    "text": "出願人",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 103,
+                    "end": 105,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "It is recommended that you lodge your renewal application before your registration expires to avoid the inconvenience of a late application or a new registration. If you have difficulty submitting your complete renewal application on time, please submit an incomplete renewal application before the expiry date. Contact the department for further assistance on 1300 489 099.",
+            "mt": "登録の失効前に更新申請を提出することをお薦めします。これにより、遅延申請や新規登録による不都合が回避されます。完全な更新申請を期限内に提出できない場合は、失効日前に不完全な更新申請を提出してください。詳細については、1300 489 099の部門にお問い合せください。",
+            "MQM_score": 45,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 91,
+                    "end": 161,
+                    "text": "to avoid the inconvenience of a late application or a new registration",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "更新申請",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 55,
+                    "text": "これにより、遅延申請や新規登録による不都合が回避されます。",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 62,
+                    "text": "更新申請",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 73,
+                    "text": "提出できない",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 80,
+                    "text": "失効日",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 90,
+                    "text": "更新申請",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 107,
+                    "text": "詳細については",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 121,
+                    "end": 123,
+                    "text": "部門",
+                    "type": 10,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "For more information, please refer to the board's policy on late applications (renewals).",
+            "mt": "詳細については、遅延申請(更新)に関する取締役会の方針を参照してください。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 12,
+                    "text": "遅延申請",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 24,
+                    "text": "取締役会",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Share this page:",
+            "mt": "このページの共有:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "このページの共有",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Last modified: Wednesday, March 11, 2020 - 09:44",
+            "mt": "最終更新日:3月11日(水)2020 - 09:44",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 18,
+                    "text": "3月11日(水)2020",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1575 @@
+{
+    "474.json": [
+        {
+            "src": "DIB Guide: Detecting Agile BS",
+            "mt": "DIBガイド:Detecting Agile BS",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 25,
+                    "text": "Detecting Agile BS",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).",
+            "mt": "アジャイルはソフトウェア開発のバズワードなので、DoDのソフトウェア開発プロジェクトはほとんどデフォルトで\"アジャイル\"と宣言されています。このドキュメントの目的は、DoDのプログラムエグゼクティブと購入プロフェッショナルに、本当にアジャイル開発を使用しているソフトウェアプロジェクトと、アジャイルウェアのウォーターフォールやスパイラル開発(\"agile-scrum-fall\")を検出する方法についてのガイダンスを提供することです。",
+            "MQM_score": 25,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 52,
+                    "end": 55,
+                    "text": "all",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 114,
+                    "end": 117,
+                    "text": "now",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 111,
+                    "text": "購入プロフェッショナル",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 153,
+                    "text": "アジャイルウェアの",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 191,
+                    "end": 195,
+                    "text": "検出する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Principles, Values, and Tools",
+            "mt": "原則・価値・ツール",
+            "MQM_score": 0
+        },
+        {
+            "src": "Experts and devotees profess certain key “values” to characterize the culture and approach of agile development. In its work, the DIB has developed its own guiding maxims that roughly map to these true agile values:",
+            "mt": "専門家と信奉者は、アジャイル開発の文化とアプローチを特徴づけるために、特定の重要な「価値」を公言している。DIBは、そのの中で、これらの真のアジャイル価値に大まかに対応する独自の指針を開発した。",
+            "MQM_score": 17.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 113,
+                    "end": 125,
+                    "text": "In its work,",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 52,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 76,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 82,
+                    "text": "大まかに",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 91,
+                    "text": "指針",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 96,
+                    "text": "した",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Agile value",
+            "mt": "アジャイルの価値",
+            "MQM_score": 0
+        },
+        {
+            "src": "Individuals and interactions over processes and tools",
+            "mt": "プロセスとツールを通じた個人と相互作用",
+            "MQM_score": 0
+        },
+        {
+            "src": "Working software over comprehensive documentation",
+            "mt": "包括的なドキュメントよりも実用的なソフトウェア",
+            "MQM_score": 0
+        },
+        {
+            "src": "Customer collaboration over contract negotiation",
+            "mt": "契約交渉における顧客とのコラボレーション",
+            "MQM_score": 0
+        },
+        {
+            "src": "Responding to change over following a plan",
+            "mt": "計画変更への対応",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "計画変更への対応",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "DIB maxim",
+            "mt": "DIBの原理",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "原理",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "“Competence trumps process”",
+            "mt": "「能力がプロセスに勝る」",
+            "MQM_score": 0
+        },
+        {
+            "src": "“Minimize time from program launch to deployment of simplest useful functionality”",
+            "mt": "「プログラムの起動から最もシンプルで便利な機能の導入までの時間を最小限に抑える」",
+            "MQM_score": 0
+        },
+        {
+            "src": "“Adopt a DevSecOps culture for software systems”",
+            "mt": "「ソフトウェアシステムにDevSecOps文化を取り入れる」",
+            "MQM_score": 0
+        },
+        {
+            "src": "“Software programs should start small, be iterative, and build on success ‒ or be terminated quickly”",
+            "mt": "ソフトウェア・プログラムは小規模なものから開始し、反復して成功に基づいて構築するか、迅速に終了する必要があります。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 1,
+                    "text": "“",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 100,
+                    "end": 101,
+                    "text": "”",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 57,
+                    "text": "あります。",
+                    "type": 14,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Key flags that a project is not really agile:",
+            "mt": "プロジェクトが本当にアジャイルでないことを示す重要なフラグ:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Nobody on the software development team is talking with and observing the users of the software in action; we mean the actual users of the actual code.14 (The PEO does not count as an actual user, nor does the commanding officer, unless she uses the code.)",
+            "mt": "ソフトウェア開発チームの誰も、実際のコードの実際のユーザーを意味します14(PEOはコードを使用しない限り、実際のユーザーとしてカウントされず、司令官もカウントされません)。",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 40,
+                    "end": 106,
+                    "text": "is talking with and observing the users of the software in action;",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 107,
+                    "end": 150,
+                    "text": "we mean the actual users of the actual code",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 150,
+                    "end": 151,
+                    "text": ".",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 35,
+                    "text": "実際のコードの実際のユーザーを意味します",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Continuous feedback from users to the development team (bug reports, users assessments) is not available. Talking once at the beginning of a program to verify requirements doesn't count!",
+            "mt": "ユーザから開発チームへの継続的なフィードバック(バグレポート、ユーザ評価)は利用できません。プログラムの最初に一度だけ話して、要件を検証することは意味がありません!",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "ユーザ",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 34,
+                    "text": "ユーザ",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 68,
+                    "text": "検証",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 82,
+                    "text": "!",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Meeting requirements is treated as more important than getting something useful into the field as quickly as possible.",
+            "mt": "要件を満たすことは、何か有用なものをできるだけ早く現場に持ち込むことよりも重要であると扱われる。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 43,
+                    "text": "と",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 47,
+                    "text": "れる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Stakeholders (dev, test, ops, security, contracting, contractors, end-users, etc.)15 are acting more-or-less autonomously (e.g., ‘it's not my job.')",
+            "mt": "利害関係者(開発、テスト、運用、セキュリティ、契約、請負業者、エンドユーザーなど)15人が多かれ少なかれ自律的に行動している(例:「私の仕事ではない」)。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 62,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "End users of the software are missing-in-action throughout development; at a minimum they should be present during Release Planning and User Acceptance Testing.",
+            "mt": "ソフトウェアのエンドユーザは、開発を通じてアクションが欠落しています。少なくとも、リリース計画とユーザ受け入れテストの際には存在する必要があります。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "エンドユーザ",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 21,
+                    "text": "通じて",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 34,
+                    "text": "アクションが欠落しています",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 51,
+                    "text": "ユーザ",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 66,
+                    "text": "存在する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "14 Acceptable substitutes for talking to users: Observing users working, putting prototypes in front of them for feedback, and other aspects of user research that involve less talking.",
+            "mt": "14ユーザーと話をする代わりに受け入れられるもの:ユーザー:ユーザーが作業している様子を観察し、フィードバックのためにプロトタイプをユーザーの前に置き、少ないユーザー調査の他の側面。",
+            "MQM_score": 31,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 123,
+                    "end": 126,
+                    "text": "and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 2,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 24,
+                    "text": "もの",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 30,
+                    "text": "ユーザー:",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 47,
+                    "text": "観察し",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 75,
+                    "text": "置き",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 79,
+                    "text": "少ない",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "15 Dev is short for development, ops is short for operations",
+            "mt": "15開発は開発、運用は運用の略",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 10,
+                    "end": 15,
+                    "text": "short",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 2,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "開発",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 7,
+                    "text": "開発",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "運用",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 13,
+                    "text": "運用",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "DevSecOps culture is lacking if manual processes are tolerated when such processes can and should be automated (e.g., automated testing, continuous integration, continuous delivery).",
+            "mt": "DevSecOpsの培養は,手作業によるプロセスが自動化でき,かつ自動化すべき場合(例,自動検査,継続的インテグレーション,継続的デリバリ)には,そのようなプロセスが許容されるのであれば,欠如している。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "培養",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 14,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 31,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 44,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 49,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 62,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 73,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 94,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 100,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Some current, common tools in use by teams using agile development (these will change as better tools become available):16",
+            "mt": "アジャイル開発を使用するチームが使用している,現在の一般的なツールの一部(より良いツールが利用可能になるにつれて変化する):16",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 4,
+                    "text": "Some",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 5,
+                    "end": 12,
+                    "text": "current",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 68,
+                    "end": 78,
+                    "text": "these will",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 23,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 36,
+                    "text": "の一部",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Git, ClearCase, or Subversion - version control system for tracking changes to source code. Git is the de facto open source standard for modern software development.",
+            "mt": "Git、ClearCase、またはSubversion-ソースコードの変更を追跡するためのバージョン管理システム。Gitは、現代のソフトウェア開発における事実上のオープンソース標準です。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 103,
+                    "end": 111,
+                    "text": "de facto",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 77,
+                    "end": 81,
+                    "text": "事実上の",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 88,
+                    "end": 90,
+                    "text": "標準",
+                    "type": 13,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "BitBucket or GitHub - Repository hosting sites. Also provide issues tracking, continuous integration “apps” and other productivity tools. Widely used by the open source community.",
+            "mt": "BitBucketまたはGitHub-リポジトリホスティングサイト。また、問題追跡、継続的統合「アプリケーション」、およびその他の生産性ツールも提供します。オープンソースコミュニティで広く使用されています。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 47,
+                    "text": "継続的統合",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 56,
+                    "text": "アプリケーション",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Jenkins, Circle CI or Travis CI - continuous integration service used to build and test BitBucket and GitHub software projects",
+            "mt": "Jenkins,Circle CI,Travis CI-BitBucketとGitHubのソフトウェアプロジェクトのビルドとテストに使われる継続的インテグレーションサービス",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 18,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Chef, Ansible, or Puppet - software for writing system configuration “recipes” and streamlining the task of configuring and maintaining a collection of servers",
+            "mt": "Chef、Ansible、またはPuppet-システム構成の「レシピ」を作成し、サーバの集合の設定と維持のタスクを合理化するソフトウェア",
+            "MQM_score": 0
+        },
+        {
+            "src": "Docker - computer program that performs operating-system-level virtualization, also known as “containerization”",
+            "mt": "Docker-オペレーティングシステムレベルの仮想化を実行するコンピュータプログラムで、「コンテナ化」とも呼ばれる。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 57,
+                    "text": "れる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 58,
+                    "text": "。",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Kubernetes or Docker Swarm for Container orchestration",
+            "mt": "コンテナオーケストレーションのためのKubernetesまたはDocker Swarm",
+            "MQM_score": 0
+        },
+        {
+            "src": "Jira or Pivotal Tracker - issues reporting, tracking, and management",
+            "mt": "JiraまたはPivotal Tracker:レポート作成、追跡、管理の問題",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 29,
+                    "text": "作成",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Graphical version:",
+            "mt": "グラフィカルバージョン:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Questions to Ask Programming Teams",
+            "mt": "プログラミングチームへの質問",
+            "MQM_score": 0
+        },
+        {
+            "src": "16 Tools listed/shown here are for illustration only: no endorsement implied.",
+            "mt": "16ここに記載/表示されているツールは単なる例示であり、推奨事項は含まれていません。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 2,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 41,
+                    "text": "は含まれていません",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "How do you test your code? (Wrong answers: “we have a testing organization,” “OT&E is responsible for testing”)",
+            "mt": "コードやってコードをテストするのか?(間違った答え:「テスト組織がある」、「テストはOT&Eが担当」)",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 3,
+                    "text": "How",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "コードやって",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "するのか",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 18,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Advanced version: what tool suite are you using for unit tests, regression testing, functional tests, security scans, and deployment certification?",
+            "mt": "上級バージョン:単体テスト、リグレッションテスト、機能テスト、セキュリティスキャン、および導入認定に使用しているツールスイートはどれですか?",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 18,
+                    "end": 22,
+                    "text": "what",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 69,
+                    "text": "どれですか",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 70,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "How automated are your development, testing, security, and deployment pipelines?",
+            "mt": "開発、テスト、セキュリティ、および導入パイプラインはどのように自動化されていますか。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Advanced version: what tool suite are you using for continuous integration (CI), continuous deployment (CD), regression testing, program documentation; is your infrastructure defined by code?",
+            "mt": "拡張バージョン:継続的インテグレーション(CI)、継続的デプロイメント(CD)、リグレッションテスト、プログラムドキュメントにどのツールスイートを使用していますか?インフラストラクチャはコードで定義されていますか?",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "拡張バージョン",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 35,
+                    "text": "デプロイメント",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 82,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 106,
+                    "end": 107,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Who are your users and how are you interacting with them?",
+            "mt": "ユーザーは誰ですか?また、ユーザーとどのようにやり取りしていますか?",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 10,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 34,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Advanced version: what mechanisms are you using to get direct feedback from your users? What tool suite are you using for issue reporting and tracking? How do you allocate issues to programming teams? How to you inform users that their issues are being addressed and/or have been resolved?",
+            "mt": "拡張バージョン:ユーザーから直接フィードバックを得るためにどのようなメカニズムを使用していますか?問題のレポートと追跡にどのようなツール・スイートを使用していますか?プログラミング・チームに問題をどのように割り当てていますか?ユーザーに問題が解決されていることをどのように通知していますか?",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 243,
+                    "end": 269,
+                    "text": "are being addressed and/or",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "拡張バージョン",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 49,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 73,
+                    "text": "ツール・スイート",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 83,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 94,
+                    "text": "プログラミング・チーム",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 113,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 145,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What is your (current and future) cycle time for releases to your users?",
+            "mt": "ユーザーに対するリリースの(現在および将来の)サイクル・タイムはどのくらいですか。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Advanced version: what software platforms to you support? Are you using containers? What configuration management tools do you use?",
+            "mt": "拡張バージョン:サポートするソフトウェア・プラットフォームコンテナを使用していますか?使用している構成管理ツールは何ですか?",
+            "MQM_score": 22.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 18,
+                    "end": 22,
+                    "text": "what",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "拡張バージョン",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 29,
+                    "text": "ソフトウェア・プラットフォーム",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 33,
+                    "text": "コンテナ",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 42,
+                    "text": "を使用していますか",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 43,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 58,
+                    "text": "何",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Questions for Program Management",
+            "mt": "プログラム管理に関する質問",
+            "MQM_score": 0
+        },
+        {
+            "src": "How many programmers are part of the organizations that owns the budget and milestones for the program? (Wrong answers: “we don't know,” “zero,” “it depends on how you define a programmer”)",
+            "mt": "プログラムの予算とマイルストーンを所有する組織には、何人のプログラマが含まれていますか?(間違った答え:「分からない」、「0」、「プログラマの定義に依存する」)",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 39,
+                    "text": "含まれて",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 44,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 62,
+                    "text": "0",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 73,
+                    "text": "の定義",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "What are your management metrics for development and operations; how are they used to inform priorities, detect problems; how often are they accessed and used by leadership?",
+            "mt": "開発と運用に関する管理指標はどのようなものですか。優先順位の通知や問題の検出にどのように使用されていますか。また、リーダーシップによってどの程度の頻度でアクセスされ、使用されていますか。",
+            "MQM_score": 0
+        },
+        {
+            "src": "What have you learned in your past three sprint cycles and what did you do about it? (Wrong answers: “what's a sprint cycle?,” “we are waiting to get approval from management”)",
+            "mt": "過去3回のスプリントサイクルで何を学び、何をしましたか?(間違った答え:「スプリントサイクルとは何ですか?」、「経営陣の承認を待っています」)",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 75,
+                    "end": 83,
+                    "text": "about it",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 53,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Who are the users that you deliver value to each sprint cycle? Can we talk to them? (Wrong answers: “we don't directly deploy our code to users”)",
+            "mt": "各スプリントサイクルに価値を提供するユーザーは誰ですか?彼らと話ができますか?(間違った答え:\"コードをユーザーに直接配布しない\")",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 39,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Questions for Customers and Users",
+            "mt": "お客様とユーザーへの質問",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "お客様",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "How do you communicate with the developers? Did they observe your relevant teams working and ask questions that indicated a deep understanding of your needs? When is the last time they sat with you and talked about features you would like to see implemented?",
+            "mt": "開発者とはどのようにコミュニケーションを取っていますか?彼らはあなたの関連するチームが作業しているのを見て、あなたのニーズを深く理解していることを示す質問をしましたか?彼らが最後にあなたと話し合い、あなたが実装したい機能について話したのはいつですか?",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 185,
+                    "end": 197,
+                    "text": "sat with you",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 28,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 84,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 108,
+                    "text": "したい",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 125,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "How do you send in suggestions for new features or report issues or bugs in the code? What type of feedback do you get to your requests/reports? Are you ever asked to try prototypes of new software features and observed using them?",
+            "mt": "新しい機能の提案や、コードの問題やバグを報告するにはどうすればよいでしょうか?要求や報告に対してどのようなフィードバックが得られますか?新しいソフトウェア機能のプロトタイプを試してみて、それを使って観察したことがありますか?",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 158,
+                    "end": 166,
+                    "text": "asked to",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 39,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 68,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What is the time it takes for a requested feature to show up in the application?",
+            "mt": "要求された機能がアプリケーションに表示されるまでにかかる時間はどのくらいですか。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Questions for Program Leadership",
+            "mt": "プログラムのリーダーシップに関する質問",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 17,
+                    "text": "プログラムのリーダーシップに関する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Are teams delivering working software to at least some subset of real users every iteration (including the first) and gathering feedback? (alt: every two weeks)",
+            "mt": "チームは,少なくとも一部の実ユーザに対して,イテレーション毎(最初のものも含む)に作業用ソフトウェアを提供し,フィードバックを集めているのだろうか?(alt:2週間毎)",
+            "MQM_score": 20,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 5,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 17,
+                    "text": "ユーザ",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 22,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 37,
+                    "text": "最初のものも",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 44,
+                    "text": "作業用",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 55,
+                    "text": ",",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 73,
+                    "text": "いるのだろうか",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 74,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Is there a product charter that lays out the mission and strategic goals? Do all members of the team understand both, and are they able to see how their work contributes to both?",
+            "mt": "ミッションと戦略目標を定めた製品憲章があるか?チームの全員が両方を理解しており、自分たちの仕事がどのように両方に貢献しているかを見ることができるか?",
+            "MQM_score": 14,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "定めた",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 22,
+                    "text": "あるか",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 23,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 66,
+                    "text": "見る",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 73,
+                    "text": "できるか",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 74,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Is feedback from users turned into concrete work items for sprint teams on timelines shorter than one month?",
+            "mt": "ユーザーからのフィードバックは、スプリントチームの具体的な作業項目に1ヶ月未満のタイムラインで反映されていますか?",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 57,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Are teams empowered to change the requirements based on user feedback?",
+            "mt": "チームはユーザーフィードバックに基づいて要件を変更する権限を与えられているか?",
+            "MQM_score": 2.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 4,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 38,
+                    "text": "いるか",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 39,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Are teams empowered to change their process based on what they learn?",
+            "mt": "チームは学んだことに基づいてプロセスを変える権限を与えられているのか?",
+            "MQM_score": 2.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 4,
+                    "text": "",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 34,
+                    "text": "いるのか",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 35,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Is the full ecosystem of your project agile? (Agile programming teams followed by linear, bureaucratic deployment is a failure.)",
+            "mt": "あなたのプロジェクトの完全なエコシステムはアジャイルなのでしょうか?(アジャイルプログラミングチームの後に、直線的で官僚的なデプロイメントが続くのは失敗です。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 127,
+                    "end": 128,
+                    "text": ")",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "完全な",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 34,
+                    "text": "?",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 69,
+                    "text": "デプロイメント",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "For a team working on agile, the answer to all of these questions should be “yes.”",
+            "mt": "アジャイルに取り組むチームにとって、これらの質問に対する答えはすべて「イエス」であるべきです。",
+            "MQM_score": 0
+        },
+        {
+            "src": "Graphical version:",
+            "mt": "グラフィカルバージョン:",
+            "MQM_score": 0
+        },
+        {
+            "src": "More information on some of the features of DoD software programs are included in the DIB's “Ten Commandments of Software,” the DIB's “Metrics for Software Development,” and the DIB's “Do's and Don'ts of Software.”",
+            "mt": "DoDソフトウェアプログラムのいくつかの機能については、DIBの「Ten Commandments of Software」、DIBの「Metrics for Software Development」、およびDIBの「Do's and Don'ts of Software」を参照してください。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 16,
+                    "text": "More information",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 61,
+                    "text": "Ten Commandments of Software",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 100,
+                    "text": "Metrics for Software Development",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 110,
+                    "end": 137,
+                    "text": "Do's and Don'ts of Software",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 147,
+                    "text": "を参照してください",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

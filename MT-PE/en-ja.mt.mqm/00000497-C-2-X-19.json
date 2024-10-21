@@ -1,0 +1,1156 @@
+{
+    "497.json": [
+        {
+            "src": "Equipment Authorization – RF Device",
+            "mt": "機器の許可:RFデバイス",
+            "MQM_score": 1.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "機器の許可",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 6,
+                    "text": ":",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "What is an RF Device?",
+            "mt": "RFデバイスとは?",
+            "MQM_score": 0
+        },
+        {
+            "src": "The FCC regulates radio frequency (RF) devices contained in electronic-electrical products that are capable of emitting radio frequency energy by radiation, conduction, or other means. These products have the potential to cause interference to radio services operating in the radio frequency range of 9 kHz to 3000 GHz.",
+            "mt": "FCCは、電子電気製品に含まれる無線周波数(RF)デバイスのうち、放射、伝導、またはその他の手段によって無線周波数エネルギーを放出できるものを規制しています。これらの製品は、9kHz～3000GHzの無線周波数範囲で動作する無線サービスに干渉を与える可能性があります。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 70,
+                    "text": "電子電気製品に含まれる無線周波数(RF)デバイスのうち、放射、伝導、またはその他の手段によって無線周波数エネルギーを放出できるもの",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 125,
+                    "text": "与える",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Almost all electronic-electrical products (devices) are capable of emitting radio frequency energy. Most, but not all, of these products must be tested to demonstrate compliance to the FCC rules for each type of electrical function that is contained in the product. As a general rule, products that, by design, contain circuitry that operates in the radio frequency spectrum need to demonstrate compliance using the applicable FCC equipment authorization procedure (i.e., Supplier's Declaration of Conformity (SDoC) or Certification) as specified in the FCC rules depending on the type of device. A product may contain one device or multiple devices with the possibility that one or both of the equipment authorization procedures apply. An RF device must be approved using the appropriate equipment authorization procedure before it can be marketed, imported, or used in the United States.",
+            "mt": "ほとんどすべての電子電気製品(デバイス)は、高周波エネルギーを放出することができます。これらの製品のほとんど(ただし、すべてではありません)は、製品に含まれる電気機能の各タイプについてFCC規則への適合性を実証するためにテストする必要があります。一般的に、設計上、高周波スペクトルで動作する回路を含む製品は、デバイスのタイプに応じてFCC規則で規定されている該当するFCC装置認定手順(すなわち、サプライヤの適合宣言(SDoC)または認定)を使用して適合性を実証する必要があります。製品には、装置認定手順の1つまたは両方が適用される可能性のある1つまたは複数の装置が含まれる場合があります。RF装置は、米国で販売、輸入、または使用する前に、適切な装置認定手順を使用して承認される必要があります。",
+            "MQM_score": 50,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 25,
+                    "text": "高周波",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 135,
+                    "text": "高周波",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 186,
+                    "end": 188,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 188,
+                    "end": 190,
+                    "text": "認定",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 246,
+                    "end": 248,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 248,
+                    "end": 250,
+                    "text": "認定",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 280,
+                    "end": 282,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 297,
+                    "end": 299,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 323,
+                    "end": 325,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 325,
+                    "end": 327,
+                    "text": "認定",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The following discussions and descriptions are provided to help identify whether a product is regulated by the FCC and whether it requires approval. The more difficult issue, but not covered in this document, is how to categorize an individual RF device (or multiple components or devices within an end product) to determine the specific FCC rule part(s) that apply, and the specific equipment authorization procedure or procedures that need to be used for FCC compliance purposes. This determination requires technical understanding of the product, as well as knowledge of the FCC rules.",
+            "mt": "製品がFCCによって規制されているかどうか、および承認が必要かどうかを特定するために、以下の説明と説明が提供されています。このドキュメントでは取り上げていませんが、より難しい問題は、個々のRFデバイス(または最終製品内の複数のコンポーネントまたはデバイス)を分類して、適用される特定のFCCルールの部分、およびFCC準拠の目的で使用する必要がある特定の機器認可手順を決定する方法です。この決定には、製品の技術的な理解とFCCルールの知識が必要です。",
+            "MQM_score": 30,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 39,
+                    "text": "特定する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 42,
+                    "text": "ために",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 145,
+                    "end": 148,
+                    "text": "ルール",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 158,
+                    "end": 160,
+                    "text": "準拠",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 178,
+                    "end": 180,
+                    "text": "認可",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 212,
+                    "end": 215,
+                    "text": "ルール",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Some basic guidance on how to obtain an equipment authorization is provided at the Equipment Authorization Page.",
+            "mt": "設備認定の取得方法に関する基本的なガイダンスは、設備認定ページで提供されています。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "設備認定",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 28,
+                    "text": "設備認定",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Radio Frequency Devices are grouped under the Following Categories:",
+            "mt": "無線周波数デバイスは、次のカテゴリに分類されます。",
+            "MQM_score": 0
+        },
+        {
+            "src": "INCIDENTAL RADIATORS (Part 15, Subpart A)",
+            "mt": "付随的ラジエーター(パート15、サブパートA)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "付随的ラジエーター",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "An incidental radiator (defined in Section 15.3 (n)) is an electrical device that is not designed to intentionally use, intentionally generate or intentionally emit radio frequency energy over 9 kHz. However, an incidental radiator may produce byproducts of radio emissions above 9 kHz and cause radio interference. A product that is classified as an incidental radiator device is not required to obtain an equipment authorization. Nonetheless, incidental radiator are regulated under the general operating conditions of Section 15.5 and if there is harmful interference the user must stop operation and remedy the interference. Manufacturers and importers should use good engineering judgment before they market and sell these products, to minimize possible interference (Section 15.13).",
+            "mt": "偶発的なラジエーター(S15.3(n)に定義)とは、9kHzを超える無線周波数エネルギーを意図的に使用、意図的に生成または意図的に放出するように設計されていない電気装置を指す。ただし、偶発的なラジエーターは、9kHzを超える無線エミッションの副産物を生成し、無線干渉を引き起こす可能性がある。偶発的なラジエーター装置として分類される製品は、装置認可を取得する必要はない。ただし、偶発的なラジエーターは、S15.5の一般的な運転条件の下で規制されており、有害な干渉がある場合には、ユーザーは運転を停止し、干渉を是正しなければならない。メーカーおよび輸入業者は、起こりうる干渉を最小限に抑えるために、これらの製品を市場に出して販売する前に適切な工学的判断を用いるべきものとする(S15.13)。",
+            "MQM_score": 35,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "偶発的なラジエーター",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "S",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 84,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 84,
+                    "end": 87,
+                    "text": "を指す",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 92,
+                    "end": 102,
+                    "text": "偶発的なラジエーター",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 143,
+                    "end": 145,
+                    "text": "ある",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 156,
+                    "text": "偶発的なラジエーター",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 156,
+                    "end": 158,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 170,
+                    "end": 174,
+                    "text": "装置認可",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 182,
+                    "end": 184,
+                    "text": "ない",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 199,
+                    "text": "偶発的なラジエーター",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 201,
+                    "end": 202,
+                    "text": "S",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 261,
+                    "end": 265,
+                    "text": "ならない",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 329,
+                    "end": 336,
+                    "text": "べきものとする",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 337,
+                    "end": 338,
+                    "text": "S",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Examples of products that are classified as incidental radiators include: AC and DC motors, mechanical light switches, basic electrical power tools (that do not contain digital logic).",
+            "mt": "付帯装置として分類される製品の例としては、ACおよびDCモーター、機械式ライトスイッチ、基本的な電力ツール(デジタルロジックを含まない)などがあります。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "付帯装置",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 53,
+                    "text": "電力ツール",
+                    "type": 1,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "UNINTENTIONAL RADIATORS (Part 15, Subparts B and G)",
+            "mt": "非意図的放射(第十五部B及びG)",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 34,
+                    "end": 42,
+                    "text": "Subparts",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 6,
+                    "text": "放射",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "第十五部",
+                    "type": 11,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 14,
+                    "text": "及び",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "An unintentional radiator (defined in Section 15.3 (z)) is a device that by design uses digital logic, or electrical signals operating at radio frequencies for use within the product, or sends radio frequency signals by conduction to associated equipment via connecting wiring, but is not intended to emit RF energy wirelessly by radiation or induction.",
+            "mt": "非意図的放射器(S15.3(z)に定義)とは、設計上、デジタルロジック、または製品内で使用するために無線周波数で動作する電気信号を使用するか、または接続配線を介して関連機器に伝導により無線周波数信号を送るが、放射または誘導により無線でRFエネルギーを放出することを意図していない装置を指す。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 9,
+                    "text": "S",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 141,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 144,
+                    "text": "を指す",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Today the majority of electronic-electrical products use digital logic, operating between 9 kHz to 3000 GHz and are regulated under 47 CFR Part 15 Subpart B.",
+            "mt": "今日、大多数の電子電気製品は、9kHzから3000GHzの間で動作するデジタルロジックを使用し、47CFR Part15Subpart Bの下で規制されている。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 47,
+                    "text": "9kHzから3000GHzの間で動作するデジタルロジックを使用し",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 58,
+                    "text": "Part",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 67,
+                    "text": "Subpart",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Examples include: coffee pots, wrist watches, cash registers, personal computers, printers, telephones, garage door receivers, wireless temperature probe receiver, RF universal remote control and thousands of other types of common electronic-electrical equipment that rely on digital technology. This also includes many traditional products that were once classified as incidental radiators – like motors and basic electrical power tools that now use digital logic.",
+            "mt": "例としては、コーヒーポット、腕時計、レジ、パーソナルコンピュータ、プリンタ、電話、ガレージドア受信機、無線温度プローブ受信機、RFユニバーサルリモコン、およびデジタル技術に依存する数千の他のタイプの一般的な電子電気機器が挙げられる。これには、かつては付随的なラジエーターのようなモーターに分類されていた多くの伝統的製品と、現在ではデジタル論理を使用する基本的な電気パワーツールも含まれる。",
+            "MQM_score": 27,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 393,
+                    "end": 397,
+                    "text": "like",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 110,
+                    "end": 115,
+                    "text": "挙げられる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 143,
+                    "text": "のようなモーター",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 159,
+                    "end": 160,
+                    "text": "と",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 165,
+                    "end": 171,
+                    "text": "デジタル論理",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 180,
+                    "end": 188,
+                    "text": "電気パワーツール",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 193,
+                    "text": "含まれる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Products that only contain digital logic may also be specifically exempted from an equipment authorization under Section 15.103.",
+            "mt": "デジタルロジックのみを含む製品についても、S15.103に基づく機器認可を特に免除することができる。",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 22,
+                    "text": "S",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 36,
+                    "text": "認可",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 48,
+                    "text": "ことができ",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 49,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "INTENTIONAL RADIATORS (Part 15, Subparts C through F and H)",
+            "mt": "意図的放射体(第十五部CからFまで及びH)",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 32,
+                    "end": 40,
+                    "text": "Subparts",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 6,
+                    "text": "放射体",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 11,
+                    "text": "第十五部",
+                    "type": 11,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 19,
+                    "text": "及び",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "An intentional radiator (defined in Section 15.3 (o)) is a device that intentionally generates and emits radio frequency energy by radiation or induction that may be operated without an individual license.",
+            "mt": "意図的放射体(S15.3(o)に定義)とは、放射線または誘導により意図的に高周波エネルギーを発生および放出する装置であり、個別のライセンスなしに運転することができる。",
+            "MQM_score": 27,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 54,
+                    "end": 65,
+                    "text": "is a device",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 6,
+                    "text": "放射体",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 8,
+                    "text": "S",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 25,
+                    "text": "放射線",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 40,
+                    "text": "高周波",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 57,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 69,
+                    "text": "ライセンス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Examples include: wireless garage door openers, wireless microphones, RF universal remote control devices, cordless telephones, wireless alarm systems, Wi-Fi transmitters, and Bluetooth radio devices.",
+            "mt": "例としては、ワイヤレスガレージ扉開閉装置、ワイヤレスマイクロホン、RFユニバーサル遠隔制御装置、コードレス電話、ワイヤレス警報システム、Wi-Fi送信機、およびBluetooth無線装置が挙げられる。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 11,
+                    "text": "ワイヤレス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 26,
+                    "text": "ワイヤレス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 45,
+                    "text": "遠隔制御",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 47,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 61,
+                    "text": "ワイヤレス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 93,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 99,
+                    "text": "挙げられる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "INDUSTRIAL, SCIENTIFIC, AND MEDICAL EQUIPMENT (Part 18)",
+            "mt": "工業用、科学用及び医療用機器(第十八部)",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "及び",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 19,
+                    "text": "第十八部",
+                    "type": 11,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "When electronic-electrical products are used for providing RF energy for other than telecommunications applications, such as for the production of physical, biological, or chemical effects, such as heating, ionization of gases, mechanical vibrations, and acceleration of charged particles, these devices fall under the FCC rules 47 CFR Part 18.",
+            "mt": "電子電気製品が、加熱、ガスのイオン化、機械的振動及び荷電粒子の加速のような物理的、生物学的又は化学的効果の生成のような電気通信用途以外のRFエネルギーを提供するために使用される場合、これらの装置はFCC規則47CFR Part18に該当する。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 47,
+                    "text": "又は",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 68,
+                    "text": "の",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 97,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 109,
+                    "end": 113,
+                    "text": "Part",
+                    "type": 11,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 118,
+                    "end": 120,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Examples include: fluorescent lighting, halogen ballasts, arc welders, microwave ovens, and medical diathermy machines.",
+            "mt": "例としては、蛍光灯照明、ハロゲン安定器、アーク溶接機、電子レンジ、医療用ジアテルミー機器などがあります。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 11,
+                    "text": "蛍光灯照明",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 51,
+                    "text": "などがあります",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Note:",
+            "mt": "注:",
+            "MQM_score": 0
+        },
+        {
+            "src": "A general consumer medical device does not typically come under this classification; rather Part 18 applies for medical equipment only when it is designed to generate and use RF energy locally for medical or therapeutic purposes.",
+            "mt": "一般消費者用医療機器は、通常、この分類には該当せず、むしろ、第18部は、医療又は治療目的のために局所的にRFエネルギーを生成し使用するように設計されている場合にのみ医療機器に適用される。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "機器",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 34,
+                    "text": "第18部",
+                    "type": 11,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 40,
+                    "text": "又は",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 92,
+                    "text": "る",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "EQUIPMENT OPERATING IN LICENSED RADIO SERVICES",
+            "mt": "免許を受けた無線サービスにおいて運用する機器",
+            "MQM_score": 0
+        },
+        {
+            "src": "Products that use licensed radio spectrum, from fixed microwave links to cellular telephones to mobile broadband services, are considered RF devices and are subject to equipment authorization.",
+            "mt": "固定マイクロ波回線から携帯電話、モバイルブロードバンドサービスまで、ライセンスされた無線スペクトルを使用する製品は、RFデバイスと見なされ、機器認可の対象となります。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 9,
+                    "text": "回線",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 42,
+                    "text": "ライセンスされた",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 74,
+                    "text": "認可",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Examples of licensed radio equipment subject to Certification include: low power TV transmitters, cell phones/smart phones, base stations, licensed point-to-point microwave radios, private land mobile transmitters, aviation and marine radios.",
+            "mt": "認定の対象となる免許を受けた無線設備の例には、低電力TV送信機、携帯電話/スマートフォン、基地局、免許を受けたポイントツーポイントマイクロ波無線、民間陸上移動送信機、航空無線及び海上無線が含まれる。",
+            "MQM_score": 22,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "設備",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 22,
+                    "text": "例には",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 72,
+                    "text": "無線",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 87,
+                    "text": "無線",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 93,
+                    "text": "無線",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 98,
+                    "text": "含まれる",
+                    "type": 12,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "For more information on licensed radio services:",
+            "mt": "ライセンス無線サービスの詳細については、次のURLを参照してください。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "ライセンス",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 25,
+                    "text": "次のURL",
+                    "type": 4,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "List of Wireless Services",
+            "mt": "ワイヤレスサービスの一覧",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "ワイヤレスサービス",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Wireless Telecommunications Bureau",
+            "mt": "無線通信局",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "無線通信局",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Public Safety and Homeland Security Bureau",
+            "mt": "公安・国土安全保障局",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "公安・国土安全保障局",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "International Bureau",
+            "mt": "国際事務局",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "国際事務局",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Radio spectrum allocation, regulatory responsibility for the radio spectrum is divided between the Federal Communications Commission (FCC) (non-Government uses) and the National Telecommunications and Information Administration (NTIA) (Government agencies usage). At present only frequency bands between 9 kHz and 275 GHz have been allocated (i.e., designated for use by one or more terrestrial or space radiocommunication services, or for the radio astronomy service under specified conditions). OET maintains the FCC's Table of Frequency Allocations, which is a compilation of allocations. The FCC's Table of Frequency Allocations is codified at Section 2.106 of the Commission's Rules. For a more detailed description go to the Table of Frequency Allocations Chart.",
+            "mt": "無線スペクトルの割り当て、無線スペクトルに関する規制上の責任は、Federal Communications Commission(FCC;連邦通信委員会)(政府以外の使用)とNational Telecommunications and Information Administration(NTIA;国家電波天文学情報局)(政府機関が使用)に分割されています。現在、割り当てられているのは9kHzから275GHzまでの周波数帯域のみです(つまり、1つ以上の地上または宇宙無線通信サービスによる使用、または指定された条件下での電気通信サービスのために指定されています)。OETは、割り当てをまとめたFCCの周波数割り当て表を維持しています。FCCの周波数割り当て表は、委員会規則のセクション2.106に成文化されています。詳細については、周波数割り当て表のチャートを参照してください。",
+            "MQM_score": 17,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 77,
+                    "text": ";連邦通信委員会",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 151,
+                    "end": 162,
+                    "text": ";国家電波天文学情報局",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 254,
+                    "end": 259,
+                    "text": "指定された",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 264,
+                    "end": 268,
+                    "text": "電気通信",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 313,
+                    "end": 315,
+                    "text": "維持",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Bureau/Office:",
+            "mt": "局/事務所:",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 5,
+                    "text": "事務所",
+                    "type": 1,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Engineering & Technology",
+            "mt": "エンジニアリング&テクノロジー",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "エンジニアリング&テクノロジー",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Tags:",
+            "mt": "タグ:",
+            "MQM_score": 0
+        },
+        {
+            "src": "Devices - Devices, Engineering & Technology",
+            "mt": "デバイス-デバイス、エンジニアリングおよびテクノロジー",
+            "MQM_score": 0
+        }
+    ]
+}

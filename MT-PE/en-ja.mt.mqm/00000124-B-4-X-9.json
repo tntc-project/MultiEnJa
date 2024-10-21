@@ -1,0 +1,1462 @@
+{
+    "124.json": [
+        {
+            "src": "Overview of Device Regulation",
+            "mt": "デバイス規制の概要",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "デバイス",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Introduction",
+            "mt": "はじめに",
+            "MQM_score": 0
+        },
+        {
+            "src": "FDA's Center for Devices and Radiological Health (CDRH) is responsible for regulating firms who manufacture, repackage, relabel, and/or import medical devices sold in the United States. In addition, CDRH regulates radiation-emitting electronic products (medical and non-medical) such as lasers, x-ray systems, ultrasound equipment, microwave ovens and color televisions.",
+            "mt": "FDAの医療機器・放射線保健センター(CDRH:Center for Devices and Radiological Health)は、米国で販売される医療機器の製造、再包装、再ラベル付け、輸入を行う企業を規制する責任を負っています。また、CDRHは、レーザー、X線システム、超音波機器、電子レンジ、カラーテレビなどの放射線を放出する電子製品(医療用および非医療用)を規制します。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 129,
+                    "end": 135,
+                    "text": "and/or",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 66,
+                    "text": ":Center for Devices and Radiological Health",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 95,
+                    "text": "ラベル付け",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 142,
+                    "end": 144,
+                    "text": "機器",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Radiation-emitting Electronic Products",
+            "mt": "放射線を放出する電子製品",
+            "MQM_score": 0
+        },
+        {
+            "src": "Medical devices are classified into Class I, II, and III. Regulatory control increases from Class I to Class III. The device classification regulation defines the regulatory requirements for a general device type. Most Class I devices are exempt from Premarket Notification 510(k); most Class II devices require Premarket Notification 510(k); and most Class III devices require Premarket Approval. A description of device classification and a link to the Product Classification Database is available at \"Classification of Medical Devices.\"",
+            "mt": "医療機器はクラスI、IIおよびIIIに分類されます。規制管理はクラスIからクラスIIIに増加します。デバイス分類規則は、一般的なデバイス・タイプの規制要件を定義します。ほとんどのクラスIデバイスは市販前通知510(k)の対象外です。ほとんどのクラスIIデバイスには市販前通知510(k)が必要です。ほとんどのクラスIIIデバイスには市販前承認が必要です。デバイス分類の説明と製品分類データベースへのリンクは、「医療機器の分類」で参照できます。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 44,
+                    "text": "に",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 49,
+                    "text": "増加します",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 58,
+                    "text": "規則",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 64,
+                    "end": 72,
+                    "text": "デバイス・タイプ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 97,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 113,
+                    "end": 116,
+                    "text": "です。",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 130,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 149,
+                    "text": "です。",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 160,
+                    "end": 164,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The basic regulatory requirements that manufacturers of medical devices distributed in the U.S. must comply with are:",
+            "mt": "米国で流通する医療機器の製造業者が遵守しなければならない基本的な規制要件は以下の通りである。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 42,
+                    "end": 45,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Establishment registration,",
+            "mt": "設立登記",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "設立登記",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Medical Device Listing,",
+            "mt": "医療機器リスト",
+            "MQM_score": 0
+        },
+        {
+            "src": "Premarket Notification 510(k), unless exempt, or Premarket Approval (PMA),",
+            "mt": "免除されている場合を除き、市販前通知510(k)または市販前認可(PMA)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 24,
+                    "text": "免除されている場合を除き、市販前通知510(k)",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Investigational Device Exemption (IDE) for clinical studies",
+            "mt": "臨床試験のための治験装置免除(IDE)",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "試験",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Quality System (QS) regulation,",
+            "mt": "品質システム(QS)規則",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "規則",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Labeling requirements, and",
+            "mt": "ラベリング要件、および",
+            "MQM_score": 0
+        },
+        {
+            "src": "Medical Device Reporting (MDR)",
+            "mt": "医療機器レポート(MDR)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "医療機器レポート",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Establishment Registration - 21 CFR Part 807",
+            "mt": "設立登録-21CFR Part807",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "設立登録",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Manufacturers (both domestic and foreign) and initial distributors (importers) of medical devices must register their establishments with the FDA. All establishment registrations must be submitted electronically unless a waiver has been granted by FDA. All registration information must be verified annually between October 1st and December 31st of each year. In addition to registration, foreign manufacturers must also designate a U.S. Agent. Beginning October 1, 2007, most establishments are required to pay an establishment registration fee.",
+            "mt": "医療機器の製造業者(国内および外国)および初期販売業者(輸入業者)は、その施設をFDAに登録する必要があります。すべての施設登録は、FDAから権利放棄が承認されていない限り、電子的に提出する必要があります。すべての登録情報は、毎年10月1日から12月31日までの間に毎年確認する必要があります。外国製造業者は、登録に加えてU.S.エージェントも指定する必要があります。2007年10月1日以降、ほとんどの施設は施設登録料を支払う必要があります。",
+            "MQM_score": 28,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 17,
+                    "text": "外国",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 39,
+                    "text": "施設",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 62,
+                    "text": "施設",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 75,
+                    "text": "権利放棄",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 149,
+                    "text": "外国",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 171,
+                    "text": "U.S.エージェント",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 202,
+                    "end": 204,
+                    "text": "施設",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 205,
+                    "end": 207,
+                    "text": "施設",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Establishment Registration",
+            "mt": "設立の登記",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "設立の登記",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "U.S. Agents",
+            "mt": "米国エージェント",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "米国エージェント",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Medical Device Listing - 21CFR Part 807",
+            "mt": "医療機器リスト-21CFR Part807",
+            "MQM_score": 0
+        },
+        {
+            "src": "Manufacturers must list their devices with the FDA. Establishments required to list their devices include:",
+            "mt": "製造業者は、自らの機器をFDAに登録しなければならない。自らの機器を登録することが要求される施設には以下が含まれる:",
+            "MQM_score": 16,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 34,
+                    "end": 36,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 48,
+                    "text": "施設",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 57,
+                    "text": "含まれる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "manufacturers,",
+            "mt": "メーカー",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "メーカー",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "contract manufacturers that commercially distribute the device,",
+            "mt": "装置を商業的に販売する契約メーカー",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "メーカー",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "contract sterilizers that commercially distribute the device,",
+            "mt": "装置を商業的に流通させる契約滅菌器",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 12,
+                    "text": "流通させる",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 17,
+                    "text": "滅菌器",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "repackagers and relabelers,",
+            "mt": "リパッケージャやrelabelers",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "リパッケージャ",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 18,
+                    "text": "relabelers",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "specification developers,",
+            "mt": "仕様開発者",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "仕様開発者",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "reprocessors single-use devices,",
+            "mt": "使い捨てデバイスのリプロセッサー",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "使い捨てデバイス",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 16,
+                    "text": "リプロセッサー",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "remanufacturer",
+            "mt": "再製造者",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "再製造者",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "manufacturers of accessories and components sold directly to the end user",
+            "mt": "エンドユーザーに直接販売されるアクセサリーや部品のメーカー",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "エンドユーザー",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 29,
+                    "text": "メーカー",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "U.S. manufacturers of \"export only\" devices",
+            "mt": "「輸出専用」デバイスの米国メーカー",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 10,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "メーカー",
+                    "type": 2,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Medical Device Listing",
+            "mt": "医療機器リスト",
+            "MQM_score": 0
+        },
+        {
+            "src": "Premarket Notification 510(k) - 21 CFR Part 807 Subpart E",
+            "mt": "市販前通知510(k)-21CFRパート807サブパートE",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 20,
+                    "text": "パート",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 28,
+                    "text": "サブパート",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If your device requires the submission of a Premarket Notification 510(k), you cannot commercially distribute the device until you receive a letter of substantial equivalence from FDA authorizing you to do so. A 510(k) must demonstrate that the device is substantially equivalent to one legally in commercial distribution in the United States: (1) before May 28, 1976; or (2) to a device that has been determined by FDA to be substantially equivalent.",
+            "mt": "お客様のデバイスがPremarket Notification510(k)の提出を必要とする場合、FDAから実質的同等性の通知を受け取るまで、そのデバイスを商業的に配布することはできません。A510(k)は、(1)1976年5月28日より前に、または(2)FDAが実質的に同等であると判断したデバイスに対して、そのデバイスが米国内で合法的に商業的に配布されているものと実質的に同等であることを証明する必要があります。",
+            "MQM_score": 22,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 184,
+                    "end": 208,
+                    "text": "authorizing you to do so",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "お客様",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 8,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 31,
+                    "text": "Premarket Notification",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 73,
+                    "end": 77,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 86,
+                    "text": "配布する",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 95,
+                    "end": 96,
+                    "text": "A",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 150,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 161,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 174,
+                    "end": 176,
+                    "text": "配布",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Premarket Notification 510(k)",
+            "mt": "市販前通知510(k)",
+            "MQM_score": 0
+        },
+        {
+            "src": "On October 26, 2002 the Medical Device User Fee and Modernization Act of 2002 became law. It authorizes FDA to charge a fee for medical device Premarket Notifcation 510(k) reviews. A small business may pay a reduced fee. The application fee applies to Traditional, Abbreviated, and Special 510(k)s. The payment of a premarket review fee is not related in any way to FDA's final decision on a submission.",
+            "mt": "2002年10月26日、2002年医療機器使用料および近代化法が法律となりました。この法律は、FDAに医療機器の市販前届出510(k)審査の手数料を請求する権限を与えています。小規模企業は、減額された手数料を支払うことができます。申請手数料は、従来型、簡略型および特殊510(k)に適用されます。市販前審査手数料の支払いは、FDAの提出に関する最終決定には一切関係ありません。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 40,
+                    "text": "法律となりました",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 61,
+                    "text": "市販前届出",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 129,
+                    "text": "簡略型",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 134,
+                    "text": "特殊",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "510(k) Review Fees",
+            "mt": "510(k)審査手数料",
+            "MQM_score": 0
+        },
+        {
+            "src": "Most Class I devices and some Class II devices are exempt from the Premarket Notification 510(k) submission. A list of exempt devices is located at:",
+            "mt": "ほとんどのクラスIデバイスおよび一部のクラスIIデバイスは、Premarket Notification510(k)提出の対象外です。対象外デバイスのリストは、次の場所にあります。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 13,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 28,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 52,
+                    "text": "Premarket Notification",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 74,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "510(k) Exempt Devices",
+            "mt": "510(k)免除デバイス",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 12,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "If you plan to send a 510(k) application to FDA for a Class I or Class II device, you may find 510(k) review by an Accredited Persons beneficial. FDA accredited 12 organizations to conduct a primary review of 670 types of devices. By law, FDA must issue a final determination within 30 days after receiving a recommendation from an Accredited Person. Please note that 510(k) review by an Accredited Person is exempt from any FDA fee; however, the third-party may charge a fee for its review.",
+            "mt": "クラスIまたはクラスIIデバイスの510(k)アプリケーションをFDAに送信する予定がある場合、認定担当者による510(k)レビューが有益であることがわかります。670種類のデバイスの一次レビューを実施する12の組織がFDAにより認定されています。法律により、FDAは認定担当者からの推薦を受けてから30日以内に最終決定を発行する必要があります。認定担当者による510(k)レビューはFDAの手数料を免除されますが、第三者がレビューの手数料を請求する場合があります。",
+            "MQM_score": 42,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 351,
+                    "end": 367,
+                    "text": "Please note that",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 12,
+                    "end": 16,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 31,
+                    "text": "アプリケーション",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 40,
+                    "text": "送信する",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 53,
+                    "text": "認定担当者",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 66,
+                    "text": "レビュー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 91,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 94,
+                    "end": 98,
+                    "text": "レビュー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 134,
+                    "end": 139,
+                    "text": "認定担当者",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 161,
+                    "end": 165,
+                    "text": "発行する",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 178,
+                    "text": "認定担当者",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 187,
+                    "end": 191,
+                    "text": "レビュー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 212,
+                    "end": 216,
+                    "text": "レビュー",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 228,
+                    "end": 232,
+                    "text": "あります",
+                    "type": 9,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Third Party Review",
+            "mt": "第三者審査",
+            "MQM_score": 0
+        },
+        {
+            "src": "Premarket Approval (PMA) - 21 CFR Part 814",
+            "mt": "市販前承認(PMA)-21CFR Part814",
+            "MQM_score": 0
+        },
+        {
+            "src": "Product requiring PMAs are Class III devices are high risk devices that pose a significant risk of illness or injury, or devices found not substantially equivalent to Class I and II predicate through the 510(k) process. The PMA process is more involved and includes the submission of clinical data to support claims made for the device.",
+            "mt": "PMAを必要とする製品は、クラスIIIのデバイスであり、疾病や負傷の重大なリスクをもたらす高リスクのデバイス、または510(k)プロセスを通じてクラスIおよびIIの述語と実質的に同等でないことが判明したデバイスである。PMAプロセスはより複雑であり、デバイスに対して行われた主張を裏付ける臨床データの提出を含む。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 24,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 50,
+                    "end": 54,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 82,
+                    "end": 84,
+                    "text": "述語",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 105,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 105,
+                    "end": 108,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 125,
+                    "end": 129,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 153,
+                    "end": 155,
+                    "text": "含む",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Premarket Approval",
+            "mt": "市販前の承認",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "市販前の承認",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Beginning fiscal year 2003 (October 1, 2002 through September 30, 2003), medical device user fees apply to original PMAs and certain types of PMA supplements. Small businesses are eligible for reduced or waived fees.",
+            "mt": "2003年度(2002年10月1日から2003年9月30日まで)から、医療機器使用料は、元のPMAおよび一部の種類のPMAサプリメントに適用されます。小規模企業は、手数料の減額または免除を受けることができます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 61,
+                    "end": 67,
+                    "text": "サプリメント",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "PMA Review Fees",
+            "mt": "PMA審査手数料",
+            "MQM_score": 0
+        },
+        {
+            "src": "Investigational Device Exemption (IDE) - 21CFR Part 812",
+            "mt": "治験装置免除(IDE)-21CFRパート812",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 4,
+                    "text": "装置",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 20,
+                    "text": "パート",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "An investigational device exemption (IDE) allows the investigational device to be used in a clinical study in order to collect safety and effectiveness data required to support a Premarket Approval (PMA) application or a Premarket Notification 510(k) submission to FDA. Clinical studies with devices of significant risk must be approved by FDA and by an Institutional Review Board (IRB) before the study can begin. Studies with devices of nonsignificant risk must be approved by the IRB only before the study can begin.",
+            "mt": "Investigational Device Exemption(IDE)とは、Premarket Approval(PMA;市販前承認)申請またはPremarket Notification510(k)のFDAへの提出に必要な安全性および有効性データを収集するために、治験薬を臨床試験で使用できるようにすることです。重大なリスクを有する機器を用いた臨床試験は、試験開始前にFDAおよび治験審査委員会(IRB)の承認を受けなければなりません。重大でないリスクを有する機器を用いた試験は、試験開始前にのみIRBの承認を受けなければなりません。",
+            "MQM_score": 41,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 166,
+                    "end": 176,
+                    "text": "to support",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 262,
+                    "end": 268,
+                    "text": "to FDA",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 32,
+                    "text": "Investigational Device Exemption",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 58,
+                    "text": "Premarket Approval",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 68,
+                    "text": ";市販前承認",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 74,
+                    "end": 96,
+                    "text": "Premarket Notification",
+                    "type": 3,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 108,
+                    "text": "のFDAへの",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 137,
+                    "end": 138,
+                    "text": "薬",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 141,
+                    "end": 143,
+                    "text": "試験",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 177,
+                    "end": 179,
+                    "text": "試験",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 181,
+                    "end": 183,
+                    "text": "試験",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 239,
+                    "end": 241,
+                    "text": "試験",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 243,
+                    "end": 245,
+                    "text": "試験",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Investigational Device Exemption",
+            "mt": "治験装置の免除",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "治験装置の免除",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Quality System Regulation (QS regulation) - 21 CFR Part 820",
+            "mt": "品質システム規則(QS規則)-21CFRパート820",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "規則",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 13,
+                    "text": "規則",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 23,
+                    "text": "パート",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The quality system regulation includes requirements related to the methods used in and the facilities and controls used for: designing, purchasing, manufacturing, packaging, labeling, storing, installing and servicing of medical devices. Manufacturing facilities undergo FDA inspections to assure compliance with the QS requirements.",
+            "mt": "品質システム規則には、医療機器の設計、購入、製造、包装、表示、保管、設置及びサービスに使用される方法並びに施設及び管理に関連する要件が含まれる。製造施設は、QS要件への適合性を保証するためにFDA検査を受ける。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 6,
+                    "end": 8,
+                    "text": "規則",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 30,
+                    "text": "表示",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 36,
+                    "end": 38,
+                    "text": "及び",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 55,
+                    "end": 57,
+                    "text": "及び",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 67,
+                    "end": 71,
+                    "text": "含まれる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 101,
+                    "end": 104,
+                    "text": "受ける",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Quality System",
+            "mt": "品質システム",
+            "MQM_score": 0
+        },
+        {
+            "src": "Labeling - 21 CFR Part 801",
+            "mt": "ラベリング-21CFRパート801",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "パート",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Labeling includes labels on the device as well as descriptive and informational literature that accompanies the device.",
+            "mt": "ラベル付けには、デバイス上のラベルと、デバイスに付随する記述的および情報的な文献が含まれます。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "ラベル付け",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 12,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 23,
+                    "text": "デバイス",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 40,
+                    "text": "記述的および情報的な文献",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Labeling",
+            "mt": "ラベル付け",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "ラベル付け",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Medical Device Reporting - 21 CFR Part 803",
+            "mt": "医療機器報告-21CFR Part803",
+            "MQM_score": 0
+        },
+        {
+            "src": "Incidents in which a device may have caused or contributed to a death or serious injury must to be reported to FDA under the Medical Device Reporting program. In addition, certain malfunctions must also be reported. The MDR regulation is a mechanism for FDA and manufacturers to identify and monitor significant adverse events involving medical devices. The goals of the regulation are to detect and correct problems in a timely manner.",
+            "mt": "医療機器が死亡または重篤な傷害を引き起こした、またはその一因となった可能性のある事故は、医療機器報告プログラムに基づいてFDAに報告する必要があります。さらに、特定の不具合も報告する必要があります。多剤耐性規制は、医療機器に関連する重大な有害事象をFDAおよび製造業者が識別および監視するためのメカニズムです。規制の目的は、問題をタイムリーに検出して修正することです。",
+            "MQM_score": 21,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "医療",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 103,
+                    "text": "多剤耐性",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 137,
+                    "text": "識別",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 147,
+                    "end": 152,
+                    "text": "メカニズム",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 175,
+                    "end": 177,
+                    "text": "修正",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Medical Device Reporting",
+            "mt": "医療機器レポート",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 8,
+                    "text": "医療機器レポート",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Additional Information",
+            "mt": "その他の情報",
+            "MQM_score": 0
+        },
+        {
+            "src": "Code of Federal Regulations (CFR)",
+            "mt": "連邦規則集(CFR)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "連邦規則集",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "CDRH Freedom of Information (FOI) Reference Sheet",
+            "mt": "CDRH Freedom of Information(FOI)リファレンスシート",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 5,
+                    "end": 27,
+                    "text": "Freedom of Information",
+                    "type": 3,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

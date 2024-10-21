@@ -1,0 +1,1006 @@
+{
+    "046.json": [
+        {
+            "src": "Posted January 27th, 2020 for DAT Solutions",
+            "mt": "DAT Solutions、2020年1月27日掲載",
+            "MQM_score": 0
+        },
+        {
+            "src": "Peggy Dorf on January 27, 2020 3:26 pm",
+            "mt": "2020年1月27日午後3:26ペギー・ドルフ",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 23,
+                    "text": "ペギー・ドルフ",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "It's officially the slow season for truckload freight. January is coming to an end, and it already feels like the February slump has kicked in. Luckily, things should start to pick up again in mid-March, so it will be a short winter for truckers.",
+            "mt": "これは正式にはトラック貨物の閑散期です。1月は終わりに近づいていますが、既に2月の不景気が始まったように感じています。幸いなことに、状況は3月中旬に再び好転するはずなので、トラック運転手にとっては短い冬になります。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "これは",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "正式には",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 58,
+                    "text": "に感じています",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 106,
+                    "text": "なります",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The weather is not expected to be quite as bad this week as it was last week, but that's not saying much. The forecast calls for snow in the Mountain States, plus Kansas and parts of Missouri. Later in the week, expect big rainstorms stretching from Texas up to Tulsa, and east from there to the Carolinas and Florida. At least the driving conditions might be okay in the Upper Midwest, for once. The Southwest also looks good.",
+            "mt": "今週は先週ほどひどい天気になるとは予想されていませんが、大したことはありません。予報では、山岳州、カンザス州、ミズーリ州の一部で雪が降ると予想されています。今週後半には、テキサスからタルサまで、そしてそこからカロライナズとフロリダ州まで、大きな暴風雨が降ると予想されています。アメリカ合衆国北中西部では、少なくとも一度は運転条件は大丈夫かもしれません。南西部もいいようです。",
+            "MQM_score": 28,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 158,
+                    "end": 162,
+                    "text": "plus",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 273,
+                    "end": 277,
+                    "text": "east",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "天気",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 39,
+                    "text": "大したことはありません",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 60,
+                    "text": "カンザス州、ミズーリ州",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 94,
+                    "text": "テキサスからタルサ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 116,
+                    "text": "カロライナズとフロリダ州",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 119,
+                    "end": 122,
+                    "text": "大きな",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 128,
+                    "text": "降る",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 138,
+                    "end": 145,
+                    "text": "アメリカ合衆国",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 157,
+                    "end": 160,
+                    "text": "一度は",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 180,
+                    "end": 182,
+                    "text": "いい",
+                    "type": 13,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Find loads and trucks in any season, on DAT load boards. DAT hosts the biggest and best truckload freight marketplace, where you can network with other transportation pros and grow your business.",
+            "mt": "DATロードボードを使用して、季節を問わず貨物やトラックを検索できます。DATは、最大かつ最高のトラックロード貨物市場をホストしています。この市場では、他の輸送専門家とネットワークを構築してビジネスを拡大できます。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 83,
+                    "text": "輸送専門家",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Hot Market Maps depict the outbound load-to-truck ratios from 135 market areas and thousands of 3-digit zip code zones, by the hour, day, week, or month. Load-to-truck ratio trends are a leading indicator of changes in rate trends, so look for Hot Market Maps in DAT RateView and the DAT Power load board.",
+            "mt": "Hot Market Mapsは、135のRateViewおよび数千の3桁の郵便番号区からのアウトバウンドのロード/トラック比率を時間別、日別、週別または月別に示しています。ロード/トラック比率のトレンドは、レート・トレンドの変化を示す主要な指標であるため、DAT地域およびDATパワー・ロード・ボードのHot Market Mapsを参照してください。",
+            "MQM_score": 43,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 66,
+                    "end": 78,
+                    "text": "market areas",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 267,
+                    "end": 275,
+                    "text": "RateView",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 29,
+                    "text": "RateView",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 64,
+                    "text": "ロード/トラック比率",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 87,
+                    "end": 97,
+                    "text": "ロード/トラック比率",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 102,
+                    "text": "トレンド",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 112,
+                    "text": "レート・トレンド",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 132,
+                    "end": 134,
+                    "text": "地域",
+                    "type": 4,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 137,
+                    "end": 143,
+                    "text": "DATパワー",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 143,
+                    "end": 144,
+                    "text": "・",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 151,
+                    "text": "ロード・ボード",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Van rates declined last week, but volumes held steady. Truckers should be able to find loads, but it may be a bit tougher to get paid as much as last month on the same lanes.",
+            "mt": "バンレートは先週下落したが、トラック運転手らは貨物を見つけることができるはずだが、同じレーンで先月ほどの支払いを受けるのは少し難しいかもしれない。",
+            "MQM_score": 23,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 30,
+                    "end": 54,
+                    "text": "but volumes held steady.",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 5,
+                    "text": "バンレート",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 12,
+                    "text": "した",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 38,
+                    "end": 39,
+                    "text": "だ",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 46,
+                    "text": "レーン",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 59,
+                    "text": "支払いを受ける",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 72,
+                    "text": "しれない",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Rates rise on a handful of high-traffic lanes",
+            "mt": "一部の高速道路で料金が上昇する",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 7,
+                    "text": "高速道路",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "料金",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 15,
+                    "text": "上昇する",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Last week there were only a few lanes with rising rates, and most of those lanes didn't pay all that well to begin with. Plus, rates declined for most of the return legs, so there was no improvement in the roundtrip.",
+            "mt": "先週、金利が上昇したレーンはわずかしかなく、それらのレーンのほとんどはそもそも十分な支払いをしていなかった。さらに、リターン・レグのほとんどで金利が低下したので、ラウンドトリップでは改善が見られなかった。",
+            "MQM_score": 37,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 5,
+                    "text": "金利",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 13,
+                    "text": "レーン",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 29,
+                    "text": "レーン",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 49,
+                    "text": "十分な支払いをしてい",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 53,
+                    "text": "なかった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 58,
+                    "end": 65,
+                    "text": "リターン・レグ",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 73,
+                    "text": "金利",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 81,
+                    "end": 89,
+                    "text": "ラウンドトリップ",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 101,
+                    "text": "なかった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Denver to Houston jumped 10¢ to $1.34 last week, but it already lost traction by Monday, and there aren't a lot of loads. Houston to Denver lost 9¢ to $1.92.",
+            "mt": "デンバー対ヒューストンは先週10セント高の1.34ドルだったが、月曜日にはすでにトラクションを失っており、多くの荷重はない。ヒューストン対デンバーは9セント高の1.92ドルだった。",
+            "MQM_score": 25,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "デンバー対ヒューストン",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 21,
+                    "text": "高の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 30,
+                    "text": "だった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 40,
+                    "end": 52,
+                    "text": "トラクションを失っており",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 56,
+                    "end": 58,
+                    "text": "荷重",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 61,
+                    "text": "ない",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 73,
+                    "text": "ヒューストン対デンバー",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 80,
+                    "text": "高の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 89,
+                    "text": "だった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Salt Lake City to Stockton, CA was up 6¢ to $1.63 per mile, and Stockton to Salt Lake held steady at $2.40.",
+            "mt": "Salt Lake City to Stockton(カリフォルニア州)は6セント高の1マイル当たり1.63ドル、Stockton to Salt Lakeは2.40ドルで安定していた。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 26,
+                    "text": "Salt Lake City to Stockton",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 36,
+                    "text": "(カリフォルニア州)",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 43,
+                    "text": "高の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 57,
+                    "end": 78,
+                    "text": "Stockton to Salt Lake",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 90,
+                    "end": 92,
+                    "text": "いた",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Buffalo to Columbus gained 3¢ to $2.00 even, while Columbus to Buffalo dropped 4¢ to $3.15.",
+            "mt": "バッファロー対コロンブスは3セント高の2.00ドル、コロンブス対バッファローは4セント安の3.15ドルだった。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "バッファロー対コロンブス",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 19,
+                    "text": "高の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 38,
+                    "text": "コロンブス対バッファロー",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 45,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 54,
+                    "text": "だった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Memphis to Charlotte added 2¢ to $2.03, and Charlotte to Memphis lost 3¢ to $1.51. Not great, but not awful.",
+            "mt": "MemphisはCharlotteに2セントを追加して2.03ドルになり、CharlotteはMemphisに3セントを追加して1.51ドルになった。大したことではないが、ひどいことではない。",
+            "MQM_score": 19,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "MemphisはCharlotteに",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 22,
+                    "end": 27,
+                    "text": "を追加して",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 37,
+                    "end": 55,
+                    "text": "CharlotteはMemphisに",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 64,
+                    "text": "を追加して",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 71,
+                    "end": 74,
+                    "text": "なった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 75,
+                    "end": 93,
+                    "text": "大したことではないが、ひどいことでは",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 95,
+                    "text": "ない",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Seattle to Spokane added another 3¢ to reach $3.32 and Spokane to Seattle held at $2.87 per loaded mile.",
+            "mt": "シアトルからスポケーンまではさらに3セントを追加して3.32ドル、スポケーンからシアトルまでは1ロードマイル当たり2.87ドルとなった。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "シアトルからスポケーン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 26,
+                    "text": "を追加して",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 33,
+                    "end": 44,
+                    "text": "スポケーンからシアトル",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 57,
+                    "text": "1ロードマイル当たり",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 67,
+                    "text": "となった",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Van rates slip lower everywhere else",
+            "mt": "バン・レートは他の地域では下落する",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "バン・レート",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 13,
+                    "text": "他の地域では",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 17,
+                    "text": "下落する",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Pretty much all the other lane rates declined in our Top 100. Here are a few of the highlights – or rather, the lowlights.",
+            "mt": "われわれのトップ100では、他のレーン料金はほとんどすべて下がった。ここではいくつかのハイライトを紹介する。",
+            "MQM_score": 8,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 95,
+                    "end": 121,
+                    "text": "– or rather, the lowlights",
+                    "type": 16,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 21,
+                    "text": "レーン料金",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 33,
+                    "text": "下がった",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 53,
+                    "text": "する",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Phoenix to Los Angeles dropped 10¢ to $1.23 and L.A. to Phoenix fell 8¢ to $2.61.",
+            "mt": "フェニックス対ロサンゼルスは10セント安の1.23ドル、ロサンゼルス対フェニックスは8セント安の2.61ドルだった。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "フェニックス対ロサンゼルス",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 21,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 41,
+                    "text": "ロサンゼルス対フェニックス",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 46,
+                    "end": 48,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 57,
+                    "text": "だった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Columbus to Atlanta rates plummeted 17¢ to $2.11, and the return trip from Atlanta to Columbus paid $1.44, down 2¢.",
+            "mt": "コロンブス-アトランタ間の運賃は17セント安の2.11ドル、アトランタ-コロンブス間の往復運賃は2セント安の1.44ドルだった。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 13,
+                    "text": "コロンブス-アトランタ間の",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 21,
+                    "end": 23,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 30,
+                    "end": 41,
+                    "text": "アトランタ-コロンブス",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 47,
+                    "text": "間の往復運賃",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 54,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 60,
+                    "end": 63,
+                    "text": "だった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Dallas to Houston lost 9¢ to $2.12, and Houston to Dallas fell 3¢ to $1.97 per loaded mile.",
+            "mt": "ダラス対ヒューストンは9セント安の2.12ドル、ヒューストン対ダラスは3セント安の1.97ドルだった。",
+            "MQM_score": 13,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "ダラス対ヒューストン",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 17,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 34,
+                    "text": "ヒューストン対ダラス",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 39,
+                    "end": 41,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 50,
+                    "text": "だった",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Chicago to Allentown, PA plunged 16¢ to $2.52 per mile, and Allentown to Chicago paid $1.31, which hasn't changed much recently.",
+            "mt": "PAは16セント安の1マイル当たり2.52ドル、アレンタウンは1.31ドルで、最近はあまり変わっていない。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 21,
+                    "text": "Chicago to Allentown,",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "src",
+                    "start": 70,
+                    "end": 80,
+                    "text": "to Chicago",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "PA",
+                    "type": 11,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 8,
+                    "end": 10,
+                    "text": "安の",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 30,
+                    "text": "アレンタウン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 52,
+                    "text": "いない",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

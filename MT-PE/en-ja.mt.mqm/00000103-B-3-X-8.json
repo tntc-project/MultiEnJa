@@ -1,0 +1,358 @@
+{
+    "103.json": [
+        {
+            "src": "Bioo Scientific Releases MaxSignal® Colistin ELISA Test Kit for the Rapid Quantitation of Colistin in Meat",
+            "mt": "Bioo Scientificが肉中のコリスチンを迅速に定量するためのMaxSignal®Colitis ELISA Test Kitを発売",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Bioo Scientific",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Posted January 19th, 2015 for Bioo Scientific",
+            "mt": "Bioo Scientific2015年1月19日掲載",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Bioo Scientific",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Bioo Scientific's MaxSignal Colistin ELISA Test Kit helps prevent the abuse of colistin, a last-line antibiotic, as an agricultural drug. The MaxSignal Colistin ELISA Test Kit is the only commercially available ELISA optimized for the screening of Colistin in meat samples including poultry, beef and pork.",
+            "mt": "Bioo Scientific社のMaxSignal Colistin ELISA Test Kitは、最後の抗生物質であるコリスチンの農薬としての乱用を防ぐのに役立ちます。MaxSignal Colistin ELISA Test Kitは、家禽、牛肉、豚肉などの肉サンプル中のコリスチンのスクリーニングに最適化された唯一の市販のELISAです。",
+            "MQM_score": 6,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 96,
+                    "end": 100,
+                    "text": "line",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 124,
+                    "text": "家禽",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Austin, TX, USA., January 19, 2015",
+            "mt": "2015年1月19日、米国テキサス州オースティン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 24,
+                    "text": "テキサス州オースティン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "(PressReleasePoint)",
+            "mt": "(PressReleasePoint)",
+            "MQM_score": 0
+        },
+        {
+            "src": "Bioo Scientific's MaxSignal® Colistin ELISA Test Kit is the only commercially available ELISA optimized for the screening of Colistin in meat samples including poultry, beef and pork. This kit combines a unique and proprietary colistin extraction method along with stable standards to deliver dependable, accurate, rapid, cost effective and easy colistin analysis.",
+            "mt": "Bioo Scientific社のMaxSignal®Colitis ELISA Test Kitは、家禽、牛肉、豚肉などの肉サンプル中のコリスチンのスクリーニングに最適化された唯一の市販ELISAである。このキットは、独自の独自のコリスチン抽出法と安定した標準を組み合わせて、信頼性が高く、正確で、迅速で、費用対効果が高く、簡単なコリスチン分析を提供する。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 53,
+                    "text": "家禽",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 102,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 176,
+                    "end": 178,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Colistin is used by physicians as a drug of last resort to treat Gram-negative superbug infections. It is also used in agriculture against infectious diseases in rabbits, pigs, cattle, sheep and goats, contributing to the development of antibiotic-resistant bacterial strains. Recently the European Center for Disease Prevention and Control (ECDC) observed that resistance to colistin was found in 5 percent of Klebsiella pneumoniae isolates for the EU, making the use of tests such as the MaxSignal Colistin ELISA Test Kit critical to ensure that colistin does not enter the food stream, helping prevent the development of additional colistin-resistant strains of bacteria.",
+            "mt": "コリスチンは、グラム陰性菌の重複感染を治療する最後の手段として医師に使用され、また、ウサギ、ブタ、ウシ、ヒツジ、ヤギの感染症に対する農業にも使用され、抗生物質耐性菌株の発生に寄与している。最近、ヨーロッパ疾病予防管理センター(ECDC)は、コリスチンに対する耐性がEUの肺炎桿菌分離株の5%に見出されたことを観察し、コリスチンが食物ストリームに入らないことを確実にするためにMaxSignalコリスチンELISAテストキットのようなテストを使用し、細菌のさらなるコリスチン耐性株の発生を防ぐのを助けた。",
+            "MQM_score": 7,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 66,
+                    "text": "対する",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 68,
+                    "end": 70,
+                    "text": "にも",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 91,
+                    "end": 93,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 164,
+                    "end": 171,
+                    "text": "食物ストリーム",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 179,
+                    "end": 181,
+                    "text": "確実",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 187,
+                    "end": 212,
+                    "text": "MaxSignalコリスチンELISAテストキット",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 247,
+                    "end": 250,
+                    "text": "助けた",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The MaxSignal Colistin ELISA Test Kit is the latest addition to Bioo Scientific's line of ELISA and strip tests for the detection of antibiotics, hormones and other veterinary drugs in food and feed samples. This kit is manufactured to the international quality standard ISO 9001:2008 (ISO CI#: SARA-2009-CA-0114-A).",
+            "mt": "MaxSignal Colistin ELISA Test Kitは、Bioo Scientific社の一連のELISAおよびストリップテストに追加された最新のキットであり、食物および飼料サンプル中の抗菌薬、ホルモンおよび他の動物用医薬品を検出する。このキットは国際品質規格ISO9001:2008(ISO CI#: SARA-2009-CA-0114-A)に準拠して製造されている。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 100,
+                    "end": 103,
+                    "text": "抗菌薬",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 124,
+                    "text": "する",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 189,
+                    "end": 191,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "About Bioo Scientific",
+            "mt": "Bioo Scientificについて",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Bioo Scientific",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "As a world leader in food safety testing, Bioo Scientific is dedicated to improving the safety of the world's food and feed supply by developing accurate, affordable tools which allow companies to readily screen for microbial and industrial contaminants, natural toxins, hormones, antibiotics and other residues.",
+            "mt": "Bioo Scientificは食品安全性試験の世界的リーダーとして、微生物や工業汚染物質、天然の毒素、ホルモン、抗生物質、その他の残留物を企業が容易にスクリーニングできるようにする正確で手頃なツールを開発することで、世界の食品や飼料供給の安全性を向上させることに取り組んでいる。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Bioo Scientific",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 137,
+                    "end": 139,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Bioo Scientific has been awarded numerous Small Business Innovation Research (SBIR) grants that support innovative product development activities from agencies such as the National Institutes of Health (NIH), the United States Department of Agriculture (USDA), Food and Drug Administration (FDA), the National Science Foundation (NSF), and Department of Defense (DOD). The company has also been awarded the Tech Innovation Award and the Greater Austin Business Export Award highlighting its international business activities. Bioo Scientific food safety test kits are being used around the globe in agricultural settings, as well as by governmental testing agencies, to provide the high level of assurance that consumers need for their raw and processed food products.",
+            "mt": "Bioo Scientificは、National Institutes of Health(NIH)、United States Department of Agriculture(USDA)、Food and Drug Administration(FDA)、National Science Foundation(NSF)、およびDepartment of Defense(DOD)などの機関から、革新的な製品開発活動を支援するSmall Business Innovation Research(SBIR)の数多くの助成金を受けています。また、Tech Innovation AwardおよびGreater Austin Business Export Awardも受賞しており、国際的なビジネス活動が強調されています。Bioo Scientific食品安全性試験キットは、消費者が生および加工食品製品を必要とする高いレベルの保証を提供するために、政府試験機関だけでなく、世界中の農業環境で使用されています。",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 15,
+                    "text": "Bioo Scientific",
+                    "type": 2,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 364,
+                    "end": 379,
+                    "text": "Bioo Scientific",
+                    "type": 2,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Press Contact:",
+            "mt": "プレス・コンタクト:",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "プレス・コンタクト",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Dawn Obermoeller",
+            "mt": "ドーンObermoeller",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 3,
+                    "text": "ドーン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "7050 Burleson Rd Austin, TX 78744",
+            "mt": "7050Burleson Rd Austin、TX78744",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 30,
+                    "text": "7050Burleson Rd Austin、TX78744",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "512-707-8993",
+            "mt": "512 - 707 8993",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 14,
+                    "text": "512 - 707 8993",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "*****@**o**c**n**f**.com",
+            "mt": "*****@**o**c**n**f**.com(英語表記)",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 24,
+                    "end": 30,
+                    "text": "(英語表記)",
+                    "type": 4,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "www.biooscientific.com",
+            "mt": "www.biooscientific.com",
+            "MQM_score": 0
+        },
+        {
+            "src": "Contact Dawn Obermoeller",
+            "mt": "コンタクト・ドーン・Obermoeller",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "コンタクト・ドーン・",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

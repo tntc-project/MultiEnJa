@@ -1,0 +1,478 @@
+{
+    "032.json": [
+        {
+            "src": "Online Technical Writing: Complaint Letter made available by David McMurrey",
+            "mt": "Online Technical Writing:Complaint LetterをDavid Canadaから入手可能McMurrey",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 25,
+                    "text": "Online Technical Writing:",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 25,
+                    "end": 68,
+                    "text": "Complaint LetterをDavid Canadaから入手可能McMurrey",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "1313 Horse Trail Rd. Buda, Texas 78610",
+            "mt": "1313Horse Trail Rd.Texas,Texas78610(ブダ)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 39,
+                    "text": "Texas,Texas78610(ブダ)",
+                    "type": 1,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "6 June, 1996",
+            "mt": "1996年6月6日",
+            "MQM_score": 0
+        },
+        {
+            "src": "Customer Relations/Claims Company",
+            "mt": "カスタマー・リレーションズ/請求会社",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 26,
+                    "end": 33,
+                    "text": "Company",
+                    "type": 16,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 16,
+                    "text": "カスタマー・リレーションズ/請求",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 16,
+                    "end": 18,
+                    "text": "会社",
+                    "type": 16,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "John Duke Manufacturing Company",
+            "mt": "ジョン・デューク製造会社",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 12,
+                    "text": "ジョン・デューク製造会社",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "1104 Sutton Drive Suite #112 Cairo, MI 45006",
+            "mt": "1104Sutton Drive Suite#112カイロ、MI45006",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 26,
+                    "end": 30,
+                    "text": "カイロ、",
+                    "type": 1,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Dear Representative:",
+            "mt": "担当者様",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 3,
+                    "end": 4,
+                    "text": "様",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "I am writing in regards to a Digital Multimeter (DMM) that I recentlypurchased by mail-order from your company. Because the DMM only functions partially, I am requesting repairs, another DMM with comparable features, or a refund equal to the purchase price + C.O.D. charges, and shipping and handling.",
+            "mt": "貴社からの通信販売でrecentlypurchasedをしているデジタルマルチメーター(DMM)について書いています。DMMは部分的にしか機能しないので、修理、同等の機能を持つ別のDMM、または購入価格+C.O.D.料金、送料、手数料の返金をお願いします。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 10,
+                    "end": 32,
+                    "text": "recentlypurchasedをしている",
+                    "type": 16,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 43,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 48,
+                    "end": 48,
+                    "text": "",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 52,
+                    "end": 58,
+                    "text": "書いています",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 62,
+                    "end": 63,
+                    "text": "は",
+                    "type": 9,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 110,
+                    "text": "C.O.D.料金",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 111,
+                    "end": 117,
+                    "text": "送料、手数料",
+                    "type": 6,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "I purchased the meter for $250.00 by calling the 1-800 number listed in an advertisement. My phone order occurred on August 20th. The meter was delivered on August 23rd via UPX C.O.D. The total purchase price was $282.50. The following items were included with the DMM: one set of meter leads, one power supplycord, and one black nylon-fiber carrying case.",
+            "mt": "私は広告で1-800のnumberlistedに電話して250.00ドルでメーターを購入しました。私の電話注文は8月20日に行われました。メーターは8月23日にUPX C.O.D.経由で配達されました。合計購入価格は282.50ドルでした。DMMとwereincludedの次のアイテム:メーターリード1セット、パワーsupplycord1、黒いナイロン繊維のキャリングケース1。",
+            "MQM_score": 24,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 23,
+                    "text": "広告で1-800のnumberlisted",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 80,
+                    "end": 92,
+                    "text": "UPX C.O.D.経由",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 124,
+                    "end": 143,
+                    "text": "wereincludedの次のアイテム",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 143,
+                    "end": 144,
+                    "text": ":",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 156,
+                    "end": 169,
+                    "text": "パワーsupplycord",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 169,
+                    "end": 170,
+                    "text": "1",
+                    "type": 15,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 180,
+                    "text": "ナイロン繊維の",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 188,
+                    "end": 189,
+                    "text": "1",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The DMM (Duke Model 8012A) will not register an accurate voltage or current reading. The other features function exactly as intended, and the fuse that protects the AC circuitry is in good operating condition. However, when a regulated AC voltage or current is applied to the meter leads, the only reading displayed is a low negative value. This is true whether the function switch is set to measure either AC voltage or current.",
+            "mt": "DM M(Duke Mod el8012A)では、正確なvoltageor電流値が登録されません。他の機能は意図したとおりに機能し、AC回路を保護するヒューズは良好な動作状態にあります。ただし、調整されたAC電圧または電流がメーターのリード線に印加された場合、表示される値は低い負の値のみです。これは、ファンクションスイッチがAC電圧または電流のいずれを測定するように設定されている場合でも同様です。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 3,
+                    "text": " ",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 37,
+                    "text": "voltageor",
+                    "type": 3,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 43,
+                    "text": "登録",
+                    "type": 6,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 135,
+                    "end": 136,
+                    "text": "値",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "When I received the DMM, I inspected the packaging in which the meter was shipped, and there was no evidence of damage. Styrofoam inserts were used to protect the meter from any shock during the shipping process. Because I saw no loose componentsupon inspection of the primary fuse, I am led to believe the problem somehow occurred during manufacture. No doubt, there is a temporary malfunction that can easily be fixed.",
+            "mt": "DM Mを受け取った時に、メーターが出荷されたパッケージを検査しましたが、破損の形跡はありませんでした。輸送中の衝撃からメーターを保護するために発泡スチロールのインサートが使用されていました。一次ヒューズのcomponentsupon検査がゆるんでいなかったので、製造中に何らかの問題が発生したと思われます。間違いなく、簡単に修理できる一時的な不具合があります。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 3,
+                    "text": " ",
+                    "type": 4,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 13,
+                    "end": 28,
+                    "text": "メーターが出荷されたパッケージ",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 31,
+                    "text": "検査",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 96,
+                    "end": 129,
+                    "text": "一次ヒューズのcomponentsupon検査がゆるんでいなかった",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Your prompt attention and response would be greatly appreciated as I intend to use the meter in conjunction with my job.",
+            "mt": "私の仕事と連動してメーターを使うつもりなので、迅速な対応をお願いします。",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 9,
+                    "text": "と連動して",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Sincerely, Terry Ward",
+            "mt": "敬具テリー・ウォード",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 10,
+                    "text": "テリー・ウォード",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Enclosed:",
+            "mt": "同封:",
+            "MQM_score": 2,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "同封",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 2,
+                    "end": 3,
+                    "text": ":",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "1 Duke 8012A DMM, Lot #3308-WIC4",
+            "mt": "1Duke8012A DMM、ロット#3308-WIC4",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 18,
+                    "text": "ロット",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "1 Set of Meter Leads",
+            "mt": "1組のメーターリード",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "1組のメーターリード",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "1 Power Supply Cord",
+            "mt": "1電源コード",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 6,
+                    "text": "1電源コード",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "1 Black Nylon-fiber carrying case",
+            "mt": "1黒色ナイロン繊維製キャリングケース",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 18,
+                    "text": "1黒色ナイロン繊維製キャリングケース",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "1 Purchase Receipt",
+            "mt": "1購入レシート",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 7,
+                    "text": "1購入レシート",
+                    "type": 15,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Original Packaging",
+            "mt": "オリジナルパッケージ",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 10,
+                    "text": "オリジナルパッケージ",
+                    "type": 10,
+                    "severity": "Minor"
+                }
+            ]
+        }
+    ]
+}

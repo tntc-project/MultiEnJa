@@ -1,0 +1,537 @@
+{
+    "027.json": [
+        {
+            "src": "Morrison Property Dismissed From Lawsuit",
+            "mt": "モリソンの財産を訴え棄却",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 4,
+                    "text": "モリソン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 4,
+                    "end": 7,
+                    "text": "の財産",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 7,
+                    "end": 10,
+                    "text": "を訴え",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Posted June 13th, 2007 for Pacific Booker Minerals",
+            "mt": "PacificブッカーMinerals誌2007年6月13日号掲載",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 20,
+                    "text": "PacificブッカーMinerals誌",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 20,
+                    "end": 31,
+                    "text": "2007年6月13日号",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Vancouver, BC, June 13, 2007:",
+            "mt": "ブリティッシュコロンビア州バンクーバー、2007年6月13日:",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 19,
+                    "text": "ブリティッシュコロンビア州バンクーバー",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The company wishes to announce that the application by the optionors of the Hearne Hill property to include the company's Morrison property as part of their claim has been dismissed by the Supreme Court of British Columbia.",
+            "mt": "同社は、Hearne Hillの土地のoptionorsによる、同社のMorrisonの土地を原告らの主張の一部として含める申請が、ブリティッシュコロンビア州最高裁で却下されたことを発表したいと考えている。",
+            "MQM_score": 42.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "同社",
+                    "type": 10,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 18,
+                    "text": "の土地",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 28,
+                    "text": "optionors",
+                    "type": 3,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 31,
+                    "end": 32,
+                    "text": "、",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 34,
+                    "text": "同社",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 43,
+                    "end": 46,
+                    "text": "の土地",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 47,
+                    "end": 50,
+                    "text": "原告ら",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 53,
+                    "text": "主張",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 66,
+                    "end": 79,
+                    "text": "ブリティッシュコロンビア州",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 85,
+                    "text": "却下",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 102,
+                    "text": "したいと考えている",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The company is vigorously defending the lawsuit respecting the Hearne Hill property and is proceeding to have the matter set for trial at the earliest opportunity.",
+            "mt": "同社はHearne Hillの資産に関する訴訟を精力的に弁護しており、この件についてはできるだけ早い機会に裁判にかけられるよう手続きを進めている。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "同社",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 14,
+                    "end": 17,
+                    "text": "の資産",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 61,
+                    "text": "裁判にかけられる",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 70,
+                    "end": 72,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The company continues to proceed with development of the Morrison property including the completion of a feasibility study.",
+            "mt": "同社は、フィージビリティスタディの完了を含め、モリソン不動産の開発を引き続き進めている。",
+            "MQM_score": 12,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 2,
+                    "text": "同社",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 27,
+                    "text": "モリソン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 27,
+                    "end": 30,
+                    "text": "不動産",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 43,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The Hearne Hill property was previously explored by the company from May of 1993 until October of 1997 and 142 holes were drilled totaling 33,493 meters, however, it was determined that the Hearne Hill deposit was uneconomic.",
+            "mt": "Hearne Hillの敷地は、1993年5月から1997年10月まで同社によって以前に調査され、合計33493メートルの142の穴が掘削されたが、Hearne Hill堆積物は非経済的であると決定された。",
+            "MQM_score": 25,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 14,
+                    "text": "の敷地",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 35,
+                    "end": 37,
+                    "text": "同社",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 41,
+                    "end": 44,
+                    "text": "以前に",
+                    "type": 13,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 44,
+                    "end": 46,
+                    "text": "調査",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 49,
+                    "end": 66,
+                    "text": "合計33493メートルの142の穴",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 69,
+                    "end": 72,
+                    "text": "された",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 85,
+                    "end": 88,
+                    "text": "堆積物",
+                    "type": 1,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 97,
+                    "end": 99,
+                    "text": "決定",
+                    "type": 13,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 99,
+                    "end": 102,
+                    "text": "された",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "On behalf of the Board of Directors",
+            "mt": "取締役会を代表して",
+            "MQM_score": 0
+        },
+        {
+            "src": "Greg Anderson",
+            "mt": "グレッグ・アンダーソン",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 11,
+                    "text": "グレッグ・アンダーソン",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Director and President",
+            "mt": "取締役社長",
+            "MQM_score": 0
+        },
+        {
+            "src": "No regulatory authority has approved or disapproved the information contained in this news release. This release includes certain statements that may be deemed \"forward-looking statements\". All statements in this release, other than statements of historical facts, that address future production, reserve potential, exploration drilling, exploitation activities and events or developments that the Company expects are forward-looking statements. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, statements are not guarantees of future performance and actual results or developments may differ materially from the forward-looking statements. Factors that could cause actual results to differ materially from those in forward-looking statements include market prices, exploration successes, continued availability of capital and financing, general economic, market or business conditions. Investors are cautioned that any such statements are not guarantees of future performance and that actual results or developments may differ materially from those projected in the forward-looking statements.",
+            "mt": "本プレスリリースに記載されている情報について、規制当局が承認または否認している場合があります。本プレスリリースには、「将来予想に関する記述」と見なされる可能性のある記述が含まれています。過去の事実の記述を除き、将来の生産、埋蔵量、試掘、採掘活動事象または開発に関する記述はすべて将来予想に関する記述です。将来予想に関する記述に記載されている期待は合理的な前提に基づいていると考えられますが、将来の業績に関する記述ではなく、実際の結果や開発は将来予想に関する記述と実質的に異なる可能性があります。実際の結果が将来予想に関する記述と実質的に異なる可能性のある要因には、市場価格、探査の成功、資本と資金の継続的な利用可能性、一般的な経済、市場または事業の状況などがあります。投資家の皆様には、これらの記述が将来の業績に関する記述ではなく、実際の結果や開発は将来予想に関する記述と実質的に異なる可能性があることをご承知おきください。",
+            "MQM_score": 56,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 305,
+                    "end": 314,
+                    "text": "potential",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 362,
+                    "end": 365,
+                    "text": "and",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 389,
+                    "end": 413,
+                    "text": "that the Company expects",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 455,
+                    "end": 466,
+                    "text": "the Company",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 506,
+                    "end": 510,
+                    "text": "such",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 575,
+                    "end": 585,
+                    "text": "statements",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 46,
+                    "text": "本プレスリリースに記載されている情報について、規制当局が承認または否認している場合があります",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 187,
+                    "end": 193,
+                    "text": "考えられます",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 204,
+                    "end": 206,
+                    "text": "記述",
+                    "type": 6,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 217,
+                    "end": 219,
+                    "text": "開発",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 316,
+                    "end": 326,
+                    "text": "市場または事業の状況",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 359,
+                    "end": 361,
+                    "text": "記述",
+                    "type": 6,
+                    "severity": "Critical"
+                }
+            ]
+        },
+        {
+            "src": "Cautionary Note to U.S. Investors",
+            "mt": "米国投資家への注意事項",
+            "MQM_score": 0
+        },
+        {
+            "src": "The United States Securities and Exchange Commission permits U.S. mining companies, in their filings with the SEC, to disclose only those mineral deposits that a company can economically and legally extract or produce. We use certain terms on this website (or press release), such as \"measured,'' \"indicated,\" and \"inferred\" \"resources,\" that the SEC guidelines strictly prohibit U.S. registered companies from including in their filings with the SEC. U.S. Investors are urged to consider closely the disclosure in our Form 20- F, File No. 0-51453, which may be secured from us, or from the SEC's website at http://www.sec.gov/edgar.shtml",
+            "mt": "米国証券取引委員会は、米国の鉱業会社に対して、SECへの提出書類において、経済的かつ法的に採掘または生産が可能な鉱床のみを開示することを許可しています。SECのガイドラインでは、米国の登録企業がSECへの提出書類に含めることを厳密に禁止している、「測定された」、「示された」、「推測された」、「資源」などの特定の用語をこのWebサイト(またはプレスリリース)で使用しています。米国投資家は、当社またはSECのWebサイト(http://www.sec.gov/edgar.shtml)から保護されるForm20-F、ファイル番号0-51453の開示内容を詳細に検討する必要があります。",
+            "MQM_score": 36.1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 9,
+                    "text": "米国証券取引委員会",
+                    "type": 1,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 86,
+                    "end": 89,
+                    "text": "では、",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 96,
+                    "end": 97,
+                    "text": "が",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 122,
+                    "end": 123,
+                    "text": "、",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 159,
+                    "end": 180,
+                    "text": "このWebサイト(またはプレスリリース)で",
+                    "type": 10,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 188,
+                    "end": 193,
+                    "text": "米国投資家",
+                    "type": 11,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 244,
+                    "end": 249,
+                    "text": "保護される",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 258,
+                    "end": 264,
+                    "text": "ファイル番号",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 284,
+                    "end": 291,
+                    "text": "必要があります",
+                    "type": 11,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,605 @@
+{
+    "189.json": [
+        {
+            "src": "EPRI, Utilities, Auto Manufacturers to Create an Open Grid Integration Platform for Plug-in Electric Vehicles",
+            "mt": "EPRI、電力会社、自動車メーカーがプラグイン電気自動車向けのオープングリッド統合プラットフォームを開発",
+            "MQM_score": 0
+        },
+        {
+            "src": "Posted July 29th, 2014 for Electric Power Research Institute",
+            "mt": "電力研究所2014年7月29日投稿",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 15,
+                    "end": 17,
+                    "text": "投稿",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "PALO ALTO, Calif.",
+            "mt": "カリフォルニア州パロアルト",
+            "MQM_score": 0
+        },
+        {
+            "src": "(July 29, 2014)",
+            "mt": "(2014年7月29日生)",
+            "MQM_score": 5,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 11,
+                    "end": 12,
+                    "text": "生",
+                    "type": 4,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "The Electric Power Research Institute, 8 automakers and 15 utilities are working to develop and demonstrate an open platform that would integrate plug-in electric vehicles (PEV) with smart grid technologies enabling utilities to support PEV charging regardless of location.",
+            "mt": "電力研究所、自動車メーカー8社、電力会社15社は、プラグイン電気自動車(PEV)とスマートグリッド技術を統合し、電力会社が場所に関係なくPEV充電をサポートできるようにするオープンプラットフォームの開発と実証に取り組んでいる。",
+            "MQM_score": 1,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 110,
+                    "end": 112,
+                    "text": "いる",
+                    "type": 11,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The platform will allow manufacturers to offer a customer-friendly interface through which PEV drivers can more easily participate in utility PEV programs, such as rates for off-peak or nighttime charging. The portal for the system would be a utility's communications system and an electric vehicle's telematics system.",
+            "mt": "このプラットフォームにより、メーカーは、PEVドライバがオフピーク時や夜間充電の料金などのユーティリティPEVプログラムに容易に参加できる、顧客に優しいインターフェースを提供できるようになる。システムのポータルは、ユーティリティの通信システムと電気自動車のテレマティクスシステムである。",
+            "MQM_score": 18,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 23,
+                    "end": 27,
+                    "text": "ドライバ",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 28,
+                    "end": 42,
+                    "text": "オフピーク時や夜間充電の料金",
+                    "type": 9,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 45,
+                    "end": 52,
+                    "text": "ユーティリティ",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 93,
+                    "end": 95,
+                    "text": "なる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 107,
+                    "end": 114,
+                    "text": "ユーティリティ",
+                    "type": 2,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 139,
+                    "end": 142,
+                    "text": "である",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "As the electric grid evolves with smarter functionality, electric vehicles can serve as a distributed energy resource to support grid reliability, stability and efficiency. With more than 225,000 plug-in vehicles on U.S. roads -- and their numbers growing -- they are likely to play a significant role in electricity demand side management.",
+            "mt": "電力網がよりスマートな機能性で進化するにつれて、電気自動車は電力網の信頼性、安定性、効率性を支える分散型エネルギー資源としての役割を果たすことができる。米国の道路では225000台以上のプラグイン自動車が走行しており、その数は増加している。これらは電力需要側の管理に重要な役割を果たす可能性が高い。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 72,
+                    "end": 75,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 83,
+                    "end": 89,
+                    "text": "225000",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 116,
+                    "end": 120,
+                    "text": "ている。",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 146,
+                    "end": 148,
+                    "text": "高い",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "The platform enables integration across multiple communication pathways, such as automated metering infrastructure (AMI), home area networks, building energy management systems, and third party entities that aggregate energy management services for commercial and industrial power customers.",
+            "mt": "このプラットフォームにより、AMI(Automated Metering Infrastructure)、ホーム・エリア・ネットワーク、ビルのエネルギー管理システム、商用および産業用電力顧客向けのエネルギー管理サービスを集約するサード・パーティ・エンティティなど、複数の通信経路にわたる統合が可能になります。",
+            "MQM_score": 3.1,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 81,
+                    "end": 114,
+                    "text": "automated metering infrastructure",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 17,
+                    "end": 51,
+                    "text": "(Automated Metering Infrastructure",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 53,
+                    "end": 67,
+                    "text": "ホーム・エリア・ネットワーク",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 114,
+                    "end": 129,
+                    "text": "サード・パーティ・エンティティ",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Researchers anticipate that grid operators in the future may call on electric vehicles to contribute to grid reliability by balancing solar and wind generation, mitigating demand charges and providing ancillary services such as frequency regulation and voltage support.",
+            "mt": "研究者らは、将来の電力事業者が、太陽光発電と風力発電のバランスをとり、需要料金を軽減し、周波数調整や電圧サポートなどの補助的なサービスを提供することで、電力系統の信頼性に貢献することを電気自動車に求めるかもしれないと予測している。",
+            "MQM_score": 3,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 14,
+                    "text": "電力事業者",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 76,
+                    "end": 80,
+                    "text": "電力系統",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 112,
+                    "end": 114,
+                    "text": "いる",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Utilities and regional transmission organizations participating and supporting in the software and hardware development and demonstration include DTE Energy Company, Duke Energy, PJM Interconnection LLC, CenterPoint Energy, Inc., Southern Company, Northeast Utilities, Southern California Edison, Pacific Gas & Electric Company, San Diego Gas & Electric, Commonwealth Edison, TVA, Manitoba Hydro, Austin Energy, Con Edison and CPS Energy.",
+            "mt": "ソフトウェアおよびハードウェアの開発とデモンストレーションに参加および支援している電力会社および地域の送送電機関には、DTEエネルギー、デューク・エナジー、PJM Interconnection LLC、CenterPoint Energy,Inc.、サザン、ノースウェスト・ユーティリティーズ、Southern California Edison、Pacific Gas&Electric、サンディエゴ・ガス・アンド・エレクトリック、Commonwealth Edison、TVA、マニトバ水力、Austin Energy、Con Edison、CPSエナジーがあります。",
+            "MQM_score": 15,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 19,
+                    "end": 29,
+                    "text": "デモンストレーション",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 51,
+                    "end": 56,
+                    "text": "送送電機関",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 67,
+                    "text": "DTEエネルギー",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 78,
+                    "end": 101,
+                    "text": "PJM Interconnection LLC",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 125,
+                    "text": "CenterPoint Energy,Inc.",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 126,
+                    "end": 129,
+                    "text": "サザン",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 148,
+                    "end": 174,
+                    "text": "Southern California Edison",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 175,
+                    "end": 195,
+                    "text": "Pacific Gas&Electric",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 218,
+                    "end": 237,
+                    "text": "Commonwealth Edison",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 249,
+                    "end": 262,
+                    "text": "Austin Energy",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 263,
+                    "end": 273,
+                    "text": "Con Edison",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Auto manufacturers are American Honda Motor Co., BMW Group, Chrysler Group LLC, Ford Motor Company, General Motors Co., Mercedes-Benz Research & Development North America, Inc., Mitsubishi Motors Corporation, and Toyota Motor Engineering & Manufacturing North America, Inc.",
+            "mt": "自動車メーカーは、アメリカン・ホンダ・モーター、BMWグループ、クライスラー・グループ、フォード・モーター、ゼネラル・モーターズ、メルセデス・ベンツ・リサーチ・アンド・ディベロップメント・ノースアメリカ、三菱自動車、トヨタモーターエンジニアリングアンドマニファクチャリングノースアメリカがある。",
+            "MQM_score": 1.4000000000000001,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 9,
+                    "end": 23,
+                    "text": "アメリカン・ホンダ・モーター",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 54,
+                    "end": 64,
+                    "text": "ゼネラル・モーターズ",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 65,
+                    "end": 101,
+                    "text": "メルセデス・ベンツ・リサーチ・アンド・ディベロップメント・ノースアメリカ",
+                    "type": 7,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 102,
+                    "end": 107,
+                    "text": "三菱自動車",
+                    "type": 11,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 108,
+                    "end": 143,
+                    "text": "トヨタモーターエンジニアリングアンドマニファクチャリングノースアメリカ",
+                    "type": 7,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "\"A key aspect of the platform's benefits will be giving customers flexibility and choices,\" said Dan Bowermaster, EPRI manager of Electric Transportation. \"It can help the PEV customer determine the value of using their parked vehicle as a grid resource, and help the industry develop a convenient, user-friendly customer interface. We see this as the foundation for future developments to integrate PEVs with the grid.\"",
+            "mt": "Electric TransportationのEPRIマネージャであるDan Bowermaster氏は、次のように述べている。「このプラットフォームの利点の重要な側面は、顧客に柔軟性と選択肢を提供することだ。PEVの顧客が駐車車両をグリッド資源として利用することの価値を判断するのを助け、業界が便利で使いやすい顧客インターフェースを開発するのを助けることができる。これは、PEVをグリッドに統合する将来の開発の基礎となるとわれわれは考える」",
+            "MQM_score": 14,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 90,
+                    "end": 91,
+                    "text": "\"",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 92,
+                    "end": 153,
+                    "text": "said Dan Bowermaster, EPRI manager of Electric Transportation",
+                    "type": 5,
+                    "severity": "Major"
+                },
+                {
+                    "side": "src",
+                    "start": 155,
+                    "end": 156,
+                    "text": "\"",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 156,
+                    "end": 158,
+                    "text": "It",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "src",
+                    "start": 418,
+                    "end": 419,
+                    "text": ".",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 0,
+                    "end": 65,
+                    "text": "Electric TransportationのEPRIマネージャであるDan Bowermaster氏は、次のように述べている。",
+                    "type": 4,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 104,
+                    "end": 105,
+                    "text": "だ",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 180,
+                    "end": 183,
+                    "text": "できる",
+                    "type": 14,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 192,
+                    "end": 196,
+                    "text": "グリッド",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 218,
+                    "end": 221,
+                    "text": "考える",
+                    "type": 14,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "Additionally, it could increase service reliability to customers by helping to mitigate the impact of strain on the grid during peak periods and could contribute to curbing greenhouse gas emissions. Utilities might benefit by better managing their loads and avoiding upgrades to infrastructure --savings that can be passed onto utility customers.",
+            "mt": "さらに、ピーク時に電力網にかかる負荷の影響を緩和することで顧客へのサービスの信頼性を向上させ、温室効果ガスの排出抑制に貢献することができます。電力会社は、負荷をより適切に管理し、インフラストラクチャのアップグレードを回避することでメリットを得ることができます。これにより、電力会社の顧客にコスト削減をもたらすことができます。",
+            "MQM_score": 14,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 68,
+                    "end": 78,
+                    "text": "helping to",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 63,
+                    "end": 70,
+                    "text": "ことができます",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 89,
+                    "end": 99,
+                    "text": "インフラストラクチャ",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 115,
+                    "end": 122,
+                    "text": "メリットを得る",
+                    "type": 12,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 127,
+                    "end": 130,
+                    "text": "ます。",
+                    "type": 10,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 144,
+                    "end": 149,
+                    "text": "コスト削減",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "Sumitomo Electric will develop the core platform technology on the first phase of the project.",
+            "mt": "プロジェクトの第一段階で中核的なプラットフォーム技術を開発する。",
+            "MQM_score": 10,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 0,
+                    "end": 17,
+                    "text": "Sumitomo Electric",
+                    "type": 5,
+                    "severity": "Critical"
+                },
+                {
+                    "side": "mt",
+                    "start": 29,
+                    "end": 31,
+                    "text": "する",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        },
+        {
+            "src": "This software platform aligns with the Vehicle Grid Integration (VGI) Roadmap Initiative of the California Public Utilities Commission and the California Independent System Operator, as well as conforming with standards set by IEEE, IEC/ISO, and SAE, and Open ADR Alliance, making it globally applicable.",
+            "mt": "このソフトウェアプラットフォームは、California Public Utilities CommissionおよびCalifornia Independent System OperatorのVehicle Grid Integration(VGI)Roadmap Initiativeに準拠しており、IEEE、IEC/ISO、SAE、およびOpen ADR Allianceによって設定された標準に準拠しているため、グローバルに適用可能です。",
+            "MQM_score": 4,
+            "errors": [
+                {
+                    "side": "mt",
+                    "start": 18,
+                    "end": 56,
+                    "text": "California Public Utilities Commission",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 59,
+                    "end": 97,
+                    "text": "California Independent System Operator",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 98,
+                    "end": 145,
+                    "text": "Vehicle Grid Integration(VGI)Roadmap Initiative",
+                    "type": 1,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 173,
+                    "end": 190,
+                    "text": "Open ADR Alliance",
+                    "type": 1,
+                    "severity": "Minor"
+                }
+            ]
+        },
+        {
+            "src": "About EPRI:",
+            "mt": "EPRIについて:",
+            "MQM_score": 0
+        },
+        {
+            "src": "The Electric Power Research Institute, Inc. (EPRI, www.epri.com) conducts research and development relating to the generation, delivery and use of electricity for the benefit of the public. An independent, nonprofit organization, EPRI brings together its scientists and engineers as well as experts from academia and industry to help address challenges in electricity, including reliability, efficiency, affordability, health, safety and the environment. EPRI's members represent approximately 90 percent of the electricity generated and delivered in the United States, and international participation extends to more than 30 countries. EPRI's principal offices and laboratories are located in Palo Alto, Calif.; Charlotte, NC; Knoxville, Tenn.; and Lenox, Mass.",
+            "mt": "電力研究所(EPRI,www.epri.com)は、電気の発電・送電・利用に関する研究開発を行っています。EPRIは独立した非営利組織であり、科学者や技術者、学界や産業界の専門家が集まり、信頼性、効率性、経済性、健康、安全、環境などの電気に関する課題に取り組んでいます。EPRIのメンバーは、米国で発電・送電される電気の約90%を占め、国際的な参加は30カ国以上に及んでいます。EPRIの主なオフィスと研究所は、カリフォルニア州パロアルト、ノースカロライナ州シャーロット、テネシー州ノックスビル、マサチューセッツ州レノックスにあります。",
+            "MQM_score": 11,
+            "errors": [
+                {
+                    "side": "src",
+                    "start": 329,
+                    "end": 333,
+                    "text": "help",
+                    "type": 5,
+                    "severity": "Minor"
+                },
+                {
+                    "side": "mt",
+                    "start": 32,
+                    "end": 34,
+                    "text": "送電",
+                    "type": 6,
+                    "severity": "Major"
+                },
+                {
+                    "side": "mt",
+                    "start": 152,
+                    "end": 154,
+                    "text": "送電",
+                    "type": 6,
+                    "severity": "Major"
+                }
+            ]
+        }
+    ]
+}
