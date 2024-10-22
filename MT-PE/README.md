@@ -30,10 +30,10 @@ Additional data for training and evaluating machine translation quality estimati
     * Another set of workers from PE were asked to annotate problematic spans within MT output and label each span with issue type and severity.
         * [The issue typology](fujita-issue-typology-ja.pdf) is configured slightly from Table 2 in Freitag et al. (2021) with a prioritization of Terminology issues as in Fujita et al. (2017).
         * All the identified issues were annotated (cf. five most severe issues were selected in Freitag et al. (2021)).
-        * Neither PE nor human translation was reffered to.
+        * Neither PE nor human translation was referred to.
     * Paragraph-level MQM scores were computed based on the annotated issues as Table 4 in Freitag et al. (2021).
-        * "Critical" issues were weighted samely as "Major" issues.
-        * Due to the lengthy paragraph-level segments and unlimited number of issues being involved, and the score is sometimes very large.
+        * "Critical" issues were weighted equivalently to "Major" issues.
+        * Due to the lengthy paragraph-level segments and unlimited number of issues being involved, the score is sometimes very large.
 
 ## References
 
